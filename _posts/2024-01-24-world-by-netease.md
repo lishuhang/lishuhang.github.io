@@ -42,25 +42,25 @@ hidden: false
 
 这是直角肘： 
 
-![](https://lishuhang.me/img/2024/01/0124-02.png)
+![](https://lishuhang.me/img/2024/01/0124-02.jpg)
 
 这是经典的AI不会写字：
 
-![](https://lishuhang.me/img/2024/01/0124-03.png)
+![](https://lishuhang.me/img/2024/01/0124-03.jpg)
 
 这是和地面融为一体的桌椅：
 
-![](https://lishuhang.me/img/2024/01/0124-04.png)
+![](https://lishuhang.me/img/2024/01/0124-04.jpg)
 
 这是水乳交融的手指们：
 
-![](https://lishuhang.me/img/2024/01/0124-05.png)
+![](https://lishuhang.me/img/2024/01/0124-05.jpg)
 
 与此同时，《世界之外》的配音也让人高度疑似是AI合成——这点的证据就更为简单，因为游戏配音中可以读出玩家的名字。
 
-![](https://lishuhang.me/img/2024/01/0124-06.png)
+![](https://lishuhang.me/img/2024/01/0124-06.jpg)
 
-![](https://lishuhang.me/img/2024/01/0124-07.png)
+![](https://lishuhang.me/img/2024/01/0124-07.jpg)
 
 有些随便给自己起了个用户名的玩家，在知道这一点之后后悔莫及。
 
@@ -132,7 +132,7 @@ Steam对于AI生成游戏资产，原本是采取全程禁止的态度，这显�
 
 这不得不让人想起阿里旗下连续开发的两个爆款AI应用，也就是妙鸭相机和全民舞王。这两款AI应用都吸引了大量对技术不敏感，但是传播力非常强的用户群。只需要让他们感受，并且维持这种神奇的感觉，那么引发“自来水”，冲上热搜就完全不是问题。
 
-![](https://lishuhang.me/img/2024/01/0124-08.png)
+![](https://lishuhang.me/img/2024/01/0124-08.jpg)
 
 总而言之，AI生成游戏资产不能一概被污名化为“糊弄事儿”，如果目的是要实现更个性化，和更丰富的游戏体验，以及更快速的资产迭代，相信会逐步被玩家认可。
 
