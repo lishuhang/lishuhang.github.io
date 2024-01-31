@@ -8,7 +8,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /beta
 url: "https://lishuhang.me/beta" # the base hostname & protocol for your site
 include: ["_pages"]
-permalink: /:title/
+permalink: /:year/:month/:day/:title:/
 twitter_username: lishuhang
 github_username: lishuhang
 email: i@lishuhang.me
