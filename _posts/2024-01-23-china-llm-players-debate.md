@@ -2,7 +2,7 @@
 layout: post
 title:  李彦宏VS王小川，傅盛VS朱啸虎……国内大模型大佬论战，谁赢了？
 author: james
-categories: [ Blog ]
+categories: [ article ]
 image: "https://lishuhang.me/img/2024/01/0123-00.png"
 featured: true
 hidden: false
