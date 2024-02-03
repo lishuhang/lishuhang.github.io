@@ -26,7 +26,7 @@ post_class: post-template
                 <div class="row post-top-meta">
                     <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                         {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                        <img class="author-thumb" src="{{ site.url }}{{ site.baseurl }}/{{ author.avatar }}" alt="{{ author.display_name }}">
                         {% else %}
                         <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                         {% endif %}
@@ -53,9 +53,9 @@ post_class: post-template
             {% if page.image %}
 
             {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
 
             {% endif %}
@@ -69,7 +69,7 @@ post_class: post-template
                         <p><em>{{page.beforetoc}}</em></p>
                     {% endif %}
                     <div class="toc mt-4 mb-4 lead">
-                        <h3 class="font-weight-bold">Summary</h3>
+                        <h3 class="font-weight-bold">摘要</h3>
                         {% include toc.html html=content %}
                     </div>
                 {% endif %}
@@ -80,7 +80,7 @@ post_class: post-template
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+                <strong class="mr-1">评分：</strong> {% include star_rating.html %}
             </div>
             {% endif %}
 
@@ -89,7 +89,7 @@ post_class: post-template
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                (更新于：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
             </p>
@@ -100,7 +100,7 @@ post_class: post-template
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll" href="{{ site.url }}{{ site.baseurl }}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -113,7 +113,7 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
