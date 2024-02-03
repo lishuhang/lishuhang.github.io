@@ -5,7 +5,7 @@ permalink: /about
 comments: true
 ---
 
-![航通社 logo](C:\Users\James\Documents\GitHub\lishuhang.github.io\logo.svg)
+![航通社 logo](/img/2023/live-logo.jpg)
 
 > 航通社——你应该知道的历史、现在和未来
 

@@ -5,8 +5,8 @@ description: "你应该知道的历史、现在和未来"
 logo: 'assets/images/logo.png'
 fulllogo: 'assets/images/log.png'
 favicon: 'assets/images/logo.png'
-baseurl: /beta
-url: "https://lishuhang.me/beta" # the base hostname & protocol for your site
+baseurl: /
+url: "https://lishuhang.me/" # the base hostname & protocol for your site
 include: ["_pages"]
 permalink: /:year/:month/:day/:title/
 twitter_username: lishuhang
@@ -35,7 +35,7 @@ jekyll-archives:
     
 # Pagination 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
     
 # Other
 markdown: kramdown
