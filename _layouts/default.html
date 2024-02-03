@@ -192,6 +192,18 @@ ga('send', 'pageview');
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/lazyload.js"></script>
+<!-- when lazy load, weserv is down, fallback -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var images = document.querySelectorAll('img[data-src]');
+    images.forEach(function(img) {
+        img.onerror = function() {
+            this.src = this.getAttribute('data-src').replace('https://wsrv.nl/?url=', '');
+        };
+        img.src = img.getAttribute('data-src');
+    });
+});
+</script>
 {% endif %}
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 

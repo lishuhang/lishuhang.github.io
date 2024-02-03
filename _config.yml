@@ -55,6 +55,9 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
 
+# Using weserv.nl to Accelerate Images (true or false; only available when Lazy Images is enabled)
+image_accelerator: true
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 # Authors
