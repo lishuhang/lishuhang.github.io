@@ -3,7 +3,7 @@ layout: post
 title:  Zoom：一只缺钙的纸老虎
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/04/0416-01.jpg"
+image: "/img/2020/04/0416-01.jpg"
 featured: true
 hidden: false
 ---
@@ -26,7 +26,7 @@ hidden: false
 
 此后进入 4 月，在 2 日和 7 日 Zoom 股价遭遇两次小波谷，最低回落到 113.75 美元。但此后它又重新涨回来，4 月 15 日股价 151.56 美元，重新接近了历史高位。
 
-![](https://lishuhang.me/img/2020/04/0416-02.jpg)
+![](/img/2020/04/0416-02.jpg)
 
 Zoom 创始人、CEO 袁征在 4 月 1 日发文说，产品日活用户从去年 12 月的 1000 万人激增到 3 月份的 2 亿人。
 
@@ -42,13 +42,13 @@ Zoom 在疫情期间能快速得到普及，很大程度上归功于它简单到
 
 最先出现的问题是“Zoom 炸弹”（zoombombings）。由于 Zoom 的默认设置都是以方便用户无需学习就加入会议为目的，所以这就让很多会议被无关人士擅闯、偷听或者捣乱——接管屏幕共享、散发色情资料，等等。
 
-![](https://lishuhang.me/img/2020/04/0416-03.jpg)
+![](/img/2020/04/0416-03.jpg)
 
 要避免陌生人参会，应该禁用“在主持人进场之前允许参会者入场”，设置主持人之外的管理员，禁用“文件传输”以避免捣乱者传播带毒文件，禁用“允许被移除的用户再度加入”。但 Zoom 的默认设置是极简的，这些选项都是默认关闭的，它因此遭受批评。
 
 4 月 1 日，美国联邦调查局（FBI）警告用户更改默认设置，以防止“Zoom 炸弹”。此前一天，英国首相约翰逊贴出的社交媒体照片，[公开了他网上召集内阁会议的 Zoom 房间号](https://metro.co.uk/2020/03/31/boris-johnson-sparks-security-concerns-revealing-zoom-id-cabinet-meeting-12489236/)：539-544-323，引发全民猜密码的狂欢。（Zoom 此后修改默认设置，隐藏了标题栏上的房间号。）
 
-![](https://lishuhang.me/img/2020/04/0416-04.jpg)
+![](/img/2020/04/0416-04.jpg)
 
 ### ② 为图方便，默认选项隐含多重漏洞
 
@@ -108,7 +108,7 @@ Zoom 保持盈利的“秘诀”之一，就是相比对手而言超低的研发
 
 4 月 1 日，[Motherboard 报道的问题](https://www.vice.com/en_us/article/k7e95m/Zoom-leaking-email-addresses-photos)令人啼笑皆非：Zoom 将几千个使用小众免费电子邮箱服务的人视为“同事”，因为它只记录了 Gmail、Outlook、雅虎等耳熟能详的大型邮箱服务。荷兰有不少人用 xs4all.nl、dds.nl 和 quicknet.nl 后缀的免费邮箱，就被 Zoom 当作是公司邮箱了。于是，这些陌生人被列入同一个“公司通讯录”，可以查阅彼此邮箱地址和发起呼叫。
 
-![](https://lishuhang.me/img/2020/04/0416-05.jpg)
+![](/img/2020/04/0416-05.jpg)
 
 你可以从这个例子里面，再清晰不过地看到 Zoom 省下来的安全、隐私、功能改进的费用，到底应该花在什么地方。这就是在安全上花一点点钱和一大笔钱的区别。
 
@@ -128,7 +128,7 @@ Zoom 公司在 4 月 2 日宣布暂停功能更新 90 天，专注于应对隐�
 
 微软 Teams 就是典型案例。像 [The Verge 曾质疑](https://www.theverge.com/2020/3/31/21200844/microsoft-skype-zoom-houseparty-coronavirus-pandemic-usage-growth-competition)，为什么微软有消费端的 Skype、商用端的 Skype for Business 和 Teams，却“打烂了一手好牌”，任由 Zoom 抢尽风头。
 
-![](https://lishuhang.me/img/2020/04/0416-06.jpg)
+![](/img/2020/04/0416-06.jpg)
 
 该文认为，微软对 Teams 等视频通话产品近乎采取粗放经营的方式，产品线没有整合，用户对 Skype for Business 和 Teams 之间有什么区别都搞不清楚。而 Skype 原本使用的 P2P 协议，确实适合低带宽下保持通话流畅，但却影响了非电脑的移动终端使用，微软不得不在近期抛弃这些遗产，对其完全重构。
 
@@ -136,7 +136,7 @@ Zoom 公司在 4 月 2 日宣布暂停功能更新 90 天，专注于应对隐�
 
 微软 Teams 随着 Office 365 / Microsoft 365 分发到了世界各地的企业用户，虽然它也是一个付费服务，但已经购买了 Office 的企业可以不用感知到这笔开销。
 
-![](https://lishuhang.me/img/2020/04/0416-07.jpg)
+![](/img/2020/04/0416-07.jpg)
 
 航通社在上周专访了负责 Microsoft 365 的微软全球副总裁施洋（Jared Spataro）。他的回答表明，微软并未真正担心过 Zoom 的兴起。
 
@@ -158,7 +158,7 @@ Zoom 之所以受欢迎，因为它易于使用，连接质量可靠。但 Zoom 
 
 很多支招的吃瓜群众都说让 Zoom 做平台，但变成另一个 slack 并没有太大必要——特别是当你只是“赶鸭子上架”，为求生而做平台的时候。企业和员工[看中的是 Zoom 专注的高连接率](https://twitter.com/sriramk/status/1237524067629977600)，而不是别的。
 
-![](https://lishuhang.me/img/2020/04/0416-08.jpg)
+![](/img/2020/04/0416-08.jpg)
 
 Zoom 让其它带有视频会议功能的 SaaS 产品或通用聊天软件相形见绌的，是它引以为傲的低延时，[所有通话延时都被缩减在 150 毫秒以内](https://www.protocol.com/Zoom-videoconferencing-history-profit)，这是公司的承诺。它们一切的技术优化都是为了确保这样的目标。
 
@@ -192,7 +192,7 @@ Telegram 协议是开源的，但这让基础协议无法进一步更新，跟�
 
 一部分由于美国本土版本被封锁，Zoom 在中国的很多业务以“技术支持”的方式展开。第一财经报道了一款名为“瞩目”的国产线上会议软件与Zoom存在技术合作，其应用界面和 Zoom 如出一辙。
 
-![](https://lishuhang.me/img/2020/04/0416-09.jpg)
+![](/img/2020/04/0416-09.jpg)
 
 如果真的迫于压力开源，那么 Zoom 会转变为像 Canonical（负责维护 Ubuntu Linux）一样的开源服务商，主要盈利模式改为向企业提供服务和技术支持。
 

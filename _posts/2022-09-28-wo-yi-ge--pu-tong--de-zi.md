@@ -3,7 +3,7 @@ layout: post
 title:  我，一个「普通」的自由职业者
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/09/0928-00.png"
+image: "/img/2022/09/0928-00.png"
 featured: true
 hidden: false
 ---

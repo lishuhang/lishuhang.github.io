@@ -3,7 +3,7 @@ layout: post
 title:  写在「文心一言」发布前夕
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2023/03/0315-00.jpg"
+image: "/img/2023/03/0315-00.jpg"
 featured: true
 hidden: false
 ---

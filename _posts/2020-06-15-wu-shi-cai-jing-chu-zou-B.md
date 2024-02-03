@@ -3,7 +3,7 @@ layout: post
 title:  巫师财经出走 B 站：钱是不是万能的？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/06/0615-1.jpg"
+image: "/img/2020/06/0615-1.jpg"
 featured: true
 hidden: false
 ---

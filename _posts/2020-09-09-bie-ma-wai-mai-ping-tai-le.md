@@ -3,7 +3,7 @@ layout: post
 title:  别骂外卖平台了
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/09/0909-00.jpg"
+image: "/img/2020/09/0909-00.jpg"
 featured: true
 hidden: false
 ---

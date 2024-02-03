@@ -3,7 +3,7 @@ layout: post
 title:  ChatGPT 创始人的个性和经历将如何影响它的未来？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2023/02/0201-00.jpg"
+image: "/img/2023/02/0201-00.jpg"
 featured: true
 hidden: false
 ---

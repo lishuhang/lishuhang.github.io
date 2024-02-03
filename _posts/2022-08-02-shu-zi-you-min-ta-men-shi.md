@@ -3,7 +3,7 @@ layout: post
 title:  数字游民：他们是谁，又怎样改变了我们的工作和城镇
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/08/0802-00.jpg"
+image: "/img/2022/08/0802-00.jpg"
 featured: true
 hidden: false
 ---
@@ -42,7 +42,7 @@ hidden: false
 
 知道了这个背景，我们再来看一下 [MBO Partners 发布的 2021 年数字游民报告](https://www.mbopartners.com/state-of-independence/2021-digital-nomads-research-brief/)，它在国内介绍数字游民的文章里经常被引用——或者说根本就绕不过去。
 
-![MBO Partners 发布的 2021 年数字游民报告。](https://lishuhang.me/img/2022/08/0802-01.png)
+![MBO Partners 发布的 2021 年数字游民报告。](/img/2022/08/0802-01.png)
 
 该报告称，将⾃⼰描述为数字游⺠的美国工人数量，2019-2021 年分别为 730 万人、1090 万人、1550 万人，按年环比增长都超过 40%。
 
@@ -66,7 +66,7 @@ hidden: false
 
 1997 年，日立公司半导体及集成电路部经理牧本次雄（Tsugio Makimoto）和英国《电子周刊》编辑大卫·梅乐斯（David Manners）合著的[《游牧上班族》（Digital Nomad）出版](https://www.shmj.or.jp/makimoto/pdf/makimoto_05_01.pdf)。这本书的书名即为现在「数字游民」一词的来源。不过这本书并没有马上获得广泛的关注，因为该书从半导体技术的进化出发，多少带了点推销母公司技术的意味。
 
-![《游牧上班族》（Digital Nomad）初版书影。](https://lishuhang.me/img/2022/08/0802-02.png)
+![《游牧上班族》（Digital Nomad）初版书影。](/img/2022/08/0802-02.png)
 
 尽管如此，这本书依然准确预测了电脑与通信技术的整合，及其对未来生活方式的重塑。作者指出，随着技术的发展，人们将首次从地理和距离的局限中获得解脱，从为了生存而必须定居在一地的痛苦中松绑，从长期压制下得到自由。这带给人们前所未有的选择机会，释放出无与伦比的潜能。
 

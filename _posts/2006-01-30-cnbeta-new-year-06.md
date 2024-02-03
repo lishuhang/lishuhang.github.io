@@ -3,7 +3,7 @@ layout: post
 title:  cnBeta 2006 春节献辞
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2006/01/0130-00.jpg"
+image: "/img/2006/01/0130-00.jpg"
 featured: true
 hidden: false
 ---

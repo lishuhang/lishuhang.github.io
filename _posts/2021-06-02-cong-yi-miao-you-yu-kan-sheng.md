@@ -3,7 +3,7 @@ layout: post
 title:  从“疫苗犹豫”看“生娃犹豫”
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2021/06/0602-00.jpg"
+image: "/img/2021/06/0602-00.jpg"
 featured: true
 hidden: false
 ---

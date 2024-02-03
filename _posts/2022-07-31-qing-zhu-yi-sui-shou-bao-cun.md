@@ -3,7 +3,7 @@ layout: post
 title:  请注意随手保存你看到的网页
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/07/0731-00.jpg"
+image: "/img/2022/07/0731-00.jpg"
 featured: true
 hidden: false
 ---
@@ -24,11 +24,11 @@ hidden: false
 - 百度百科词条引用的外部链接如有快照的，也无法访问；
 - 直接输入已有的快照地址（以 `cache.baiducontent.com` 开头）打不开。
 
-![](https://lishuhang.me/img/2022/07/0731-01.png)
+![](/img/2022/07/0731-01.png)
 
 同样下线快照的还有搜狗搜索，头条搜索从一开始就没有。必应以国内 IP 访问时，点击快照链接只会看到一条错误提示。
 
-![](https://lishuhang.me/img/2022/07/0731-02.jpg)
+![](/img/2022/07/0731-02.jpg)
 
 
 截至目前 360 搜索尚可使用快照，不过我们可能要做好它也消失掉的心理准备。
@@ -45,7 +45,7 @@ hidden: false
 
 在安装好以后，进入任意页面点右键菜单，可以看到 4 个选项：「现在保存本页」，或者回看「最旧的版本」「最新的版本」以及「所有版本」。这个保存动作完全免费，互联网档案馆会负责爬取和存储的所有成本。
 
-![](https://lishuhang.me/img/2022/07/0731-03.png)
+![](/img/2022/07/0731-03.png)
 
 
 互联网档案馆曾做过的一些事情，包括给维基百科（Wikipedia）引用的页面在其变动或 404 时提供快照；以及[在 Flickr 削减免费存储空间](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650660098&idx=1&sn=8671acda29d71d01cf39281950f8193b&chksm=be96940e89e11d182edadcc0b269a9b040956a68c2cb6e05283ae9d23622207df0edf76366b5&scene=21#wechat_redirect)、Tumblr 下线大量内容、图片社区 500px 被付费图片库收购等关键时刻，备份它们尽可能多的即将消失的内容。

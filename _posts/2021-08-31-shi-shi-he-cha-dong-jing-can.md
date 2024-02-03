@@ -3,7 +3,7 @@ layout: post
 title:  事实核查：东京残奥会中国游泳选手要重赛，到底发生了什么？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2021/08/0831-00.png"
+image: "/img/2021/08/0831-00.png"
 featured: true
 hidden: false
 ---
@@ -42,7 +42,7 @@ hidden: false
 
 让我们通过[新闻片段](https://tv.cctv.com/2021/08/28/VIDE3FQDjZYZTaynpmEtFxsZ210828.shtml)看一下可能出现争议的地方在哪里。这是比赛开始后5.9秒的画面（视频片段第10秒钟），处于第五道的中国选手李桂芝和第六道的布鲁因斯马非常接近：
 
-![](https://lishuhang.me/img/2021/08/0831-01.jpg)
+![](/img/2021/08/0831-01.jpg)
 
 不过因为没有完整比赛录像回放，所以荷兰选手主张的另外两次碰撞难以截图。在国外讨论区对两个选手是否互相干扰也有争议。
 

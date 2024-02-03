@@ -3,7 +3,7 @@ layout: post
 title:  货拉拉女生跳车：致命的“节省”
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2021/03/0305-00.jpg"
+image: "/img/2021/03/0305-00.jpg"
 featured: true
 hidden: false
 ---

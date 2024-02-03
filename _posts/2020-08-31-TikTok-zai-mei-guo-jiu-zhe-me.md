@@ -3,7 +3,7 @@ layout: post
 title:  TikTok 在美国就这么死掉，太可惜
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/08/0831-00.jpg"
+image: "/img/2020/08/0831-00.jpg"
 featured: true
 hidden: false
 ---

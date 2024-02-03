@@ -3,7 +3,7 @@ layout: post
 title:  “窜货”这个词怎么还没有被扫进历史的垃圾堆？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/08/0819-00.jpg"
+image: "/img/2020/08/0819-00.jpg"
 featured: true
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  百善睡为先
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/02/0223-00.png"
+image: "/img/2022/02/0223-00.png"
 featured: true
 hidden: false
 ---

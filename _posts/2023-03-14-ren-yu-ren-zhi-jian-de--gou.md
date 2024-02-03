@@ -3,7 +3,7 @@ layout: post
 title:  人与人之间的「沟」，ChatGPT 填的上吗？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2023/03/0314-00.jpg"
+image: "/img/2023/03/0314-00.jpg"
 featured: true
 hidden: false
 ---

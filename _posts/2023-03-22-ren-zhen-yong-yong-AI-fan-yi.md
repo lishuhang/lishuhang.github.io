@@ -3,7 +3,7 @@ layout: post
 title:  认真用用 AI 翻译，再聊聊今后的人工翻译
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2023/03/0322-00.jpg"
+image: "/img/2023/03/0322-00.jpg"
 featured: true
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  ChatGPT 是一种进阶的、封装好的搜索工具
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2023/02/0201-00.jpg"
+image: "/img/2023/02/0201-00.jpg"
 featured: true
 hidden: false
 ---
@@ -31,9 +31,9 @@ ChatGPT 可以理解为对搜索引擎的增强，所以使用者也需要有一
 
 ChatGPT 并非能完成同类任务的唯一一种 AI 工具，其它基于 AI 并且输出格式是自然语言的工具，其实各家厂商都在做。典型的是微软的 CRM/ERP 产品 Dynamics 365。根据之前在一次微软中国活动上了解的，当人类话务员接入 Dynamics 365 来处理客服电话录音时，它可以分析顾客谈话中的关键节点，将其中提到的关键词格式化以备查询；如果预先录入的话术中有应对同类问题的部分，它会在屏幕上弹出提示，让话务员想到可以用这一部分知识来回答顾客的问题。它还可以分析出顾客某一段会话的语气，提醒话务员采取恰当的方式应对。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)![图片](https://lishuhang.me/img/2023/02/0201-01.jpg)
+![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)![图片](/img/2023/02/0201-01.jpg)
 
-![图片](https://lishuhang.me/img/2023/02/0201-02.jpg)
+![图片](/img/2023/02/0201-02.jpg)
 
 如果熟练使用 ChatGPT，假设岗位数量不变，**每位员工在各自岗位上的劳动强度确实会降低**。可以预见，在企业需要裁员的时候，可以保留更少的人来完成跟以前相同的工作量。不过，**它削减人类劳动力的程度并不能达到 100% 砍掉人类岗位那么「理想」**。
 

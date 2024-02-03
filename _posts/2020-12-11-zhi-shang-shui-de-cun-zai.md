@@ -3,7 +3,7 @@ layout: post
 title:  “智商税”的存在说明了什么？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/12/1211-00.jpg"
+image: "/img/2020/12/1211-00.jpg"
 featured: true
 hidden: false
 ---

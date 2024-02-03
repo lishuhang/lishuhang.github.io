@@ -3,7 +3,7 @@ layout: post
 title:  如何看待谷爱凌？国家-民族视角，或者阶级视角
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/02/0212-00.jpg"
+image: "/img/2022/02/0212-00.jpg"
 featured: true
 hidden: false
 ---

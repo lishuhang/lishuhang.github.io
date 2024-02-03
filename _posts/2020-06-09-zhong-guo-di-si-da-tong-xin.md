@@ -3,7 +3,7 @@ layout: post
 title:  中国第四大通信运营商，来了
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/06/0609.jpg"
+image: "/img/2020/06/0609.jpg"
 featured: true
 hidden: false
 ---

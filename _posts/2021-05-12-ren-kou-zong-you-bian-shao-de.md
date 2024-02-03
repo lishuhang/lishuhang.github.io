@@ -3,7 +3,7 @@ layout: post
 title:  人口总有变少的一天，我们怎么才能不那么“卷”？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2021/05/0512-00.jpg"
+image: "/img/2021/05/0512-00.jpg"
 featured: true
 hidden: false
 ---

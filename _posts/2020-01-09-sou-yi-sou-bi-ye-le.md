@@ -3,7 +3,7 @@ layout: post
 title:  搜一搜毕业了
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2020/01/wechat-search-title.jpg"
+image: "/img/2020/01/wechat-search-title.jpg"
 featured: true
 hidden: false
 ---
@@ -32,19 +32,19 @@ hidden: false
 
 搜一搜的**医疗搜索**，囊括了腾讯医典、腾讯健康，丁香医生、好大夫等第三方服务商，以及提供小程序、公众号的医院官方号。
 
-![img](https://lishuhang.me/img/2020/01/medical-search-examples.jpg)
+![img](/img/2020/01/medical-search-examples.jpg)
 
 搜一搜的结果直接指向这些小程序的内部页面，不需要用户自行寻路。
 
 跟其他几乎任何搜索引擎相比，在微信中入驻的医疗机构数量最多，而其中特别是公立医院，都将在微信内办事作为所谓医疗信息化的重要政绩来办。
 
-![img](https://lishuhang.me/img/2020/01/hospital-mini-programs.jpg)
+![img](/img/2020/01/hospital-mini-programs.jpg)
 
 直接结果就是，你可以用微信直接完成从咨询到支付的最后一步，其中任何步骤都不用跳出微信。做到这种程度，可以说其它想做医疗搜索的都是望尘莫及。
 
 搜一搜的**结果直达**，可以在搜寻某个公众号、品牌、小程序的时候，命中关键字就直接显示最相关的结果，这是搜一搜版本的“手气不错”。
 
-![img](https://lishuhang.me/img/2020/01/direct-result.jpg)
+![img](/img/2020/01/direct-result.jpg)
 
 在具体呈现上，它故意弱化了展示所有搜索结果的途径——你甚至很难意识到直达结果上方的“搜一搜”字样是可以点的。
 
@@ -54,7 +54,7 @@ hidden: false
 
 **搜一搜“圈子”**的前身是曾在部分地域的“微信实验室”灰度测试的“好物圈”功能，此次它在搜一搜首屏安家，确定了它的设计目的是为搜索服务提供更为丰富的内容。
 
-![img](https://lishuhang.me/img/2020/01/wechat-search-circle.jpg)
+![img](/img/2020/01/wechat-search-circle.jpg)
 
 好物圈原本是通过邀请才能进入的，它围绕一个个不同的主题，类似贴吧、豆瓣小组之类的讨论组，可以在里面贴上自己购买的商品，或者分享微博体短图文，供其它用户评论。
 
@@ -82,11 +82,11 @@ hidden: false
 
 最早用一种极客思维试图解决此问题的，在我印象当中是王俊煜他们领导的豌豆荚。[我很久以前去采访过](https://cn.technode.com/post/2014-07-09/wandoujia-in-app-search/)，当时他们正要去做一个“应用内搜索”，就是跟一家一家的应用厂商去谈，将他们在应用内部的搜索功能，开放出来一部分结果给豌豆荚。
 
-![img](https://lishuhang.me/img/2020/01/wandoujia-in-app-search.jpg)
+![img](/img/2020/01/wandoujia-in-app-search.jpg)
 
 他们只有一个版本尝试这样做，但是最终实现的结果，是一种充满了妥协和变通的“委身于人”。
 
-![img](https://lishuhang.me/img/2020/01/wdj-interview.jpg)
+![img](/img/2020/01/wdj-interview.jpg)
 
 如上所述，这种充满了艰辛的努力，最终证明也是不可持续的。
 
@@ -112,11 +112,11 @@ hidden: false
 
 最典型的案例是麦当劳和肯德基的小程序，以及“中国政务服务平台”，不管其中能力多么复杂，在微信、支付宝或其他任何地方都是全功能无删减的。
 
-![img](https://lishuhang.me/img/2020/01/mini-programs-full.jpg)
+![img](/img/2020/01/mini-programs-full.jpg)
 
 而另一些虽然**只搬了一部分的功能到小程序**，但是这一部分功能已经能够满足一部分特定人群的需求，以至于他们无需再下载 App。例如“热门微博”和“知乎热榜”。
 
-![img](https://lishuhang.me/img/2020/01/mini-programs-part.jpg)
+![img](/img/2020/01/mini-programs-part.jpg)
 
 微博和知乎的手机网页版无休止地引导你去下载客户端，而小程序本身不会这样做，况且又能够以某种方式完成大多数基本的浏览，所以满足了很大一部分只是浅层消费的用户需求。
 
@@ -142,7 +142,7 @@ hidden: false
 
 所有这些单独的搜索框，只在唯一一个地方聚首，就是界面首屏会话列表上方的搜索框（Android 版本则为右上角放大镜按钮调出）。
 
-![img](https://lishuhang.me/img/2020/01/universal-top-search-box.jpg)
+![img](/img/2020/01/universal-top-search-box.jpg)
 
 这个全局搜索框尽管现在有了搜一搜直达功能，但依然把朋友圈、聊天记录、联系人等单独的搜索结果分开，并排列在搜一搜的前面。
 
@@ -154,7 +154,7 @@ hidden: false
 
 针对这个需求，微信公众号的发现和探索机制也做了改变。除了在文章正文下方插入“相关文章”和“话题”，将看一看移植到微信 PC 版等等，跟搜索有关的改变，是在每个公众号的详情页，开通了一个全文搜索功能。
 
-![img](https://lishuhang.me/img/2020/01/full-text-search-box.jpg)
+![img](/img/2020/01/full-text-search-box.jpg)
 
 要知道在这个功能开放之前，如果你想要搜索一个公众号的很远的历史文章，你必须通过一个历史消息的汇总页面来搜索。你必须先关注公众号（非关注者只显示 10 篇历史文章），然后必须在手机微信浏览器打开才能完成，因为电脑版显示这个页面有 bug。
 
@@ -172,7 +172,7 @@ hidden: false
 
 微信的短内容一直找不到一个合适的方式加以呈现。最自然的当然是朋友圈，然而朋友圈是微信团队的“禁区”，它在张小龙看来已经“先天不足”，所以更不能让它“后天畸形”，绝对不能被用作内容营销。
 
-![img](https://lishuhang.me/img/2020/01/friend-over-5000.jpg)
+![img](/img/2020/01/friend-over-5000.jpg)
 
 看一看是某种程度上弥补这种缺憾的地方，但还不足够，可能需要一个其他的方式来凭空生成一些短内容，并且维持它的运转。
 
@@ -194,7 +194,7 @@ hidden: false
 
 我们看到，微信 PC 版近期也有了一次更新。这次加入了 PC 版的看一看，也让原本清净的左边栏，越看越像是十多年前的 QQ 和 MSN。
 
-![img](https://lishuhang.me/img/2020/01/wechat-vs-qq-msn.jpg)
+![img](/img/2020/01/wechat-vs-qq-msn.jpg)
 
 比这更重要的是，电脑版运行微信小程序，可以使用微信支付了。
 

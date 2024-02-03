@@ -3,7 +3,7 @@ layout: post
 title:  “我的理想是成为比尔·盖茨”
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2021/05/0514-00.jpg"
+image: "/img/2021/05/0514-00.jpg"
 featured: true
 hidden: false
 ---

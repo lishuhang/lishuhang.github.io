@@ -3,7 +3,7 @@ layout: post
 title:  网络售药意见利好下，传统药企想要「更懂用户」
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/06/0630-00.png"
+image: "/img/2022/06/0630-00.png"
 featured: true
 hidden: false
 ---
@@ -38,7 +38,7 @@ hidden: false
 
 在头部药企为自己规划的「医、药、险、患」四位一体的大健康格局中，「更懂用户」将会是这一切的地基。
 
-![](https://lishuhang.me/img/2022/06/0630-01.png)
+![](/img/2022/06/0630-01.png)
 
 ## 入局支付宝，构建医疗健康服务平台
 

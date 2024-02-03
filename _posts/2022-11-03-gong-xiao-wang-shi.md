@@ -3,7 +3,7 @@ layout: post
 title:  供销往事
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2022/11/1103-00.jpg"
+image: "/img/2022/11/1103-00.jpg"
 featured: true
 hidden: false
 ---

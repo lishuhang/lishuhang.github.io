@@ -3,7 +3,7 @@ layout: post
 title:  七日谈：他们踩了谁的尾巴？
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2007/02/0209-00.jpg"
+image: "/img/2007/02/0209-00.jpg"
 featured: true
 hidden: false
 ---
