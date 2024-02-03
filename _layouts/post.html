@@ -77,6 +77,24 @@ post_class: post-template
                 {{content}}
             </div>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var images = document.querySelectorAll('.article-post img'); // 选择仅在article-post类中的图片
+    images.forEach(function(img) {
+        var src = img.getAttribute('src');
+        if (src && !src.includes('://')) {
+            img.classList.add('lazyimg'); // 添加lazy loading类
+            img.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=';
+            img.setAttribute('data-src', '{{ site.image_accelerator ? "https://wsrv.nl/?url=" : "" }}' + '{{ site.url }}{{ site.baseurl }}' + src);
+            // 添加错误处理以回退到原始图片
+            img.onerror = function() {
+                this.src = src;
+            };
+        }
+    });
+});
+</script>
+
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">
