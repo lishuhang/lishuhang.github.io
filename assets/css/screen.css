@@ -23,13 +23,19 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #347CF8;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #4D8CF8;
     text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 16px;
+    box-shadow: 2px 2px 4px #CCC;
 }
 
 pre {
@@ -293,6 +299,13 @@ span.post-read-more a:hover {
     font-weight: 500;
 }
 
+.navbar-brand img {
+    box-shadow: none;
+    border-radius: none;
+    max-height:60px;
+    line-height:80px;
+}
+
 .mediumnavigation .dropdown-menu {
     border: 1px solid rgba(0, 0, 0, 0.08);
     margin: .5rem 0 0;
@@ -348,7 +361,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #347CF8;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -728,10 +741,6 @@ h6 {
 
 .layout-page .article-post p {
     margin-bottom: 1rem;
-}
-
-img {
-    max-width: 100%;
 }
 
 .bottompagination span.navigation {
