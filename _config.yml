@@ -34,7 +34,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 18
 paginate_path: /page/:num/
     
 # Other
@@ -70,4 +70,4 @@ authors:
     email: i@lishuhang.me
     web: https://lishuhang.me
     twitter: https://twitter.com/lishuhang
-    description: "Author of lishuhang.me."
+    description: "书航，航通社创始人"
