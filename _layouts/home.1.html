@@ -1,0 +1,91 @@
+---
+layout: base
+---
+<div class="flex justify-center py-8">
+  <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline">
+    {{ content }}
+  </article>
+</div>
+
+<div class="md:w-4/5 mx-auto gap-4 columns-2 md:columns-3 mb-10">
+  {% for post in site.posts %}
+  <div class="md:fadeIn pb-4 mb-4 break-inside-avoid-column relative group">
+    <div class="gallery-item">
+      <!-- 修改容器结构 -->
+      <a href="{{ post.url | relative_url }}" 
+         class="square-container block relative overflow-hidden" 
+         target="_blank" 
+         rel="noopener noreferrer">
+        <img src="{{ post.image | relative_url }}" 
+             alt="" 
+             class="square-image w-full h-full object-cover shadow-md">
+        
+        <!-- Overlay 内容 -->
+        <div class="overlay absolute inset-0 bg-black/70 opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-[.active]:opacity-100">
+          <div class="text text-white p-4 flex flex-col h-full justify-center items-center">
+            <h2 class="text-lg md:text-xl lg:text-2xl text-center mb-2">{{ post.title }}</h2>
+            <div class="tags">
+              {% for tag in post.tags limit:3 %}
+              <span class="text-xs text-white/80">#{{ tag }}</span>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+  /* 新增正方形容器样式 */
+  .square-container {
+    position: relative;
+    width: 100%;
+    padding-top: 100%; /* 强制1:1宽高比 */
+  }
+  
+  .square-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .overlay {
+    pointer-events: none;
+  }
+  .tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  /* 移除原有aspect-square相关代码 */
+</style>
+
+<script>
+  // 保持原有移动端触摸处理逻辑
+  document.querySelectorAll('.gallery-item').forEach(item => {
+    let timer;
+    item.addEventListener('click', (e) => {
+      if (window.innerWidth > 768) return;
+      
+      if (!item.classList.contains('active')) {
+        e.preventDefault();
+        item.classList.add('active');
+        timer = setTimeout(() => item.classList.remove('active'), 2000);
+      } else {
+        clearTimeout(timer);
+        window.open(item.querySelector('a').href, '_blank');
+      }
+    });
+    
+    document.addEventListener('click', (e) => {
+      if (!item.contains(e.target)) {
+        item.classList.remove('active');
+      }
+    });
+  });
+</script>

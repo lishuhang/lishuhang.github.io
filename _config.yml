@@ -1,73 +1,34 @@
-# Site
-name: "航通社"
-title: "航通社"
-description: "你应该知道的历史、现在和未来"
-logo: 'assets/images/logo.png'
-fulllogo: 'assets/images/log.png'
-favicon: 'assets/images/logo.png'
-# baseurl: /
-url: "https://lishuhang.me" # the base hostname & protocol for your site
-include: ["_pages"]
-permalink: /:year/:month/:day/:title/
-twitter_username: lishuhang
-github_username: lishuhang
+domain: lishuhang.me
+url: https://lishuhang.me/
+baseurl: "/"
+
+title: 航通社
 email: i@lishuhang.me
-google_analytics: 'UA-17809464-1'
-disqus: 'lishuhang'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+author: Shuhang Li
 
+lang: zh
 
-# Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 18
-paginate_path: /page/:num/
-    
-# Other
-markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+collections:
+  posts:
+    permalink: /posts/:year/:month/:day/:title/
+    output: true
 
-# Using weserv.nl to Accelerate Images (true or false; only available when Lazy Images is enabled)
-image_accelerator: true
+color: "#347df8"
+disqus:
+  shortname: lishuhang
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-# Authors
-authors:
-  james:
-    name: James Li
-    display_name: James
-    avatar: 'assets/images/logo.png'
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: i@lishuhang.me
-    web: https://lishuhang.me
-    twitter: https://twitter.com/lishuhang
-    description: "书航，航通社创始人"
+rrss:
+  email: "mailto:i@lishuhang.me"
+  telegram: "https://t.me/lishuhang"
+  facebook: "https://facebook.com/lishuhang"
+  instagram: "https://instagram.com/lishuhang"
+  twitter: "https://x.com/lishuhang"
+  discord: ""
+  linkedin: "https://www.linkedin.com/in/lishuhang/"
+  whatsapp: ""
+  pinterest: ""

@@ -1,24 +1,9 @@
 ---
-layout: default
+layout: base
 ---
 
-
-<section>
-    <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
-    </div>
-
-    <div class="article-post">
-    {{content}}
-    </div>
-
-    {% if page.comments == true %}
-
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">
-            {% include disqus.html %}
-        </div>
-    </div>
-
-    {% endif %}
-</section>
+<div class="flex justify-center py-4 md:py-8">
+  <article class="text-center prose md:prose-lg prose-p:font-extralight prose-headings:font-light prose-slate dark:prose-invert">
+  {{ content }}
+  </article>
+</div>
