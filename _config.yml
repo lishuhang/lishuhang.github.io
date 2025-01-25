@@ -1,17 +1,23 @@
-domain: lishuhang.me
-url: https://lishuhang.me/
-baseurl: "/"
 
-title: 航通社
+# Site
+name: "航通社"
+title: "航通社"
+description: "你应该知道的历史、现在和未来"
+# baseurl: /
+url: "https://lishuhang.me" # the base hostname & protocol for your site
+domain: lishuhang.me
 email: i@lishuhang.me
-author: Shuhang Li
+
+google_analytics: 'UA-17809464-1'
 
 lang: zh
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
-
-
+  - jekyll-archives
 
 collections:
   posts:
@@ -19,6 +25,7 @@ collections:
     output: true
 
 color: "#347df8"
+
 disqus:
   shortname: lishuhang
 
@@ -32,3 +39,14 @@ rrss:
   linkedin: "https://www.linkedin.com/in/lishuhang/"
   whatsapp: ""
   pinterest: ""
+
+authors:
+  james:
+    name: James Li
+    display_name: James
+    avatar: ''
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: i@lishuhang.me
+    web: https://lishuhang.me
+    twitter: https://twitter.com/lishuhang
+    description: "书航，航通社创始人"
