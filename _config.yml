@@ -24,6 +24,9 @@ collections:
 
 color: "#347df8"
 
+# 缩略图服务开关 wsrv.nl
+thumbnail_service: true  # 设置为 false 禁用缩略图服务
+
 disqus:
   shortname: lishuhang
 
