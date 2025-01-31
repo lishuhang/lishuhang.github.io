@@ -3,8 +3,15 @@
 {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 {%- assign current_page_url = page.url | relative_url -%}
 
+<!-- 修改前
 <nav class="py-4">
   <div class="container mx-auto flex justify-between items-center">
+-->
+
+<nav class="py-4 fixed top-0 z-50 inset-x-0 bg-white/90 dark:bg-slate-800/90 backdrop-blur-md shadow-md">
+  <div class="container mx-auto flex justify-between items-center w-full">
+    <!-- 原有logo和导航内容保持不变... -->
+
     <h5 class="text-xl md:text-2xl font-semibold"><a href="{{ '/' | relative_url }}"><img src="/assets/logo_top.svg" class="max-w-[50px] h-auto" alt="{{ site.title }}" />
 </a></h5>
 
