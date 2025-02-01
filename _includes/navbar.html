@@ -9,7 +9,7 @@
 
 -->
 
-<nav class="w-full z-1000 py-4 fixed bg-white dark:bg-slate-800 shadow-md" style="left:0;">
+<nav class="w-full py-4 fixed bg-white dark:bg-slate-800 shadow-md" style="left:0; z-index:100;">
   <div class="container mx-auto flex px-4">
     <!-- logo保持不变 -->
 
@@ -23,7 +23,7 @@
       {%- assign my_page = site.pages | where: "path", path | first -%}
       {%- if my_page.title and my_page.hide_in_nav != true -%}
       <a class="hover:scale-105 duration-300 page-link {% if my_page.url == current_page_url %}font-bold{% endif %}"
-        href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        href="{{ my_page.url | relative_url }}" style="padding-left: 1em;">{{ my_page.title | escape }}</a>
       {%- endif -%}
       {%- endfor -%}
       {%- endif -%}
@@ -117,6 +117,8 @@
   </div>
 
 </nav>
+
+<span style="height:70px; position:relative; display:block;"></span>
 
 <script>
   const mobileMenuButton = document.getElementById('mobile-menu-button');
