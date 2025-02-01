@@ -1,14 +1,18 @@
 ---
 layout: base
 ---
+
 <div class="flex justify-center py-8">
   <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline">
     {{ content }}
   </article>
 </div>
 
+<!-- 新增：筛选AIGC标签的帖子 -->
+{% assign filtered_posts = site.posts | where_exp: "post", "post.tags contains 'AIGC'" %}
+
 <div class="md:w-4/5 mx-auto gap-4 columns-2 md:columns-3 mb-10" id="gallery-container">
-  {% for post in site.posts %}
+  {% for post in filtered_posts %}  <!-- 修改循环对象 -->
   <div class="post-item md:fadeIn pb-4 mb-4 break-inside-avoid-column relative group" data-index="{{ forloop.index0 }}">
     <div class="gallery-item">
       <a href="{{ post.url | relative_url }}" 
@@ -34,13 +38,12 @@ layout: base
   {% endfor %}
 </div>
 
-<!-- 新增加载更多按钮 -->
+<!-- 其余部分保持不变 -->
 <div id="load-more-wrapper" class="text-center mt-6 mb-10">
   <a href="#" id="loadMoreBtn" class="load-more-button px-6 py-3 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition-colors">Load More</a>
 </div>
 
 <style>
-  /* 原有样式保留 */
   .square-container {
     position: relative;
     width: 100%;
@@ -66,7 +69,6 @@ layout: base
     justify-content: center;
   }
 
-  /* 新增加载更多按钮样式 */
   .post-item {
     display: none;
   }
@@ -107,13 +109,11 @@ layout: base
       checkButtonVisibility();
     }
 
-    // 点击加载更多
     loadMoreBtn.addEventListener('click', function(e) {
       e.preventDefault();
       loadMore();
     });
 
-    // 滚动加载
     window.addEventListener('scroll', () => {
       const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
       if (scrollTop + clientHeight >= scrollHeight - 100) {
@@ -121,12 +121,6 @@ layout: base
       }
     });
 
-    // 初始检查按钮可见性
     checkButtonVisibility();
-  });
-
-  // 保留原有移动端触摸处理逻辑
-  document.querySelectorAll('.gallery-item').forEach(item => {
-    // ... 原有移动端处理代码 ...
   });
 </script>

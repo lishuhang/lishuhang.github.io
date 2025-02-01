@@ -8,37 +8,28 @@ layout: base
 </div>
 
 <!-- 新增AIGC日报入口 -->
+{% assign aigc_posts = site.posts | where_exp: "post", "post.tags contains 'AIGC'" | limit:3 %}
 
-<a href="/daily/" class="max-w-[600px] mx-auto mb-8 p-4 rounded-lg block bg-white dark:bg-slate-800 dark:shadow-md no-underline">
-  <div class="flex items-center justify-between m-4">
-    <h2 class="text-2xl font-bold prose-slate dark:prose-invert">AIGC 日报</h2>
-    <span class="prose-slate dark:prose-invert">
+<div class="w-full max-w-[1200px] mx-auto mb-8 px-4">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-2xl font-bold prose-slate dark:prose-invert"><a href="/daily/">AIGC 日报</a></h2>
+    <a href="/daily/" class="text-slate-600 dark:text-slate-300 hover:text-slate-800 dark:hover:text-slate-100 transition-colors">
       每日10:00或日内更新，查看更多 →
-    </span>
+    </a>
   </div>
-</a>
-
-<!-- 精确过滤AIGC日报文章 -->
-{% assign filtered_posts = "" | split: "," %}
-{% assign target_title = "每日 AIGC 早报：" %}
-{% assign prefix_length = target_title | size %}
-
-{% for post in site.posts %}
-{% assign title_start = post.title | slice: 0, prefix_length %}
-{% unless title_start == target_title %}
-{% assign filtered_posts = filtered_posts | push: post %}
-{% endunless %}
-{% endfor %}
+</div>
+<hr class="w-full max-w-[1200px] mx-auto mb-8 px-4" />
 
 <div class="w-full max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10 px-4" id="gallery-container">
-  {% for post in filtered_posts %}
-  <div class="post-item md:fadeIn mb-4 break-inside-avoid relative {% if forloop.index0 >= 9 %}hidden{% endif %}" data-index="{{ forloop.index0 }}">
+  {% for post in site.posts %}
+  <div class="post-item md:fadeIn mb-4 break-inside-avoid relative" data-index="{{ forloop.index0 }}">
     <a href="{{ post.url | relative_url }}" 
        class="gallery-link block p-4 bg-white dark:bg-slate-800 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
        target="_blank" 
        rel="noopener noreferrer">
       <div class="flex flex-col md:flex-row md:items-start gap-4">
         <div class="square-container md:w-[100px] flex-shrink-0">
+          {% comment %} 修改图片src部分，添加缩略图服务开关 {% endcomment %}
           {% if site.thumbnail_service %}
             <img src="//wsrv.nl/?url={{ post.image | absolute_url }}&w=&h=" 
                  alt=""
@@ -64,22 +55,4 @@ layout: base
   {% endfor %}
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const posts = document.querySelectorAll('.post-item');
-  let visibleCount = 9;
-
-  const loadMorePosts = () => {
-    const nextPosts = Array.from(posts).slice(visibleCount, visibleCount + 9);
-    nextPosts.forEach(post => post.classList.remove('hidden'));
-    visibleCount += nextPosts.length;
-  };
-
-  window.addEventListener('scroll', () => {
-    const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
-    if (scrollTop + clientHeight >= scrollHeight - 100 && visibleCount < posts.length) {
-      loadMorePosts();
-    }
-  });
-});
-</script>
+<!-- 剩余部分保持不变... -->
