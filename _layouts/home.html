@@ -9,7 +9,7 @@ layout: base
 
 <!-- 新增AIGC日报入口 -->
 
-<a href="/daily/" class="max-w-[600px] mx-auto mb-8 p-4 rounded-lg block bg-white dark:bg-slate-800 dark:shadow-md no-underline">
+<a href="/daily/" class="max-w-[600px] mx-auto mb-8 p-4 rounded-lg block bg-white dark:bg-slate-800 dark:shadow-md no-underline" style="border: 2px solid #347df8;">
   <div class="flex items-center justify-between m-4">
     <h2 class="text-2xl font-bold prose-slate dark:prose-invert">AIGC 日报</h2>
     <span class="prose-slate dark:prose-invert">
@@ -20,14 +20,17 @@ layout: base
 
 <!-- 精确过滤AIGC日报文章 -->
 {% assign filtered_posts = "" | split: "," %}
-{% assign target_title = "每日 AIGC 早报：" %}
-{% assign prefix_length = target_title | size %}
+{% assign target_title1 = "每日 AIGC 早报：" %}
+{% assign target_title2 = "每日AIGC早报：" %}
+{% assign prefix_length1 = target_title1 | size %}
+{% assign prefix_length2 = target_title2 | size %}
 
 {% for post in site.posts %}
-{% assign title_start = post.title | slice: 0, prefix_length %}
-{% unless title_start == target_title %}
-{% assign filtered_posts = filtered_posts | push: post %}
-{% endunless %}
+    {% assign title_start1 = post.title | slice: 0, prefix_length1 %}
+    {% assign title_start2 = post.title | slice: 0, prefix_length2 %}
+    {% unless title_start1 == target_title1 or title_start2 == target_title2 %}
+        {% assign filtered_posts = filtered_posts | push: post %}
+    {% endunless %}
 {% endfor %}
 
 <div class="w-full max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10 px-4" id="gallery-container">
