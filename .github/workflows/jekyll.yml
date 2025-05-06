@@ -46,13 +46,9 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Verify build output
-        run: test -d ./_site && echo "Build directory exists." || (echo "Build directory does not exist!" && exit 1)
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: site-artifact
-          path: ./_site
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
