@@ -4,7 +4,7 @@ title: 我在新闻实验室的更新：总编被误拉入机密聊天群
 date: 2025-03-30
 categories: 文章
 tags: [科技]
-image: 00.png
+image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/30/00.png
 ---
 
 当《大西洋月刊》（The Atlantic）总编辑杰弗里·戈德伯格（Jeffrey Goldberg）被拉进一个聊天群组的时候，他还没有意识到接下来会引发怎样过山车般的剧情，乃至影响美国政局。
