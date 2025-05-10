@@ -1,11 +1,11 @@
 ---
 ---
 
-@font-face {
-  font-family: 'OpenSans';
-  src: url({{ "/assets/OpenSans/static/OpenSans-Regular.ttf" | relative_url }});
-  font-display: swap;
-}
+/* @font-face { */
+/*   font-family: 'OpenSans'; */
+/*   src: url({{ "/assets/OpenSans/static/OpenSans-Regular.ttf" | relative_url }}); */
+/*   font-display: swap; */
+/*  } */
 
 $primary_color: {{ site.color | default: "#347df8" }};
 
