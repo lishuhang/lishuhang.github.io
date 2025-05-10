@@ -43,7 +43,7 @@ layout: base
       <div class="flex flex-col md:flex-row md:items-start gap-4">
         <div class="square-container md:w-[100px] flex-shrink-0">
           {% if site.thumbnail_service %}
-            <img src="//wsrv.nl/?url={{ post.image | absolute_url }}&w=&h=" 
+            <img src="//wsrv.nl/?url={{ post.image | absolute_url }}&w=100&h=100" 
                  alt=""
                  class="square-image object-cover rounded-md" style="width:100px; height:100px;">
           {% else %}
