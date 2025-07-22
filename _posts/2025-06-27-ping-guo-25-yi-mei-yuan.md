@@ -1,7 +1,7 @@
 ---
 categories: 文章
 date: 2025-06-27
-image: https://lishuhang.me/img/2025/06/27/01.jpg
+image: https://lishuhang.me/img/2025/06/27/01.png
 layout: post
 tags:
 - 科技
