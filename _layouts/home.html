@@ -217,6 +217,9 @@ document.addEventListener('DOMContentLoaded', function() {
   // 初始渲染
   renderPosts();
   
+  // 检查URL参数和路径，自动加载对应内容
+  checkAndLoadFromURL();
+  
   console.log('Blog initialized with', allPosts.length, 'posts');
 });
 
@@ -448,8 +451,7 @@ function handleTagClickFromPost(tag) {
   // 清空搜索框
   const searchInput = document.getElementById('searchInput');
   if (searchInput) searchInput.value = '';
-  
-  // 高亮对应的标签按钮
+    // 高亮对应的标签按钮
   document.querySelectorAll('.tag-btn').forEach(btn => {
     btn.classList.remove('active');
     if (btn.dataset.tag === tag) {
@@ -457,10 +459,19 @@ function handleTagClickFromPost(tag) {
     }
   });
   
-  renderPosts();
+  // 更新过滤标题
+  updateFilterHeader('tag', tag);
   
-  // 滚动到顶部
-  const blogMain = document.getElementById('blogMain');
+  // 更新URL和标题
+  const url = new URL(window.location.origin + '/');
+  url.searchParams.set('tag', tag);
+  const title = `标签：${tag}`;
+  window.history.pushState({ type: 'tag', value: tag }, title, url);
+  document.title = `${title} - {{ site.title }}`;
+  
+  renderPosts();
+  closeMobileSidebar();
+}ogMain = document.getElementById('blogMain');
   if (blogMain) blogMain.scrollTop = 0;
 }
 
@@ -604,12 +615,13 @@ async function loadPostContent(postIndex) {
   postView.style.display = 'block';
   blogMain.scrollTop = 0;
   
-  // 更新浏览器URL
+  // 更新浏览器URL和标题
   window.history.pushState(
     { type: 'post', postIndex: postIndex },
     post.title,
     post.url
   );
+  document.title = `${post.title} - {{ site.title }}`;
   
   // 显示加载状态
   postContent.innerHTML = '<div class="loading">正在加载文章...</div>';
@@ -879,6 +891,42 @@ function debounce(func, wait) {
     clearTimeout(timeout);
     timeout = setTimeout(later, wait);
   };
+}
+
+// 检查URL并加载对应内容
+function checkAndLoadFromURL() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const pathname = window.location.pathname;
+  
+  // 检查是否是文章URL (e.g., /posts/2025/07/23/daily/)
+  if (pathname.startsWith('/posts/') && pathname !== '/posts/') {
+    // 查找匹配的文章
+    const postIndex = postsMetadata.findIndex(post => post.url === pathname);
+    if (postIndex !== -1) {
+      console.log('Loading post from URL:', pathname);
+      loadPostContent(postIndex);
+      return;
+    }
+  }
+  
+  // 检查URL参数
+  if (urlParams.has('tag')) {
+    const tag = urlParams.get('tag');
+    const tagBtn = document.querySelector(`.tag-btn[data-tag="${tag}"]`);
+    if (tagBtn) {
+      tagBtn.click();
+    }
+  } else if (urlParams.has('year')) {
+    const year = urlParams.get('year');
+    handleYearClick(parseInt(year));
+  } else if (urlParams.has('search')) {
+    const query = urlParams.get('search');
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput) {
+      searchInput.value = query;
+      handleSearch({ target: searchInput });
+    }
+  }
 }
 
 // 更新过滤条件标题
