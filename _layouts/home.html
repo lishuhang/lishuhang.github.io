@@ -6,16 +6,21 @@ layout: base
   <!-- 侧边栏 -->
   <aside class="blog-sidebar" id="blogSidebar">
     <div class="blog-sidebar-header">
-      <a href="{{ site.url }}" class="sidebar-logo-link">
+      <a href="#" class="sidebar-logo-link" onclick="event.preventDefault(); resetToHome();">
         <img src="{{ '/assets/logo.png' | relative_url }}" alt="{{ site.title }}" class="sidebar-logo-image">
       </a>
-      <a href="{{ site.url }}" class="blog-sidebar-title">{{ site.title }}</a>
+      <a href="#" class="blog-sidebar-title" onclick="event.preventDefault(); resetToHome();">{{ site.title }}</a>
     </div>
     
     <div class="blog-sidebar-body">
       <!-- 搜索框 -->
       <div class="search-box">
         <input type="text" id="searchInput" placeholder="搜索文章..." class="search-input">
+      </div>
+      
+      <!-- AIGC早报链接 -->
+      <div class="aigc-link-section">
+        <a href="#" class="aigc-link" data-tag="AIGC">每日AIGC早报</a>
       </div>
       
       <!-- 标签区域 -->
@@ -47,6 +52,17 @@ layout: base
         <label class="section-label">更多</label>
         <a href="{{ '/about' | relative_url }}" class="nav-link" data-page-url="{{ '/about' | relative_url }}">关于</a>
         <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
+      </div>
+      
+      <!-- 原图开关 -->
+      <div class="theme-toggle">
+        <label class="toggle-label">
+          <span class="toggle-text">原图</span>
+          <div class="toggle-switch">
+            <input type="checkbox" id="originalImageToggle">
+            <span class="toggle-slider"></span>
+          </div>
+        </label>
       </div>
       
       <!-- 深色模式切换 -->
@@ -93,7 +109,7 @@ layout: base
           <a href="{{ post.url | relative_url }}" class="post-card-link">
             {% if post.image %}
             <div class="post-card-image">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+              <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=200&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
             </div>
             {% endif %}
             <div class="post-card-content">
@@ -160,13 +176,7 @@ layout: base
 </div>
 
 <!-- 移动端遮罩层 -->
-<div class="sidebar-overlay" id="sidebarOverlay">
-  <button class="close-button" id="closeButton" aria-label="关闭菜单">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
-  </button>
-</div>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
 
 <!-- 隐藏的文章数据 -->
 <script id="postsData" type="application/json">
@@ -235,15 +245,17 @@ function loadPostsMetadata() {
 // 收集所有文章数据
 function collectAllPosts() {
   const postCards = document.querySelectorAll('.post-card');
-  allPosts = Array.from(postCards).map(card => ({
-    element: card,
-    year: card.dataset.year,
-    tags: card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [],
-    title: card.querySelector('.post-card-title').textContent.toLowerCase(),
-    excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
-    url: card.dataset.url,
-    index: parseInt(card.dataset.postIndex)
-  }));
+  allPosts = Array.from(postCards)
+    .map(card => ({
+      element: card,
+      year: card.dataset.year,
+      tags: card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [],
+      title: card.querySelector('.post-card-title').textContent.toLowerCase(),
+      excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
+      url: card.dataset.url,
+      index: parseInt(card.dataset.postIndex)
+    }))
+    .filter(post => !post.tags.includes('AIGC')); // 过滤掉AIGC标签的文章
   filteredPosts = [...allPosts];
 }
 
@@ -253,6 +265,42 @@ function bindEvents() {
   const searchInput = document.getElementById('searchInput');
   if (searchInput) {
     searchInput.addEventListener('input', debounce(handleSearch, 300));
+  }
+  
+  // AIGC早报链接
+  const aigcLink = document.querySelector('.aigc-link');
+  if (aigcLink) {
+    aigcLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      const tag = aigcLink.dataset.tag;
+      
+      // 如果当前在文章页，先返回列表
+      const postView = document.getElementById('postView');
+      if (postView && postView.style.display !== 'none') {
+        showPostsList();
+      }
+      
+      handleAIGCClick(tag);
+    });
+  }
+  
+  // 原图开关
+  const originalImageToggle = document.getElementById('originalImageToggle');
+  if (originalImageToggle) {
+    originalImageToggle.addEventListener('change', () => {
+      localStorage.setItem('useOriginalImage', originalImageToggle.checked);
+      // 如果当前在文章详情页，重新渲染图片
+      const postView = document.getElementById('postView');
+      if (postView && postView.style.display !== 'none') {
+        reloadPostImages();
+      }
+    });
+    
+    // 恢复保存的状态
+    const savedState = localStorage.getItem('useOriginalImage');
+    if (savedState !== null) {
+      originalImageToggle.checked = savedState === 'true';
+    }
   }
   
   // 标签点击
@@ -330,16 +378,7 @@ function bindEvents() {
   
   const sidebarOverlay = document.getElementById('sidebarOverlay');
   if (sidebarOverlay) {
-    sidebarOverlay.addEventListener('click', (e) => {
-      if (e.target === sidebarOverlay) {
-        closeMobileSidebar();
-      }
-    });
-  }
-  
-  const closeButton = document.getElementById('closeButton');
-  if (closeButton) {
-    closeButton.addEventListener('click', closeMobileSidebar);
+    sidebarOverlay.addEventListener('click', closeMobileSidebar);
   }
 }
 
@@ -648,6 +687,105 @@ async function loadPostContent(postIndex) {
   }
 }
 
+// 处理文章中的图片
+function processArticleImages(html) {
+  const useOriginal = document.getElementById('originalImageToggle')?.checked || false;
+  if (useOriginal) {
+    return html; // 原图模式，不处理
+  }
+  
+  // 使用正则替换所有img标签的src
+  return html.replace(/<img([^>]+)src=["']([^"']+)["']([^>]*)>/gi, (match, before, src, after) => {
+    // 如果已经是weserv链接，不再处理
+    if (src.includes('weserv.nl')) {
+      return match;
+    }
+    
+    // 如果是相对路径，转为绝对路径
+    let absoluteSrc = src;
+    if (src.startsWith('/')) {
+      absoluteSrc = window.location.origin + src;
+    } else if (!src.startsWith('http')) {
+      absoluteSrc = window.location.origin + '/' + src;
+    }
+    
+    const weservUrl = `https://images.weserv.nl/?url=${encodeURIComponent(absoluteSrc)}&output=jpg&q=80`;
+    return `<img${before}src="${weservUrl}" data-original="${src}"${after}>`;
+  });
+}
+
+// 重新加载文章中的图片
+function reloadPostImages() {
+  const postDetailArticle = document.querySelector('.post-detail-article');
+  const postDetailImage = document.querySelector('.post-detail-image img');
+  const useOriginal = document.getElementById('originalImageToggle')?.checked || false;
+  
+  // 重新加载题图
+  if (postDetailImage && postDetailImage.dataset.original) {
+    const originalSrc = postDetailImage.dataset.original;
+    postDetailImage.src = useOriginal ? originalSrc : `https://images.weserv.nl/?url=${encodeURIComponent(originalSrc)}&output=jpg&q=80`;
+  }
+  
+  // 重新加载文章中的图片
+  if (postDetailArticle) {
+    const images = postDetailArticle.querySelectorAll('img[data-original]');
+    images.forEach(img => {
+      const originalSrc = img.dataset.original;
+      if (useOriginal) {
+        img.src = originalSrc;
+      } else {
+        let absoluteSrc = originalSrc;
+        if (originalSrc.startsWith('/')) {
+          absoluteSrc = window.location.origin + originalSrc;
+        } else if (!originalSrc.startsWith('http')) {
+          absoluteSrc = window.location.origin + '/' + originalSrc;
+        }
+        img.src = `https://images.weserv.nl/?url=${encodeURIComponent(absoluteSrc)}&output=jpg&q=80`;
+      }
+    });
+  }
+}
+
+// AIGC早报点击处理
+function handleAIGCClick(tag) {
+  // 重置其他筛选
+  currentFilter = { type: 'tag', value: tag };
+  
+  // 收集所有文章（包括AIGC）
+  const postCards = document.querySelectorAll('.post-card');
+  const allPostsIncludingAIGC = Array.from(postCards).map(card => ({
+    element: card,
+    year: card.dataset.year,
+    tags: card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [],
+    title: card.querySelector('.post-card-title').textContent.toLowerCase(),
+    excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
+    url: card.dataset.url,
+    index: parseInt(card.dataset.postIndex)
+  }));
+  
+  // 筛选AIGC标签的文章
+  filteredPosts = allPostsIncludingAIGC.filter(post => post.tags.includes(tag));
+  displayedCount = Math.min(12, filteredPosts.length);
+  
+  // 清空搜索框
+  const searchInput = document.getElementById('searchInput');
+  if (searchInput) searchInput.value = '';
+  
+  // 取消所有标签高亮
+  document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
+  
+  updateFilterHeader('tag', tag);
+  renderPosts();
+  closeMobileSidebar();
+  
+  // 更新浏览器历史
+  const url = new URL(window.location.origin + '/');
+  url.searchParams.set('tag', tag);
+  const title = `标签：${tag}`;
+  window.history.pushState({ type: 'tag', value: tag }, title, url);
+  document.title = `${title} - {{ site.title }}`;
+}
+
 // 渲染文章详情
 function renderPostDetail(post, articleContent) {
   const postContent = document.getElementById('postContent');
@@ -674,11 +812,14 @@ function renderPostDetail(post, articleContent) {
   
   // 题图
   if (post.image && post.image !== '/') {
-    html += `<div class="post-detail-image"><img src="${post.image}" alt="${post.title}"></div>`;
+    const useOriginal = document.getElementById('originalImageToggle')?.checked || false;
+    const imageUrl = useOriginal ? post.image : `https://images.weserv.nl/?url=${encodeURIComponent(post.image)}&output=jpg&q=80`;
+    html += `<div class="post-detail-image"><img src="${imageUrl}" alt="${post.title}" data-original="${post.image}"></div>`;
   }
   
-  // 文章内容
-  html += `<div class="post-detail-article">${articleContent}</div>`;
+  // 文章内容（处理图片）
+  const processedContent = processArticleImages(articleContent);
+  html += `<div class="post-detail-article">${processedContent}</div>`;
   
   // 分享按钮
   html += renderShareButtons(post);

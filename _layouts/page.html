@@ -2,8 +2,28 @@
 layout: base
 ---
 
-<div class="flex justify-center py-4 md:py-8">
-  <article class="text-left prose md:prose-lg prose-p:font-extralight prose-headings:font-light prose-slate dark:prose-invert">
-  {{ content }}
+<!-- 页面内容（用于fetch） -->
+<div style="display: none;" id="pageContentForFetch">
+  <article class="prose">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
   </article>
 </div>
+
+<!-- 重定向脚本 -->
+<script>
+(function() {
+  if (window.parent === window) {
+    const pageUrl = window.location.pathname;
+    window.location.href = '/?page=' + encodeURIComponent(pageUrl);
+  }
+})();
+</script>
+
+<div style="display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: sans-serif;">
+  <div style="text-align: center;">
+    <div style="font-size: 24px; margin-bottom: 16px;">正在加载页面...</div>
+    <div style="color: #666;">如果页面没有自动跳转，请<a href="/" style="color: #347df8;">点击这里</a>返回主页</div>
+  </div>
+</div>
+
