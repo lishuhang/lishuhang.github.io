@@ -1,7 +1,8 @@
 /* 深色模式样式 */
 
 /* 深色模式变量 */
-[data-theme="dark"] {
+html[data-theme="dark"],
+body[data-theme="dark"] {
   /* 主色调 - 深色模式下稍微调亮 */
   --primary-blue: #4299E1;
   --primary-blue-light: #63B3ED;
@@ -35,122 +36,233 @@
   --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.4), 0 10px 10px -5px rgba(0, 0, 0, 0.3);
 }
 
-/* 深色模式下的特殊调整 */
-[data-theme="dark"],
-[data-theme="dark"] body,
-[data-theme="dark"] html {
-  background-color: var(--bg-primary);
-  color: var(--text-primary);
+/* 深色模式基础背景和文字 */
+html[data-theme="dark"],
+body[data-theme="dark"] {
+  background-color: #1A202C !important;
+  color: #F7FAFC !important;
 }
 
-/* 深色模式下的图片调整 */
-[data-theme="dark"] img {
+/* 深色模式容器背景 */
+html[data-theme="dark"] .blog-container,
+body[data-theme="dark"] .blog-container {
+  background-color: #1A202C !important;
+}
+
+html[data-theme="dark"] .blog-sidebar,
+body[data-theme="dark"] .blog-sidebar {
+  background-color: #2D3748 !important;
+  border-right-color: #4A5568 !important;
+}
+
+html[data-theme="dark"] .blog-sidebar-header,
+body[data-theme="dark"] .blog-sidebar-header {
+  background-color: #2D3748 !important;
+  border-bottom-color: #4A5568 !important;
+}
+
+html[data-theme="dark"] .blog-sidebar-body,
+body[data-theme="dark"] .blog-sidebar-body {
+  background-color: #2D3748 !important;
+}
+
+html[data-theme="dark"] .blog-main,
+body[data-theme="dark"] .blog-main {
+  background-color: #1A202C !important;
+}
+
+html[data-theme="dark"] #postsView,
+body[data-theme="dark"] #postsView,
+html[data-theme="dark"] #postView,
+body[data-theme="dark"] #postView {
+  background-color: #1A202C !important;
+}
+
+/* 深色模式文字颜色 */
+html[data-theme="dark"] .blog-sidebar-title,
+body[data-theme="dark"] .blog-sidebar-title,
+html[data-theme="dark"] .section-label,
+body[data-theme="dark"] .section-label {
+  color: #F7FAFC !important;
+}
+
+/* 深色模式卡片 */
+html[data-theme="dark"] .post-card,
+body[data-theme="dark"] .post-card {
+  background-color: #2D3748 !important;
+  border-color: #4A5568 !important;
+}
+
+html[data-theme="dark"] .post-card-title,
+body[data-theme="dark"] .post-card-title {
+  color: #F7FAFC !important;
+}
+
+html[data-theme="dark"] .post-card-meta,
+body[data-theme="dark"] .post-card-meta,
+html[data-theme="dark"] .post-card-excerpt,
+body[data-theme="dark"] .post-card-excerpt {
+  color: #CBD5E0 !important;
+}
+
+/* 深色模式标签 */
+html[data-theme="dark"] .tag-btn,
+body[data-theme="dark"] .tag-btn {
+  background-color: #4A5568 !important;
+  color: #F7FAFC !important;
+  border-color: #718096 !important;
+}
+
+html[data-theme="dark"] .tag-btn:hover,
+body[data-theme="dark"] .tag-btn:hover,
+html[data-theme="dark"] .tag-btn.active,
+body[data-theme="dark"] .tag-btn.active {
+  background-color: #4299E1 !important;
+  color: #1A202C !important;
+}
+
+/* 深色模式输入框 */
+html[data-theme="dark"] .search-input,
+body[data-theme="dark"] .search-input,
+html[data-theme="dark"] input,
+body[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+body[data-theme="dark"] textarea {
+  background-color: #4A5568 !important;
+  border-color: #718096 !important;
+  color: #F7FAFC !important;
+}
+
+html[data-theme="dark"] input::placeholder,
+body[data-theme="dark"] input::placeholder,
+html[data-theme="dark"] textarea::placeholder,
+body[data-theme="dark"] textarea::placeholder {
+  color: #A0AEC0 !important;
+}
+
+/* 深色模式链接 */
+html[data-theme="dark"] a,
+body[data-theme="dark"] a {
+  color: #63B3ED;
+}
+
+html[data-theme="dark"] a:hover,
+body[data-theme="dark"] a:hover {
+  color: #4299E1;
+}
+
+/* 深色模式年份链接 */
+html[data-theme="dark"] .year-link,
+body[data-theme="dark"] .year-link {
+  color: #CBD5E0 !important;
+}
+
+html[data-theme="dark"] .year-link:hover,
+body[data-theme="dark"] .year-link:hover {
+  color: #4299E1 !important;
+  background-color: #374151 !important;
+}
+
+/* 深色模式导航链接 */
+html[data-theme="dark"] .nav-link,
+body[data-theme="dark"] .nav-link {
+  color: #CBD5E0 !important;
+}
+
+html[data-theme="dark"] .nav-link:hover,
+body[data-theme="dark"] .nav-link:hover {
+  background-color: #374151 !important;
+  color: #4299E1 !important;
+}
+
+/* 深色模式版权信息 */
+html[data-theme="dark"] .copyright,
+body[data-theme="dark"] .copyright {
+  color: #A0AEC0 !important;
+  border-top-color: #4A5568 !important;
+}
+
+/* 深色模式图片 */
+html[data-theme="dark"] img,
+body[data-theme="dark"] img {
   opacity: 0.9;
 }
 
-/* 深色模式下的代码块 */
-[data-theme="dark"] code {
-  background-color: var(--bg-tertiary);
-  color: #E2E8F0;
-}
-
-[data-theme="dark"] pre {
-  background-color: var(--bg-tertiary);
-  border: 1px solid var(--border-medium);
-}
-
-/* 深色模式下的链接 */
-[data-theme="dark"] a {
-  color: var(--primary-blue-light);
-}
-
-[data-theme="dark"] a:hover {
-  color: var(--primary-blue);
-}
-
-/* 深色模式下的输入框 */
-[data-theme="dark"] input,
-[data-theme="dark"] textarea {
-  background-color: var(--bg-tertiary);
-  border-color: var(--border-medium);
-  color: var(--text-primary);
-}
-
-[data-theme="dark"] input::placeholder,
-[data-theme="dark"] textarea::placeholder {
-  color: var(--text-muted);
-}
-
-/* 深色模式下的按钮调整 */
-[data-theme="dark"] .btn-secondary {
-  background-color: var(--bg-tertiary);
-  border-color: var(--border-medium);
-  color: var(--text-primary);
-}
-
-[data-theme="dark"] .btn-secondary:hover {
-  background-color: var(--bg-active);
-}
-
-/* 深色模式下的卡片 */
-[data-theme="dark"] .card {
-  background-color: var(--bg-white);
-  border-color: var(--border-light);
-}
-
-/* 深色模式下的文章卡片图片 */
-[data-theme="dark"] .post-card-image img {
-  opacity: 0.85;
-  transition: opacity var(--duration-fast) ease;
-}
-
-[data-theme="dark"] .post-card:hover .post-card-image img {
+html[data-theme="dark"] .post-card:hover img,
+body[data-theme="dark"] .post-card:hover img {
   opacity: 1;
 }
 
-/* 深色模式下的滚动条 */
-[data-theme="dark"] ::-webkit-scrollbar {
+/* 深色模式代码块 */
+html[data-theme="dark"] code,
+body[data-theme="dark"] code {
+  background-color: #4A5568 !important;
+  color: #E2E8F0 !important;
+}
+
+html[data-theme="dark"] pre,
+body[data-theme="dark"] pre {
+  background-color: #4A5568 !important;
+  border-color: #718096 !important;
+}
+
+/* 深色模式滚动条 */
+html[data-theme="dark"] ::-webkit-scrollbar,
+body[data-theme="dark"] ::-webkit-scrollbar {
   width: 12px;
   height: 12px;
 }
 
-[data-theme="dark"] ::-webkit-scrollbar-track {
-  background: var(--bg-secondary);
+html[data-theme="dark"] ::-webkit-scrollbar-track,
+body[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: #2D3748;
 }
 
-[data-theme="dark"] ::-webkit-scrollbar-thumb {
-  background: var(--border-medium);
-  border-radius: var(--radius-md);
+html[data-theme="dark"] ::-webkit-scrollbar-thumb,
+body[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: #718096;
+  border-radius: 6px;
 }
 
-[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
-  background: var(--border-dark);
+html[data-theme="dark"] ::-webkit-scrollbar-thumb:hover,
+body[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: #A0AEC0;
 }
 
-
-
-/* 强制深色模式背景 */
-[data-theme="dark"] * {
-  border-color: var(--border-light);
+/* 深色模式过滤标题 */
+html[data-theme="dark"] .filter-header,
+body[data-theme="dark"] .filter-header {
+  background-color: #2D3748 !important;
+  border-bottom-color: #4A5568 !important;
 }
 
-[data-theme="dark"] .blog-container {
-  background-color: var(--bg-primary);
+html[data-theme="dark"] .filter-title,
+body[data-theme="dark"] .filter-title {
+  color: #F7FAFC !important;
 }
 
-[data-theme="dark"] .blog-main {
-  background-color: var(--bg-primary);
+html[data-theme="dark"] .back-to-home,
+body[data-theme="dark"] .back-to-home {
+  background-color: #4A5568 !important;
+  color: #F7FAFC !important;
 }
 
-[data-theme="dark"] #postsContainer {
-  background-color: var(--bg-primary);
+html[data-theme="dark"] .back-to-home:hover,
+body[data-theme="dark"] .back-to-home:hover {
+  background-color: #4299E1 !important;
+  color: #1A202C !important;
 }
 
-[data-theme="dark"] #postsView {
-  background-color: var(--bg-primary);
+/* 深色模式分享按钮 */
+html[data-theme="dark"] .share-button,
+body[data-theme="dark"] .share-button {
+  background-color: #4A5568 !important;
+  color: #F7FAFC !important;
+  border-color: #718096 !important;
 }
 
-[data-theme="dark"] #postView {
-  background-color: var(--bg-primary);
+html[data-theme="dark"] .share-button:hover,
+body[data-theme="dark"] .share-button:hover {
+  background-color: #374151 !important;
 }
 

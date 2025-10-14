@@ -1036,7 +1036,9 @@ function initDarkMode() {
 
 // 应用主题
 function applyTheme(theme) {
+  // 同时设置html和body的data-theme属性
   document.documentElement.setAttribute('data-theme', theme);
+  document.body.setAttribute('data-theme', theme);
   
   // 更新 giscus 评论系统主题
   const giscusFrame = document.querySelector('iframe.giscus-frame');
