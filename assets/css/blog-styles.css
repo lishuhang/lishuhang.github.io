@@ -156,85 +156,29 @@
   margin-bottom: var(--space-6);
 }
 
-.year-section {
+.year-list {
+  background-color: var(--bg-white);
   border: 1px solid var(--border-light);
   border-radius: var(--radius-lg);
-  background-color: var(--bg-white);
-  overflow: hidden;
-}
-
-.year-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 56px;
-  padding: 0 var(--space-6);
-  background-color: var(--bg-white);
-  cursor: pointer;
-  transition: background-color var(--duration-fast) ease;
-  user-select: none;
-}
-
-.year-header:hover {
-  background-color: var(--bg-hover);
-}
-
-.year-header:active {
-  background-color: var(--bg-active);
-}
-
-.year-header.expanded {
-  background-color: var(--bg-hover);
-  border-bottom: 1px solid var(--border-light);
-}
-
-.year-title {
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-semibold);
-  color: var(--text-primary);
-  line-height: var(--line-height-short);
-}
-
-.year-icon {
-  width: 24px;
-  height: 24px;
-  color: var(--text-secondary);
-  transition: transform var(--duration-normal) ease;
-  flex-shrink: 0;
-}
-
-.year-icon.collapsed {
-  transform: rotate(-90deg);
-}
-
-.year-icon.expanded {
-  transform: rotate(0deg);
-}
-
-.year-dropdown-content {
-  max-height: 0;
-  overflow-y: auto;
-  overflow-x: hidden;
-  transition: max-height var(--duration-slow) ease;
-}
-
-.year-dropdown-content.expanded {
+  padding: var(--space-2);
   max-height: 400px;
+  overflow-y: auto;
 }
 
 .year-link {
   display: block;
-  padding: var(--space-3) var(--space-6);
+  padding: var(--space-3) var(--space-4);
   color: var(--text-primary);
   text-decoration: none;
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-medium);
-  transition: background-color var(--duration-fast) ease;
-  border-bottom: 1px solid var(--border-light);
+  transition: all var(--duration-fast) ease;
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-1);
 }
 
 .year-link:last-child {
-  border-bottom: none;
+  margin-bottom: 0;
 }
 
 .year-link:hover {

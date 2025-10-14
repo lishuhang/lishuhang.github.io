@@ -31,29 +31,21 @@ layout: base
         </div>
       </div>
       
-      <!-- 年份选择器 - 单个下拉菜单 -->
+      <!-- 年份选择器 - 全展开列表 -->
       <div class="year-selector">
-        <label class="section-label">选择年份</label>
-        <div class="year-section">
-          <div class="year-header" id="yearDropdownHeader">
-            <span class="year-title">按年份浏览</span>
-            <svg class="year-icon collapsed" viewBox="0 0 12 12" fill="currentColor">
-              <path d="M6 8.825c-.2 0-.4-.1-.5-.2l-3.3-3.3c-.3-.3-.3-.8 0-1.1.3-.3.8-.3 1.1 0l2.7 2.7 2.7-2.7c.3-.3.8-.3 1.1 0 .3.3.3.8 0 1.1l-3.2 3.2c-.2.2-.4.3-.6.3Z"/>
-            </svg>
-          </div>
-          <div class="year-dropdown-content" id="yearDropdownContent">
-            {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-            {% for year_group in posts_by_year %}
-            <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ year_group.items | size }}篇)</a>
-            {% endfor %}
-          </div>
+        <label class="section-label">按年份浏览</label>
+        <div class="year-list">
+          {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+          {% for year_group in posts_by_year %}
+          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ year_group.items | size }}篇)</a>
+          {% endfor %}
         </div>
       </div>
       
       <!-- 导航链接 -->
       <div class="nav-links">
         <label class="section-label">更多</label>
-        <a href="{{ '/about' | relative_url }}" class="nav-link">关于</a>
+        <a href="{{ '/about' | relative_url }}" class="nav-link" data-page-url="{{ '/about' | relative_url }}">关于</a>
         <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
       </div>
       
@@ -111,7 +103,7 @@ layout: base
       </div>
     </div>
 
-    <!-- 文章详情视图 -->
+    <!-- 文章/页面详情视图 -->
     <div id="postView" style="display: none;">
       <div class="post-detail-header">
         <button id="backToList" class="back-button">
@@ -123,7 +115,7 @@ layout: base
       </div>
       
       <div id="postContent" class="post-detail-wrapper">
-        <div class="loading">正在加载文章...</div>
+        <div class="loading">正在加载内容...</div>
       </div>
     </div>
   </main>
@@ -246,18 +238,21 @@ function bindEvents() {
     });
   });
   
-  // 年份下拉菜单
-  const yearDropdownHeader = document.getElementById('yearDropdownHeader');
-  if (yearDropdownHeader) {
-    yearDropdownHeader.addEventListener('click', toggleYearDropdown);
-  }
-  
   // 年份链接点击
   document.querySelectorAll('.year-link').forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
       const year = e.target.dataset.year;
       handleYearClick(year);
+    });
+  });
+  
+  // 导航链接点击（about等页面）
+  document.querySelectorAll('.nav-link[data-page-url]').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      const url = e.target.dataset.pageUrl;
+      loadPageContent(url, e.target.textContent);
     });
   });
   
@@ -355,39 +350,7 @@ function handleYearClick(year) {
   document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
   
   renderPosts();
-  closeYearDropdown();
   closeMobileSidebar();
-}
-
-// 年份下拉菜单控制
-function toggleYearDropdown() {
-  const header = document.getElementById('yearDropdownHeader');
-  const content = document.getElementById('yearDropdownContent');
-  const icon = header.querySelector('.year-icon');
-  
-  const isExpanded = content.classList.contains('expanded');
-  
-  if (isExpanded) {
-    closeYearDropdown();
-  } else {
-    content.classList.add('expanded');
-    icon.classList.add('expanded');
-    icon.classList.remove('collapsed');
-    header.classList.add('expanded');
-  }
-}
-
-function closeYearDropdown() {
-  const header = document.getElementById('yearDropdownHeader');
-  const content = document.getElementById('yearDropdownContent');
-  const icon = header.querySelector('.year-icon');
-  
-  if (!content) return;
-  
-  content.classList.remove('expanded');
-  icon.classList.remove('expanded');
-  icon.classList.add('collapsed');
-  header.classList.remove('expanded');
 }
 
 // 渲染文章列表
@@ -442,6 +405,69 @@ function loadMorePosts() {
     loadingIndicator.style.display = 'none';
     isLoading = false;
   }, 300);
+}
+
+// 加载页面内容（about等静态页面）
+async function loadPageContent(url, title) {
+  const postsView = document.getElementById('postsView');
+  const postView = document.getElementById('postView');
+  const postContent = document.getElementById('postContent');
+  const blogMain = document.getElementById('blogMain');
+  
+  // 切换视图
+  postsView.style.display = 'none';
+  postView.style.display = 'block';
+  blogMain.scrollTop = 0;
+  
+  // 显示加载状态
+  postContent.innerHTML = '<div class="loading">正在加载内容...</div>';
+  
+  try {
+    const response = await fetch(url);
+    const html = await response.text();
+    
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    
+    // 提取页面内容
+    const article = doc.querySelector('article') || doc.querySelector('.prose') || doc.querySelector('main');
+    
+    if (article) {
+      renderPageDetail(title, url, article.innerHTML);
+    } else {
+      postContent.innerHTML = '<div class="error">无法加载页面内容</div>';
+    }
+    
+    closeMobileSidebar();
+  } catch (error) {
+    console.error('Failed to load page:', error);
+    postContent.innerHTML = '<div class="error">加载失败，请刷新重试</div>';
+  }
+}
+
+// 渲染页面详情
+function renderPageDetail(title, url, content) {
+  const postContent = document.getElementById('postContent');
+  
+  let html = '<div class="post-detail-container">';
+  
+  // 页面头部
+  html += '<div class="post-detail-head">';
+  html += `<h1 class="post-detail-title">${title}</h1>`;
+  html += '</div>';
+  
+  // 页面内容
+  html += `<div class="post-detail-article">${content}</div>`;
+  
+  // 分享按钮
+  html += renderShareButtons({title: title, url: url});
+  
+  // 评论系统
+  html += renderCommentSystem(url);
+  
+  html += '</div>';
+  
+  postContent.innerHTML = html;
 }
 
 // 加载文章内容
@@ -525,7 +551,7 @@ function renderPostDetail(post, articleContent) {
   html += renderPostNavigation(post);
   
   // 评论系统
-  html += renderCommentSystem(post);
+  html += renderCommentSystem(post.url);
   
   html += '</div>';
   
@@ -559,7 +585,7 @@ function renderShareButtons(post) {
     Facebook
   </a>`;
   
-  // 微信（显示二维码）
+  // 微信
   html += `<button class="share-btn share-wechat" onclick="alert('请使用微信扫一扫分享')" title="分享到微信">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-5.523 3.317-6.523 1.961-.62 3.756-.31 5.164.403.278-3.701-3.315-6.512-8.292-6.512zm-2.43 4.645a.97.97 0 0 1 .972.972.97.97 0 0 1-.972.972.97.97 0 0 1-.972-.972.97.97 0 0 1 .972-.972zm5.641 0a.97.97 0 0 1 .972.972.97.97 0 0 1-.972.972.97.97 0 0 1-.972-.972.97.97 0 0 1 .972-.972z"/><path d="M15.314 9.403c-3.707 0-6.713 2.462-6.713 5.5 0 1.665.927 3.156 2.383 4.167.091.063.156.15.169.25l-.296 1.11c-.015.053-.038.107-.038.161 0 .122.098.223.218.223a.25.25 0 0 0 .126-.041l1.427-.834a.65.65 0 0 1 .538-.074c.584.16 1.201.241 1.834.241 3.707 0 6.713-2.462 6.713-5.5s-3.006-5.5-6.713-5.5zm-1.834 3.444a.73.73 0 0 1 .731.731.73.73 0 0 1-.731.731.73.73 0 0 1-.731-.731.73.73 0 0 1 .731-.731zm3.669 0a.73.73 0 0 1 .731.731.73.73 0 0 1-.731.731.73.73 0 0 1-.731-.731.73.73 0 0 1 .731-.731z"/></svg>
     微信
@@ -618,7 +644,7 @@ function loadPostByUrl(url) {
 }
 
 // 渲染评论系统
-function renderCommentSystem(post) {
+function renderCommentSystem(pathname) {
   let html = '<div class="comments-section">';
   html += '<h3 class="comments-title">评论</h3>';
   html += '<div class="giscus-container"></div>';
@@ -626,7 +652,7 @@ function renderCommentSystem(post) {
   
   // 延迟加载giscus
   setTimeout(() => {
-    loadGiscus(post.url);
+    loadGiscus(pathname);
   }, 500);
   
   return html;
@@ -645,8 +671,8 @@ function loadGiscus(pathname) {
   script.src = 'https://giscus.app/client.js';
   script.setAttribute('data-repo', 'lishuhang/lishuhang.github.io');
   script.setAttribute('data-repo-id', 'R_kgDONhMDVA');
-  script.setAttribute('data-category', 'General');
-  script.setAttribute('data-category-id', 'DIC_kwDONhMDVM4ClWQa');
+  script.setAttribute('data-category', 'Announcements');
+  script.setAttribute('data-category-id', 'DIC_kwDONhMDVM4ClWQb');
   script.setAttribute('data-mapping', 'pathname');
   script.setAttribute('data-strict', '0');
   script.setAttribute('data-reactions-enabled', '1');
