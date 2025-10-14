@@ -896,6 +896,23 @@ function checkAndLoadFromURL() {
   const urlParams = new URLSearchParams(window.location.search);
   const pathname = window.location.pathname;
   
+  // 检查是否有post参数（从page.html重定向而来）
+  if (urlParams.has('post')) {
+    const postUrl = urlParams.get('post');
+    const postIndex = postsMetadata.findIndex(post => post.url === postUrl);
+    if (postIndex !== -1) {
+      console.log('Loading post from redirect:', postUrl);
+      loadPostContent(postIndex);
+      // 更新URL为文章的真实URL，移除post参数
+      window.history.replaceState(
+        { type: 'post', postIndex: postIndex },
+        postsMetadata[postIndex].title,
+        postUrl
+      );
+      return;
+    }
+  }
+  
   // 检查是否是文章URL (e.g., /posts/2025/07/23/daily/)
   if (pathname.startsWith('/posts/') && pathname !== '/posts/') {
     // 查找匹配的文章
