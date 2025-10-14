@@ -127,3 +127,30 @@
   background: var(--border-dark);
 }
 
+
+
+/* 强制深色模式背景 */
+[data-theme="dark"] * {
+  border-color: var(--border-light);
+}
+
+[data-theme="dark"] .blog-container {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="dark"] .blog-main {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="dark"] #postsContainer {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="dark"] #postsView {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="dark"] #postView {
+  background-color: var(--bg-primary);
+}
+
