@@ -5,11 +5,11 @@
 
 /* ===== 基础变量定义 ===== */
 :root {
-  /* 主色调 - Chakra UI 蓝色系 */
-  --primary-blue: #3182CE;
-  --primary-blue-light: #4299E1;
-  --primary-blue-dark: #2C5282;
-  --primary-blue-hover: #2B6CB0;
+  /* 主色调 - 统一Accent Color */
+  --primary-blue: #347df8;
+  --primary-blue-light: #4d8fff;
+  --primary-blue-dark: #2768d9;
+  --primary-blue-hover: #4d8fff;
   
   /* 背景色系 - Chakra UI 灰色系 */
   --bg-primary: #F7FAFC;
