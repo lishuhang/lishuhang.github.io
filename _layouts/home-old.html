@@ -31,30 +31,25 @@ layout: base
         </div>
       </div>
       
-      <!-- 年份选择器 - 单个下拉菜单 -->
+      <!-- 年份选择器 -->
       <div class="year-selector">
         <label class="section-label">选择年份</label>
-        <div class="year-section">
-          <div class="year-header" id="yearDropdownHeader">
-            <span class="year-title">按年份浏览</span>
-            <svg class="year-icon collapsed" viewBox="0 0 12 12" fill="currentColor">
-              <path d="M6 8.825c-.2 0-.4-.1-.5-.2l-3.3-3.3c-.3-.3-.3-.8 0-1.1.3-.3.8-.3 1.1 0l2.7 2.7 2.7-2.7c.3-.3.8-.3 1.1 0 .3.3.3.8 0 1.1l-3.2 3.2c-.2.2-.4.3-.6.3Z"/>
-            </svg>
+        <div id="yearContainer">
+          {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+          {% for year_group in posts_by_year %}
+          <div class="year-section">
+            <div class="year-header" data-year="{{ year_group.name }}">
+              <span class="year-title">{{ year_group.name }}年 ({{ year_group.items | size }}篇)</span>
+              <svg class="year-icon collapsed" viewBox="0 0 12 12" fill="currentColor">
+                <path d="M6 8.825c-.2 0-.4-.1-.5-.2l-3.3-3.3c-.3-.3-.3-.8 0-1.1.3-.3.8-.3 1.1 0l2.7 2.7 2.7-2.7c.3-.3.8-.3 1.1 0 .3.3.3.8 0 1.1l-3.2 3.2c-.2.2-.4.3-.6.3Z"/>
+              </svg>
+            </div>
+            <div class="year-content" id="year-{{ year_group.name }}">
+              <a href="#" class="year-link" data-year="{{ year_group.name }}">查看本年度所有文章</a>
+            </div>
           </div>
-          <div class="year-dropdown-content" id="yearDropdownContent">
-            {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-            {% for year_group in posts_by_year %}
-            <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ year_group.items | size }}篇)</a>
-            {% endfor %}
-          </div>
+          {% endfor %}
         </div>
-      </div>
-      
-      <!-- 导航链接 -->
-      <div class="nav-links">
-        <label class="section-label">更多</label>
-        <a href="{{ '/about' | relative_url }}" class="nav-link">关于</a>
-        <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
       </div>
       
       <!-- 版权信息 -->
@@ -66,60 +61,42 @@ layout: base
 
   <!-- 主内容区 -->
   <main class="blog-main" id="blogMain">
-    <!-- 文章列表视图 -->
-    <div id="postsView">
-      <div id="postsContainer">
-        {% for post in site.posts %}
-        <article class="post-card" data-year="{{ post.date | date: '%Y' }}" data-tags="{{ post.tags | join: ',' }}" data-url="{{ post.url | relative_url }}" data-title="{{ post.title | escape }}" data-date="{{ post.date | date: '%Y-%m-%d' }}" data-author="{{ post.author | default: site.author }}" data-image="{{ post.image | relative_url }}">
-          <a href="{{ post.url | relative_url }}" class="post-card-link">
-            {% if post.image %}
-            <div class="post-card-image">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-            </div>
-            {% endif %}
-            <div class="post-card-content">
-              <h2 class="post-card-title">{{ post.title }}</h2>
-              <div class="post-card-meta">
-                <span class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-                {% if post.tags.size > 0 %}
-                <span class="post-card-tags">
-                  {% for tag in post.tags limit: 3 %}
-                  <span class="post-tag">#{{ tag }}</span>
-                  {% endfor %}
-                </span>
-                {% endif %}
-              </div>
-              {% if post.excerpt %}
-              <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    <div id="postsContainer">
+      {% for post in site.posts limit: 12 %}
+      <article class="post-card" data-year="{{ post.date | date: '%Y' }}" data-tags="{{ post.tags | join: ',' }}">
+        <a href="{{ post.url | relative_url }}" class="post-card-link">
+          {% if post.image %}
+          <div class="post-card-image">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+          </div>
+          {% endif %}
+          <div class="post-card-content">
+            <h2 class="post-card-title">{{ post.title }}</h2>
+            <div class="post-card-meta">
+              <span class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+              {% if post.tags.size > 0 %}
+              <span class="post-card-tags">
+                {% for tag in post.tags limit: 3 %}
+                <span class="post-tag">#{{ tag }}</span>
+                {% endfor %}
+              </span>
               {% endif %}
             </div>
-          </a>
-        </article>
-        {% endfor %}
-      </div>
-      
-      <div id="loadingIndicator" class="loading" style="display: none;">
-        正在加载更多文章...
-      </div>
-      
-      <div id="noMorePosts" class="no-more" style="display: none;">
-        没有更多文章了
-      </div>
+            {% if post.excerpt %}
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            {% endif %}
+          </div>
+        </a>
+      </article>
+      {% endfor %}
     </div>
-
-    <!-- 文章详情视图 -->
-    <div id="postView" style="display: none;">
-      <div class="post-header">
-        <button id="backToList" class="back-button">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M19 12H5M5 12L12 19M5 12L12 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          返回列表
-        </button>
-      </div>
-      <div id="postContent" class="post-content-wrapper">
-        <div class="loading">正在加载文章...</div>
-      </div>
+    
+    <div id="loadingIndicator" class="loading" style="display: none;">
+      正在加载更多文章...
+    </div>
+    
+    <div id="noMorePosts" class="no-more" style="display: none;">
+      没有更多文章了
     </div>
   </main>
 </div>
@@ -169,10 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // 初始化无限滚动
   initInfiniteScroll();
   
-  // 初始渲染
-  renderPosts();
-  
-  console.log('Blog initialized with', allPosts.length, 'posts');
+  console.log('Blog initialized');
 });
 
 // 收集所有文章数据
@@ -181,10 +155,9 @@ function collectAllPosts() {
   allPosts = Array.from(postCards).map(card => ({
     element: card,
     year: card.dataset.year,
-    tags: card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [],
+    tags: card.dataset.tags ? card.dataset.tags.split(',') : [],
     title: card.querySelector('.post-card-title').textContent.toLowerCase(),
-    excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
-    url: card.dataset.url
+    excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || ''
   }));
   filteredPosts = [...allPosts];
   console.log('Collected posts:', allPosts.length);
@@ -207,11 +180,13 @@ function bindEvents() {
     });
   });
   
-  // 年份下拉菜单
-  const yearDropdownHeader = document.getElementById('yearDropdownHeader');
-  if (yearDropdownHeader) {
-    yearDropdownHeader.addEventListener('click', toggleYearDropdown);
-  }
+  // 年份展开/折叠
+  document.querySelectorAll('.year-header').forEach(header => {
+    header.addEventListener('click', (e) => {
+      const year = e.currentTarget.dataset.year;
+      toggleYear(year);
+    });
+  });
   
   // 年份链接点击
   document.querySelectorAll('.year-link').forEach(link => {
@@ -221,22 +196,6 @@ function bindEvents() {
       handleYearClick(year);
     });
   });
-  
-  // 文章卡片点击
-  document.addEventListener('click', (e) => {
-    const postLink = e.target.closest('.post-card-link');
-    if (postLink) {
-      e.preventDefault();
-      const postCard = postLink.closest('.post-card');
-      loadPostContent(postCard.dataset.url);
-    }
-  });
-  
-  // 返回列表按钮
-  const backToList = document.getElementById('backToList');
-  if (backToList) {
-    backToList.addEventListener('click', showPostsList);
-  }
   
   // 移动端菜单
   const hamburgerButton = document.getElementById('hamburgerButton');
@@ -276,7 +235,7 @@ function handleSearch(e) {
     return;
   }
   
-  // 搜索所有文章
+  // 搜索文章
   filteredPosts = allPosts.filter(post => 
     post.title.includes(query) || post.excerpt.includes(query)
   );
@@ -327,38 +286,29 @@ function handleYearClick(year) {
   
   renderPosts();
   
-  // 关闭下拉菜单和移动端侧边栏
-  closeYearDropdown();
+  // 关闭移动端侧边栏
   closeMobileSidebar();
 }
 
-// 年份下拉菜单控制
-function toggleYearDropdown() {
-  const header = document.getElementById('yearDropdownHeader');
-  const content = document.getElementById('yearDropdownContent');
+// 年份展开/折叠
+function toggleYear(year) {
+  const header = document.querySelector(`[data-year="${year}"]`);
+  const content = document.getElementById(`year-${year}`);
   const icon = header.querySelector('.year-icon');
   
   const isExpanded = content.classList.contains('expanded');
   
   if (isExpanded) {
-    closeYearDropdown();
+    content.classList.remove('expanded');
+    icon.classList.remove('expanded');
+    icon.classList.add('collapsed');
+    header.classList.remove('expanded');
   } else {
     content.classList.add('expanded');
     icon.classList.add('expanded');
     icon.classList.remove('collapsed');
     header.classList.add('expanded');
   }
-}
-
-function closeYearDropdown() {
-  const header = document.getElementById('yearDropdownHeader');
-  const content = document.getElementById('yearDropdownContent');
-  const icon = header.querySelector('.year-icon');
-  
-  content.classList.remove('expanded');
-  icon.classList.remove('expanded');
-  icon.classList.add('collapsed');
-  header.classList.remove('expanded');
 }
 
 // 渲染文章列表
@@ -390,12 +340,9 @@ function renderPosts() {
 // 无限滚动
 function initInfiniteScroll() {
   const blogMain = document.getElementById('blogMain');
+  const loadingIndicator = document.getElementById('loadingIndicator');
   
   blogMain.addEventListener('scroll', () => {
-    // 只在文章列表视图时触发
-    const postsView = document.getElementById('postsView');
-    if (postsView.style.display === 'none') return;
-    
     const scrollTop = blogMain.scrollTop;
     const scrollHeight = blogMain.scrollHeight;
     const clientHeight = blogMain.clientHeight;
@@ -421,61 +368,7 @@ function loadMorePosts() {
     renderPosts();
     loadingIndicator.style.display = 'none';
     isLoading = false;
-  }, 300);
-}
-
-// 加载文章内容
-async function loadPostContent(url) {
-  const postsView = document.getElementById('postsView');
-  const postView = document.getElementById('postView');
-  const postContent = document.getElementById('postContent');
-  const blogMain = document.getElementById('blogMain');
-  
-  // 切换视图
-  postsView.style.display = 'none';
-  postView.style.display = 'block';
-  
-  // 滚动到顶部
-  blogMain.scrollTop = 0;
-  
-  // 显示加载状态
-  postContent.innerHTML = '<div class="loading">正在加载文章...</div>';
-  
-  try {
-    // 获取文章内容
-    const response = await fetch(url);
-    const html = await response.text();
-    
-    // 解析HTML
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
-    
-    // 提取文章内容
-    const article = doc.querySelector('article') || doc.querySelector('.post') || doc.querySelector('main');
-    
-    if (article) {
-      postContent.innerHTML = article.innerHTML;
-    } else {
-      postContent.innerHTML = '<div class="error">无法加载文章内容</div>';
-    }
-  } catch (error) {
-    console.error('Failed to load post:', error);
-    postContent.innerHTML = '<div class="error">加载失败，请刷新重试</div>';
-  }
-}
-
-// 显示文章列表
-function showPostsList() {
-  const postsView = document.getElementById('postsView');
-  const postView = document.getElementById('postView');
-  const blogMain = document.getElementById('blogMain');
-  
-  // 切换视图
-  postView.style.display = 'none';
-  postsView.style.display = 'block';
-  
-  // 滚动到顶部
-  blogMain.scrollTop = 0;
+  }, 500);
 }
 
 // 移动端侧边栏控制

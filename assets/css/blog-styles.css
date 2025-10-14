@@ -157,7 +157,6 @@
 }
 
 .year-section {
-  margin-bottom: var(--space-4);
   border: 1px solid var(--border-light);
   border-radius: var(--radius-lg);
   background-color: var(--bg-white);
@@ -212,28 +211,57 @@
   transform: rotate(0deg);
 }
 
-.year-content {
+.year-dropdown-content {
   max-height: 0;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
   transition: max-height var(--duration-slow) ease;
 }
 
-.year-content.expanded {
-  max-height: 100px;
+.year-dropdown-content.expanded {
+  max-height: 400px;
 }
 
 .year-link {
   display: block;
-  padding: var(--space-4) var(--space-6);
-  color: var(--primary-blue);
+  padding: var(--space-3) var(--space-6);
+  color: var(--text-primary);
   text-decoration: none;
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-medium);
   transition: background-color var(--duration-fast) ease;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.year-link:last-child {
+  border-bottom: none;
 }
 
 .year-link:hover {
   background-color: var(--bg-hover);
+  color: var(--primary-blue);
+}
+
+/* ===== 导航链接 ===== */
+.nav-links {
+  margin-bottom: var(--space-6);
+}
+
+.nav-link {
+  display: block;
+  padding: var(--space-3) var(--space-4);
+  color: var(--text-primary);
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--radius-md);
+  transition: all var(--duration-fast) ease;
+  margin-bottom: var(--space-2);
+}
+
+.nav-link:hover {
+  background-color: var(--bg-hover);
+  color: var(--primary-blue);
 }
 
 /* ===== 版权信息 ===== */
@@ -356,6 +384,48 @@
   padding: var(--space-8);
   color: var(--text-secondary);
   font-size: var(--font-size-sm);
+}
+
+/* ===== 文章详情视图 ===== */
+.post-header {
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  background-color: var(--bg-white);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all var(--duration-fast) ease;
+}
+
+.back-button:hover {
+  background-color: var(--bg-hover);
+  border-color: var(--primary-blue);
+  color: var(--primary-blue);
+}
+
+.post-content-wrapper {
+  background-color: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-content-wrapper .error {
+  text-align: center;
+  padding: var(--space-8);
+  color: var(--text-secondary);
 }
 
 /* ===== 移动端样式 ===== */
