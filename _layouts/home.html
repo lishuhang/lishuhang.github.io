@@ -245,6 +245,13 @@ function bindEvents() {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
       const tag = e.target.dataset.tag;
+      
+      // 如果当前在文章页，先返回列表
+      const postView = document.getElementById('postView');
+      if (postView && postView.style.display !== 'none') {
+        showPostsList();
+      }
+      
       handleTagClick(tag, e.target);
     });
   });
@@ -254,6 +261,13 @@ function bindEvents() {
     link.addEventListener('click', (e) => {
       e.preventDefault();
       const year = e.target.dataset.year;
+      
+      // 如果当前在文章页，先返回列表
+      const postView = document.getElementById('postView');
+      if (postView && postView.style.display !== 'none') {
+        showPostsList();
+      }
+      
       handleYearClick(year);
     });
   });
@@ -309,6 +323,12 @@ function bindEvents() {
 function handleSearch(e) {
   const query = e.target.value.toLowerCase().trim();
   
+  // 如果当前在文章页，先返回列表
+  const postView = document.getElementById('postView');
+  if (postView && postView.style.display !== 'none') {
+    showPostsList();
+  }
+  
   if (query === '') {
     if (currentFilter.type) {
       applyFilter(currentFilter.type, currentFilter.value);
@@ -362,6 +382,35 @@ function handleYearClick(year) {
   
   renderPosts();
   closeMobileSidebar();
+}
+
+// 从文章页点击标签的处理
+function handleTagClickFromPost(tag) {
+  // 关闭文章详情页，返回列表
+  showPostsList();
+  
+  // 应用标签筛选
+  currentFilter = { type: 'tag', value: tag };
+  filteredPosts = allPosts.filter(post => post.tags.includes(tag));
+  displayedCount = Math.min(12, filteredPosts.length);
+  
+  // 清空搜索框
+  const searchInput = document.getElementById('searchInput');
+  if (searchInput) searchInput.value = '';
+  
+  // 高亮对应的标签按钮
+  document.querySelectorAll('.tag-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.dataset.tag === tag) {
+      btn.classList.add('active');
+    }
+  });
+  
+  renderPosts();
+  
+  // 滚动到顶部
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
 }
 
 // 渲染文章列表
@@ -541,7 +590,7 @@ function renderPostDetail(post, articleContent) {
   if (post.tags && post.tags.length > 0) {
     html += '<div class="post-detail-tags">';
     post.tags.forEach(tag => {
-      html += `<span class="post-detail-tag">#${tag}</span>`;
+      html += `<a href="#" class="post-detail-tag" data-tag="${tag}" onclick="event.preventDefault(); handleTagClickFromPost('${tag}')">#${tag}</a>`;
     });
     html += '</div>';
   }
@@ -684,7 +733,8 @@ function loadGiscus(pathname) {
   script.setAttribute('data-repo-id', 'R_kgDOKbcVHw');
   script.setAttribute('data-category', 'Announcements');
   script.setAttribute('data-category-id', 'DIC_kwDOKbcVH84CwoJY');
-  script.setAttribute('data-mapping', 'pathname');
+  script.setAttribute('data-mapping', 'specific');
+  script.setAttribute('data-term', pathname);
   script.setAttribute('data-strict', '0');
   script.setAttribute('data-reactions-enabled', '1');
   script.setAttribute('data-emit-metadata', '0');

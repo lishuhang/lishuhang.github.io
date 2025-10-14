@@ -36,7 +36,9 @@
 }
 
 /* 深色模式下的特殊调整 */
-[data-theme="dark"] body {
+[data-theme="dark"],
+[data-theme="dark"] body,
+[data-theme="dark"] html {
   background-color: var(--bg-primary);
   color: var(--text-primary);
 }
