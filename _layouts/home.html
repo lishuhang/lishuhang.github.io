@@ -245,17 +245,28 @@ function loadPostsMetadata() {
 // 收集所有文章数据
 function collectAllPosts() {
   const postCards = document.querySelectorAll('.post-card');
-  allPosts = Array.from(postCards)
-    .map(card => ({
-      element: card,
-      year: card.dataset.year,
-      tags: card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [],
-      title: card.querySelector('.post-card-title').textContent.toLowerCase(),
-      excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
-      url: card.dataset.url,
-      index: parseInt(card.dataset.postIndex)
-    }))
-    .filter(post => !post.tags.includes('AIGC')); // 过滤掉AIGC标签的文章
+  allPosts = [];
+  
+  postCards.forEach(card => {
+    const tags = card.dataset.tags ? card.dataset.tags.split(',').filter(t => t) : [];
+    const isAIGC = tags.includes('AIGC');
+    
+    // 在DOM层面隐藏AIGC文章
+    if (isAIGC) {
+      card.style.display = 'none';
+    } else {
+      allPosts.push({
+        element: card,
+        year: card.dataset.year,
+        tags: tags,
+        title: card.querySelector('.post-card-title').textContent.toLowerCase(),
+        excerpt: card.querySelector('.post-card-excerpt')?.textContent.toLowerCase() || '',
+        url: card.dataset.url,
+        index: parseInt(card.dataset.postIndex)
+      });
+    }
+  });
+  
   filteredPosts = [...allPosts];
 }
 
@@ -415,9 +426,8 @@ function handleSearch(e) {
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('search', query);
-  const title = `搜索：${query}`;
-  window.history.pushState({ type: 'search', value: query }, title, url);
-  document.title = `${title} - {{ site.title }}`;
+  updatePageTitle('search', query);
+  window.history.pushState({ type: 'search', value: query }, getPageTitle('search', query), url);
 }
 
 // 标签点击处理
@@ -432,8 +442,8 @@ function handleTagClick(tag, element) {
     updateFilterHeader(null, null);
     
     // 返回主页，清除URL参数
-    window.history.pushState({ type: null }, '{{ site.title }}', '/');
-    document.title = '{{ site.title }}';
+    updatePageTitle(null, null);
+    window.history.pushState({ type: null }, getPageTitle(null, null), '/');
   } else {
     element.classList.add('active');
     currentFilter = { type: 'tag', value: tag };
@@ -444,9 +454,8 @@ function handleTagClick(tag, element) {
     // 更新浏览器历史 - 使用主页路径
     const url = new URL(window.location.origin + '/');
     url.searchParams.set('tag', tag);
-    const title = `标签：${tag}`;
-    window.history.pushState({ type: 'tag', value: tag }, title, url);
-    document.title = `${title} - {{ site.title }}`;
+    updatePageTitle('tag', tag);
+    window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
   }
   
   const searchInput = document.getElementById('searchInput');
@@ -472,9 +481,8 @@ function handleYearClick(year) {
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('year', year);
-  const title = `${year}年文章`;
-  window.history.pushState({ type: 'year', value: year }, title, url);
-  document.title = `${title} - {{ site.title }}`;
+  updatePageTitle('year', year);
+  window.history.pushState({ type: 'year', value: year }, getPageTitle('year', year), url);
 }
 
 // 从文章页点击标签的处理
@@ -504,9 +512,8 @@ function handleTagClickFromPost(tag) {
   // 更新URL和标题
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('tag', tag);
-  const title = `标签：${tag}`;
-  window.history.pushState({ type: 'tag', value: tag }, title, url);
-  document.title = `${title} - {{ site.title }}`;
+  updatePageTitle('tag', tag);
+  window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
   
   renderPosts();
   closeMobileSidebar();
@@ -584,7 +591,7 @@ async function loadPageContent(url, title) {
     title,
     url
   );
-  document.title = `${title} - {{ site.title }}`;
+  updatePageTitle('page', title);
   
   // 显示加载状态
   postContent.innerHTML = '<div class="loading">正在加载内容...</div>';
@@ -658,7 +665,7 @@ async function loadPostContent(postIndex) {
     post.title,
     post.url
   );
-  document.title = `${post.title} - {{ site.title }}`;
+  updatePageTitle('post', post.title);
   
   // 显示加载状态
   postContent.innerHTML = '<div class="loading">正在加载文章...</div>';
@@ -781,9 +788,8 @@ function handleAIGCClick(tag) {
   // 更新浏览器历史
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('tag', tag);
-  const title = `标签：${tag}`;
-  window.history.pushState({ type: 'tag', value: tag }, title, url);
-  document.title = `${title} - {{ site.title }}`;
+  updatePageTitle('tag', tag);
+  window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
 }
 
 // 渲染文章详情
@@ -993,10 +999,10 @@ function showPostsList() {
       title,
       url
     );
-    document.title = `${title} - {{ site.title }}`;
-  } else {
-    window.history.pushState({ type: null }, '{{ site.title }}', '/');
-    document.title = '{{ site.title }}';
+      updatePageTitle(currentFilter.type, currentFilter.value);
+    } else {
+      updatePageTitle(null, null);
+      window.history.pushState({ type: null }, getPageTitle(null, null), '/');
   }
 }
 
@@ -1108,8 +1114,48 @@ function updateFilterHeader(type, value) {
   filterHeader.style.display = 'block';
 }
 
+// 获取页面标题
+function getPageTitle(type, value) {
+  const siteTitle = '{{ site.title }}';
+  const siteTagline = '{{ site.tagline | default: "你应该知道的历史、现在和未来" }}';
+  
+  if (!type || !value) {
+    return `${siteTitle} | ${siteTagline}`;
+  }
+  
+  let prefix = '';
+  if (type === 'year') {
+    prefix = `${value}年文章`;
+  } else if (type === 'tag') {
+    prefix = `标签：${value}`;
+  } else if (type === 'search') {
+    prefix = `搜索：${value}`;
+  } else if (type === 'post') {
+    return `${value} - ${siteTitle}`;
+  } else if (type === 'page') {
+    return `${value} - ${siteTitle}`;
+  }
+  
+  return `${prefix} - ${siteTitle}`;
+}
+
+// 更新页面标题
+function updatePageTitle(type, value) {
+  document.title = getPageTitle(type, value);
+}
+
 // 返回主页
 function resetToHome() {
+  // 如果当前在文章页或页面视图，先返回列表
+  const postView = document.getElementById('postView');
+  const pageView = document.getElementById('pageView');
+  if (postView && postView.style.display !== 'none') {
+    showPostsList();
+  }
+  if (pageView && pageView.style.display !== 'none') {
+    showPostsList();
+  }
+  
   // 清除所有筛选
   currentFilter = { type: null, value: null };
   filteredPosts = [...allPosts];
@@ -1128,13 +1174,16 @@ function resetToHome() {
   // 重新渲染列表
   renderPosts();
   
-  // 更新URL为主页
-  window.history.pushState({ type: null }, '{{ site.title }}', '/');
-  document.title = '{{ site.title }}';
+  // 更新URL和标题
+  updatePageTitle(null, null);
+  window.history.pushState({ type: null }, getPageTitle(null, null), '/');
   
   // 滚动到顶部
   const blogMain = document.getElementById('blogMain');
   if (blogMain) blogMain.scrollTop = 0;
+  
+  // 关闭移动端侧边栏
+  closeMobileSidebar();
 }
 
 // 处理浏览器前进后退
@@ -1156,7 +1205,7 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('tag', event.state.value);
       renderPosts();
       showPostsList();
-      document.title = `标签：${event.state.value} - {{ site.title }}`;
+      updatePageTitle('tag', event.state.value);
     } else if (event.state.type === 'year') {
       // 应用年份筛选
       currentFilter = { type: 'year', value: event.state.value };
@@ -1165,7 +1214,7 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('year', event.state.value);
       renderPosts();
       showPostsList();
-      document.title = `${event.state.value}年文章 - {{ site.title }}`;
+      updatePageTitle('year', event.state.value);
     } else if (event.state.type === 'search') {
       // 应用搜索
       const searchInput = document.getElementById('searchInput');
@@ -1179,7 +1228,7 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('search', event.state.value);
       renderPosts();
       showPostsList();
-      document.title = `搜索：${event.state.value} - {{ site.title }}`;
+      updatePageTitle('search', event.state.value);
     } else if (event.state.type === 'page') {
       // 加载静态页面
       loadPageContent(event.state.url, event.state.title);
