@@ -2,14 +2,49 @@
 layout: base
 ---
 
-<!-- 重定向到主页并加载文章 -->
+<!-- 文章内容（用于fetch） -->
+<div style="display: none;" id="postContentForFetch">
+  <article class="prose">
+    <div class="post-header">
+      <h1>{{ page.title }}</h1>
+      <div class="post-meta">
+        <span>{{ page.author | default: site.author }}</span>
+        <span>•</span>
+        <span>{{ page.date | date: "%Y年%m月%d日" }}</span>
+      </div>
+      {% if page.tags %}
+      <div class="post-tags">
+        {% for tag in page.tags %}
+        <span class="tag">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    
+    {% if page.image %}
+    <div class="post-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+    
+    <div class="post-body">
+      {{ content }}
+    </div>
+  </article>
+</div>
+
+<!-- 重定向脚本（仅在浏览器直接访问时执行） -->
 <script>
 (function() {
-  // 获取当前文章URL
-  const postUrl = window.location.pathname;
-  
-  // 重定向到主页，并通过URL参数传递文章路径
-  window.location.href = '/?post=' + encodeURIComponent(postUrl);
+  // 检测是否是浏览器直接访问（而非fetch请求）
+  // fetch请求不会执行JavaScript，所以这个脚本只在浏览器访问时运行
+  if (window.parent === window) {
+    // 获取当前文章URL
+    const postUrl = window.location.pathname;
+    
+    // 重定向到主页，并通过URL参数传递文章路径
+    window.location.href = '/?post=' + encodeURIComponent(postUrl);
+  }
 })();
 </script>
 

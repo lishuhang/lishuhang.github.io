@@ -933,7 +933,7 @@ function checkAndLoadFromURL() {
     }
   } else if (urlParams.has('year')) {
     const year = urlParams.get('year');
-    handleYearClick(parseInt(year));
+    handleYearClick(year);
   } else if (urlParams.has('search')) {
     const query = urlParams.get('search');
     const searchInput = document.getElementById('searchInput');
