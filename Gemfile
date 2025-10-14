@@ -1,8 +1,7 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-# Gemfile
-gem 'jekyll-paginate'
+gem "jekyll", "~> 4.3"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "webrick"
 

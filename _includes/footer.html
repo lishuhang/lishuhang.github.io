@@ -4,18 +4,15 @@
   <div class="container mx-auto px-4">
     <div class="flex flex-wrap text-left lg:text-left">
       <div class="w-full lg:w-6/12 px-4">
-        <h4 class="text-3xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "航通社" |
-          localize}}</h4>
+        <h4 class="text-3xl fonat-semibold">{{ site.title }}</h4>
         <span class="text-lg dark:text-slate-300 my-4">
-          {{ site.data[site.lang].footer.description | default: "lishuhang.me" }}
+          {{ site.description }}
         </span>
-        {% include social.html %}
       </div>
       <div class="w-full lg:w-6/12 px-4">
         <div class="flex flex-wrap text-right mb-6">
           <div class="w-full lg:w-4/12 px-4 ml-auto">
-            <span class="block uppercase text-slate-800 dark:text-slate-200 font-semibold mb-2">{{
-              site.data[site.lang].footer.pages | default: "页面" }}</span>
+            <span class="block uppercase text-slate-800 dark:text-slate-200 font-semibold mb-2">页面</span>
             <ul>
               {% for page in site.pages %}
               <li>

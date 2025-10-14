@@ -8,26 +8,19 @@ layout: base
       <h1 class="text-2xl md:text-4xl xl:text-5xl text-center py-6 md:p-6">{{page.title}}</h1>
       <div class="flex flex-wrap justify-center gap-4">
         {% for tag in page.tags %}
-        <a class="text-sm text-slate-700 underline md:no-underline hover:underline dark:text-slate-100/80" href="{{ '/tags#' | append: tag | relative_url }}">#{{tag}}</a>
+        <span class="text-sm text-slate-700 dark:text-slate-100/80">#{{tag}}</span>
         {% endfor %}
       </div>
       <div class="flex justify-center items-center gap-2 pt-4">
         <span class="text-slate-700 dark:text-slate-100/80">{{page.author | default: site.author }}</span>
-        <p class="text-slate-700 dark:text-slate-100/80">{{ page.date | date: "%d-%m-%Y" }}</p>
+        <p class="text-slate-700 dark:text-slate-100/80">{{ page.date | date: "%Y-%m-%d" }}</p>
       </div>
-      <div class="mx-auto p-4">
-        {% include sharing.html %}
-      </div>
+
     </div>
-    {% comment %} 修改图片部分添加缩略图服务开关 {% endcomment %}
-    {% if site.thumbnail_service %}
-      <img src="//wsrv.nl/?url={{ page.image | absolute_url }}&w=&h=" 
-           alt="" 
-           class="basis-2/6 w-11/12 md:w-5/12 p-2 md:px-0">
-    {% else %}
-      <img src="{{ page.image | relative_url }}" 
-           alt="" 
-           class="basis-2/6 w-11/12 md:w-5/12 p-2 md:px-0">
+    {% if page.image %}
+    <img src="{{ page.image | relative_url }}" 
+         alt="" 
+         class="basis-2/6 w-11/12 md:w-5/12 p-2 md:px-0">
     {% endif %}
   </div>
 </div>
@@ -39,9 +32,6 @@ layout: base
     </article>
   </div>
 
-  <div class="mx-auto my-10">
-    {% include sharing.html %}
-  </div>
 
   <div class="post-navigation py-8 flex flex-col md:flex-row-reverse justify-center ">
     {% if page.next %}
@@ -79,9 +69,4 @@ layout: base
     {% endif %}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    <div class="mx-auto max-w-prose py-8">
-      {%- include disqus_comments.html -%}
-    </div>
-  {%- endif -%}
 </div>

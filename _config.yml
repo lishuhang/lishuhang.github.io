@@ -1,19 +1,14 @@
-
 # Site
 name: "航通社"
 title: "航通社"
 description: "你应该知道的历史、现在和未来"
-# baseurl: /
-url: "https://lishuhang.me" # the base hostname & protocol for your site
+url: "https://lishuhang.me"
 domain: lishuhang.me
 email: i@lishuhang.me
-
-google_analytics: 'UA-17809464-1'
 
 lang: zh
 
 plugins:
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -24,36 +19,11 @@ collections:
 
 color: "#347df8"
 
-# 缩略图服务开关 wsrv.nl
-thumbnail_service: true  # 设置为 false 禁用缩略图服务
-
-disqus:
-  shortname: lishuhang
-
-rrss:
-  email: "mailto:i@lishuhang.me"
-  telegram: "https://t.me/lishuhang"
-  facebook: "https://facebook.com/lishuhang"
-  instagram: "https://instagram.com/lishuhang"
-  twitter: "https://x.com/lishuhang"
-  discord: ""
-  linkedin: "https://www.linkedin.com/in/lishuhang/"
-  whatsapp: ""
-  pinterest: ""
-
 authors:
   james:
     name: James Li
     display_name: James
-    avatar: ''
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: i@lishuhang.me
     web: https://lishuhang.me
-    twitter: https://twitter.com/lishuhang
     description: "书航，航通社创始人"
 
-# 分类显示文章仅适用于home.html
-
-filter:
-  exclude_tags: ["AIGC"]  # 要排除的标签
-  show_untagged: true      # 是否显示无标签文章

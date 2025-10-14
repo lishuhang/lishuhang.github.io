@@ -7,51 +7,19 @@ layout: base
   </article>
 </div>
 
-<!-- 新增AIGC日报入口 -->
-
-<a href="/daily/" class="max-w-[600px] mx-auto mb-8 p-4 rounded-lg block bg-white dark:bg-slate-800 dark:shadow-md no-underline" style="border: 2px solid #347df8;">
-  <div class="flex items-center justify-between m-4">
-    <h2 class="text-2xl font-bold prose-slate dark:prose-invert">AIGC 日报</h2>
-    <span class="prose-slate dark:prose-invert">
-      每日10:00或日内更新，查看更多 →
-    </span>
-  </div>
-</a>
-
-<!-- 精确过滤AIGC日报文章 -->
-{% assign filtered_posts = "" | split: "," %}
-{% assign target_title1 = "每日 AIGC 早报：" %}
-{% assign target_title2 = "每日AIGC早报：" %}
-{% assign prefix_length1 = target_title1 | size %}
-{% assign prefix_length2 = target_title2 | size %}
-
-{% for post in site.posts %}
-    {% assign title_start1 = post.title | slice: 0, prefix_length1 %}
-    {% assign title_start2 = post.title | slice: 0, prefix_length2 %}
-    {% unless title_start1 == target_title1 or title_start2 == target_title2 %}
-        {% assign filtered_posts = filtered_posts | push: post %}
-    {% endunless %}
-{% endfor %}
-
-<div class="w-full max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10 px-4" id="gallery-container">
-  {% for post in filtered_posts %}
-  <div class="post-item md:fadeIn mb-4 break-inside-avoid relative {% if forloop.index0 >= 9 %}hidden{% endif %}" data-index="{{ forloop.index0 }}">
+<div class="w-full max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10 px-4">
+  {% for post in site.posts limit:12 %}
+  <div class="post-item md:fadeIn mb-4 break-inside-avoid relative">
     <a href="{{ post.url | relative_url }}" 
-       class="gallery-link block p-4 bg-white dark:bg-slate-800 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 hover:-translate-y-1"
-       target="_blank" 
-       rel="noopener noreferrer">
+       class="gallery-link block p-4 bg-white dark:bg-slate-800 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
       <div class="flex flex-col md:flex-row md:items-start gap-4">
+        {% if post.image %}
         <div class="square-container md:w-[100px] flex-shrink-0">
-          {% if site.thumbnail_service %}
-            <img src="//wsrv.nl/?url={{ post.image | absolute_url }}&w=100&h=100" 
-                 alt=""
-                 class="square-image object-cover rounded-md" style="width:100px; height:100px;">
-          {% else %}
-            <img src="{{ post.image | relative_url }}" 
-                 alt=""
-                 class="square-image w-full h-full object-cover rounded-md">
-          {% endif %}
+          <img src="{{ post.image | relative_url }}" 
+               alt=""
+               class="square-image object-cover rounded-md" style="width:100px; height:100px;">
         </div>
+        {% endif %}
         
         <div class="flex-1">
           <h2 class="text-lg md:text-xl lg:text-2xl mb-2 prose prose-slate dark:prose-invert">{{ post.title }}</h2>
@@ -67,22 +35,3 @@ layout: base
   {% endfor %}
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const posts = document.querySelectorAll('.post-item');
-  let visibleCount = 9;
-
-  const loadMorePosts = () => {
-    const nextPosts = Array.from(posts).slice(visibleCount, visibleCount + 9);
-    nextPosts.forEach(post => post.classList.remove('hidden'));
-    visibleCount += nextPosts.length;
-  };
-
-  window.addEventListener('scroll', () => {
-    const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
-    if (scrollTop + clientHeight >= scrollHeight - 100 && visibleCount < posts.length) {
-      loadMorePosts();
-    }
-  });
-});
-</script>
