@@ -370,10 +370,13 @@ function handleSearch(e) {
   updateFilterHeader('search', query);
   renderPosts();
   
-  // 更新浏览器历史
-  const url = new URL(window.location);
+  // 更新浏览器历史 - 使用主页路径
+  const url = new URL(window.location.origin + '/');
   url.searchParams.set('search', query);
-  window.history.pushState({ type: 'search', value: query }, '', url);
+  const title = `搜索：${query}`;
+  window.history.pushState({ type: 'search', value: query }, title, url);
+  document.title = `${title} - {{ site.title }}`;
+}
 }
 
 // 标签点击处理
@@ -388,7 +391,8 @@ function handleTagClick(tag, element) {
     updateFilterHeader(null, null);
     
     // 返回主页，清除URL参数
-    window.history.pushState({ type: null }, '', window.location.pathname);
+    window.history.pushState({ type: null }, '{{ site.title }}', '/');
+    document.title = '{{ site.title }}';
   } else {
     element.classList.add('active');
     currentFilter = { type: 'tag', value: tag };
@@ -396,10 +400,12 @@ function handleTagClick(tag, element) {
     displayedCount = Math.min(12, filteredPosts.length);
     updateFilterHeader('tag', tag);
     
-    // 更新浏览器历史
-    const url = new URL(window.location);
+    // 更新浏览器历史 - 使用主页路径
+    const url = new URL(window.location.origin + '/');
     url.searchParams.set('tag', tag);
-    window.history.pushState({ type: 'tag', value: tag }, '', url);
+    const title = `标签：${tag}`;
+    window.history.pushState({ type: 'tag', value: tag }, title, url);
+    document.title = `${title} - {{ site.title }}`;
   }
   
   const searchInput = document.getElementById('searchInput');
@@ -422,10 +428,12 @@ function handleYearClick(year) {
   renderPosts();
   closeMobileSidebar();
   
-  // 更新浏览器历史
-  const url = new URL(window.location);
+  // 更新浏览器历史 - 使用主页路径
+  const url = new URL(window.location.origin + '/');
   url.searchParams.set('year', year);
-  window.history.pushState({ type: 'year', value: year }, '', url);
+  const title = `${year}年文章`;
+  window.history.pushState({ type: 'year', value: year }, title, url);
+  document.title = `${title} - {{ site.title }}`;
 }
 
 // 从文章页点击标签的处理
@@ -522,6 +530,14 @@ async function loadPageContent(url, title) {
   postsView.style.display = 'none';
   postView.style.display = 'block';
   blogMain.scrollTop = 0;
+  
+  // 更新浏览器URL和标题
+  window.history.pushState(
+    { type: 'page', url: url, title: title },
+    title,
+    url
+  );
+  document.title = `${title} - {{ site.title }}`;
   
   // 显示加载状态
   postContent.innerHTML = '<div class="loading">正在加载内容...</div>';
@@ -812,15 +828,25 @@ function showPostsList() {
   
   // 更新URL为当前筛选状态
   if (currentFilter.type) {
-    const url = new URL(window.location.origin + window.location.pathname);
+    const url = new URL(window.location.origin + '/');
     url.searchParams.set(currentFilter.type, currentFilter.value);
+    let title = '';
+    if (currentFilter.type === 'year') {
+      title = `${currentFilter.value}年文章`;
+    } else if (currentFilter.type === 'tag') {
+      title = `标签：${currentFilter.value}`;
+    } else if (currentFilter.type === 'search') {
+      title = `搜索：${currentFilter.value}`;
+    }
     window.history.pushState(
       { type: currentFilter.type, value: currentFilter.value },
-      '',
+      title,
       url
     );
+    document.title = `${title} - {{ site.title }}`;
   } else {
-    window.history.pushState({ type: null }, '', window.location.pathname);
+    window.history.pushState({ type: null }, '{{ site.title }}', '/');
+    document.title = '{{ site.title }}';
   }
 }
 
@@ -899,8 +925,9 @@ function resetToHome() {
   // 重新渲染列表
   renderPosts();
   
-  // 更新URL
-  window.history.pushState({ type: null }, '', window.location.pathname);
+  // 更新URL为主页
+  window.history.pushState({ type: null }, '{{ site.title }}', '/');
+  document.title = '{{ site.title }}';
   
   // 滚动到顶部
   const blogMain = document.getElementById('blogMain');
@@ -926,6 +953,7 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('tag', event.state.value);
       renderPosts();
       showPostsList();
+      document.title = `标签：${event.state.value} - {{ site.title }}`;
     } else if (event.state.type === 'year') {
       // 应用年份筛选
       currentFilter = { type: 'year', value: event.state.value };
@@ -934,6 +962,7 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('year', event.state.value);
       renderPosts();
       showPostsList();
+      document.title = `${event.state.value}年文章 - {{ site.title }}`;
     } else if (event.state.type === 'search') {
       // 应用搜索
       const searchInput = document.getElementById('searchInput');
@@ -947,11 +976,24 @@ window.addEventListener('popstate', (event) => {
       updateFilterHeader('search', event.state.value);
       renderPosts();
       showPostsList();
+      document.title = `搜索：${event.state.value} - {{ site.title }}`;
+    } else if (event.state.type === 'page') {
+      // 加载静态页面
+      loadPageContent(event.state.url, event.state.title);
     } else {
       // 返回主页
       resetToHome();
     }
+  } else {
+    // 没有state，返回主页
+    resetToHome();
   }
+});
+
+// 页面初始加载时设置初始状态
+window.addEventListener('load', () => {
+  // 设置初始状态
+  window.history.replaceState({ type: null }, document.title, window.location.pathname + window.location.search);
 });
 
 // ===== 深色模式功能 =====
