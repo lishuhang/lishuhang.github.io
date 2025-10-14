@@ -1,0 +1,127 @@
+/* 深色模式样式 */
+
+/* 深色模式变量 */
+[data-theme="dark"] {
+  /* 主色调 - 深色模式下稍微调亮 */
+  --primary-blue: #4299E1;
+  --primary-blue-light: #63B3ED;
+  --primary-blue-dark: #3182CE;
+  --primary-blue-hover: #5AA9E6;
+  
+  /* 背景色系 - 深色调色板 */
+  --bg-primary: #1A202C;
+  --bg-secondary: #2D3748;
+  --bg-tertiary: #4A5568;
+  --bg-white: #2D3748;
+  --bg-hover: #374151;
+  --bg-active: #4A5568;
+  
+  /* 文字色系 - 深色模式反转 */
+  --text-primary: #F7FAFC;
+  --text-secondary: #CBD5E0;
+  --text-muted: #A0AEC0;
+  --text-white: #1A202C;
+  
+  /* 边框和分割线 - 深色调整 */
+  --border-light: #4A5568;
+  --border-medium: #718096;
+  --border-dark: #A0AEC0;
+  
+  /* 阴影系统 - 深色模式下减弱阴影 */
+  --shadow-xs: 0 0 0 1px rgba(0, 0, 0, 0.3);
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.4), 0 10px 10px -5px rgba(0, 0, 0, 0.3);
+}
+
+/* 深色模式下的特殊调整 */
+[data-theme="dark"] body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+/* 深色模式下的图片调整 */
+[data-theme="dark"] img {
+  opacity: 0.9;
+}
+
+/* 深色模式下的代码块 */
+[data-theme="dark"] code {
+  background-color: var(--bg-tertiary);
+  color: #E2E8F0;
+}
+
+[data-theme="dark"] pre {
+  background-color: var(--bg-tertiary);
+  border: 1px solid var(--border-medium);
+}
+
+/* 深色模式下的链接 */
+[data-theme="dark"] a {
+  color: var(--primary-blue-light);
+}
+
+[data-theme="dark"] a:hover {
+  color: var(--primary-blue);
+}
+
+/* 深色模式下的输入框 */
+[data-theme="dark"] input,
+[data-theme="dark"] textarea {
+  background-color: var(--bg-tertiary);
+  border-color: var(--border-medium);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] input::placeholder,
+[data-theme="dark"] textarea::placeholder {
+  color: var(--text-muted);
+}
+
+/* 深色模式下的按钮调整 */
+[data-theme="dark"] .btn-secondary {
+  background-color: var(--bg-tertiary);
+  border-color: var(--border-medium);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .btn-secondary:hover {
+  background-color: var(--bg-active);
+}
+
+/* 深色模式下的卡片 */
+[data-theme="dark"] .card {
+  background-color: var(--bg-white);
+  border-color: var(--border-light);
+}
+
+/* 深色模式下的文章卡片图片 */
+[data-theme="dark"] .post-card-image img {
+  opacity: 0.85;
+  transition: opacity var(--duration-fast) ease;
+}
+
+[data-theme="dark"] .post-card:hover .post-card-image img {
+  opacity: 1;
+}
+
+/* 深色模式下的滚动条 */
+[data-theme="dark"] ::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--border-medium);
+  border-radius: var(--radius-md);
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--border-dark);
+}
+

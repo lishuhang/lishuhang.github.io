@@ -49,6 +49,17 @@ layout: base
         <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
       </div>
       
+      <!-- 深色模式切换 -->
+      <div class="theme-toggle">
+        <label class="toggle-label">
+          <span class="toggle-text">深色模式</span>
+          <div class="toggle-switch">
+            <input type="checkbox" id="darkModeToggle">
+            <span class="toggle-slider"></span>
+          </div>
+        </label>
+      </div>
+      
       <!-- 版权信息 -->
       <div class="copyright">
         © {{ site.name | default: site.title }}
@@ -730,5 +741,62 @@ function debounce(func, wait) {
     timeout = setTimeout(later, wait);
   };
 }
+
+// ===== 深色模式功能 =====
+
+// 初始化深色模式
+function initDarkMode() {
+  const darkModeToggle = document.getElementById('darkModeToggle');
+  if (!darkModeToggle) return;
+  
+  // 检查用户之前的选择
+  const savedTheme = localStorage.getItem('theme');
+  
+  if (savedTheme) {
+    // 如果用户之前选择过，使用保存的设置
+    applyTheme(savedTheme);
+    darkModeToggle.checked = savedTheme === 'dark';
+  } else {
+    // 否则跟随系统设置
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const theme = prefersDark ? 'dark' : 'light';
+    applyTheme(theme);
+    darkModeToggle.checked = prefersDark;
+  }
+  
+  // 监听切换按钮
+  darkModeToggle.addEventListener('change', (e) => {
+    const theme = e.target.checked ? 'dark' : 'light';
+    applyTheme(theme);
+    localStorage.setItem('theme', theme);
+  });
+  
+  // 监听系统主题变化（仅当用户未手动设置时）
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+    if (!localStorage.getItem('theme')) {
+      const theme = e.matches ? 'dark' : 'light';
+      applyTheme(theme);
+      darkModeToggle.checked = e.matches;
+    }
+  });
+}
+
+// 应用主题
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  
+  // 更新 giscus 评论系统主题
+  const giscusFrame = document.querySelector('iframe.giscus-frame');
+  if (giscusFrame) {
+    const giscusTheme = theme === 'dark' ? 'dark' : 'light';
+    giscusFrame.contentWindow.postMessage(
+      { giscus: { setConfig: { theme: giscusTheme } } },
+      'https://giscus.app'
+    );
+  }
+}
+
+// 在 DOM 加载完成后初始化深色模式
+document.addEventListener('DOMContentLoaded', initDarkMode);
 </script>
 
