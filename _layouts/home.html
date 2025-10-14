@@ -423,15 +423,29 @@ function handleSearch(e) {
   updateFilterHeader('search', query);
   renderPosts();
   
+  // 清除标签高亮
+  document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
+  
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('search', query);
   updatePageTitle('search', query);
   window.history.pushState({ type: 'search', value: query }, getPageTitle('search', query), url);
+  closeMobileSidebar();
 }
 
 // 标签点击处理
 function handleTagClick(tag, element) {
+  // 如果当前在文章页或页面视图，先返回列表
+  const postView = document.getElementById('postView');
+  const pageView = document.getElementById('pageView');
+  if (postView && postView.style.display !== 'none') {
+    showPostsList();
+  }
+  if (pageView && pageView.style.display !== 'none') {
+    showPostsList();
+  }
+  
   const wasActive = element.classList.contains('active');
   document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
   
@@ -462,27 +476,39 @@ function handleTagClick(tag, element) {
   if (searchInput) searchInput.value = '';
   
   renderPosts();
+  closeMobileSidebar();
 }
 
 // 年份点击处理
 function handleYearClick(year) {
+  // 如果当前在文章页或页面视图，先返回列表
+  const postView = document.getElementById('postView');
+  const pageView = document.getElementById('pageView');
+  if (postView && postView.style.display !== 'none') {
+    showPostsList();
+  }
+  if (pageView && pageView.style.display !== 'none') {
+    showPostsList();
+  }
+  
   currentFilter = { type: 'year', value: year };
   filteredPosts = allPosts.filter(post => post.year === year);
   displayedCount = Math.min(12, filteredPosts.length);
+  updateFilterHeader('year', year);
   
   const searchInput = document.getElementById('searchInput');
   if (searchInput) searchInput.value = '';
+  
   document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
   
-  updateFilterHeader('year', year);
   renderPosts();
-  closeMobileSidebar();
   
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('year', year);
   updatePageTitle('year', year);
   window.history.pushState({ type: 'year', value: year }, getPageTitle('year', year), url);
+  closeMobileSidebar();
 }
 
 // 从文章页点击标签的处理
