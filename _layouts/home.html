@@ -20,19 +20,14 @@ layout: base
       
       <!-- AIGC早报链接 -->
       <div class="aigc-link-section">
-        <a href="#" class="aigc-link" data-tag="AIGC">每日AIGC早报</a>
+        <a href="/?tag=AIGC" class="aigc-link" data-tag="AIGC">每日AIGC早报</a>
       </div>
       
       <!-- 标签区域 -->
       <div class="tags-section">
         <label class="section-label">标签</label>
         <div class="tags-container" id="tagsContainer">
-          {% assign all_tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
-          {% for tag in all_tags %}
-            {% if tag != "" %}
-            <a href="#" class="tag-btn" data-tag="{{ tag }}">{{ tag }}</a>
-            {% endif %}
-          {% endfor %}
+          <!-- 标签将通过JavaScript动态生成 -->
         </div>
       </div>
       
@@ -46,7 +41,7 @@ layout: base
           {% assign total_posts = year_group.items | size %}
           {% assign aigc_count = aigc_posts | size %}
           {% assign non_aigc_count = total_posts | minus: aigc_count %}
-          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ non_aigc_count }}篇)</a>
+          <a href="/?year={{ year_group.name }}" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ non_aigc_count }}篇)</a>
           {% endfor %}
         </div>
       </div>
@@ -163,14 +158,14 @@ layout: base
         <div class="loading">正在加载内容...</div>
       </div>
     </div>
+    
+    <!-- 返回顶部按钮 -->
+    <button id="backToTopBtn" class="back-to-top-btn" style="display: none;" title="返回顶部">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 19V5M12 5L5 12M12 5L19 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
   </main>
-  
-  <!-- 返回顶部按钮 -->
-  <button id="backToTopBtn" class="back-to-top-btn" style="display: none;" title="返回顶部">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 19V5M12 5L5 12M12 5L19 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
-  </button>
 </div>
 
 <!-- 移动端标题栏 -->
@@ -231,6 +226,9 @@ document.addEventListener('DOMContentLoaded', function() {
   // 收集所有文章数据
   collectAllPosts();
   
+  // 生成标签词云
+  generateTagCloud();
+  
   // 绑定事件
   bindEvents();
   
@@ -281,6 +279,43 @@ function collectAllPosts() {
   });
   
   filteredPosts = [...allPosts];
+}
+
+// 生成标签词云（大小写不敏感去重）
+function generateTagCloud() {
+  const tagsContainer = document.getElementById('tagsContainer');
+  if (!tagsContainer) return;
+  
+  // 收集所有标签
+  const tagMap = new Map(); // 使用 Map 来存储小写标签到原始标签的映射
+  
+  allPosts.forEach(post => {
+    post.tags.forEach(tag => {
+      const lowerTag = tag.toLowerCase();
+      // 如果这个小写标签还没有，或者当前标签是大写开头，则使用当前标签
+      if (!tagMap.has(lowerTag) || (tag[0] === tag[0].toUpperCase() && tagMap.get(lowerTag)[0] === tagMap.get(lowerTag)[0].toLowerCase())) {
+        tagMap.set(lowerTag, tag);
+      }
+    });
+  });
+  
+  // 按字母顺序排序
+  const sortedTags = Array.from(tagMap.values()).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+  
+  // 生成标签按钮
+  tagsContainer.innerHTML = '';
+  sortedTags.forEach(tag => {
+    const tagBtn = document.createElement('a');
+    tagBtn.href = `/?tag=${encodeURIComponent(tag)}`;
+    tagBtn.className = 'tag-btn';
+    tagBtn.dataset.tag = tag;
+    tagBtn.textContent = tag;
+    tagBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      handleTagClick(tag, tagBtn);
+    });
+    tagsContainer.appendChild(tagBtn);
+  });
 }
 
 // 绑定事件
@@ -458,15 +493,18 @@ function handleSearch(e) {
   // 清除标签高亮
   document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
   
+  // 滚动到顶部
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
+  
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('search', query);
   updatePageTitle('search', query);
-  const blogMain = document.getElementById('blogMain');
   window.history.pushState({ 
     type: 'search', 
     value: query,
-    listScrollPos: blogMain ? blogMain.scrollTop : 0
+    listScrollPos: 0
   }, getPageTitle('search', query), url);
   closeMobileSidebar();
 }
@@ -509,11 +547,10 @@ function handleTagClick(tag, element) {
     const url = new URL(window.location.origin + '/');
     url.searchParams.set('tag', tag);
     updatePageTitle('tag', tag);
-    const blogMain = document.getElementById('blogMain');
     window.history.pushState({ 
       type: 'tag', 
       value: tag,
-      listScrollPos: blogMain ? blogMain.scrollTop : 0
+      listScrollPos: 0
     }, getPageTitle('tag', tag), url);
   }
   
@@ -521,6 +558,11 @@ function handleTagClick(tag, element) {
   if (searchInput) searchInput.value = '';
   
   renderPosts();
+  
+  // 滚动到顶部
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
+  
   closeMobileSidebar();
 }
 
@@ -548,15 +590,18 @@ function handleYearClick(year) {
   
   renderPosts();
   
+  // 滚动到顶部
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
+  
   // 更新浏览器历史 - 使用主页路径
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('year', year);
   updatePageTitle('year', year);
-  const blogMain = document.getElementById('blogMain');
   window.history.pushState({ 
     type: 'year', 
     value: year,
-    listScrollPos: blogMain ? blogMain.scrollTop : 0
+    listScrollPos: 0
   }, getPageTitle('year', year), url);
   closeMobileSidebar();
 }
@@ -605,10 +650,13 @@ function handleTagClickFromPost(tag) {
 
 // 渲染文章列表
 function renderPosts() {
-  allPosts.forEach(post => {
-    post.element.style.display = 'none';
+  // 隐藏所有文章卡片（包括AIGC文章）
+  const allPostCards = document.querySelectorAll('.post-card');
+  allPostCards.forEach(card => {
+    card.style.display = 'none';
   });
   
+  // 显示当前筛选的文章
   const postsToShow = filteredPosts.slice(0, displayedCount);
   postsToShow.forEach(post => {
     post.element.style.display = 'block';
@@ -738,13 +786,14 @@ async function loadPostContent(postIndex) {
   const postContent = document.getElementById('postContent');
   const blogMain = document.getElementById('blogMain');
   
+  // 先保存当前滚动位置和筛选状态（在切换视图之前）
+  const scrollPos = window.scrollY || document.documentElement.scrollTop;
+  const listScrollPos = blogMain.scrollTop;
+  
   // 切换视图
   postsView.style.display = 'none';
   postView.style.display = 'block';
   blogMain.scrollTop = 0;
-  
-  // 保存当前滚动位置和筛选状态
-  const scrollPos = window.scrollY || document.documentElement.scrollTop;
   
   // 更新浏览器URL和标题
   window.history.pushState(
@@ -752,7 +801,7 @@ async function loadPostContent(postIndex) {
       type: 'post', 
       postIndex: postIndex, 
       scrollPos: scrollPos,
-      listScrollPos: blogMain.scrollTop,
+      listScrollPos: listScrollPos,
       filter: currentFilter
     },
     post.title,
@@ -878,17 +927,21 @@ function handleAIGCClick(tag) {
   
   updateFilterHeader('tag', tag);
   renderPosts();
+  
+  // 滚动到顶部
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
+  
   closeMobileSidebar();
   
   // 更新浏览器历史
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('tag', tag);
   updatePageTitle('tag', tag);
-  const blogMain = document.getElementById('blogMain');
   window.history.pushState({ 
     type: 'tag', 
     value: tag,
-    listScrollPos: blogMain ? blogMain.scrollTop : 0
+    listScrollPos: 0
   }, getPageTitle('tag', tag), url);
 }
 
@@ -1087,34 +1140,36 @@ function showPostsList(restoreScroll = false) {
   
   currentPostIndex = -1;
   
-  // 更新URL为当前筛选状态
-  if (currentFilter.type) {
-    const url = new URL(window.location.origin + '/');
-    url.searchParams.set(currentFilter.type, currentFilter.value);
-    let title = '';
-    if (currentFilter.type === 'year') {
-      title = `${currentFilter.value}年文章`;
-    } else if (currentFilter.type === 'tag') {
-      title = `标签：${currentFilter.value}`;
-    } else if (currentFilter.type === 'search') {
-      title = `搜索：${currentFilter.value}`;
+  // 更新URL为当前筛选状态（仅在非恢复模式下）
+  if (!restoreScroll) {
+    if (currentFilter.type) {
+      const url = new URL(window.location.origin + '/');
+      url.searchParams.set(currentFilter.type, currentFilter.value);
+      let title = '';
+      if (currentFilter.type === 'year') {
+        title = `${currentFilter.value}年文章`;
+      } else if (currentFilter.type === 'tag') {
+        title = `标签：${currentFilter.value}`;
+      } else if (currentFilter.type === 'search') {
+        title = `搜索：${currentFilter.value}`;
+      }
+      window.history.pushState(
+        { 
+          type: currentFilter.type, 
+          value: currentFilter.value,
+          listScrollPos: blogMain ? blogMain.scrollTop : 0
+        },
+        title,
+        url
+      );
+        updatePageTitle(currentFilter.type, currentFilter.value);
+      } else {
+        updatePageTitle(null, null);
+        window.history.pushState({ 
+          type: null,
+          listScrollPos: blogMain ? blogMain.scrollTop : 0
+        }, getPageTitle(null, null), '/');
     }
-    window.history.pushState(
-      { 
-        type: currentFilter.type, 
-        value: currentFilter.value,
-        listScrollPos: blogMain ? blogMain.scrollTop : 0
-      },
-      title,
-      url
-    );
-      updatePageTitle(currentFilter.type, currentFilter.value);
-    } else {
-      updatePageTitle(null, null);
-      window.history.pushState({ 
-        type: null,
-        listScrollPos: blogMain ? blogMain.scrollTop : 0
-      }, getPageTitle(null, null), '/');
   }
 }
 

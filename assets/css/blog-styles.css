@@ -226,6 +226,7 @@
   overflow-y: auto;
   height: 100vh;
   background-color: var(--bg-primary);
+  position: relative;
 }
 
 #postsContainer {
@@ -1056,7 +1057,7 @@
 
 /* 返回顶部按钮 */
 .back-to-top-btn {
-  position: fixed;
+  position: absolute;
   bottom: 32px;
   right: 32px;
   width: 48px;
