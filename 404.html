@@ -1,0 +1,37 @@
+---
+layout: default
+permalink: /404.html
+---
+
+<div style="min-height: 80vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 2rem;">
+  <div>
+    <h1 style="font-size: 6rem; margin: 0; color: var(--accent-color);">404</h1>
+    <h2 style="font-size: 2rem; margin: 1rem 0; color: var(--text-primary);">页面未找到</h2>
+    <p style="font-size: 1.125rem; color: var(--text-secondary); margin: 1.5rem 0;">
+      抱歉，您访问的页面不存在或已被移除。
+    </p>
+    <div style="margin-top: 2rem;">
+      <a href="{{ site.url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background-color: var(--accent-color); color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500; transition: all 0.2s ease;">
+        返回首页
+      </a>
+    </div>
+    <div style="margin-top: 3rem;">
+      <h3 style="font-size: 1.25rem; color: var(--text-primary); margin-bottom: 1rem;">或许您会对这些最新文章感兴趣：</h3>
+      <div style="max-width: 600px; margin: 0 auto; text-align: left;">
+        {% for post in site.posts limit:5 %}
+          {% unless post.tags contains 'AIGC' %}
+          <div style="margin-bottom: 1rem; padding: 1rem; background-color: var(--bg-secondary); border-radius: 0.5rem;">
+            <a href="{{ post.url | relative_url }}" style="color: var(--accent-color); text-decoration: none; font-weight: 500; display: block; margin-bottom: 0.25rem;">
+              {{ post.title }}
+            </a>
+            <span style="color: var(--text-secondary); font-size: 0.875rem;">
+              {{ post.date | date: "%Y-%m-%d" }}
+            </span>
+          </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+

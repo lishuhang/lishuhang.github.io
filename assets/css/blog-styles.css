@@ -437,7 +437,7 @@
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  z-index: 150;
+  z-index: 90;
   opacity: 0;
   transition: opacity var(--duration-normal) ease;
 }
@@ -477,6 +477,7 @@
   .blog-sidebar {
     transform: translateX(-100%);
     transition: transform var(--duration-normal) ease;
+    z-index: 100;
   }
   
   .blog-sidebar.mobile-open {
@@ -1049,5 +1050,46 @@
   background-color: #347df8;
   color: white;
   transform: translateY(-2px);
+}
+
+
+
+/* 返回顶部按钮 */
+.back-to-top-btn {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: var(--accent-color);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: var(--shadow-lg);
+  transition: all var(--duration-fast) ease;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.back-to-top-btn:hover {
+  background-color: var(--accent-hover);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(52, 125, 248, 0.3);
+}
+
+.back-to-top-btn:active {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .back-to-top-btn {
+    bottom: 20px;
+    right: 20px;
+    width: 44px;
+    height: 44px;
+  }
 }
 

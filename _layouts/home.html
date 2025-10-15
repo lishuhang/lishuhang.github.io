@@ -42,7 +42,8 @@ layout: base
         <div class="year-list">
           {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
           {% for year_group in posts_by_year %}
-          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ year_group.items | size }}篇)</a>
+          {% assign non_aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC' == false" %}
+          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ non_aigc_posts | size }}篇)</a>
           {% endfor %}
         </div>
       </div>
@@ -52,6 +53,8 @@ layout: base
         <label class="section-label">更多</label>
         <a href="{{ '/about' | relative_url }}" class="nav-link" data-page-url="{{ '/about' | relative_url }}">关于</a>
         <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
+        <a href="{{ '/feed.xml' | relative_url }}" class="nav-link" target="_blank" rel="noopener noreferrer">RSS 订阅</a>
+        <a href="https://www.travellings.cn/go.html" class="nav-link" target="_blank" rel="noopener noreferrer" title="开往随机博客">友链接力</a>
       </div>
       
       <!-- 原图开关 -->
@@ -149,7 +152,7 @@ layout: base
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M19 12H5M5 12L12 19M5 12L12 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
-          返回列表
+          返回主页
         </button>
       </div>
       
@@ -158,6 +161,13 @@ layout: base
       </div>
     </div>
   </main>
+  
+  <!-- 返回顶部按钮 -->
+  <button id="backToTopBtn" class="back-to-top-btn" style="display: none;" title="返回顶部">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 19V5M12 5L5 12M12 5L19 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
 </div>
 
 <!-- 移动端标题栏 -->
@@ -391,6 +401,25 @@ function bindEvents() {
   if (sidebarOverlay) {
     sidebarOverlay.addEventListener('click', closeMobileSidebar);
   }
+  
+  // 返回顶部按钮
+  const backToTopBtn = document.getElementById('backToTopBtn');
+  if (backToTopBtn) {
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  // 监听滚动，显示/隐藏返回顶部按钮
+  window.addEventListener('scroll', () => {
+    if (backToTopBtn) {
+      if (window.scrollY > 300) {
+        backToTopBtn.style.display = 'flex';
+      } else {
+        backToTopBtn.style.display = 'none';
+      }
+    }
+  });
 }
 
 // 搜索处理
@@ -430,7 +459,12 @@ function handleSearch(e) {
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('search', query);
   updatePageTitle('search', query);
-  window.history.pushState({ type: 'search', value: query }, getPageTitle('search', query), url);
+  const blogMain = document.getElementById('blogMain');
+  window.history.pushState({ 
+    type: 'search', 
+    value: query,
+    listScrollPos: blogMain ? blogMain.scrollTop : 0
+  }, getPageTitle('search', query), url);
   closeMobileSidebar();
 }
 
@@ -461,7 +495,10 @@ function handleTagClick(tag, element) {
   } else {
     element.classList.add('active');
     currentFilter = { type: 'tag', value: tag };
-    filteredPosts = allPosts.filter(post => post.tags.includes(tag));
+    // 标签匹配时忽略大小写
+    filteredPosts = allPosts.filter(post => 
+      post.tags.some(t => t.toLowerCase() === tag.toLowerCase())
+    );
     displayedCount = Math.min(12, filteredPosts.length);
     updateFilterHeader('tag', tag);
     
@@ -469,7 +506,12 @@ function handleTagClick(tag, element) {
     const url = new URL(window.location.origin + '/');
     url.searchParams.set('tag', tag);
     updatePageTitle('tag', tag);
-    window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
+    const blogMain = document.getElementById('blogMain');
+    window.history.pushState({ 
+      type: 'tag', 
+      value: tag,
+      listScrollPos: blogMain ? blogMain.scrollTop : 0
+    }, getPageTitle('tag', tag), url);
   }
   
   const searchInput = document.getElementById('searchInput');
@@ -507,7 +549,12 @@ function handleYearClick(year) {
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('year', year);
   updatePageTitle('year', year);
-  window.history.pushState({ type: 'year', value: year }, getPageTitle('year', year), url);
+  const blogMain = document.getElementById('blogMain');
+  window.history.pushState({ 
+    type: 'year', 
+    value: year,
+    listScrollPos: blogMain ? blogMain.scrollTop : 0
+  }, getPageTitle('year', year), url);
   closeMobileSidebar();
 }
 
@@ -518,7 +565,10 @@ function handleTagClickFromPost(tag) {
   
   // 应用标签筛选
   currentFilter = { type: 'tag', value: tag };
-  filteredPosts = allPosts.filter(post => post.tags.includes(tag));
+  // 标签匹配时忽略大小写
+  filteredPosts = allPosts.filter(post => 
+    post.tags.some(t => t.toLowerCase() === tag.toLowerCase())
+  );
   displayedCount = Math.min(12, filteredPosts.length);
   
   // 清空搜索框
@@ -539,7 +589,12 @@ function handleTagClickFromPost(tag) {
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('tag', tag);
   updatePageTitle('tag', tag);
-  window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
+  const blogMain = document.getElementById('blogMain');
+  window.history.pushState({ 
+    type: 'tag', 
+    value: tag,
+    listScrollPos: blogMain ? blogMain.scrollTop : 0
+  }, getPageTitle('tag', tag), url);
   
   renderPosts();
   closeMobileSidebar();
@@ -685,9 +740,18 @@ async function loadPostContent(postIndex) {
   postView.style.display = 'block';
   blogMain.scrollTop = 0;
   
+  // 保存当前滚动位置和筛选状态
+  const scrollPos = window.scrollY || document.documentElement.scrollTop;
+  
   // 更新浏览器URL和标题
   window.history.pushState(
-    { type: 'post', postIndex: postIndex },
+    { 
+      type: 'post', 
+      postIndex: postIndex, 
+      scrollPos: scrollPos,
+      listScrollPos: blogMain.scrollTop,
+      filter: currentFilter
+    },
     post.title,
     post.url
   );
@@ -796,8 +860,10 @@ function handleAIGCClick(tag) {
     index: parseInt(card.dataset.postIndex)
   }));
   
-  // 筛选AIGC标签的文章
-  filteredPosts = allPostsIncludingAIGC.filter(post => post.tags.includes(tag));
+  // 筛选AIGC标签的文章（忽略大小写）
+  filteredPosts = allPostsIncludingAIGC.filter(post => 
+    post.tags.some(t => t.toLowerCase() === tag.toLowerCase())
+  );
   displayedCount = Math.min(12, filteredPosts.length);
   
   // 清空搜索框
@@ -815,7 +881,12 @@ function handleAIGCClick(tag) {
   const url = new URL(window.location.origin + '/');
   url.searchParams.set('tag', tag);
   updatePageTitle('tag', tag);
-  window.history.pushState({ type: 'tag', value: tag }, getPageTitle('tag', tag), url);
+  const blogMain = document.getElementById('blogMain');
+  window.history.pushState({ 
+    type: 'tag', 
+    value: tag,
+    listScrollPos: blogMain ? blogMain.scrollTop : 0
+  }, getPageTitle('tag', tag), url);
 }
 
 // 渲染文章详情
@@ -997,14 +1068,19 @@ function loadGiscus(pathname) {
 }
 
 // 显示文章列表
-function showPostsList() {
+function showPostsList(restoreScroll = false) {
   const postsView = document.getElementById('postsView');
   const postView = document.getElementById('postView');
   const blogMain = document.getElementById('blogMain');
   
   postView.style.display = 'none';
   postsView.style.display = 'block';
-  blogMain.scrollTop = 0;
+  
+  // 恢复滚动位置或滚动到顶部
+  if (!restoreScroll) {
+    blogMain.scrollTop = 0;
+    window.scrollTo(0, 0);
+  }
   
   currentPostIndex = -1;
   
@@ -1021,14 +1097,21 @@ function showPostsList() {
       title = `搜索：${currentFilter.value}`;
     }
     window.history.pushState(
-      { type: currentFilter.type, value: currentFilter.value },
+      { 
+        type: currentFilter.type, 
+        value: currentFilter.value,
+        listScrollPos: blogMain ? blogMain.scrollTop : 0
+      },
       title,
       url
     );
       updatePageTitle(currentFilter.type, currentFilter.value);
     } else {
       updatePageTitle(null, null);
-      window.history.pushState({ type: null }, getPageTitle(null, null), '/');
+      window.history.pushState({ 
+        type: null,
+        listScrollPos: blogMain ? blogMain.scrollTop : 0
+      }, getPageTitle(null, null), '/');
   }
 }
 
@@ -1100,9 +1183,20 @@ function checkAndLoadFromURL() {
   // 检查URL参数
   if (urlParams.has('tag')) {
     const tag = urlParams.get('tag');
-    const tagBtn = document.querySelector(`.tag-btn[data-tag="${tag}"]`);
+    // 先尝试精确匹配
+    let tagBtn = document.querySelector(`.tag-btn[data-tag="${tag}"]`);
+    // 如果没有找到，尝试大小写不敏感匹配
+    if (!tagBtn) {
+      const allTagBtns = document.querySelectorAll('.tag-btn');
+      tagBtn = Array.from(allTagBtns).find(btn => 
+        btn.dataset.tag.toLowerCase() === tag.toLowerCase()
+      );
+    }
     if (tagBtn) {
       tagBtn.click();
+    } else if (tag.toLowerCase() === 'aigc') {
+      // 如果是 AIGC 标签，直接调用 handleAIGCClick
+      handleAIGCClick(tag);
     }
   } else if (urlParams.has('year')) {
     const year = urlParams.get('year');
@@ -1226,12 +1320,22 @@ window.addEventListener('popstate', (event) => {
         tagBtn.classList.add('active');
       }
       currentFilter = { type: 'tag', value: event.state.value };
-      filteredPosts = allPosts.filter(post => post.tags.includes(event.state.value));
+      // 标签匹配时忽略大小写
+      filteredPosts = allPosts.filter(post => 
+        post.tags.some(tag => tag.toLowerCase() === event.state.value.toLowerCase())
+      );
       displayedCount = Math.min(12, filteredPosts.length);
       updateFilterHeader('tag', event.state.value);
       renderPosts();
-      showPostsList();
+      showPostsList(true);
       updatePageTitle('tag', event.state.value);
+      // 恢复滚动位置
+      if (event.state.listScrollPos !== undefined) {
+        setTimeout(() => {
+          const blogMain = document.getElementById('blogMain');
+          blogMain.scrollTop = event.state.listScrollPos;
+        }, 50);
+      }
     } else if (event.state.type === 'year') {
       // 应用年份筛选
       currentFilter = { type: 'year', value: event.state.value };
@@ -1239,22 +1343,37 @@ window.addEventListener('popstate', (event) => {
       displayedCount = Math.min(12, filteredPosts.length);
       updateFilterHeader('year', event.state.value);
       renderPosts();
-      showPostsList();
+      showPostsList(true);
       updatePageTitle('year', event.state.value);
+      // 恢复滚动位置
+      if (event.state.listScrollPos !== undefined) {
+        setTimeout(() => {
+          const blogMain = document.getElementById('blogMain');
+          blogMain.scrollTop = event.state.listScrollPos;
+        }, 50);
+      }
     } else if (event.state.type === 'search') {
       // 应用搜索
       const searchInput = document.getElementById('searchInput');
       if (searchInput) searchInput.value = event.state.value;
       currentFilter = { type: 'search', value: event.state.value };
+      const searchQuery = event.state.value.toLowerCase();
       filteredPosts = allPosts.filter(post => 
-        post.title.includes(event.state.value.toLowerCase()) || 
-        post.excerpt.includes(event.state.value.toLowerCase())
+        post.title.includes(searchQuery) || 
+        post.excerpt.includes(searchQuery)
       );
       displayedCount = Math.min(12, filteredPosts.length);
       updateFilterHeader('search', event.state.value);
       renderPosts();
-      showPostsList();
+      showPostsList(true);
       updatePageTitle('search', event.state.value);
+      // 恢复滚动位置
+      if (event.state.listScrollPos !== undefined) {
+        setTimeout(() => {
+          const blogMain = document.getElementById('blogMain');
+          blogMain.scrollTop = event.state.listScrollPos;
+        }, 50);
+      }
     } else if (event.state.type === 'page') {
       // 加载静态页面
       loadPageContent(event.state.url, event.state.title);
