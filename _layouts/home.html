@@ -42,8 +42,11 @@ layout: base
         <div class="year-list">
           {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
           {% for year_group in posts_by_year %}
-          {% assign non_aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC' == false" %}
-          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ non_aigc_posts | size }}篇)</a>
+          {% assign aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC'" %}
+          {% assign total_posts = year_group.items | size %}
+          {% assign aigc_count = aigc_posts | size %}
+          {% assign non_aigc_count = total_posts | minus: aigc_count %}
+          <a href="#" class="year-link" data-year="{{ year_group.name }}">{{ year_group.name }}年 ({{ non_aigc_count }}篇)</a>
           {% endfor %}
         </div>
       </div>
