@@ -825,8 +825,27 @@ async function loadPostContent(postIndex) {
     const article = doc.querySelector('article') || doc.querySelector('.prose');
     
     if (article) {
+      // 移除文章中的标题和题图（因为renderPostDetail会添加）
+      const articleClone = article.cloneNode(true);
+      
+      // 移除h1标题
+      const h1 = articleClone.querySelector('h1');
+      if (h1) h1.remove();
+      
+      // 移除题图（通常是第一个img或包含img的第一个div）
+      const firstImg = articleClone.querySelector('img');
+      if (firstImg) {
+        // 如果img在div中，移除整个div
+        const imgParent = firstImg.parentElement;
+        if (imgParent && imgParent.tagName === 'DIV' && imgParent.children.length === 1) {
+          imgParent.remove();
+        } else {
+          firstImg.remove();
+        }
+      }
+      
       // 构建完整的文章详情页
-      renderPostDetail(post, article.innerHTML);
+      renderPostDetail(post, articleClone.innerHTML);
     } else {
       postContent.innerHTML = '<div class="error">无法加载文章内容</div>';
     }
