@@ -844,6 +844,35 @@ async function loadPostContent(postIndex) {
         }
       }
       
+      // 移除多余的日期和标签（通常在文章开头）
+      // 移除包含日期的元素（如 "2025年07月13日" 或 "2025-07-13"）
+      const allElements = Array.from(articleClone.children);
+      for (let i = 0; i < Math.min(5, allElements.length); i++) {
+        const elem = allElements[i];
+        const text = elem.textContent.trim();
+        // 匹配日期格式
+        if (/^\d{4}[-年]\d{1,2}[-月]\d{1,2}[日]?$/.test(text) || 
+            /^•\s*\d{4}年\d{1,2}月\d{1,2}日$/.test(text)) {
+          elem.remove();
+        }
+        // 移除只包含标签的元素（如 "#科技"）
+        else if (/^#[\u4e00-\u9fa5a-zA-Z]+$/.test(text)) {
+          elem.remove();
+        }
+      }
+      
+      // 移除分割线（hr标签或空的div）
+      const hrs = articleClone.querySelectorAll('hr');
+      if (hrs.length > 0) hrs[0].remove();
+      
+      // 移除空的段落和分割线
+      const emptyElements = articleClone.querySelectorAll('p:empty, div:empty');
+      emptyElements.forEach(elem => {
+        if (elem.children.length === 0 && !elem.textContent.trim()) {
+          elem.remove();
+        }
+      });
+      
       // 构建完整的文章详情页
       renderPostDetail(post, articleClone.innerHTML);
     } else {
