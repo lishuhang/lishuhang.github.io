@@ -1,0 +1,223 @@
+@charset "utf-8";
+
+/**
+ * 文章详情页头部样式
+ * 参考 TechCrunch 布局设计
+ */
+
+/* 文章头部容器 */
+.post-detail-header {
+  display: flex;
+  gap: var(--space-8);
+  margin-bottom: var(--space-8);
+  padding: var(--space-6);
+  background-color: var(--bg-white);
+  border-radius: var(--radius-lg);
+}
+
+/* 左侧题图 - 正方形 */
+.post-header-image {
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: var(--radius-md);
+}
+
+.post-header-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 右侧内容区 */
+.post-header-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 0;
+}
+
+/* 顶部区域 - 标签和分享 */
+.post-header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+/* 标签 */
+.post-header-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.post-header-tag {
+  display: inline-block;
+  padding: var(--space-1) var(--space-3);
+  background-color: var(--bg-secondary);
+  color: var(--text-secondary);
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+  transition: all var(--duration-fast) ease;
+}
+
+.post-header-tag:hover {
+  background-color: var(--primary-blue);
+  color: var(--text-white);
+}
+
+/* 分享图标 */
+.post-header-share {
+  display: flex;
+  gap: var(--space-2);
+  flex-shrink: 0;
+}
+
+.share-icon {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background-color: var(--bg-secondary);
+  color: var(--text-secondary);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--duration-fast) ease;
+  text-decoration: none;
+}
+
+.share-icon:hover {
+  background-color: var(--primary-blue);
+  color: var(--text-white);
+  transform: translateY(-2px);
+}
+
+.share-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* 标题 - 占据右侧约1/3高度 */
+.post-header-title {
+  font-family: var(--font-family);
+  font-size: 2.5rem;
+  font-weight: var(--font-weight-title);
+  line-height: 1.2;
+  color: var(--text-primary);
+  margin: var(--space-4) 0;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+/* 底部元数据 */
+.post-header-meta {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+}
+
+.post-header-author {
+  font-weight: var(--font-weight-medium);
+  color: var(--text-primary);
+}
+
+.post-header-date {
+  color: var(--text-muted);
+}
+
+/* 响应式 - 平板 */
+@media screen and (max-width: 1024px) {
+  .post-header-image {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .post-header-title {
+    font-size: 2rem;
+  }
+}
+
+/* 响应式 - 竖屏/移动端 */
+@media screen and (max-width: 768px) {
+  .post-detail-header {
+    flex-direction: column;
+    gap: var(--space-4);
+    padding: var(--space-4);
+  }
+  
+  .post-header-image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+  
+  .post-header-top {
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+  
+  .post-header-share {
+    justify-content: flex-end;
+  }
+  
+  .post-header-title {
+    font-size: 1.75rem;
+    margin: var(--space-3) 0;
+  }
+  
+  .post-header-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-2);
+  }
+}
+
+/* 深色模式 */
+@media (prefers-color-scheme: dark) {
+  .post-detail-header {
+    background-color: #2d3748;
+  }
+  
+  .post-header-tag {
+    background-color: #1a202c;
+    color: #cbd5e0;
+  }
+  
+  .post-header-tag:hover {
+    background-color: var(--primary-blue-light);
+    color: #f7fafc;
+  }
+  
+  .share-icon {
+    background-color: #1a202c;
+    color: #cbd5e0;
+  }
+  
+  .share-icon:hover {
+    background-color: var(--primary-blue-light);
+    color: #f7fafc;
+  }
+  
+  .post-header-title {
+    color: #f7fafc;
+  }
+  
+  .post-header-author {
+    color: #e2e8f0;
+  }
+  
+  .post-header-date {
+    color: #a0aec0;
+  }
+}
+

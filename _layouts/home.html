@@ -865,6 +865,13 @@ async function loadPostContent(postIndex) {
       const hrs = articleClone.querySelectorAll('hr');
       if (hrs.length > 0) hrs[0].remove();
       
+      // 移除冗余的 post-meta 和 post-tags div
+      const postMeta = articleClone.querySelector('.post-meta');
+      if (postMeta) postMeta.remove();
+      
+      const postTags = articleClone.querySelector('.post-tags');
+      if (postTags) postTags.remove();
+      
       // 移除空的段落和分割线
       const emptyElements = articleClone.querySelectorAll('p:empty, div:empty');
       emptyElements.forEach(elem => {
@@ -999,37 +1006,46 @@ function renderPostDetail(post, articleContent) {
   
   let html = '<div class="post-detail-container">';
   
-  // 文章头部
-  html += '<div class="post-detail-head">';
-  html += `<h1 class="post-detail-title">${post.title}</h1>`;
-  html += '<div class="post-detail-meta">';
-  html += `<span class="post-detail-author">${post.author}</span>`;
-  html += `<span class="post-detail-date">${post.date}</span>`;
-  html += '</div>';
+  // 文章头部 - 参考 TechCrunch 布局
+  html += '<div class="post-detail-header">';
   
-  // 标签
-  if (post.tags && post.tags.length > 0) {
-    html += '<div class="post-detail-tags">';
-    post.tags.forEach(tag => {
-      html += `<a href="#" class="post-detail-tag" data-tag="${tag}" onclick="event.preventDefault(); handleTagClickFromPost('${tag}')">#${tag}</a>`;
-    });
-    html += '</div>';
-  }
-  html += '</div>';
-  
-  // 题图
+  // 左侧题图(宽屏显示)
   if (post.image && post.image !== '/') {
     const useOriginal = document.getElementById('originalImageToggle')?.checked || false;
     const imageUrl = useOriginal ? post.image : `https://images.weserv.nl/?url=${encodeURIComponent(post.image)}&output=jpg&q=80`;
-    html += `<div class="post-detail-image"><img src="${imageUrl}" alt="${post.title}" data-original="${post.image}"></div>`;
+    html += `<div class="post-header-image"><img src="${imageUrl}" alt="${post.title}" data-original="${post.image}"></div>`;
   }
+  
+  // 右侧内容区
+  html += '<div class="post-header-content">';
+  
+  // 标签和分享
+  html += '<div class="post-header-top">';
+  if (post.tags && post.tags.length > 0) {
+    html += '<div class="post-header-tags">';
+    post.tags.forEach(tag => {
+      html += `<a href="#" class="post-header-tag" data-tag="${tag}" onclick="event.preventDefault(); handleTagClickFromPost('${tag}')">#${tag}</a>`;
+    });
+    html += '</div>';
+  }
+  html += renderShareButtons(post);
+  html += '</div>';
+  
+  // 标题
+  html += `<h1 class="post-header-title">${post.title}</h1>`;
+  
+  // 作者和日期
+  html += '<div class="post-header-meta">';
+  html += `<span class="post-header-author">${post.author}</span>`;
+  html += `<span class="post-header-date">${post.date}</span>`;
+  html += '</div>';
+  
+  html += '</div>'; // post-header-content
+  html += '</div>'; // post-detail-header
   
   // 文章内容（处理图片）
   const processedContent = processArticleImages(articleContent);
   html += `<div class="post-detail-article">${processedContent}</div>`;
-  
-  // 分享按钮
-  html += renderShareButtons(post);
   
   // 上一篇/下一篇导航
   html += renderPostNavigation(post);
@@ -1047,41 +1063,24 @@ function renderShareButtons(post) {
   const url = encodeURIComponent(window.location.origin + post.url);
   const title = encodeURIComponent(post.title);
   
-  let html = '<div class="share-buttons">';
-  html += '<div class="share-label">分享到：</div>';
-  html += '<div class="share-buttons-container">';
+  let html = '<div class="post-header-share">';
   
   // 微博
-  html += `<a href="https://service.weibo.com/share/share.php?url=${url}&title=${title}" target="_blank" rel="noopener noreferrer" class="share-btn share-weibo" title="分享到微博">
+  html += `<a href="https://service.weibo.com/share/share.php?url=${url}&title=${title}" target="_blank" rel="noopener noreferrer" class="share-icon" title="分享到微博">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.194 14.197c-.402 1.092-1.634 1.594-2.761 1.123-1.126-.471-1.535-1.797-1.133-2.889.403-1.092 1.634-1.594 2.761-1.123 1.126.471 1.535 1.797 1.133 2.889zm-4.402-2.107c-.201.546-.817.797-1.381.562-.563-.235-.768-.898-.567-1.444.201-.546.817-.797 1.381-.562.563.235.768.898.567 1.444zm7.208 1.91c0 4.418-5.373 8-12 8s-12-3.582-12-8c0-1.5.568-2.898 1.548-4.129C2.537 7.697 4.179 6 6.545 6c1.635 0 3.087.691 4.091 1.772.904-.447 1.906-.697 2.955-.697 3.866 0 7 2.686 7 6 0 .343-.034.68-.1 1.009.668.542 1.109 1.346 1.109 2.241z"/></svg>
-    微博
   </a>`;
   
   // Twitter
-  html += `<a href="https://twitter.com/intent/tweet?url=${url}&text=${title}" target="_blank" rel="noopener noreferrer" class="share-btn share-twitter" title="分享到Twitter">
+  html += `<a href="https://twitter.com/intent/tweet?url=${url}&text=${title}" target="_blank" rel="noopener noreferrer" class="share-icon" title="分享到Twitter">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-    Twitter
   </a>`;
-  
-  // Facebook
-  html += `<a href="https://www.facebook.com/sharer/sharer.php?u=${url}" target="_blank" rel="noopener noreferrer" class="share-btn share-facebook" title="分享到Facebook">
-    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-    Facebook
-  </a>`;
-  
-  // 微信
-  html += `<button class="share-btn share-wechat" onclick="alert('请使用微信扫一扫分享')" title="分享到微信">
-    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-5.523 3.317-6.523 1.961-.62 3.756-.31 5.164.403.278-3.701-3.315-6.512-8.292-6.512zm-2.43 4.645a.97.97 0 0 1 .972.972.97.97 0 0 1-.972.972.97.97 0 0 1-.972-.972.97.97 0 0 1 .972-.972zm5.641 0a.97.97 0 0 1 .972.972.97.97 0 0 1-.972.972.97.97 0 0 1-.972-.972.97.97 0 0 1 .972-.972z"/><path d="M15.314 9.403c-3.707 0-6.713 2.462-6.713 5.5 0 1.665.927 3.156 2.383 4.167.091.063.156.15.169.25l-.296 1.11c-.015.053-.038.107-.038.161 0 .122.098.223.218.223a.25.25 0 0 0 .126-.041l1.427-.834a.65.65 0 0 1 .538-.074c.584.16 1.201.241 1.834.241 3.707 0 6.713-2.462 6.713-5.5s-3.006-5.5-6.713-5.5zm-1.834 3.444a.73.73 0 0 1 .731.731.73.73 0 0 1-.731.731.73.73 0 0 1-.731-.731.73.73 0 0 1 .731-.731zm3.669 0a.73.73 0 0 1 .731.731.73.73 0 0 1-.731.731.73.73 0 0 1-.731-.731.73.73 0 0 1 .731-.731z"/></svg>
-    微信
-  </button>`;
   
   // 复制链接
-  html += `<button class="share-btn share-copy" onclick="copyPostLink('${post.url}')" title="复制链接">
+  html += `<button class="share-icon" onclick="copyPostLink('${post.url}')" title="复制链接">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-    复制链接
   </button>`;
   
-  html += '</div></div>';
+  html += '</div>';
   
   return html;
 }

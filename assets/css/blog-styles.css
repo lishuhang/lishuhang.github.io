@@ -280,7 +280,7 @@
 
 .post-card-title {
   font-size: var(--font-size-xl);
-  font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-title);
   color: var(--text-primary);
   line-height: var(--line-height-short);
   margin-bottom: var(--space-3);
