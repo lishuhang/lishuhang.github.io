@@ -1,0 +1,345 @@
+@charset "utf-8";
+
+/**
+ * 文章详情页内容样式
+ * 基于航通社 Typora 样式改编
+ * 保持博客统一配色和 Accent Color
+ */
+
+/* 引入思源黑体 - 使用上海交大镜像,只保留必要字重 (Regular 400, Bold 700, Black 900) */
+@import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/earlyaccess/notosanssc.css');
+
+/* 文章详情容器 */
+.post-detail-article {
+  font-family: "Noto Sans SC", "Source Han Sans", "PingFang SC", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 16px;
+  line-height: 2; /* 正文行间距 */
+  letter-spacing: 0.5px; /* 字间距 */
+  color: var(--text-primary);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 段落 */
+.post-detail-article p {
+  margin-bottom: 1.2em;
+  font-weight: 400;
+}
+
+/* 标题 */
+.post-detail-article h1,
+.post-detail-article h2,
+.post-detail-article h3,
+.post-detail-article h4,
+.post-detail-article h5,
+.post-detail-article h6 {
+  font-family: "Noto Sans SC", "Source Han Sans", "PingFang SC", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--text-primary);
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+.post-detail-article h1 {
+  font-size: 2.4em;
+  font-weight: 900;
+  padding-bottom: 0.5em;
+}
+
+.post-detail-article h2 {
+  font-size: 26px;
+  font-weight: 900;
+  color: var(--primary-blue); /* 使用博客统一 accent color */
+}
+
+.post-detail-article h3 {
+  font-size: 1.6em;
+  font-weight: 700;
+}
+
+.post-detail-article h4 {
+  font-size: 1.4em;
+  font-weight: 700;
+}
+
+.post-detail-article h5 {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.post-detail-article h6 {
+  font-size: 0.8em;
+  font-weight: 700;
+}
+
+/* 链接 */
+.post-detail-article a {
+  color: var(--primary-blue);
+  text-decoration: none;
+  border-bottom: 1px solid var(--primary-blue);
+  transition: all var(--duration-fast) ease;
+}
+
+.post-detail-article a:hover {
+  color: var(--text-primary);
+  border-bottom-color: var(--text-primary);
+}
+
+/* 强调 */
+.post-detail-article strong {
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.post-detail-article em {
+  font-style: italic;
+  font-weight: inherit;
+}
+
+/* 引用块 */
+.post-detail-article blockquote {
+  position: relative;
+  color: var(--text-secondary);
+  font-weight: 400;
+  border-left: 3px solid var(--primary-blue); /* 使用博客统一 accent color */
+  padding-left: 1em;
+  margin: 1em 2em 1em 0;
+  background-color: var(--bg-secondary);
+  padding: 1em;
+  border-radius: var(--radius-md);
+}
+
+@media only screen and (max-width: 640px) {
+  .post-detail-article blockquote {
+    margin: 1em 0;
+  }
+}
+
+/* 无序列表 */
+.post-detail-article ul {
+  margin-left: 1.3em;
+  margin-bottom: 1.2em;
+  list-style: disc;
+}
+
+.post-detail-article ul ul {
+  list-style: circle;
+  margin-left: 2em;
+  margin-bottom: 0.8em;
+}
+
+/* 有序列表 */
+.post-detail-article ol {
+  list-style: decimal;
+  margin-left: 1.9em;
+  margin-bottom: 1.2em;
+}
+
+.post-detail-article ol ol {
+  margin-left: 2em;
+  margin-bottom: 0.8em;
+}
+
+/* 列表项 */
+.post-detail-article li {
+  margin-bottom: 0.4em;
+}
+
+.post-detail-article li > p {
+  margin-bottom: 0 !important;
+}
+
+/* 代码 */
+.post-detail-article code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: var(--bg-secondary);
+  padding: 0.2em 0.4em;
+  border-radius: var(--radius-sm);
+  font-size: 0.9em;
+  color: var(--text-primary);
+}
+
+.post-detail-article pre {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 1em;
+  overflow-x: auto;
+  margin-bottom: 1.2em;
+}
+
+.post-detail-article pre code {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.9em;
+}
+
+/* 表格 */
+.post-detail-article table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1.2em;
+  font-size: 0.95em;
+}
+
+.post-detail-article table th,
+.post-detail-article table td {
+  border: 1px solid var(--border-medium);
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+.post-detail-article table th {
+  background-color: var(--bg-secondary);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.post-detail-article table thead th {
+  background-color: var(--bg-tertiary);
+}
+
+.post-detail-article table td {
+  color: var(--text-secondary);
+}
+
+/* 水平线 */
+.post-detail-article hr {
+  border: none;
+  border-bottom: 1px solid var(--border-medium);
+  margin: 1.5em 0;
+  height: 1px;
+}
+
+/* 图片 */
+.post-detail-article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  margin: 1em 0;
+}
+
+/* 标记 */
+.post-detail-article mark {
+  background: #fffdd1;
+  border-bottom: 1px solid #ffedce;
+  padding: 2px 4px;
+  margin: 0 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* 上标和下标 */
+.post-detail-article sup,
+.post-detail-article sub {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+.post-detail-article sup {
+  top: -0.5em;
+}
+
+.post-detail-article sub {
+  bottom: -0.25em;
+}
+
+/* 响应式 */
+@media screen and (max-width: 800px) {
+  .post-detail-article {
+    font-size: 14px;
+  }
+  
+  .post-detail-article h1 {
+    font-size: 2em;
+  }
+  
+  .post-detail-article h2 {
+    font-size: 22px;
+  }
+  
+  .post-detail-article h3 {
+    font-size: 1.4em;
+  }
+  
+  .post-detail-article h4 {
+    font-size: 1.2em;
+  }
+  
+  .post-detail-article h5 {
+    font-size: 1.1em;
+  }
+}
+
+/* 深色模式适配 */
+@media (prefers-color-scheme: dark) {
+  .post-detail-article {
+    color: #e2e8f0;
+  }
+  
+  .post-detail-article h1,
+  .post-detail-article h3,
+  .post-detail-article h4,
+  .post-detail-article h5,
+  .post-detail-article h6,
+  .post-detail-article strong {
+    color: #f7fafc;
+  }
+  
+  .post-detail-article h2 {
+    color: var(--primary-blue-light); /* 深色模式使用浅色调 */
+  }
+  
+  .post-detail-article blockquote {
+    color: #a0aec0;
+    background-color: #2d3748;
+    border-left-color: var(--primary-blue-light);
+  }
+  
+  .post-detail-article code {
+    background-color: #2d3748;
+    color: #e2e8f0;
+  }
+  
+  .post-detail-article pre {
+    background-color: #2d3748;
+    border-color: #4a5568;
+  }
+  
+  .post-detail-article table th {
+    background-color: #2d3748;
+    color: #f7fafc;
+  }
+  
+  .post-detail-article table thead th {
+    background-color: #1a202c;
+  }
+  
+  .post-detail-article table td {
+    color: #cbd5e0;
+    border-color: #4a5568;
+  }
+  
+  .post-detail-article table th {
+    border-color: #4a5568;
+  }
+  
+  .post-detail-article hr {
+    border-bottom-color: #4a5568;
+  }
+  
+  .post-detail-article a {
+    color: var(--primary-blue-light);
+    border-bottom-color: var(--primary-blue-light);
+  }
+  
+  .post-detail-article a:hover {
+    color: #f7fafc;
+    border-bottom-color: #f7fafc;
+  }
+}
+
