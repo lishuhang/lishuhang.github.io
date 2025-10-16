@@ -4,33 +4,16 @@ layout: base
 
 <!-- 文章内容（用于fetch） -->
 <div style="display: none;" id="postContentForFetch">
-  <article class="prose">
-    <div class="post-header">
-      <h1>{{ page.title }}</h1>
-      <div class="post-meta">
-        <span>{{ page.author | default: site.author }}</span>
-        <span>•</span>
-        <span>{{ page.date | date: "%Y年%m月%d日" }}</span>
-      </div>
-      {% if page.tags %}
-      <div class="post-tags">
-        {% for tag in page.tags %}
-        <span class="tag">#{{ tag }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
-    
-    {% if page.image %}
-    <div class="post-image">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-    </div>
-    {% endif %}
-    
-    <div class="post-body">
-      {{ content }}
-    </div>
-  </article>
+  <script id="post-data-json" type="application/json">
+    {
+      "title": {{ page.title | jsonify }},
+      "author": {{ page.author | default: site.author | jsonify }},
+      "date": "{{ page.date | date: \"%Y年%m月%d日\" }}",
+      "tags": {{ page.tags | jsonify }},
+      "image": "{{ page.image | relative_url | jsonify }}",
+      "content": {{ content | jsonify }}
+    }
+  </script>
 </div>
 
 <!-- 重定向脚本（仅在浏览器直接访问时执行） -->

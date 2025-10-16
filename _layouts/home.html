@@ -116,7 +116,7 @@ layout: base
             <div class="post-card-content">
               <h2 class="post-card-title">{{ post.title }}</h2>
               <div class="post-card-meta">
-                <span class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                <span class="post-card-date">{{ post.date | date: '%Y-%m-%d' }}</span>
                 {% if post.tags.size > 0 %}
                 <span class="post-card-tags">
                   {% for tag in post.tags limit: 3 %}
@@ -726,17 +726,14 @@ async function loadPageContent(url, title) {
   updatePageTitle('page', title);
   
   // 显示加载状态
-  postContent.innerHTML = '<div class="loading">正在加载内容...</div>';
+  postContent.innerHTML = '<div class="loading">正在加载页面...</div>';
   
   try {
     const response = await fetch(url);
     const html = await response.text();
-    
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
-    
-    // 提取页面内容
-    const article = doc.querySelector('article') || doc.querySelector('.prose') || doc.querySelector('main');
+    const article = doc.querySelector(\'article\') || doc.querySelector(\".prose\");
     
     if (article) {
       renderPageDetail(title, url, article.innerHTML);
@@ -821,12 +818,12 @@ async function loadPostContent(postIndex) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
     
-    // 提取文章内容
-    const article = doc.querySelector('article') || doc.querySelector('.prose');
-    
-    if (article) {
+    // 提取文章数据
+    const postDataScript = doc.getElementById('post-data-json');
+    if (postDataScript) {
+      const postData = JSON.parse(postDataScript.textContent);
       // 构建完整的文章详情页
-      renderPostDetail(post, article.innerHTML);
+      renderPostDetail(postData, postData.content);
     } else {
       postContent.innerHTML = '<div class="error">无法加载文章内容</div>';
     }
@@ -844,7 +841,7 @@ function processArticleImages(html) {
   }
   
   // 使用正则替换所有img标签的src
-  return html.replace(/<img([^>]+)src=["']([^"']+)["']([^>]*)>/gi, (match, before, src, after) => {
+  return html.replace(/<img([^>]+)src=['\"]([^'\"]+)['\"]([^>]*)>/gi, (match, before, src, after) => {
     // 如果已经是weserv链接，不再处理
     if (src.includes('weserv.nl')) {
       return match;
@@ -1238,23 +1235,12 @@ function checkAndLoadFromURL() {
     }
   }
   
-  // 检查URL参数
+  // 检查是否有tag或year参数
   if (urlParams.has('tag')) {
     const tag = urlParams.get('tag');
-    // 先尝试精确匹配
-    let tagBtn = document.querySelector(`.tag-btn[data-tag="${tag}"]`);
-    // 如果没有找到，尝试大小写不敏感匹配
-    if (!tagBtn) {
-      const allTagBtns = document.querySelectorAll('.tag-btn');
-      tagBtn = Array.from(allTagBtns).find(btn => 
-        btn.dataset.tag.toLowerCase() === tag.toLowerCase()
-      );
-    }
+    const tagBtn = document.querySelector(`.tag-btn[data-tag="${tag}"]`);
     if (tagBtn) {
-      tagBtn.click();
-    } else if (tag.toLowerCase() === 'aigc') {
-      // 如果是 AIGC 标签，直接调用 handleAIGCClick
-      handleAIGCClick(tag);
+      handleTagClick(tag, tagBtn);
     }
   } else if (urlParams.has('year')) {
     const year = urlParams.get('year');
@@ -1269,52 +1255,94 @@ function checkAndLoadFromURL() {
   }
 }
 
+// 浏览器历史记录处理
+window.onpopstate = function(event) {
+  if (event.state) {
+    const { type, value, postIndex, url, title, listScrollPos } = event.state;
+    
+    if (type === 'post') {
+      loadPostContent(postIndex);
+    } else if (type === 'page') {
+      loadPageContent(url, title);
+    } else {
+      showPostsList(true); // 传入true表示恢复滚动位置
+      
+      if (type) {
+        applyFilter(type, value);
+      } else {
+        resetToHome(true); // 传入true表示是历史导航
+      }
+      
+      // 恢复滚动位置
+      setTimeout(() => {
+        const blogMain = document.getElementById('blogMain');
+        if (blogMain && listScrollPos) {
+          blogMain.scrollTop = listScrollPos;
+        }
+      }, 0);
+    }
+  } else {
+    // 初始页面状态
+    resetToHome(true);
+  }
+};
+
+// 应用筛选
+function applyFilter(type, value) {
+  if (type === 'tag') {
+    const tagBtn = document.querySelector(`.tag-btn[data-tag="${value}"]`);
+    if (tagBtn) handleTagClick(value, tagBtn);
+  } else if (type === 'year') {
+    handleYearClick(value);
+  } else if (type === 'search') {
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput) {
+      searchInput.value = value;
+      handleSearch({ target: searchInput });
+    }
+  }
+}
+
+// 重置到主页状态
+function resetToHome(isHistoryNav = false) {
+  currentFilter = { type: null, value: null };
+  filteredPosts = [...allPosts];
+  displayedCount = 12;
+  
+  updateFilterHeader(null, null);
+  renderPosts();
+  
+  const searchInput = document.getElementById('searchInput');
+  if (searchInput) searchInput.value = '';
+  
+  document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
+  
+  const blogMain = document.getElementById('blogMain');
+  if (blogMain) blogMain.scrollTop = 0;
+  
+  if (!isHistoryNav) {
+    updatePageTitle(null, null);
+    window.history.pushState({ type: null }, getPageTitle(null, null), '/');
+  }
+  
+  showPostsList();
+}
+
 // 更新过滤条件标题
 function updateFilterHeader(type, value) {
   const filterHeader = document.getElementById('filterHeader');
   const filterTitle = document.getElementById('filterTitle');
   
-  if (!type || !value) {
+  if (type && value) {
+    let title = '';
+    if (type === 'tag') title = `标签：${value}`;
+    if (type === 'year') title = `${value}年文章`;
+    if (type === 'search') title = `搜索结果：${value}`;
+    filterTitle.textContent = title;
+    filterHeader.style.display = 'block';
+  } else {
     filterHeader.style.display = 'none';
-    return;
   }
-  
-  let title = '';
-  if (type === 'year') {
-    title = `${value}年文章`;
-  } else if (type === 'tag') {
-    title = `标签：${value}`;
-  } else if (type === 'search') {
-    title = `搜索：${value}`;
-  }
-  
-  filterTitle.textContent = title;
-  filterHeader.style.display = 'block';
-}
-
-// 获取页面标题
-function getPageTitle(type, value) {
-  const siteTitle = '{{ site.title }}';
-  const siteTagline = '{{ site.tagline | default: "你应该知道的历史、现在和未来" }}';
-  
-  if (!type || !value) {
-    return `${siteTitle} | ${siteTagline}`;
-  }
-  
-  let prefix = '';
-  if (type === 'year') {
-    prefix = `${value}年文章`;
-  } else if (type === 'tag') {
-    prefix = `标签：${value}`;
-  } else if (type === 'search') {
-    prefix = `搜索：${value}`;
-  } else if (type === 'post') {
-    return `${value} - ${siteTitle}`;
-  } else if (type === 'page') {
-    return `${value} - ${siteTitle}`;
-  }
-  
-  return `${prefix} - ${siteTitle}`;
 }
 
 // 更新页面标题
@@ -1322,192 +1350,21 @@ function updatePageTitle(type, value) {
   document.title = getPageTitle(type, value);
 }
 
-// 返回主页
-function resetToHome() {
-  // 如果当前在文章页或页面视图，先返回列表
-  const postView = document.getElementById('postView');
-  const pageView = document.getElementById('pageView');
-  if (postView && postView.style.display !== 'none') {
-    showPostsList();
-  }
-  if (pageView && pageView.style.display !== 'none') {
-    showPostsList();
-  }
-  
-  // 清除所有筛选
-  currentFilter = { type: null, value: null };
-  filteredPosts = [...allPosts];
-  displayedCount = 12;
-  
-  // 清除搜索框
-  const searchInput = document.getElementById('searchInput');
-  if (searchInput) searchInput.value = '';
-  
-  // 清除标签高亮
-  document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
-  
-  // 隐藏过滤标题
-  updateFilterHeader(null, null);
-  
-  // 重新渲染列表
-  renderPosts();
-  
-  // 更新URL和标题
-  updatePageTitle(null, null);
-  window.history.pushState({ type: null }, getPageTitle(null, null), '/');
-  
-  // 滚动到顶部
-  const blogMain = document.getElementById('blogMain');
-  if (blogMain) blogMain.scrollTop = 0;
-  
-  // 关闭移动端侧边栏
-  closeMobileSidebar();
-}
-
-// 处理浏览器前进后退
-window.addEventListener('popstate', (event) => {
-  if (event.state) {
-    if (event.state.type === 'post') {
-      // 加载文章
-      loadPostContent(event.state.postIndex);
-    } else if (event.state.type === 'tag') {
-      // 应用标签筛选
-      const tagBtn = document.querySelector(`.tag-btn[data-tag="${event.state.value}"]`);
-      if (tagBtn) {
-        document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
-        tagBtn.classList.add('active');
-      }
-      currentFilter = { type: 'tag', value: event.state.value };
-      // 标签匹配时忽略大小写
-      filteredPosts = allPosts.filter(post => 
-        post.tags.some(tag => tag.toLowerCase() === event.state.value.toLowerCase())
-      );
-      displayedCount = Math.min(12, filteredPosts.length);
-      updateFilterHeader('tag', event.state.value);
-      renderPosts();
-      showPostsList(true);
-      updatePageTitle('tag', event.state.value);
-      // 恢复滚动位置
-      if (event.state.listScrollPos !== undefined) {
-        setTimeout(() => {
-          const blogMain = document.getElementById('blogMain');
-          blogMain.scrollTop = event.state.listScrollPos;
-        }, 50);
-      }
-    } else if (event.state.type === 'year') {
-      // 应用年份筛选
-      currentFilter = { type: 'year', value: event.state.value };
-      filteredPosts = allPosts.filter(post => post.year === event.state.value);
-      displayedCount = Math.min(12, filteredPosts.length);
-      updateFilterHeader('year', event.state.value);
-      renderPosts();
-      showPostsList(true);
-      updatePageTitle('year', event.state.value);
-      // 恢复滚动位置
-      if (event.state.listScrollPos !== undefined) {
-        setTimeout(() => {
-          const blogMain = document.getElementById('blogMain');
-          blogMain.scrollTop = event.state.listScrollPos;
-        }, 50);
-      }
-    } else if (event.state.type === 'search') {
-      // 应用搜索
-      const searchInput = document.getElementById('searchInput');
-      if (searchInput) searchInput.value = event.state.value;
-      currentFilter = { type: 'search', value: event.state.value };
-      const searchQuery = event.state.value.toLowerCase();
-      filteredPosts = allPosts.filter(post => 
-        post.title.includes(searchQuery) || 
-        post.excerpt.includes(searchQuery)
-      );
-      displayedCount = Math.min(12, filteredPosts.length);
-      updateFilterHeader('search', event.state.value);
-      renderPosts();
-      showPostsList(true);
-      updatePageTitle('search', event.state.value);
-      // 恢复滚动位置
-      if (event.state.listScrollPos !== undefined) {
-        setTimeout(() => {
-          const blogMain = document.getElementById('blogMain');
-          blogMain.scrollTop = event.state.listScrollPos;
-        }, 50);
-      }
-    } else if (event.state.type === 'page') {
-      // 加载静态页面
-      loadPageContent(event.state.url, event.state.title);
-    } else {
-      // 返回主页
-      resetToHome();
-    }
+// 获取页面标题
+function getPageTitle(type, value) {
+  const siteTitle = '{{ site.title }}';
+  if (type === 'post') {
+    return `${value} | ${siteTitle}`;
+  } else if (type === 'page') {
+    return `${value} | ${siteTitle}`;
+  } else if (type === 'tag') {
+    return `标签 "${value}" | ${siteTitle}`;
+  } else if (type === 'year') {
+    return `年份 "${value}" | ${siteTitle}`;
+  } else if (type === 'search') {
+    return `搜索 "${value}" | ${siteTitle}`;
   } else {
-    // 没有state，返回主页
-    resetToHome();
-  }
-});
-
-// 页面初始加载时设置初始状态
-window.addEventListener('load', () => {
-  // 设置初始状态
-  window.history.replaceState({ type: null }, document.title, window.location.pathname + window.location.search);
-});
-
-// ===== 深色模式功能 =====
-
-// 初始化深色模式
-function initDarkMode() {
-  const darkModeToggle = document.getElementById('darkModeToggle');
-  if (!darkModeToggle) return;
-  
-  // 检查用户之前的选择
-  const savedTheme = localStorage.getItem('theme');
-  
-  if (savedTheme) {
-    // 如果用户之前选择过，使用保存的设置
-    applyTheme(savedTheme);
-    darkModeToggle.checked = savedTheme === 'dark';
-  } else {
-    // 否则跟随系统设置
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const theme = prefersDark ? 'dark' : 'light';
-    applyTheme(theme);
-    darkModeToggle.checked = prefersDark;
-  }
-  
-  // 监听切换按钮
-  darkModeToggle.addEventListener('change', (e) => {
-    const theme = e.target.checked ? 'dark' : 'light';
-    applyTheme(theme);
-    localStorage.setItem('theme', theme);
-  });
-  
-  // 监听系统主题变化（仅当用户未手动设置时）
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-    if (!localStorage.getItem('theme')) {
-      const theme = e.matches ? 'dark' : 'light';
-      applyTheme(theme);
-      darkModeToggle.checked = e.matches;
-    }
-  });
-}
-
-// 应用主题
-function applyTheme(theme) {
-  // 同时设置html和body的data-theme属性
-  document.documentElement.setAttribute('data-theme', theme);
-  document.body.setAttribute('data-theme', theme);
-  
-  // 更新 giscus 评论系统主题
-  const giscusFrame = document.querySelector('iframe.giscus-frame');
-  if (giscusFrame) {
-    const giscusTheme = theme === 'dark' ? 'dark' : 'light';
-    giscusFrame.contentWindow.postMessage(
-      { giscus: { setConfig: { theme: giscusTheme } } },
-      'https://giscus.app'
-    );
+    return siteTitle;
   }
 }
-
-// 在 DOM 加载完成后初始化深色模式
-document.addEventListener('DOMContentLoaded', initDarkMode);
 </script>
-
