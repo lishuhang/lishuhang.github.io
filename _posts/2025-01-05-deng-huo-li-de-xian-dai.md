@@ -2,8 +2,7 @@
 date: 2025-01-05
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/05/01.jpg
 layout: post
-tags:
-title: 灯火里的现代生活
+tags: 随笔
 ---
 
 你正在用着四五十年前大型仪式都不敢用的电  

@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-03-16
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/01/01.jpg
 layout: post
-tags:
-- 科技
+tags: 随笔
 title: 方大同的个人生活和音乐遗产
 ---
 

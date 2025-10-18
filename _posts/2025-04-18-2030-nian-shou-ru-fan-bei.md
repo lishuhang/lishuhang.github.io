@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-04-18
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/04/18/00.jpg
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 2030年收入翻倍？Netflix计划迈入“万亿美元俱乐部”
 ---
 

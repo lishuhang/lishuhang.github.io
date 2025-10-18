@@ -3,7 +3,7 @@ layout: post
 title: 进读者群送3个Manus邀请码
 date: 2025-04-15
 categories: 文章
-tags: [科技]
+tags: [公告]
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/04/15/00.jpg
 ---
 

@@ -2,7 +2,7 @@
 date: 2025-01-02
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/02/00.jpg
 layout: post
-tags: media
+tags: 传媒
 title: 我们总算知道了元旦那天关掉的电台名字
 ---
 

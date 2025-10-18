@@ -3,7 +3,7 @@ layout: post
 title: "我在新闻实验室的更新：美国公共广播公司将关闭"
 date: 2025-09-12
 categories: 文章
-tags: [科技]
+tags: [新闻实验室]
 image: https://lishuhang.me/img/2025/09/12/wo-zai-xin-wen-shi-yan/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "华与华帮到西贝了吗？"
 date: 2025-09-15
 categories: 文章
-tags: [科技]
+tags: [随笔]
 image: https://lishuhang.me/img/2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg
 ---
 

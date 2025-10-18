@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-02-24
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/24/01.jpg
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 流媒体颠覆了电视台，然后又“复刻”了电视台
 ---
 

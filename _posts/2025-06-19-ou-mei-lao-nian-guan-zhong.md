@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-06-19
 image: https://lishuhang.me/img/2025/06/19/01.png
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 欧美老年观众也开始抛弃电视台了，中国呢？
 ---
 

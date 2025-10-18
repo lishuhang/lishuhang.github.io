@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-06-27
 image: https://lishuhang.me/img/2025/06/27/01.png
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 苹果2.5亿美元豪赌《F1》，会成就下一个《壮志凌云》吗？
 ---
 

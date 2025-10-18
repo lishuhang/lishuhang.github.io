@@ -2,7 +2,7 @@
 date: 2025-01-16
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/16/00.jpg
 layout: post
-tags: media
+tags: 传媒
 title: 再过几年，咱得看咖喱味儿的新番了？
 ---
 

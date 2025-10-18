@@ -3,7 +3,7 @@ layout: post
 title: "刚当上全球首富，甲骨文太子又盯上华纳兄弟探索"
 date: 2025-09-19
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/09/19/gang-dang-shang-quan-qiu-shou/01.jpg
 ---
 

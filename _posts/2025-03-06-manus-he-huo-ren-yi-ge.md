@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-03-16
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/06/01.jpg
 layout: post
-tags:
-- 科技
+tags: AI
 title: Manus合伙人，一个古典产品经理
 ---
 

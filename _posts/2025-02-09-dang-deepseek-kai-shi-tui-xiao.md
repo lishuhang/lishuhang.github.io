@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-02-09
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/09/01.jpg
 layout: post
-tags:
-- AI
+tags: AI
 title: 当DeepSeek开始推销水晶，全中国的石头工厂都笑了
 ---
 

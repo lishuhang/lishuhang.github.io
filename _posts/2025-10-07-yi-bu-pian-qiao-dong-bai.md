@@ -3,7 +3,7 @@ layout: post
 title: "一部片撬动百万游客，《猎魔女团》抄袭中国了吗？"
 date: 2025-10-07
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/10/07/yi-bu-pian-qiao-dong-bai/01.jpg
 ---
 

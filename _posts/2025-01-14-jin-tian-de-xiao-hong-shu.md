@@ -2,7 +2,7 @@
 date: 2025-01-14
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/14/01.jpg
 layout: post
-tags: media
+tags: 社交网络
 title: 今天的小红书真有趣
 ---
 

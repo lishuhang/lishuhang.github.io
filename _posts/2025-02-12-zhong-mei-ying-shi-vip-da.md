@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-02-12
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/12/01.png
 layout: post
-tags:
-- media
+tags: 传媒
 title: 中美影视VIP大对账：国内插广告只有美国1/5？
 ---
 

@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-05-13
 image: https://lishuhang.me/img/2025/05/13/01.jpg
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: “电视台已经衰落成这样了？”
 ---
 

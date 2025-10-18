@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-03-04
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/04/01.jpg
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 迪士尼牵手奥斯卡50年，终于要分家了？
 ---
 

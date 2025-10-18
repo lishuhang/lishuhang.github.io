@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-02-11
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/11/01.png
 layout: post
-tags:
-- media
+tags: 传媒
 title: AI占领超级碗广告，“美国经济晴雨表”告诉我们什么？
 ---
 

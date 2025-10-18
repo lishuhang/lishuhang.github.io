@@ -2,7 +2,7 @@
 date: 2025-01-28
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/28/00.jpg
 layout: post
-tags: media
+tags: 传媒
 title: “十个春晚主持不如一个王冰冰”？
 ---
 

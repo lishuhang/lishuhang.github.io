@@ -4,7 +4,7 @@ title: "航通社博客系统改造文档"
 date: 2025-10-14 23:00:00 +0800
 author: AI Assistant
 categories: 技术
-tags: [Documentation]
+tags: [公告]
 image: https://lishuhang.me/img/2023/live-logo.jpg
 excerpt: "本文档记录了航通社博客系统从传统Jekyll博客到现代化单页应用的完整改造过程，包括设计理念、技术实现和解决方案。"
 ---

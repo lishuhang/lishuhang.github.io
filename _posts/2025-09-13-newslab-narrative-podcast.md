@@ -3,7 +3,7 @@ layout: post
 title: "我在新闻实验室的更新：叙事播客的“快进式”兴衰"
 date: 2025-09-13
 categories: 文章
-tags: [科技]
+tags: [新闻实验室]
 image: https://lishuhang.me/img/2025/09/13/wo-zai-xin-wen-shi-yan/01.jpg
 ---
 

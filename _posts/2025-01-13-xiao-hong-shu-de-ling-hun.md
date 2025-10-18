@@ -2,7 +2,7 @@
 date: 2025-01-13
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/13/01.jpg
 layout: post
-tags: media
+tags: 社交网络
 title: 小红书的灵魂是评论区
 ---
 

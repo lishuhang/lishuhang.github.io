@@ -3,7 +3,7 @@ layout: post
 title: "日耗近千万，半年增600：今年是“AI漫剧元年”"
 date: 2025-09-20
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/09/20/ri-hao-jin-qian-wan-ban/01.jpg
 ---
 

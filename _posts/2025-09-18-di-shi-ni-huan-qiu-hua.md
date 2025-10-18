@@ -3,7 +3,7 @@ layout: post
 title: "迪士尼、环球、华纳起诉MiniMax海螺AI侵犯版权"
 date: 2025-09-18
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/09/18/di-shi-ni-huan-qiu-hua/01.jpg
 ---
 

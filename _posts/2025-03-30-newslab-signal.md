@@ -3,7 +3,7 @@ layout: post
 title: 我在新闻实验室的更新：总编被误拉入机密聊天群
 date: 2025-03-30
 categories: 文章
-tags: [科技]
+tags: [新闻实验室]
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/30/00.png
 ---
 

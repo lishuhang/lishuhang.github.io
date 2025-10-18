@@ -3,8 +3,7 @@ categories: 文章
 date: 2025-07-08
 image: https://lishuhang.me/img/2025/07/08/01.jpg
 layout: post
-tags:
-- 科技
+tags: 传媒
 title: 这届主流媒体为何“热衷”监督娱乐圈？
 ---
 

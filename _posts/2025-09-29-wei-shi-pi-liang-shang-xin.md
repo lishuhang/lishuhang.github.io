@@ -3,7 +3,7 @@ layout: post
 title: "卫视批量上新4K超高清，我们能重新爱上看电视吗？"
 date: 2025-09-29
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/09/29/wei-shi-pi-liang-shang-xin/01.jpg
 ---
 
