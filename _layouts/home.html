@@ -280,7 +280,7 @@ function generateTagCloud() {
   // 按字母顺序排序
   const sortedTags = Array.from(tagMap.values()).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   
-  // 生成标签按钮
+  // 生成标签按钮（不在这里绑定事件，使用事件委托）
   tagsContainer.innerHTML = '';
   sortedTags.forEach(tag => {
     const tagBtn = document.createElement('a');
@@ -288,10 +288,6 @@ function generateTagCloud() {
     tagBtn.className = 'tag-btn';
     tagBtn.dataset.tag = tag;
     tagBtn.textContent = tag;
-    tagBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      handleTagClick(tag, tagBtn);
-    });
     tagsContainer.appendChild(tagBtn);
   });
 }
@@ -340,21 +336,25 @@ function bindEvents() {
     }
   }
   
-  // 标签点击
-  document.querySelectorAll('.tag-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      e.preventDefault();
-      const tag = e.target.dataset.tag;
-      
-      // 如果当前在文章页，先返回列表
-      const postView = document.getElementById('postView');
-      if (postView && postView.style.display !== 'none') {
-        showPostsList();
+  // 标签点击（使用事件委托）
+  const tagsContainer = document.getElementById('tagsContainer');
+  if (tagsContainer) {
+    tagsContainer.addEventListener('click', (e) => {
+      const tagBtn = e.target.closest('.tag-btn');
+      if (tagBtn) {
+        e.preventDefault();
+        const tag = tagBtn.dataset.tag;
+        
+        // 如果当前在文章页，先返回列表
+        const postView = document.getElementById('postView');
+        if (postView && postView.style.display !== 'none') {
+          showPostsList();
+        }
+        
+        handleTagClick(tag, tagBtn);
       }
-      
-      handleTagClick(tag, e.target);
     });
-  });
+  }
   
   // 年份链接点击
   document.querySelectorAll('.year-link').forEach(link => {
