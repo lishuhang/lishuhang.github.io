@@ -3,8 +3,7 @@ categories: 文章
 date: 2024-12-04
 image: https://raw.githubusercontent.com/lishuhang/img/master/2024/12/04/01.jpg
 layout: post
-tags:
-- media
+tags: 传媒
 title: 琼瑶：生亦绚烂，去亦翩然
 ---
 

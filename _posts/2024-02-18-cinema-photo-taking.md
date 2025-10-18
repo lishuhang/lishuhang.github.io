@@ -8,8 +8,6 @@ featured: true
 hidden: false
 ---
 
-*This message is used to verify that this feed (feedId:74641091287987200) belongs to me (userId:72929541709356032). Join me in enjoying the next generation information browser https://follow.is.*
-
 >  这两天，三号厅和导筒这些号简直都疯特了，无休止的跟“我蛮夷也”的观众对线。其实我们采的后面几个人都属于观众当中沉默的大多数，只是他们只有极少数具备表达完整观点的能力。我们希望他们的声音也被听见。借用《毒眸》一句话：“一年看20部电影的人没法和一年只看1次电影的人共情”。
 
 *“屏摄是新时代观影礼仪的一部分。”*
