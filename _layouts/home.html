@@ -280,7 +280,7 @@ function generateTagCloud() {
   // 按字母顺序排序
   const sortedTags = Array.from(tagMap.values()).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   
-  // 生成标签按钮
+  // 生成标签按钮（不在这里绑定事件，使用事件委托）
   tagsContainer.innerHTML = '';
   sortedTags.forEach(tag => {
     const tagBtn = document.createElement('a');
@@ -288,10 +288,6 @@ function generateTagCloud() {
     tagBtn.className = 'tag-btn';
     tagBtn.dataset.tag = tag;
     tagBtn.textContent = tag;
-    tagBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      handleTagClick(tag, tagBtn);
-    });
     tagsContainer.appendChild(tagBtn);
   });
 }
@@ -340,21 +336,25 @@ function bindEvents() {
     }
   }
   
-  // 标签点击
-  document.querySelectorAll('.tag-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      e.preventDefault();
-      const tag = e.target.dataset.tag;
-      
-      // 如果当前在文章页，先返回列表
-      const postView = document.getElementById('postView');
-      if (postView && postView.style.display !== 'none') {
-        showPostsList();
+  // 标签点击（使用事件委托）
+  const tagsContainer = document.getElementById('tagsContainer');
+  if (tagsContainer) {
+    tagsContainer.addEventListener('click', (e) => {
+      const tagBtn = e.target.closest('.tag-btn');
+      if (tagBtn) {
+        e.preventDefault();
+        const tag = tagBtn.dataset.tag;
+        
+        // 如果当前在文章页，先返回列表
+        const postView = document.getElementById('postView');
+        if (postView && postView.style.display !== 'none') {
+          showPostsList();
+        }
+        
+        handleTagClick(tag, tagBtn);
       }
-      
-      handleTagClick(tag, e.target);
     });
-  });
+  }
   
   // 年份链接点击
   document.querySelectorAll('.year-link').forEach(link => {
@@ -1504,4 +1504,17 @@ function applyTheme(theme) {
 // 在 DOM 加载完成后初始化深色模式
 document.addEventListener('DOMContentLoaded', initDarkMode);
 </script>
+
+<!-- 浮动按钮 -->
+<button id="backToTopBtn" class="floating-btn back-to-top" aria-label="返回顶部" title="返回顶部">
+  <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+    <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path>
+  </svg>
+</button>
+
+<button id="homeBtn" class="floating-btn home-btn" aria-label="返回首页" title="返回首页">
+  <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path>
+  </svg>
+</button>
 
