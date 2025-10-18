@@ -1055,42 +1055,5 @@
 
 
 
-/* 返回顶部按钮 */
-.back-to-top-btn {
-  position: absolute;
-  bottom: 32px;
-  right: 32px;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  background-color: var(--accent-color);
-  color: white;
-  border: none;
-  cursor: pointer;
-  box-shadow: var(--shadow-lg);
-  transition: all var(--duration-fast) ease;
-  z-index: 80;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
-.back-to-top-btn:hover {
-  background-color: var(--accent-hover);
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(52, 125, 248, 0.3);
-}
-
-.back-to-top-btn:active {
-  transform: translateY(-2px);
-}
-
-@media (max-width: 768px) {
-  .back-to-top-btn {
-    bottom: 20px;
-    right: 20px;
-    width: 44px;
-    height: 44px;
-  }
-}
 

@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+/**
+ * 浮动按钮组件
+ * 包含回到顶部和返回首页按钮
+ */
+
+/* 浮动按钮容器 */
+.floating-buttons {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 9999;
+}
+
+/* 单个浮动按钮 */
+.floating-btn {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: var(--bg-white);
+  color: var(--primary-blue);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--duration-normal) ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+.floating-btn:hover {
+  background-color: var(--primary-blue);
+  color: var(--text-white);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(52, 125, 248, 0.3);
+}
+
+.floating-btn:active {
+  transform: translateY(-2px);
+}
+
+.floating-btn svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* 回到顶部按钮 - 默认隐藏 */
+#scrollToTopBtn {
+  display: none;
+}
+
+/* 显示状态 */
+#scrollToTopBtn.show {
+  display: flex;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .floating-buttons {
+    bottom: 20px;
+    right: 20px;
+    gap: 10px;
+  }
+  
+  .floating-btn {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .floating-btn svg {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* 深色模式 */
+@media (prefers-color-scheme: dark) {
+  .floating-btn {
+    background-color: #2d3748;
+    color: var(--primary-blue-light);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  .floating-btn:hover {
+    background-color: var(--primary-blue-light);
+    color: #1a202c;
+    box-shadow: 0 8px 24px rgba(77, 143, 255, 0.3);
+  }
+}
+
