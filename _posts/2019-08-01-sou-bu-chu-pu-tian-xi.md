@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "搜不出“莆田系”的头条搜索，这回能替代百度了吗？"
-date: 2025-10-19
+date: 2019-08-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
+image: https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/01.png
 ---
-
-![](https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png)
 
 书航 8 月 1 日发于北京
 
@@ -17,7 +15,7 @@ image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
 
 我们不妨先具体的用一下今日头条内置的搜索框，同时从搜索引擎成功的几个基本要素入手，分析这款搜索产品未来的成功概率，以及它对于字节跳动的意义。
 
-这就是字节跳动的搜索引擎
+## 这就是字节跳动的搜索引擎
 
 字节跳动方面表示，搜索产品已经上线，用户可以通过今日头条 App 上面的搜索框进行试用。
 
@@ -35,7 +33,7 @@ image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
 
 但也不会特别差——因为造成百度医疗搜索结果差劲的最大问题，是它故意插入的广告位，而不是百度能力不足。你可以把现在的头条搜索，看作是一个尚未植入那么多竞价排名的百度。
 
-搜索三要素：技术、体验、推广
+## 搜索三要素：技术、体验、推广
 
 我接下来想说一下自己的一个总结，不一定对。
 
@@ -79,7 +77,7 @@ image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
 
 然而，百度前两年一次 All in AI 的转型，让它和站长共生的环境元气大伤，百家号的出现更是分步骤将原本分发给站长的流量截留。众多原本效忠于百度联盟的地推团队，随市场需求起舞，都去做了头条和朋友圈广告代理。
 
-头条搜索还具备额外的口碑优势
+## 头条搜索还具备额外的口碑优势
 
 3 月 11 日，今日头条正式在开屏广告推广“头条全网搜索”。同样是售卖关键词竞价广告，与百度不同的是，今日头条的售卖逻辑更加效果导向。
 
@@ -95,7 +93,7 @@ image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
 
 所以，头条搜索拥有一个相对来说要好的多的舆论环境。
 
-字节跳动有没有“搜索基因”？
+## 字节跳动有没有“搜索基因”？
 
 做搜索引擎，直接挑战百度，这很难不让人联想到腾讯的搜搜。
 
@@ -127,6 +125,6 @@ image: https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/01.png
 
 [1] https://finance.sina.com.cn/roll/2019-07-24/doc-ihytcitm4348896.shtml
 
-![](https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/02.png)
+![](https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/02.png)
 
-![](https://lishuhang.me/img/2025/10/19/sou-bu-chu-pu-tian-xi/03.png)
+![](https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/03.png)
