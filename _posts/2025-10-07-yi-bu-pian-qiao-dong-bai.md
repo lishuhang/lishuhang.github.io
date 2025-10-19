@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一部片撬动百万游客，《猎魔女团》抄袭中国了吗？"
+title: "中国观众，是否错过了一部世界级好片"
 date: 2025-10-07
 categories: 文章
 tags: [传媒]

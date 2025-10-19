@@ -7,8 +7,6 @@ tags: [随笔]
 image: https://lishuhang.me/img/2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg
 ---
 
-![题图](https://lishuhang.me/img/2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg)
-
 晚点把旧稿 [华与华兄弟：卖符号和词语二十年](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247529004&idx=1&sn=3b9eb3d2f8e847fe512bc98ec9dbb105&scene=142#wechat_redirect) 拿出来重新发了一遍追热点，社长也想照做。
 
 社长总觉得自己写过华与华这类的公司，翻了一通果然找到一篇当时写的： [2018年以后，“定位理论”是否依然有效？](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659406&idx=1&sn=7d661450ea632cfe17d797c2068e75dd&scene=142#wechat_redirect)。
@@ -20,5 +18,3 @@ image: https://lishuhang.me/img/2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg
 雪王和洗脑歌曲赢了，长期以来大家都说是华与华的功劳，他们也欣然接受了。但还有非常多的案例并不成功，比如好想来花600万找华与华设计logo后，用了不到2年又换掉了。
 
 西贝这事，华也发了微博帮腔，但不说帮倒忙吧，起码没有起到力挽狂澜的作用。那可能就得回头想想了：所以品牌咨询到底能占多大的功劳给自己呢？现在是不是得反过来思考，雪王能火，根本也是因为雪王底子好，咨询公司只是赢了算自己的，输了算客户的呢？
-
-![配图2](https://lishuhang.me/img/2025/09/15/hua-yu-hua-bang-dao-xi/02.jpg)

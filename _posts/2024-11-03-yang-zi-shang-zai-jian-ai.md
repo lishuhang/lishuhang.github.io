@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2024/11/03/yang-zi-shang-zai-jian-ai/01.jpg
 ---
 
-![](https://lishuhang.me/img/2024/11/03/yang-zi-shang-zai-jian-ai/01.jpg)
-
 文 / 书航 2024.11.3
 
 不愧是现象级情感综艺，《再见爱人》是会玩的。

@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2024/11/16/re-sou-jie-ma-mang-guo/01.jpg
 ---
 
-![](https://lishuhang.me/img/2024/11/16/re-sou-jie-ma-mang-guo/01.jpg)
-
 文 / 书航 2024.11.15
 
 娱乐资本论从权威渠道获悉，芒果TV副总裁兼节目中心总经理，“文案女王”吴梦知已经离开芒果，目前下一站去向尚未官宣。有知情人报料称她曾经和优酷有过接触，“不知道是否聊成功了，但优酷肯定是个不错的选择”。

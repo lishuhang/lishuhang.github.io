@@ -9,8 +9,6 @@ image: https://lishuhang.me/img/2024/10/30/re-sou-jie-ma-yao-ming/01.jpg
 
 他至少算是为中国篮球努力过了
 
-![](https://lishuhang.me/img/2024/10/30/re-sou-jie-ma-yao-ming/01.jpg)
-
 文 / 书航 2024.10.30
 
 今天，中国篮协主席姚明被曝辞职的消息不胫而走，截止发稿时，消息仍在一片迷雾之中。
