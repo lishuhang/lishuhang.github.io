@@ -2,6 +2,11 @@
 layout: base
 ---
 
+<!-- 加载遮罩层 -->
+<div id="loadingOverlay" class="loading-overlay">
+  <div class="loading-spinner"></div>
+</div>
+
 <div class="blog-container">
   <!-- 侧边栏 -->
   <aside class="blog-sidebar" id="blogSidebar">
@@ -220,6 +225,17 @@ document.addEventListener('DOMContentLoaded', function() {
   checkAndLoadFromURL();
   
   console.log('Blog initialized with', allPosts.length, 'posts');
+  
+  // 初始化完成，隐藏加载遮罩
+  setTimeout(() => {
+    const overlay = document.getElementById('loadingOverlay');
+    if (overlay) {
+      overlay.style.opacity = '0';
+      setTimeout(() => {
+        overlay.style.display = 'none';
+      }, 300);
+    }
+  }, 100);
 });
 
 // 加载文章元数据
