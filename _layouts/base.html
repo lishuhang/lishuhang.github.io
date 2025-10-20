@@ -3,6 +3,11 @@
   {%- include head.html -%}
 
   <body style="margin: 0; padding: 0; min-height: 100vh;">
+    <!-- 加载遮罩层 -->
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="loading-spinner"></div>
+    </div>
+    
     {{ content }}
     <script src="{{ '/assets/js/floating-buttons.js' | relative_url }}"></script>
   </body>
