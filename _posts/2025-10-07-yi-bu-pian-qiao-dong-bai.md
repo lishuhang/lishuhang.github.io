@@ -9,8 +9,6 @@ image: https://lishuhang.me/img/2025/10/07/yi-bu-pian-qiao-dong-bai/01.jpg
 
 *好莱坞故事+韩国文化内核=全球爆款*
 
-![](https://lishuhang.me/img/2025/10/07/yi-bu-pian-qiao-dong-bai/01.jpg)
-
 *文 / 书航 2025.10.6*
 
 动画电影《K-POP：猎魔女团》（K-POP Demon Hunters）在Netflix流媒体平台上取得了史无前例的成功，打破了多项观看纪录，更通过非传统的发行活动，验证了其强大的粉丝动员能力和市场号召力。影片已迅速演变为一个全球性的文化符号，其影响力渗透至体育、政治等多个领域。
