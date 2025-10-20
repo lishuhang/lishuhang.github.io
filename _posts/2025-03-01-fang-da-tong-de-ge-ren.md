@@ -1,13 +1,11 @@
 ---
 categories: 文章
-date: 2025-03-16
+date: 2025-03-01
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/01/01.jpg
 layout: post
 tags: 随笔
 title: 方大同的个人生活和音乐遗产
 ---
-
-# 方大同的个人生活和音乐遗产
 
 *盘点他的五支代表曲目*
 

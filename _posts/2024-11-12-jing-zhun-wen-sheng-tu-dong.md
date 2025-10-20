@@ -7,6 +7,8 @@ tags: [科技]
 image: https://lishuhang.me/img/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.png
 ---
 
+11月12日，在上海举办的百度世界2024大会上，李彦宏发布了检索增强的文生图技术（iRAG）和运用智能体协作实现的无代码工具“秒哒”等重要产品。
+
 ![](https://lishuhang.me/img/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.png)
 
 截至11月初，百度文心大模型的日均调用量已超过15亿次，相较于5月的2亿次增长了7.5倍，与一年前首次披露的5000万次相比，增长了约30倍。
