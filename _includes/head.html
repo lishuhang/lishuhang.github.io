@@ -3,15 +3,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   {% seo %}
-  <!-- 思源黑体 webfont - 上海交大镜像 -->
+  
+  <!-- 思源黑体 webfont -->
   <link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/earlyaccess/notosanssc.css">
-  <link rel="stylesheet" href="{{ '/assets/unified-styles.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/dark-mode.css' | relative_url }}">
+
+  <!-- 
+    核心合并样式表 (style.css)
+    包含了原有的:
+    1. unified-styles.css (基础组件)
+    2. dark-mode.css (深色模式变量)
+    3. dist-style.css (Tailwind 引用)
+  -->
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+  <!-- 
+    === 恢复以下原有样式表 === 
+    这些文件未参与合并，必须保留，否则博客布局会乱。
+  -->
   <link rel="stylesheet" href="{{ '/assets/css/blog-styles.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/post-content.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/post-header.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/floating-buttons.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/dist-style.css' | relative_url }}">
+  
+  <!-- main.css 通常包含全局重置或 Jekyll 主题样式，建议放在最后以确保覆盖 -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 </head>
