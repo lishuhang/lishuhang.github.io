@@ -103,8 +103,9 @@ a { text-decoration: none; color: inherit; }
 
 /* 浮动按钮组 */
 .floating-buttons {
-  position: fixed; bottom: 32px; right: 32px; z-index: 99;
+  position: fixed; bottom: 32px; right: 32px; z-index: 9999;
   display: flex; flex-direction: column; gap: 12px;
+  pointer-events: auto;
 }
 .floating-btn {
   width: 56px; height: 56px; border-radius: 50%;
@@ -114,10 +115,11 @@ a { text-decoration: none; color: inherit; }
   cursor: pointer; transition: transform 0.2s, background-color 0.2s; padding: 0;
 }
 .floating-btn:hover { transform: translateY(-4px); background: var(--primary-blue); color: white; }
-.floating-btn svg { width: 24px; height: 24px; stroke-width: 2px; } /* 强制限制 SVG 尺寸 */
+.floating-btn svg { width: 24px; height: 24px; stroke-width: 2px; }
 
+/* 滚动回顶部按钮逻辑 */
 #scrollToTopBtn { display: none; }
-#scrollToTopBtn.show { display: flex; }
+#scrollToTopBtn.show { display: flex !important; }
 
 /* 动画工具 */
 .fadeIn { animation: fadeIn 0.5s forwards; }
@@ -228,7 +230,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================
-   5. 文章详情页 (Post Detail) - 核心修复区
+   5. 文章详情页 (Post Detail)
    ========================================= */
 .post-detail-header {
   background: var(--bg-white); padding: var(--space-6); border-radius: var(--radius-lg);
@@ -246,7 +248,7 @@ a { text-decoration: none; color: inherit; }
   color: var(--text-secondary); border: none; cursor: pointer; transition: all 0.2s;
 }
 .share-icon:hover { background-color: var(--primary-blue); color: white; }
-.share-icon svg { width: 20px; height: 20px; fill: currentColor; } /* 强制限制 SVG */
+.share-icon svg { width: 20px; height: 20px; fill: currentColor; }
 
 .post-header-title { font-size: 2.5rem; font-weight: 900; line-height: 1.2; margin: var(--space-4) 0; }
 
@@ -255,9 +257,6 @@ a { text-decoration: none; color: inherit; }
   border-radius: var(--radius-lg); border: 1px solid var(--border-light);
 }
 
-/* * 关键修复: 恢复被 Tailwind Reset 清除的默认样式 
- * 针对 Markdown 生成的内容 (.post-detail-article)
- */
 .post-detail-article { font-size: 16px; line-height: 1.8; color: var(--text-primary); }
 
 .post-detail-article h1, 
@@ -275,7 +274,6 @@ a { text-decoration: none; color: inherit; }
 .post-detail-article a { color: var(--primary-blue); text-decoration: underline; text-underline-offset: 2px; }
 .post-detail-article a:hover { color: var(--primary-blue-dark); }
 
-/* 恢复列表圆点和数字 */
 .post-detail-article ul { list-style-type: disc; padding-left: 1.5em; margin-bottom: 1.2em; }
 .post-detail-article ol { list-style-type: decimal; padding-left: 1.5em; margin-bottom: 1.2em; }
 .post-detail-article li { margin-bottom: 0.5em; }
@@ -295,7 +293,6 @@ a { text-decoration: none; color: inherit; }
   font-family: monospace; font-size: 0.9em;
 }
 
-/* 文章底部导航 */
 .post-navigation {
   display: flex; justify-content: space-between; gap: var(--space-4);
   margin-top: var(--space-8); padding-top: var(--space-8); border-top: 1px solid var(--border-light);
@@ -309,24 +306,66 @@ a { text-decoration: none; color: inherit; }
   background-color: var(--bg-hover); border-color: var(--primary-blue);
   transform: translateY(-2px); box-shadow: var(--shadow-sm);
 }
-.post-nav-link svg { width: 24px; height: 24px; flex-shrink: 0; } /* 限制 SVG */
+.post-nav-link svg { width: 24px; height: 24px; flex-shrink: 0; }
 .post-nav-link span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1; }
 .post-nav-next { text-align: right; justify-content: flex-end; }
 .post-nav-next span { order: -1; }
 
 /* =========================================
-   6. 移动端适配 (Mobile)
+   6. 移动端适配 (Mobile) - 核心修复
    ========================================= */
 .mobile-header { display: none; }
+
+/* 遮罩层 (用于手机端侧边栏打开时) */
+.sidebar-overlay {
+  display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0,0,0,0.5); z-index: 90; opacity: 0; transition: opacity 0.3s ease;
+}
+.sidebar-overlay.active { display: block; opacity: 1; }
+
 @media (max-width: 768px) {
-  .blog-sidebar { transform: translateX(-100%); transition: transform 0.3s; }
-  .blog-sidebar.mobile-open { transform: translateX(0); }
+  /* [修复] 移动端顶栏样式 */
   .mobile-header {
-    display: flex; position: fixed; top: 0; left: 0; right: 0; height: 60px;
+    display: flex; position: fixed; top: 0; left: 0; right: 0; height: 64px;
     background: var(--bg-white); z-index: 200; padding: 0 var(--space-4);
-    align-items: center; justify-content: space-between; border-bottom: 1px solid var(--border-light);
+    align-items: center; justify-content: space-between;
+    border-bottom: 1px solid var(--border-light);
+    box-shadow: var(--shadow-sm);
   }
-  .blog-main { margin-left: 0; padding-top: 80px; }
+  
+  .mobile-header-logo {
+    display: flex; align-items: center; gap: var(--space-2);
+  }
+  
+  .mobile-header-logo .logo-image {
+    width: 32px; height: 32px; border-radius: 50%; object-fit: cover;
+  }
+  
+  .mobile-header-logo .logo-text {
+    font-size: var(--font-size-lg); font-weight: var(--font-weight-bold);
+    color: var(--text-primary);
+  }
+  
+  /* 汉堡菜单按钮 */
+  .hamburger-button {
+    display: flex; flex-direction: column; justify-content: space-between;
+    width: 24px; height: 18px; background: transparent; border: none; padding: 0; cursor: pointer;
+  }
+  
+  .hamburger-line {
+    width: 100%; height: 2px; background-color: var(--text-primary);
+    border-radius: 2px; transition: all 0.2s;
+  }
+  
+  /* [修复] 侧边栏移动端交互 */
+  .blog-sidebar {
+    transform: translateX(-100%); transition: transform 0.3s ease;
+    z-index: 300; /* 确保高于遮罩层(90)和顶栏(200) */
+  }
+  .blog-sidebar.mobile-open { transform: translateX(0) !important; }
+  
+  .blog-main { margin-left: 0; padding-top: 84px; } /* 64px header + 20px padding */
+  
   #postsContainer { grid-template-columns: 1fr; }
   .post-detail-header { flex-direction: column; }
   .post-header-image { width: 100%; height: auto; aspect-ratio: 16/9; }
@@ -383,3 +422,4 @@ html[data-theme="dark"] .toggle-switch input:checked + .toggle-slider { backgrou
 html[data-theme="dark"] .post-detail-article a { color: var(--primary-blue-light); }
 html[data-theme="dark"] .post-detail-article h1, 
 html[data-theme="dark"] .post-detail-article h2 { border-bottom-color: var(--border-light); }
+html[data-theme="dark"] .hamburger-line { background-color: var(--text-primary); }
