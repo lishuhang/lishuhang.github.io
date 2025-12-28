@@ -8,24 +8,9 @@
   <link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/earlyaccess/notosanssc.css">
 
   <!-- 
-    核心合并样式表 (style.css)
-    包含了原有的:
-    1. unified-styles.css (基础组件)
-    2. dark-mode.css (深色模式变量)
-    3. dist-style.css (Tailwind 引用)
+    全站唯一合并样式表 (style.css)
+    包含: Base, Blog Layout, Post Styles, Floating Buttons, Main styles, Dark Mode
   -->
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-
-  <!-- 
-    === 恢复以下原有样式表 === 
-    这些文件未参与合并，必须保留，否则博客布局会乱。
-  -->
-  <link rel="stylesheet" href="{{ '/assets/css/blog-styles.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/post-content.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/post-header.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/floating-buttons.css' | relative_url }}">
-  
-  <!-- main.css 通常包含全局重置或 Jekyll 主题样式，建议放在最后以确保覆盖 -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 </head>
