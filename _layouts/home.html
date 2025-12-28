@@ -632,17 +632,31 @@ function renderPosts() {
 function initInfiniteScroll() {
   const blogMain = document.getElementById('blogMain');
   
-  blogMain.addEventListener('scroll', () => {
+  // 通用检测逻辑
+  const checkScroll = (scrollTop, scrollHeight, clientHeight) => {
     const postsView = document.getElementById('postsView');
+    // 如果不在文章列表视图，直接返回
     if (postsView.style.display === 'none') return;
     
-    const scrollTop = blogMain.scrollTop;
-    const scrollHeight = blogMain.scrollHeight;
-    const clientHeight = blogMain.clientHeight;
-    
+    // 简单的触底检测
     if (scrollHeight - scrollTop - clientHeight < 200) {
       loadMorePosts();
     }
+  };
+
+  // 1. 监听 blogMain 滚动 (适用于 blogMain 有固定高度且 overflow: auto 的情况)
+  if (blogMain) {
+    blogMain.addEventListener('scroll', () => {
+      checkScroll(blogMain.scrollTop, blogMain.scrollHeight, blogMain.clientHeight);
+    });
+  }
+  
+  // 2. 监听 Window 滚动 (适用于 blogMain 高度自动撑开，滚动条在 body/html 上的情况)
+  window.addEventListener('scroll', () => {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    const scrollHeight = document.documentElement.scrollHeight;
+    const clientHeight = window.innerHeight;
+    checkScroll(scrollTop, scrollHeight, clientHeight);
   });
 }
 
@@ -1139,7 +1153,7 @@ function showPostsList(restoreScroll = false) {
   
   // 恢复滚动位置或滚动到顶部
   if (!restoreScroll) {
-    blogMain.scrollTop = 0;
+    if (blogMain) blogMain.scrollTop = 0;
     window.scrollTo(0, 0);
   }
   
@@ -1515,4 +1529,3 @@ function applyTheme(theme) {
 // 在 DOM 加载完成后初始化深色模式
 document.addEventListener('DOMContentLoaded', initDarkMode);
 </script>
-
