@@ -20,7 +20,8 @@ layout: base
       
       <!-- AIGC早报链接 -->
       <div class="aigc-link-section">
-        <a href="/daily/" target="_blank" class="aigc-link" data-tag="AIGC">每日AIGC早报</a>
+        <!-- 修改说明：href 已设置为 /daily/，target="_blank" 用于新窗口打开。JS 中已移除拦截逻辑。 -->
+        <a href="https://lishuhang.me/daily/" target="_blank" class="aigc-link" data-tag="AIGC">每日AIGC早报</a>
       </div>
       
       <!-- 标签区域 -->
@@ -311,22 +312,17 @@ function bindEvents() {
     searchInput.addEventListener('input', debounce(handleSearch, 300));
   }
   
-  // AIGC早报链接
-  const aigcLink = document.querySelector('.aigc-link');
+  // AIGC早报链接事件监听已被移除，以便允许默认的跳转行为
+  /* const aigcLink = document.querySelector('.aigc-link');
   if (aigcLink) {
     aigcLink.addEventListener('click', (e) => {
       e.preventDefault();
       const tag = aigcLink.dataset.tag;
-      
-      // 如果当前在文章页，先返回列表
-      const postView = document.getElementById('postView');
-      if (postView && postView.style.display !== 'none') {
-        showPostsList();
-      }
-      
+      // ...
       handleAIGCClick(tag);
     });
   }
+  */
   
   // 原图开关
   const originalImageToggle = document.getElementById('originalImageToggle');
