@@ -1,6 +1,6 @@
 /**
  * 航通社极简 JS — 顶部页眉 + 右侧边栏版
- * 功能：深色模式、移动端菜单、回到顶部、URL过滤、搜索、原图切换、复制链接、无限滚动
+ * 功能：深色模式、移动端菜单、回到顶部、URL过滤（tag/year）、Google站内搜索、原图切换、复制链接、无限滚动
  */
 (function() {
   'use strict';
@@ -78,11 +78,27 @@
     });
   }
 
-  // ===== URL 过滤 =====
+  // ===== Google 站内搜索 =====
+  function initSearch() {
+    var form = document.querySelector('.search-form');
+    var input = document.getElementById('searchInput');
+    if (!form || !input) return;
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var q = input.value.trim();
+      if (q) window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
+    });
+    // 旧版 ?search= 参数兼容：跳转 Google
+    var params = new URLSearchParams(window.location.search);
+    if (params.get('search')) {
+      window.location.replace('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + params.get('search')));
+    }
+  }
+
+  // ===== URL 过滤（tag / year） =====
   var applyFilters;
   function initFilters() {
     var container = document.getElementById('postsContainer');
-    var searchInput = document.getElementById('searchInput');
     var filterHeader = document.getElementById('filterHeader');
     var filterTitle = document.getElementById('filterTitle');
     var noMore = document.getElementById('noMorePosts');
@@ -90,16 +106,12 @@
     applyFilters = function() {
       var cards = container ? container.querySelectorAll('.post-card') : [];
       var params = new URLSearchParams(window.location.search);
-      var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
+      var tag = params.get('tag'), year = params.get('year');
       var visible = 0;
       cards.forEach(function(c) {
         var show = true;
         if (tag) show = c.dataset.tags.toLowerCase().split(',').indexOf(tag.toLowerCase()) !== -1;
         if (year && show) show = c.dataset.year === year;
-        if (search && show) {
-          var q = search.toLowerCase();
-          show = c.dataset.title.indexOf(q) !== -1 || c.dataset.excerpt.indexOf(q) !== -1;
-        }
         c.style.display = show ? '' : 'none';
         if (show) visible++;
       });
@@ -107,7 +119,6 @@
       if (filterHeader && filterTitle) {
         if (tag) { filterTitle.textContent = '标签：' + tag; filterHeader.style.display = ''; }
         else if (year) { filterTitle.textContent = year + '年文章'; filterHeader.style.display = ''; }
-        else if (search) { filterTitle.textContent = '搜索：' + search; filterHeader.style.display = ''; }
         else { filterHeader.style.display = 'none'; }
       }
 
@@ -119,19 +130,9 @@
       document.querySelectorAll('.tag-btn').forEach(function(b) { b.classList.toggle('active', tag && b.textContent === tag); });
       if (tag) document.title = '标签：' + tag + ' - 航通社';
       else if (year) document.title = year + '年文章 - 航通社';
-      else if (search) document.title = '搜索：' + search + ' - 航通社';
       else document.title = '航通社 | 你应该知道的历史、现在和未来';
     };
 
-    if (searchInput) {
-      var p = new URLSearchParams(window.location.search);
-      if (p.get('search')) searchInput.value = p.get('search');
-      searchInput.addEventListener('input', debounce(function() {
-        var q = searchInput.value.trim();
-        window.history.replaceState(null, '', q ? '/?search=' + encodeURIComponent(q) : '/');
-        applyFilters();
-      }, 300));
-    }
     applyFilters();
   }
 
@@ -171,15 +172,10 @@
     var sentinel = document.getElementById('scrollSentinel');
     if (!allPosts || !allPosts.length || !container) return;
 
-    var pageSize = 10;
-    var currentCount = container.querySelectorAll('.post-card').length;
+    var params = new URLSearchParams(window.location.search);
+    var hasFilter = !!(params.get('tag') || params.get('year'));
 
-    // 已全部渲染
-    if (currentCount >= allPosts.length) {
-      if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
-      return;
-    }
-
+    // 工具函数
     function esc(s) {
       var d = document.createElement('div'); d.textContent = s; return d.innerHTML;
     }
@@ -210,6 +206,28 @@
       return el;
     }
 
+    // 有过滤条件时：立刻渲染全部文章，让 initFilters 来筛选
+    if (hasFilter) {
+      container.innerHTML = '';
+      var frag = document.createDocumentFragment();
+      for (var i = 0; i < allPosts.length; i++) frag.appendChild(createCard(allPosts[i]));
+      container.appendChild(frag);
+      if (sentinel) sentinel.remove();
+      if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.style.display = 'block'; }
+      return;
+    }
+
+    // 无过滤：首页懒加载，先显示 HTML 已渲染的 10 条
+    var pageSize = 10;
+    var currentCount = container.querySelectorAll('.post-card').length;
+
+    if (currentCount >= allPosts.length) {
+      if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
+      return;
+    }
+
+    var observer;
+
     function loadNextBatch() {
       if (currentCount >= allPosts.length) return;
       var end = Math.min(currentCount + pageSize, allPosts.length);
@@ -217,7 +235,6 @@
       for (var i = currentCount; i < end; i++) frag.appendChild(createCard(allPosts[i]));
       container.appendChild(frag);
       currentCount = end;
-      if (typeof applyFilters === 'function') applyFilters();
       if (currentCount >= allPosts.length) {
         if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
         if (sentinel) sentinel.remove();
@@ -225,7 +242,6 @@
       }
     }
 
-    var observer;
     if ('IntersectionObserver' in window && sentinel) {
       observer = new IntersectionObserver(function(entries) {
         if (entries[0].isIntersecting) loadNextBatch();
@@ -241,6 +257,8 @@
   // ===== 初始化 =====
   document.addEventListener('DOMContentLoaded', function() {
     initDarkMode(); initMobileMenu(); initScrollToTop();
-    initCopyLink(); initFilters(); initImageToggle(); initInfiniteScroll();
+    initCopyLink(); initSearch(); initImageToggle();
+    initInfiniteScroll(); // 必须在 initFilters 之前：有过滤时先渲染全部卡片
+    initFilters();
   });
 })();

@@ -57,5 +57,17 @@
     </div>
 
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+    <!-- 文章数据放在 body 最末尾，不阻塞侧边栏渲染 -->
+    {% if page.home %}
+    <script>
+    window.__POSTS__=[];
+    {% for post in site.posts %}
+    {% unless post.tags contains 'AIGC' %}
+    window.__POSTS__.push({u:{{post.url|relative_url|jsonify}},t:{{post.title|jsonify}},d:{{post.date|date:'%Y-%m-%d'|jsonify}},y:{{post.date|date:'%Y'|jsonify}},g:{{post.tags|join:','|jsonify}},e:{{post.excerpt|strip_html|normalize_whitespace|truncatewords:30|jsonify}},i:{%if post.image%}{{post.image|absolute_url|jsonify}}{%else%}null{%endif%}});
+    {% endunless %}
+    {% endfor %}
+    </script>
+    {% endif %}
   </body>
 </html>

@@ -7,7 +7,7 @@ layout: base
   <h1 id="filterTitle" class="filter-title"></h1>
 </div>
 
-<!-- 文章列表（仅渲染前 10 条非 AIGC 文章） -->
+<!-- 文章列表（仅渲染前 10 条非 AIGC 文章，其余由 JS 按需加载） -->
 <div id="postsContainer" class="posts-container">
   {% assign shown = 0 %}
   {% for post in site.posts %}
@@ -25,21 +25,3 @@ layout: base
 
 <!-- 结束提示 -->
 <div id="noMorePosts" class="no-more" style="display: none;"></div>
-
-<!-- 全部文章数据（JS 变量，供无限滚动按需生成卡片） -->
-<script>
-window.__POSTS__ = [];
-{% for post in site.posts %}
-{% unless post.tags contains 'AIGC' %}
-window.__POSTS__.push({
-  u: {{ post.url | relative_url | jsonify }},
-  t: {{ post.title | jsonify }},
-  d: {{ post.date | date: '%Y-%m-%d' | jsonify }},
-  y: {{ post.date | date: '%Y' | jsonify }},
-  g: {{ post.tags | join: ',' | jsonify }},
-  e: {{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | jsonify }},
-  i: {% if post.image %}{{ post.image | absolute_url | jsonify }}{% else %}null{% endif %}
-});
-{% endunless %}
-{% endfor %}
-</script>
