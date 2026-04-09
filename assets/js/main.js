@@ -79,7 +79,7 @@
   }
 
   // ===== URL 过滤 =====
-  var applyFilters; // 暴露给无限滚动使用
+  var applyFilters;
   function initFilters() {
     var container = document.getElementById('postsContainer');
     var searchInput = document.getElementById('searchInput');
@@ -163,49 +163,48 @@
     toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); processImages(); });
   }
 
-  // ===== 无限滚动（从内嵌 JSON 按需生成卡片） =====
+  // ===== 无限滚动（从内嵌 JS 变量按需生成卡片） =====
   function initInfiniteScroll() {
-    var dataEl = document.getElementById('postsData');
+    var allPosts = window.__POSTS__;
     var container = document.getElementById('postsContainer');
     var noMore = document.getElementById('noMorePosts');
     var sentinel = document.getElementById('scrollSentinel');
-    if (!dataEl || !container) return;
-
-    var allPosts;
-    try { allPosts = JSON.parse(dataEl.textContent); } catch(e) { return; }
-    if (!allPosts || !allPosts.length) return;
+    if (!allPosts || !allPosts.length || !container) return;
 
     var pageSize = 10;
     var currentCount = container.querySelectorAll('.post-card').length;
 
-    // 全部文章已在首屏渲染完毕
+    // 已全部渲染
     if (currentCount >= allPosts.length) {
       if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
       return;
     }
 
-    // 用 JSON 数据生成一张卡片 DOM
+    function esc(s) {
+      var d = document.createElement('div'); d.textContent = s; return d.innerHTML;
+    }
+
     function createCard(post) {
       var el = document.createElement('article');
       el.className = 'post-card';
-      el.dataset.year = post.year;
-      el.dataset.tags = post.tags || '';
-      el.dataset.title = (post.title || '').toLowerCase();
-      el.dataset.excerpt = (post.excerpt || '').toLowerCase();
-      el.dataset.url = post.url || '';
-      var esc = post.title.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-      var h = '<a href="' + post.url + '" class="post-card-link">';
-      if (post.image) {
-        h += '<div class="post-card-thumb"><img src="' + post.image + '" alt="' + esc + '" loading="lazy"></div>';
-      }
-      h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + post.date + '</span>';
-      if (post.tags) {
-        post.tags.split(',').slice(0, 3).forEach(function(t) {
-          t = t.trim(); if (t) h += '<span class="post-tag">#' + t + '</span>';
-        });
-      }
-      h += '</div><h2 class="post-card-title">' + post.title + '</h2>';
-      if (post.excerpt) h += '<p class="post-card-excerpt">' + post.excerpt + '</p>';
+      el.dataset.year = post.y;
+      el.dataset.tags = post.g || '';
+      el.dataset.title = (post.t || '').toLowerCase();
+      el.dataset.excerpt = (post.e || '').toLowerCase();
+      el.dataset.url = post.u || '';
+
+      var imgSrc = post.i
+        ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=200&output=jpg&q=80&fit=cover'
+        : '';
+
+      var h = '<a href="' + post.u + '" class="post-card-link">';
+      if (imgSrc) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
+      h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
+      if (post.g) post.g.split(',').slice(0, 3).forEach(function(t) {
+        t = t.trim(); if (t) h += '<span class="post-tag">#' + esc(t) + '</span>';
+      });
+      h += '</div><h2 class="post-card-title">' + esc(post.t) + '</h2>';
+      if (post.e) h += '<p class="post-card-excerpt">' + esc(post.e) + '</p>';
       h += '</div></a>';
       el.innerHTML = h;
       return el;
@@ -218,7 +217,6 @@
       for (var i = currentCount; i < end; i++) frag.appendChild(createCard(allPosts[i]));
       container.appendChild(frag);
       currentCount = end;
-      // 新卡片也需要受过滤影响
       if (typeof applyFilters === 'function') applyFilters();
       if (currentCount >= allPosts.length) {
         if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
