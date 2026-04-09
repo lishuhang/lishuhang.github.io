@@ -14,12 +14,6 @@
       <symbol id="i-arrow-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M12 19V5M12 5L5 12M12 5L19 12"/>
       </symbol>
-      <symbol id="i-chevron-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <polyline points="15 18 9 12 15 6"/>
-      </symbol>
-      <symbol id="i-chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <polyline points="9 6 15 12 9 18"/>
-      </symbol>
       <symbol id="i-link" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
         <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
@@ -58,8 +52,8 @@
 
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 
-    <!-- 文章数据放在 body 最末尾，不阻塞侧边栏渲染 -->
-    {% if page.home %}
+    <!-- 文章数据放在 body 最末尾、所有 layout 内容之后，不阻塞侧边栏渲染 -->
+    {% if page.layout == 'home' or page.home %}
     <script>
     window.__POSTS__=[];
     {% for post in site.posts %}

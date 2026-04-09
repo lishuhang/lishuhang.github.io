@@ -7,7 +7,7 @@ layout: base
   <h1 id="filterTitle" class="filter-title"></h1>
 </div>
 
-<!-- 文章列表（仅渲染前 10 条非 AIGC 文章，其余由 JS 按需加载） -->
+<!-- 文章列表（HTML 预渲染前 10 条，其余由 JS 翻页加载） -->
 <div id="postsContainer" class="posts-container">
   {% assign shown = 0 %}
   {% for post in site.posts %}
@@ -20,8 +20,11 @@ layout: base
   {% endfor %}
 </div>
 
-<!-- 无限滚动哨兵 -->
-<div id="scrollSentinel"></div>
+<!-- 有 URL 过滤参数时，立刻隐藏 HTML 预渲染内容，等 JS 从全量数据渲染正确的筛选结果 -->
+<script>(function(){if(location.search){var c=document.getElementById('postsContainer');if(c)c.style.display='none';}})();</script>
 
-<!-- 结束提示 -->
-<div id="noMorePosts" class="no-more" style="display: none;"></div>
+<!-- 翻页导航（JS 生成） -->
+<div id="pagination" class="pagination"></div>
+
+<!-- 无结果提示 -->
+<div id="noResults" class="no-more" style="display: none;"></div>
