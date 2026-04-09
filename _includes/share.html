@@ -1,0 +1,20 @@
+{% assign post = include.post | default: page %}
+{% assign url = post.url | absolute_url %}
+{% assign title = post.title %}
+
+<div class="post-header-share">
+  <!-- 微博 -->
+  <a href="https://service.weibo.com/share/share.php?url={{ url | url_encode }}&title={{ title | url_encode }}" target="_blank" rel="noopener noreferrer" class="share-icon" title="分享到微博">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.194 14.197c-.402 1.092-1.634 1.594-2.761 1.123-1.126-.471-1.535-1.797-1.133-2.889.403-1.092 1.634-1.594 2.761-1.123 1.126.471 1.535 1.797 1.133 2.889zm-4.402-2.107c-.201.546-.817.797-1.381.562-.563-.235-.768-.898-.567-1.444.201-.546.817-.797 1.381-.562.563.235.768.898.567 1.444zm7.208 1.91c0 4.418-5.373 8-12 8s-12-3.582-12-8c0-1.5.568-2.898 1.548-4.129C2.537 7.697 4.179 6 6.545 6c1.635 0 3.087.691 4.091 1.772.904-.447 1.906-.697 2.955-.697 3.866 0 7 2.686 7 6 0 .343-.034.68-.1 1.009.668.542 1.109 1.346 1.109 2.241z"/></svg>
+  </a>
+
+  <!-- Twitter/X -->
+  <a href="https://twitter.com/intent/tweet?url={{ url | url_encode }}&text={{ title | url_encode }}" target="_blank" rel="noopener noreferrer" class="share-icon" title="分享到Twitter">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+
+  <!-- 复制链接 -->
+  <button class="share-icon" id="copyLinkBtn" title="复制链接">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+  </button>
+</div>

@@ -2,56 +2,64 @@
 layout: base
 ---
 
-<!-- 文章内容（用于fetch） -->
-<div style="display: none;" id="postContentForFetch">
-  <article class="prose">
-    <div class="post-header">
-      <h1>{{ page.title }}</h1>
-      <div class="post-meta">
-        <span>{{ page.author | default: site.author }}</span>
-        <span>•</span>
-        <span>{{ page.date | date: "%Y年%m月%d日" }}</span>
-      </div>
-      {% if page.tags %}
-      <div class="post-tags">
-        {% for tag in page.tags %}
-        <span class="tag">#{{ tag }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
-    
-    {% if page.image %}
-    <div class="post-image">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+<div class="post-detail-wrapper">
+  <!-- 文章头部 -->
+  <div class="post-detail-header">
+    {% if page.image and page.image != '/' %}
+    <div class="post-header-image">
+      <img src="https://images.weserv.nl/?url={{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
+           alt="{{ page.title }}"
+           data-original="{{ page.image | absolute_url }}">
     </div>
     {% endif %}
-    
-    <div class="post-body">
-      {{ content }}
+
+    <div class="post-header-content">
+      <!-- 标签和分享 -->
+      <div class="post-header-top">
+        {% if page.tags and page.tags.size > 0 %}
+        <div class="post-header-tags">
+          {% for tag in page.tags %}
+          <a href="/?tag={{ tag | uri_escape }}" class="post-header-tag">#{{ tag }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% include share.html %}
+      </div>
+
+      <!-- 标题 -->
+      <h1 class="post-header-title">{{ page.title }}</h1>
+
+      <!-- 作者和日期 -->
+      <div class="post-header-meta">
+        <span class="post-header-author">{{ page.author | default: '书航' }}</span>
+        <span class="post-header-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+      </div>
     </div>
-  </article>
-</div>
-
-<!-- 重定向脚本（仅在浏览器直接访问时执行） -->
-<script>
-(function() {
-  // 检测是否是浏览器直接访问（而非fetch请求）
-  // fetch请求不会执行JavaScript，所以这个脚本只在浏览器访问时运行
-  if (window.parent === window) {
-    // 获取当前文章URL
-    const postUrl = window.location.pathname;
-    
-    // 重定向到主页，并通过URL参数传递文章路径
-    window.location.href = '/?post=' + encodeURIComponent(postUrl);
-  }
-})();
-</script>
-
-<div style="display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: sans-serif;">
-  <div style="text-align: center;">
-    <div style="font-size: 24px; margin-bottom: 16px;">正在加载文章...</div>
-    <div style="color: #666;">如果页面没有自动跳转，请<a href="/" style="color: #347df8;">点击这里</a>返回主页</div>
   </div>
-</div>
 
+  <!-- 文章正文 -->
+  <article class="post-detail-article">
+    {{ content }}
+  </article>
+
+  <!-- 上一篇/下一篇 -->
+  {% if page.previous or page.next %}
+  <nav class="post-navigation">
+    {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" class="post-nav-link post-nav-prev">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.1795 3.26875C15.7889 2.87823 15.1558 2.87823 14.7652 3.26875L8.12078 9.91322C6.94952 11.0845 6.94916 12.9833 8.11996 14.155L14.6903 20.7304C15.0808 21.121 15.714 21.121 16.1045 20.7304C16.495 20.3399 16.495 19.7067 16.1045 19.3162L9.53246 12.7442C9.14194 12.3536 9.14194 11.7205 9.53246 11.33L16.1795 4.68297C16.57 4.29244 16.57 3.65928 16.1795 3.26875Z"/></svg>
+      <span>{{ page.next.title }}</span>
+    </a>
+    {% endif %}
+    {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" class="post-nav-link post-nav-next">
+      <span>{{ page.previous.title }}</span>
+      <svg viewBox="0 0 24 24" fill="currentColor" transform="rotate(180)"><path d="M16.1795 3.26875C15.7889 2.87823 15.1558 2.87823 14.7652 3.26875L8.12078 9.91322C6.94952 11.0845 6.94916 12.9833 8.11996 14.155L14.6903 20.7304C15.0808 21.121 15.714 21.121 16.1045 20.7304C16.495 20.3399 16.495 19.7067 16.1045 19.3162L9.53246 12.7442C9.14194 12.3536 9.14194 11.7205 9.53246 11.33L16.1795 4.68297C16.57 4.29244 16.57 3.65928 16.1795 3.26875Z"/></svg>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  <!-- 评论 -->
+  {% include comments.html %}
+</div>
