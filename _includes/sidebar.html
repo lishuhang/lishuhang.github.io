@@ -1,85 +1,63 @@
-<aside class="blog-sidebar" id="blogSidebar">
-  <div class="blog-sidebar-header">
-    <a href="{{ '/' | relative_url }}" class="sidebar-logo-link">
-      <img src="{{ '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}" class="sidebar-logo-image">
-    </a>
-    <a href="{{ '/' | relative_url }}" class="blog-sidebar-title">{{ site.title }}</a>
+<aside class="site-sidebar" id="site-sidebar">
+  <!-- 搜索 -->
+  <div class="sidebar-search">
+    <form class="search-form" onsubmit="return false;" autocomplete="off">
+      <input type="text" class="search-field" id="searchInput" placeholder="搜索文章...">
+      <button type="submit" class="search-submit" aria-label="搜索">
+        <svg class="icon-svg"><use href="#i-search"/></svg>
+      </button>
+    </form>
   </div>
 
-  <div class="blog-sidebar-body">
-    <!-- 搜索框 -->
-    <div class="search-box">
-      <input type="text" id="searchInput" placeholder="搜索文章..." class="search-input">
-    </div>
+  <!-- AIGC早报 -->
+  <div class="sidebar-section">
+    <a href="https://lishuhang.me/daily/" target="_blank" rel="noopener noreferrer" class="sidebar-link sidebar-link--highlight">每日 AIGC 早报</a>
+  </div>
 
-    <!-- AIGC早报入口 -->
-    <div class="aigc-link-section">
-      <a href="https://lishuhang.me/daily/" target="_blank" rel="noopener noreferrer" class="aigc-link">每日AIGC早报</a>
+  <!-- 标签 -->
+  <div class="sidebar-section">
+    <h3 class="widget-title">标签</h3>
+    <div class="tags-cloud">
+      {% for tag in site.tags %}
+        {% unless tag[0] == 'AIGC' %}
+      <a href="/?tag={{ tag[0] | uri_escape }}" class="tag-btn">{{ tag[0] }}</a>
+        {% endunless %}
+      {% endfor %}
     </div>
+  </div>
 
-    <!-- 标签云 -->
-    <div class="tags-section">
-      <label class="section-label">标签</label>
-      <div class="tags-container">
-        {% for tag in site.tags %}
-          {% unless tag[0] == 'AIGC' %}
-        <a href="/?tag={{ tag[0] | uri_escape }}" class="tag-btn">{{ tag[0] }}</a>
-          {% endunless %}
-        {% endfor %}
-      </div>
-    </div>
+  <!-- 年份 -->
+  <div class="sidebar-section">
+    <h3 class="widget-title">按年份浏览</h3>
+    <ul class="sidebar-list">
+      {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+      {% assign aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC'" %}
+      {% assign total = year_group.items | size %}
+      {% assign aigc_count = aigc_posts | size %}
+      {% assign non_aigc = total | minus: aigc_count %}
+      {% if non_aigc > 0 %}
+      <li><a href="/?year={{ year_group.name }}" class="sidebar-link">{{ year_group.name }}年 ({{ non_aigc }}篇)</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-    <!-- 年份浏览 -->
-    <div class="year-selector">
-      <label class="section-label">按年份浏览</label>
-      <div class="year-list">
-        {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-        {% for year_group in posts_by_year %}
-        {% assign aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC'" %}
-        {% assign total = year_group.items | size %}
-        {% assign aigc_count = aigc_posts | size %}
-        {% assign non_aigc = total | minus: aigc_count %}
-        {% if non_aigc > 0 %}
-        <a href="/?year={{ year_group.name }}" class="year-link">{{ year_group.name }}年 ({{ non_aigc }}篇)</a>
-        {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+  <!-- 原图开关 -->
+  <div class="sidebar-toggle-row">
+    <span class="sidebar-toggle-label">原图</span>
+    <label class="toggle-switch">
+      <input type="checkbox" id="originalImageToggle">
+      <span class="toggle-slider"></span>
+    </label>
+  </div>
 
-    <!-- 导航链接 -->
-    <div class="nav-links">
-      <label class="section-label">更多</label>
-      <a href="{{ '/about' | relative_url }}" class="nav-link">关于</a>
-      <a href="/photos" class="nav-link" target="_blank" rel="noopener noreferrer">图片库</a>
-      <a href="{{ '/feed.xml' | relative_url }}" class="nav-link" target="_blank" rel="noopener noreferrer">RSS 订阅</a>
-      <a href="https://www.travellings.cn/go.html" class="nav-link" target="_blank" rel="noopener noreferrer" title="开往随机博客">友链接力</a>
-    </div>
-
-    <!-- 原图开关 -->
-    <div class="theme-toggle">
-      <label class="toggle-label">
-        <span class="toggle-text">原图</span>
-        <div class="toggle-switch">
-          <input type="checkbox" id="originalImageToggle">
-          <span class="toggle-slider"></span>
-        </div>
-      </label>
-    </div>
-
-    <!-- 深色模式切换 -->
-    <div class="theme-toggle">
-      <label class="toggle-label">
-        <span class="toggle-text">深色模式</span>
-        <div class="toggle-switch">
-          <input type="checkbox" id="darkModeToggle">
-          <span class="toggle-slider"></span>
-        </div>
-      </label>
-    </div>
-
-    <!-- 版权信息 -->
-    <div class="copyright">
-      &copy; {{ site.name | default: site.title }}
-    </div>
+  <!-- 深色模式 -->
+  <div class="sidebar-toggle-row">
+    <span class="sidebar-toggle-label">深色模式</span>
+    <label class="toggle-switch">
+      <input type="checkbox" id="darkModeToggle">
+      <span class="toggle-slider"></span>
+    </label>
   </div>
 </aside>

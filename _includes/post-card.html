@@ -6,22 +6,20 @@
          data-url="{{ post.url | relative_url }}">
   <a href="{{ post.url | relative_url }}" class="post-card-link">
     {% if post.image %}
-    <div class="post-card-image">
+    <div class="post-card-thumb">
       <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=200&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
     </div>
     {% endif %}
-    <div class="post-card-content">
-      <h2 class="post-card-title">{{ post.title }}</h2>
+    <div class="post-card-body">
       <div class="post-card-meta">
         <span class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</span>
         {% if post.tags.size > 0 %}
-        <span class="post-card-tags">
-          {% for tag in post.tags limit: 3 %}
-          <span class="post-tag">#{{ tag }}</span>
-          {% endfor %}
-        </span>
+        {% for tag in post.tags limit: 3 %}
+        <span class="post-tag">#{{ tag }}</span>
+        {% endfor %}
         {% endif %}
       </div>
+      <h2 class="post-card-title">{{ post.title }}</h2>
       {% if post.excerpt %}
       <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
       {% endif %}

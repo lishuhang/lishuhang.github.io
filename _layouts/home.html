@@ -8,7 +8,7 @@ layout: base
 </div>
 
 <!-- 文章列表 -->
-<div id="postsContainer">
+<div id="postsContainer" class="posts-container">
   {% for post in site.posts %}
     {% unless post.tags contains 'AIGC' %}
       {% include post-card.html %}

@@ -1,0 +1,31 @@
+<!-- 顶部吸顶页眉 -->
+<header class="site-header" id="site-header">
+  <div class="header-inner">
+    <!-- 左：Logo + 站名 -->
+    <div class="site-branding">
+      <a href="{{ '/' | relative_url }}" class="site-logo">
+        <img src="{{ '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}">
+      </a>
+      <div class="brand-text">
+        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+        <span class="site-description">{{ site.description }}</span>
+      </div>
+    </div>
+
+    <!-- 中：页眉导航（桌面端） -->
+    <nav class="header-nav" id="header-nav">
+      <ul class="header-nav-list">
+        <li><a href="{{ '/' | relative_url }}">首页</a></li>
+        <li><a href="{{ '/about' | relative_url }}">关于</a></li>
+        <li><a href="/photos" target="_blank" rel="noopener noreferrer">图片库</a></li>
+        <li><a href="{{ '/feed.xml' | relative_url }}" target="_blank" rel="noopener noreferrer">RSS</a></li>
+        <li><a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener noreferrer" title="开往随机博客">友链接力</a></li>
+      </ul>
+    </nav>
+
+    <!-- 右：汉堡按钮（移动端） -->
+    <button class="sidebar-toggle" id="hamburgerButton" aria-label="打开侧边栏">
+      <svg class="icon-svg"><use href="#i-menu"/></svg>
+    </button>
+  </div>
+</header>
