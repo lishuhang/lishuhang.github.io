@@ -9,13 +9,28 @@ layout: base
 
 <!-- 文章列表 -->
 <div id="postsContainer" class="posts-container">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% unless post.tags contains 'AIGC' %}
       {% include post-card.html %}
     {% endunless %}
   {% endfor %}
 </div>
 
+<!-- 无限滚动哨兵元素 -->
+<div id="scrollSentinel"></div>
+
+<!-- 加载指示器 -->
+<div id="loadingIndicator" class="loading-indicator" style="display: none;">
+  <div class="loading-spinner"></div>
+  <span>加载中...</span>
+</div>
+
+<!-- 结束提示 -->
 <div id="noMorePosts" class="no-more" style="display: none;">
   没有更多文章了
 </div>
+
+<!-- 分页元数据（供 JS 读取） -->
+<span id="paginationMeta"
+      data-next-page="{% if paginator.next_page %}{{ paginator.next_page }}{% else %}0{% endif %}"
+      style="display: none;"></span>

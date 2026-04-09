@@ -11,6 +11,10 @@ lang: zh
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
 
 collections:
   posts:
@@ -26,4 +30,3 @@ authors:
     email: i@lishuhang.me
     web: https://lishuhang.me
     description: "书航，航通社创始人"
-
