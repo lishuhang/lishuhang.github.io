@@ -111,10 +111,7 @@
         else { filterHeader.style.display = 'none'; }
       }
 
-      // 仅在所有分页加载完毕后显示结束提示
-      var meta = document.getElementById('paginationMeta');
-      var allLoaded = meta && meta.dataset.allLoaded === 'true';
-      if (allLoaded && noMore) {
+      if (noMore && noMore.dataset.allLoaded === 'true') {
         noMore.textContent = visible === 0 ? '没有找到匹配的文章' : '没有更多文章了';
         noMore.style.display = 'block';
       }
@@ -166,87 +163,79 @@
     toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); processImages(); });
   }
 
-  // ===== 无限滚动 =====
+  // ===== 无限滚动（从内嵌 JSON 按需生成卡片） =====
   function initInfiniteScroll() {
-    var meta = document.getElementById('paginationMeta');
-    if (!meta) return;
-
+    var dataEl = document.getElementById('postsData');
     var container = document.getElementById('postsContainer');
-    var loading = document.getElementById('loadingIndicator');
     var noMore = document.getElementById('noMorePosts');
-    var nextPage = parseInt(meta.dataset.nextPage) || 0;
-    var isLoading = false;
+    var sentinel = document.getElementById('scrollSentinel');
+    if (!dataEl || !container) return;
 
-    function loadNextPage() {
-      if (isLoading || nextPage === 0) return;
-      isLoading = true;
-      if (loading) loading.style.display = 'flex';
+    var allPosts;
+    try { allPosts = JSON.parse(dataEl.textContent); } catch(e) { return; }
+    if (!allPosts || !allPosts.length) return;
 
-      fetch('/page' + nextPage + '/')
-        .then(function(res) {
-          if (!res.ok) throw new Error('HTTP ' + res.status);
-          return res.text();
-        })
-        .then(function(html) {
-          var parser = new DOMParser();
-          var doc = parser.parseFromString(html, 'text/html');
-          var newCards = doc.querySelectorAll('#postsContainer .post-card');
+    var pageSize = 10;
+    var currentCount = container.querySelectorAll('.post-card').length;
 
-          if (newCards.length > 0) {
-            var frag = document.createDocumentFragment();
-            newCards.forEach(function(card) {
-              frag.appendChild(document.adoptNode(card));
-            });
-            container.appendChild(frag);
-          }
-
-          // 从下一页读取后续分页信息
-          var newMeta = doc.getElementById('paginationMeta');
-          if (newMeta) {
-            nextPage = parseInt(newMeta.dataset.nextPage) || 0;
-          } else {
-            nextPage = 0;
-          }
-
-          isLoading = false;
-          if (loading) loading.style.display = 'none';
-
-          // 所有分页加载完毕
-          if (nextPage === 0) {
-            meta.dataset.allLoaded = 'true';
-            if (noMore) noMore.style.display = 'block';
-            // 重新应用过滤以更新结束提示文案
-            if (typeof applyFilters === 'function') applyFilters();
-          }
-        })
-        .catch(function(err) {
-          console.error('加载失败:', err);
-          isLoading = false;
-          if (loading) loading.style.display = 'none';
-        });
-    }
-
-    // 如果没有下一页，直接显示结束提示
-    if (nextPage === 0) {
-      meta.dataset.allLoaded = 'true';
-      if (noMore) noMore.style.display = 'block';
+    // 全部文章已在首屏渲染完毕
+    if (currentCount >= allPosts.length) {
+      if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
       return;
     }
 
-    // 使用 IntersectionObserver 监测哨兵元素进入视口
-    var sentinel = document.getElementById('scrollSentinel');
-    if (!sentinel) return;
+    // 用 JSON 数据生成一张卡片 DOM
+    function createCard(post) {
+      var el = document.createElement('article');
+      el.className = 'post-card';
+      el.dataset.year = post.year;
+      el.dataset.tags = post.tags || '';
+      el.dataset.title = (post.title || '').toLowerCase();
+      el.dataset.excerpt = (post.excerpt || '').toLowerCase();
+      el.dataset.url = post.url || '';
+      var esc = post.title.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+      var h = '<a href="' + post.url + '" class="post-card-link">';
+      if (post.image) {
+        h += '<div class="post-card-thumb"><img src="' + post.image + '" alt="' + esc + '" loading="lazy"></div>';
+      }
+      h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + post.date + '</span>';
+      if (post.tags) {
+        post.tags.split(',').slice(0, 3).forEach(function(t) {
+          t = t.trim(); if (t) h += '<span class="post-tag">#' + t + '</span>';
+        });
+      }
+      h += '</div><h2 class="post-card-title">' + post.title + '</h2>';
+      if (post.excerpt) h += '<p class="post-card-excerpt">' + post.excerpt + '</p>';
+      h += '</div></a>';
+      el.innerHTML = h;
+      return el;
+    }
 
-    if ('IntersectionObserver' in window) {
-      var observer = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) loadNextPage();
+    function loadNextBatch() {
+      if (currentCount >= allPosts.length) return;
+      var end = Math.min(currentCount + pageSize, allPosts.length);
+      var frag = document.createDocumentFragment();
+      for (var i = currentCount; i < end; i++) frag.appendChild(createCard(allPosts[i]));
+      container.appendChild(frag);
+      currentCount = end;
+      // 新卡片也需要受过滤影响
+      if (typeof applyFilters === 'function') applyFilters();
+      if (currentCount >= allPosts.length) {
+        if (noMore) { noMore.dataset.allLoaded = 'true'; noMore.textContent = '没有更多文章了'; noMore.style.display = 'block'; }
+        if (sentinel) sentinel.remove();
+        if (observer) observer.disconnect();
+      }
+    }
+
+    var observer;
+    if ('IntersectionObserver' in window && sentinel) {
+      observer = new IntersectionObserver(function(entries) {
+        if (entries[0].isIntersecting) loadNextBatch();
       }, { rootMargin: '300px' });
       observer.observe(sentinel);
-    } else {
-      // 降级：scroll 事件
+    } else if (sentinel) {
       window.addEventListener('scroll', debounce(function() {
-        var rect = sentinel.getBoundingClientRect();
-        if (rect.top < window.innerHeight + 300) loadNextPage();
+        if (sentinel.getBoundingClientRect().top < window.innerHeight + 300) loadNextBatch();
       }, 200), { passive: true });
     }
   }

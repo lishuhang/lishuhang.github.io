@@ -7,30 +7,33 @@ layout: base
   <h1 id="filterTitle" class="filter-title"></h1>
 </div>
 
-<!-- 文章列表 -->
+<!-- 文章列表（仅渲染前 10 条非 AIGC 文章） -->
 <div id="postsContainer" class="posts-container">
-  {% for post in paginator.posts %}
+  {% assign shown = 0 %}
+  {% for post in site.posts %}
     {% unless post.tags contains 'AIGC' %}
-      {% include post-card.html %}
+      {% if shown < 10 %}
+        {% include post-card.html %}
+      {% endif %}
+      {% assign shown = shown | plus: 1 %}
     {% endunless %}
   {% endfor %}
 </div>
 
-<!-- 无限滚动哨兵元素 -->
+<!-- 无限滚动哨兵 -->
 <div id="scrollSentinel"></div>
 
-<!-- 加载指示器 -->
-<div id="loadingIndicator" class="loading-indicator" style="display: none;">
-  <div class="loading-spinner"></div>
-  <span>加载中...</span>
-</div>
-
 <!-- 结束提示 -->
-<div id="noMorePosts" class="no-more" style="display: none;">
-  没有更多文章了
-</div>
+<div id="noMorePosts" class="no-more" style="display: none;"></div>
 
-<!-- 分页元数据（供 JS 读取） -->
-<span id="paginationMeta"
-      data-next-page="{% if paginator.next_page %}{{ paginator.next_page }}{% else %}0{% endif %}"
-      style="display: none;"></span>
+<!-- 全部文章数据（内嵌 JSON，供 JS 按需生成后续卡片） -->
+<script type="application/json" id="postsData">[
+{%- assign comma = false -%}
+{%- for post in site.posts -%}
+  {%- unless post.tags contains 'AIGC' -%}
+    {%- if comma -%},{%- endif -%}
+    {"url":"{{ post.url | relative_url }}","title":"{{ post.title | escape }}","date":"{{ post.date | date: '%Y-%m-%d' }}","year":"{{ post.date | date: '%Y' }}","tags":"{{ post.tags | join: ',' }}","excerpt":"{{ post.excerpt | strip_html | truncatewords: 30 | escape }}","image":{%- if post.image -%}"https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=200&output=jpg&q=80&fit=cover"{%- else -%}null{%- endif -%}}
+    {%- assign comma = true -%}
+  {%- endunless -%}
+{%- endfor -%}
+]</script>

@@ -268,20 +268,8 @@ button { font-family: inherit; }
   text-align: center; color: var(--text-muted); font-size: 13px; padding: 16px 0;
 }
 
-/* 无限滚动加载指示器 */
+/* 无限滚动哨兵 */
 #scrollSentinel { height: 1px; }
-.loading-indicator {
-  display: flex; align-items: center; justify-content: center;
-  gap: 8px; padding: 24px 0; color: var(--text-muted); font-size: 14px;
-}
-.loading-spinner {
-  width: 20px; height: 20px; flex-shrink: 0;
-  border: 2px solid var(--border);
-  border-top-color: var(--accent);
-  border-radius: 50%;
-  animation: spin .6s linear infinite;
-}
-@keyframes spin { to { transform: rotate(360deg); } }
 
 /* =========================================
    6. 文章详情页（内文遵循旧版排版）
