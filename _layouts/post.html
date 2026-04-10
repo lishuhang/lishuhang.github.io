@@ -26,6 +26,7 @@ layout: base
   <div class="article-featured-image">
     <img src="https://images.weserv.nl/?url={{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
          alt="{{ page.title }}"
+         loading="lazy"
          data-original="{{ page.image | absolute_url }}">
   </div>
   {% endif %}

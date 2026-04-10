@@ -24,6 +24,12 @@ header_accent_bg: false   # true = 页眉使用主题色背景，始终显示浅
 
 copyright: "© 2025 书航 [lishuhang.me](https://lishuhang.me)"
 
+# Analytics（留空则不加载）
+google_analytics: ""
+
+# SEO
+robots: "index, follow"
+
 authors:
   james:
     name: James Li

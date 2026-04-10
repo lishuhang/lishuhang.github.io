@@ -71,6 +71,7 @@
     function render() {
       var h = '<div class="cal-header"><button class="cal-nav" data-a="prev">&lsaquo;</button><span class="cal-title">' + state.base + ' - ' + (state.base + 11) + '</span><button class="cal-nav" data-a="next">&rsaquo;</button></div><div class="cal-grid cal-ys">';
       for (var y = state.base; y < state.base + 12; y++) {
+        if (y < 2006) continue;
         var c = 'cal-yr';
         if (y === now.getFullYear()) c += ' cal-cur';
         var count = window.__YD__[y] || 0;
@@ -82,7 +83,7 @@
 
     el.addEventListener('click', function(e) {
       var t = e.target, a = t.dataset.a;
-      if (a === 'prev') { state.base -= 12; render(); return; }
+      if (a === 'prev') { state.base -= 12; if (state.base < 2000) state.base = 2000; render(); return; }
       if (a === 'next') { state.base += 12; render(); return; }
       if (t.dataset.y !== undefined) {
         window.location.href = '/?year=' + parseInt(t.dataset.y);
@@ -135,6 +136,8 @@
     btn.addEventListener('click', function() { sidebar.classList.contains('open') ? close() : open(); });
     if (overlay) overlay.addEventListener('click', close);
     if (sidebar) sidebar.addEventListener('click', function(e) { if (e.target.tagName === 'A') close(); });
+    var mq = window.matchMedia('(min-width: 769px)');
+    mq.addEventListener('change', function(e) { if (e.matches) close(); });
   }
 
   /* ===== 回到顶部 ===== */
@@ -327,12 +330,20 @@
     else logo.addEventListener('load', check);
   }
 
+  /* ===== 文章内图片懒加载 ===== */
+  function initLazyImages() {
+    var article = document.querySelector('.article-content');
+    if (!article) return;
+    article.querySelectorAll('img').forEach(function(img) { img.setAttribute('loading', 'lazy'); });
+  }
+
   /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
     initLogo();
     initTheme(); initMobileMenu(); initScrollToTop();
     initCopyLink(); initSearch(); initImageToggle();
     initArchive(); initFeatured(); initWechatShare();
+    initLazyImages();
     initPagination();
   });
 })();
