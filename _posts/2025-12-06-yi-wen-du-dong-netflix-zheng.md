@@ -3,7 +3,7 @@ layout: post
 title: "一文读懂：Netflix正式收购华纳兄弟探索"
 date: 2025-12-06
 categories: 文章
-tags: [传媒], [featured]
+tags: [传媒, featured]
 image: https://lishuhang.me/img/2025/12/06/yi-wen-du-dong-netflix-zheng/01.png
 ---
 

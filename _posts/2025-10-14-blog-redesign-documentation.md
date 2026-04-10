@@ -3,7 +3,7 @@ layout: post
 title: "航通社官网 2025.10 更新日志"
 date: 2025-10-14
 categories: 文章
-tags: [科技]
+tags: [公告, featured]
 image: https://lishuhang.me/img/2025/10/28/hang-tong-she-guan-wang-202510/01.png
 ---
 
