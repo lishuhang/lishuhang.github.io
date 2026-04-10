@@ -9,4 +9,15 @@
 
   <!-- 全站样式 -->
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+  <!-- 主题色（从 _config.yml 读取，动态计算 hover / light 变体） -->
+  <script>
+  (function(){
+    var a='{{ site.color | default: "#347df8" }}';
+    document.documentElement.style.setProperty('--accent',a);
+    var h=a.replace('#',''),r=parseInt(h.substring(0,2),16),g=parseInt(h.substring(2,4),16),b=parseInt(h.substring(4,6),16);
+    document.documentElement.style.setProperty('--accent-hover','rgb('+Math.round(r*.82)+','+Math.round(g*.82)+','+Math.round(b*.82)+')');
+    document.documentElement.style.setProperty('--accent-light','rgba('+r+','+g+','+b+',0.1)');
+  })();
+  </script>
 </head>

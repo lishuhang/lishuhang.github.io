@@ -333,8 +333,25 @@
     toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); process(); });
   }
 
+  /* ===== Logo 宽高比检测 ===== */
+  function initLogo() {
+    var logo = document.querySelector('.site-logo img');
+    var brand = document.getElementById('brandText');
+    if (!logo || !brand) return;
+    function check() {
+      var w = logo.naturalWidth, h = logo.naturalHeight;
+      if (w && h) {
+        // 宽高比 > 1.5 视为横向 logo，隐藏站点名称描述，只显示 logo
+        if (w / h > 1.5) brand.classList.add('hidden');
+      }
+    }
+    if (logo.complete && logo.naturalWidth) check();
+    else logo.addEventListener('load', check);
+  }
+
   /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
+    initLogo();
     initTheme(); initMobileMenu(); initScrollToTop();
     initCopyLink(); initSearch(); initImageToggle();
     initCalendar(); initPagination();

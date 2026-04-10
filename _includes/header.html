@@ -1,12 +1,12 @@
 <!-- 顶部吸顶页眉 -->
-<header class="site-header" id="site-header">
+<header class="site-header{% if site.header_accent_bg %} header-accent-bg{% endif %}" id="site-header">
   <div class="header-inner">
     <!-- 左：Logo + 站名 -->
     <div class="site-branding">
       <a href="{{ '/' | relative_url }}" class="site-logo">
-        <img src="{{ '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}">
+        <img src="{{ site.logo | default: '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}">
       </a>
-      <div class="brand-text">
+      <div class="brand-text" id="brandText">
         <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
         <span class="site-description">{{ site.description }}</span>
       </div>
