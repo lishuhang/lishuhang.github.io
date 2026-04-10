@@ -19,7 +19,7 @@ collections:
 
 color: "#347df8"    # 主题色，决定全站 accent color
 
-logo: "/assets/logo.png"
+logo: "/assets/logo.svg"
 header_accent_bg: false   # true = 页眉使用主题色背景，始终显示浅色文字
 
 copyright: "© 2025 书航 [lishuhang.me](https://lishuhang.me)"

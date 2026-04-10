@@ -2,6 +2,49 @@
 layout: base
 ---
 
+<!-- Featured 轮播（最新 5 篇带 #featured 标签） -->
+{% assign featured_posts = '' | split: '' %}
+{% for post in site.posts %}
+  {% if post.tags contains 'featured' and featured_posts.size < 5 %}
+    {% assign featured_posts = featured_posts | push: post %}
+  {% endif %}
+{% endfor %}
+{% if featured_posts.size > 0 %}
+<div class="featured-carousel" id="featuredCarousel">
+  <div class="featured-slides" id="featuredSlides">
+    {% for post in featured_posts %}
+    <a href="{{ post.url | relative_url }}" class="featured-slide">
+      <div class="featured-slide-img">
+        {% if post.image %}
+        <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=900&h=500&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
+        {% else %}
+        <div class="featured-slide-placeholder"></div>
+        {% endif %}
+      </div>
+      <div class="featured-slide-overlay">
+        <div class="featured-slide-info">
+          <div class="featured-slide-meta">
+            <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+            {% for tag in post.tags limit:3 %}{% unless tag == 'featured' or tag == 'AIGC' %}
+            <span class="featured-slide-tag">#{{ tag }}</span>
+            {% endunless %}{% endfor %}
+          </div>
+          <h2 class="featured-slide-title">{{ post.title }}</h2>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% if featured_posts.size > 1 %}
+  <div class="featured-dots" id="featuredDots">
+    {% for i in (0..featured_posts.size) limit: featured_posts.size %}
+    <button class="featured-dot{% if i == 0 %} active{% endif %}" data-idx="{{ i }}"></button>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
 <!-- 过滤条件标题 -->
 <div id="filterHeader" class="filter-header" style="display: none;">
   <h1 id="filterTitle" class="filter-title"></h1>

@@ -1,6 +1,6 @@
 /**
- * 航通社极简 JS v4
- * 三态主题 / 日历控件 / 翻页 / 预建索引过滤 / 搜索引擎切换
+ * 航通社极简 JS v5
+ * 三态主题 / 年份存档 / Featured轮播 / 翻页 / 搜索
  */
 (function() {
   'use strict';
@@ -59,103 +59,69 @@
     document.querySelectorAll('.theme-btn').forEach(function(b) { b.classList.toggle('active', b.dataset.theme === preference); });
   }
 
-  /* ===== 日历控件 ===== */
-  function initCalendar() {
+  /* ===== 年份存档选择器 ===== */
+  function initArchive() {
     var el = document.getElementById('calendarWidget');
-    if (!el || !window.__CD__) return;
-    var params = new URLSearchParams(window.location.search);
+    if (!el || !window.__YD__) return;
     var now = new Date();
-    var state = { view: 'days', year: now.getFullYear(), month: now.getMonth() };
-    if (params.get('year')) state.year = parseInt(params.get('year'));
-    if (params.get('month')) { var mp = params.get('month').split('-'); state.year = parseInt(mp[0]); state.month = parseInt(mp[1]) - 1; }
-    if (params.get('date')) { var dp = params.get('date').split('-'); state.year = parseInt(dp[0]); state.month = parseInt(dp[1]) - 1; }
-
-    var MN = ['1\u6708','2\u6708','3\u6708','4\u6708','5\u6708','6\u6708','7\u6708','8\u6708','9\u6708','10\u6708','11\u6708','12\u6708'];
-    var WD = ['\u4e00','\u4e8c','\u4e09','\u56db','\u4e94','\u516d','\u65e5'];
-
-    function cdHas(year, month, day) { var k = year + '-' + String(month + 1).padStart(2, '0'); var s = window.__CD__[k]; return s && s.has(day); }
-    function cmHas(year, month) { var k = year + '-' + String(month + 1).padStart(2, '0'); var s = window.__CD__[k]; return s && s.size > 0; }
+    var state = { base: Math.floor(now.getFullYear() / 12) * 12 };
+    var params = new URLSearchParams(window.location.search);
+    if (params.get('year')) state.base = Math.floor(parseInt(params.get('year')) / 12) * 12;
 
     function render() {
-      el.innerHTML = state.view === 'days' ? rDays() : state.view === 'months' ? rMonths() : rYears();
-    }
-
-    function rDays() {
-      var first = new Date(state.year, state.month, 1);
-      var dim = new Date(state.year, state.month + 1, 0).getDate();
-      var sd = (first.getDay() + 6) % 7;
-      var td = new Date();
-      var h = '<div class="cal-header"><button class="cal-nav" data-a="pm">&lsaquo;</button><span class="cal-title" data-a="vm">' + state.year + '\u5e74' + MN[state.month] + '</span><button class="cal-nav" data-a="nm">&rsaquo;</button></div><div class="cal-grid cal-wds">';
-      WD.forEach(function(w) { h += '<span class="cal-wd">' + w + '</span>'; });
-      h += '</div><div class="cal-grid cal-days">';
-      for (var i = 0; i < sd; i++) h += '<span></span>';
-      for (var d = 1; d <= dim; d++) {
-        var c = 'cal-day';
-        if (d === td.getDate() && state.month === td.getMonth() && state.year === td.getFullYear()) c += ' cal-today';
-        if (cdHas(state.year, state.month, d)) c += ' cal-has-post';
-        h += '<span class="' + c + '" data-d="' + d + '">' + d + '</span>';
-      }
-      h += '</div>';
-      return h;
-    }
-
-    function rMonths() {
-      var td = new Date();
-      var h = '<div class="cal-header"><button class="cal-nav" data-a="py">&lsaquo;</button><span class="cal-title" data-a="vy">' + state.year + '\u5e74</span><button class="cal-nav" data-a="ny">&rsaquo;</button></div><div class="cal-grid cal-ms">';
-      for (var m = 0; m < 12; m++) {
-        var c = 'cal-mo';
-        if (m === td.getMonth() && state.year === td.getFullYear()) c += ' cal-cur';
-        if (cmHas(state.year, m)) c += ' cal-has-post';
-        h += '<span class="' + c + '" data-m="' + m + '">' + MN[m] + '</span>';
-      }
-      h += '</div>';
-      return h;
-    }
-
-    function rYears() {
-      var base = Math.floor(state.year / 12) * 12;
-      var td = new Date();
-      var h = '<div class="cal-header"><button class="cal-nav" data-a="pr">&lsaquo;</button><span class="cal-title">' + base + ' - ' + (base + 11) + '</span><button class="cal-nav" data-a="nr">&rsaquo;</button></div><div class="cal-grid cal-ys">';
-      for (var y = base; y < base + 12; y++) {
+      var h = '<div class="cal-header"><button class="cal-nav" data-a="prev">&lsaquo;</button><span class="cal-title">' + state.base + ' - ' + (state.base + 11) + '</span><button class="cal-nav" data-a="next">&rsaquo;</button></div><div class="cal-grid cal-ys">';
+      for (var y = state.base; y < state.base + 12; y++) {
         var c = 'cal-yr';
-        if (y === td.getFullYear()) c += ' cal-cur';
-        h += '<span class="' + c + '" data-y="' + y + '">' + y + '</span>';
+        if (y === now.getFullYear()) c += ' cal-cur';
+        var count = window.__YD__[y] || 0;
+        h += '<span class="' + c + '" data-y="' + y + '">' + y + '<span class="cal-yr-count">' + count + ' 篇</span></span>';
       }
       h += '</div>';
-      return h;
+      el.innerHTML = h;
     }
 
     el.addEventListener('click', function(e) {
       var t = e.target, a = t.dataset.a;
-      if (a === 'pm') { state.month--; if (state.month < 0) { state.month = 11; state.year--; } render(); return; }
-      if (a === 'nm') { state.month++; if (state.month > 11) { state.month = 0; state.year++; } render(); return; }
-      if (a === 'py') { state.year--; render(); return; }
-      if (a === 'ny') { state.year++; render(); return; }
-      if (a === 'pr') { state.year -= 12; render(); return; }
-      if (a === 'nr') { state.year += 12; render(); return; }
-      if (a === 'vm') { state.view = 'months'; render(); return; }
-      if (a === 'vy') { state.view = 'years'; render(); return; }
-      if (t.dataset.d !== undefined) {
-        var dv = parseInt(t.dataset.d);
-        if (cdHas(state.year, state.month, dv)) {
-          window.location.href = '/?date=' + state.year + '-' + String(state.month + 1).padStart(2, '0') + '-' + String(dv).padStart(2, '0');
-        }
-        return;
-      }
-      if (t.dataset.m !== undefined) {
-        var mv = parseInt(t.dataset.m);
-        state.month = mv; state.view = 'days';
-        if (cmHas(state.year, mv)) window.location.href = '/?month=' + state.year + '-' + String(mv + 1).padStart(2, '0');
-        else render();
-        return;
-      }
+      if (a === 'prev') { state.base -= 12; render(); return; }
+      if (a === 'next') { state.base += 12; render(); return; }
       if (t.dataset.y !== undefined) {
-        state.year = parseInt(t.dataset.y); state.view = 'months';
-        window.location.href = '/?year=' + state.year;
-        return;
+        window.location.href = '/?year=' + parseInt(t.dataset.y);
       }
     });
     render();
+  }
+
+  /* ===== Featured 轮播 ===== */
+  function initFeatured() {
+    var slides = document.querySelectorAll('.featured-slide');
+    var dots = document.querySelectorAll('.featured-dot');
+    if (slides.length <= 1) return;
+    var current = 0;
+    var timer;
+
+    function show(idx) {
+      current = idx;
+      slides.forEach(function(s, i) { s.classList.toggle('active', i === idx); });
+      dots.forEach(function(d, i) { d.classList.toggle('active', i === idx); });
+    }
+
+    function next() { show((current + 1) % slides.length); }
+
+    dots.forEach(function(dot) {
+      dot.addEventListener('click', function() {
+        show(parseInt(this.dataset.idx));
+        clearInterval(timer); timer = setInterval(next, 5000);
+      });
+    });
+
+    // 自动轮播
+    timer = setInterval(next, 5000);
+    // 鼠标悬停暂停
+    var carousel = document.getElementById('featuredCarousel');
+    if (carousel) {
+      carousel.addEventListener('mouseenter', function() { clearInterval(timer); });
+      carousel.addEventListener('mouseleave', function() { timer = setInterval(next, 5000); });
+    }
   }
 
   /* ===== 移动端侧边栏 ===== */
@@ -184,8 +150,32 @@
     var btn = document.getElementById('copyLinkBtn');
     if (!btn) return;
     btn.addEventListener('click', function() {
-      navigator.clipboard.writeText(window.location.href).then(function() { btn.title = '\u5df2\u590d\u5236\uff01'; setTimeout(function() { btn.title = '\u590d\u5236\u94fe\u63a5'; }, 1500); });
+      navigator.clipboard.writeText(window.location.href).then(function() {
+        btn.title = '\u5df2\u590d\u5236\uff01';
+        setTimeout(function() { btn.title = '\u590d\u5236\u94fe\u63a5'; }, 1500);
+      });
     });
+  }
+
+  /* ===== 微信分享二维码 ===== */
+  function initWechatShare() {
+    var btn = document.getElementById('wechatShareBtn');
+    var overlay = document.getElementById('wechatQrOverlay');
+    var closeBtn = document.getElementById('wechatQrClose');
+    var qrDiv = document.getElementById('wechatQrCode');
+    if (!btn || !overlay || !qrDiv) return;
+
+    function show() {
+      var url = window.location.href;
+      // 使用 Google Chart API 生成二维码（无需外部依赖）
+      qrDiv.innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=' + encodeURIComponent(url) + '" alt="QR Code" loading="lazy">';
+      overlay.classList.add('active');
+    }
+    function hide() { overlay.classList.remove('active'); }
+
+    btn.addEventListener('click', show);
+    if (closeBtn) closeBtn.addEventListener('click', hide);
+    overlay.addEventListener('click', function(e) { if (e.target === overlay) hide(); });
   }
 
   /* ===== 搜索 ===== */
@@ -203,9 +193,9 @@
       e.preventDefault();
       var q = input.value.trim(); if (!q) return;
       var v = document.querySelector('input[name="engine"]:checked');
-      var e = v ? v.value : 'internal';
-      if (e === 'google') window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
-      else if (e === 'baidu') window.open('https://www.baidu.com/s?wd=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
+      var eng = v ? v.value : 'internal';
+      if (eng === 'google') window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
+      else if (eng === 'baidu') window.open('https://www.baidu.com/s?wd=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
       else window.location.href = '/?search=' + encodeURIComponent(q);
     });
   }
@@ -218,20 +208,15 @@
     if (!container) return;
 
     var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag'), year = params.get('year'), month = params.get('month'), date = params.get('date'), search = params.get('search');
+    var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
     if (!allPosts.length) return;
 
-    if (tag || year || month || date || search) {
-      // 让浏览器先绘制 loading 提示，再执行过滤
+    if (tag || year || search) {
       setTimeout(function() {
         displayedPosts = [];
         if (tag && window.__TI__ && window.__TI__[tag]) displayedPosts = window.__TI__[tag].map(function(i) { return allPosts[i]; });
         else if (year && window.__YI__ && window.__YI__[year]) displayedPosts = window.__YI__[year].map(function(i) { return allPosts[i]; });
-        else if (month && window.__MI__ && window.__MI__[month]) displayedPosts = window.__MI__[month].map(function(i) { return allPosts[i]; });
-        else if (date) {
-          var mk = date.substring(0, 7), dd = parseInt(date.split('-')[2]);
-          if (window.__MI__ && window.__MI__[mk]) displayedPosts = window.__MI__[mk].map(function(i) { return allPosts[i]; }).filter(function(p) { return parseInt(p.d.split('-')[2]) === dd; });
-        } else if (search) {
+        else if (search) {
           var q = search.toLowerCase();
           displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
         }
@@ -258,22 +243,16 @@
     if (!container) return;
 
     var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag'), year = params.get('year'), month = params.get('month'), date = params.get('date'), search = params.get('search');
+    var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
 
-    // 标题
     if (filterHeader && filterTitle) {
       if (tag) { filterTitle.textContent = '\u6807\u7b7e\uff1a' + tag; filterHeader.style.display = ''; }
-      else if (date) { filterTitle.textContent = date; filterHeader.style.display = ''; }
-      else if (month) { filterTitle.textContent = month.replace('-', '\u5e74') + '\u6708'; filterHeader.style.display = ''; }
       else if (year) { filterTitle.textContent = year + '\u5e74\u6587\u7ae0'; filterHeader.style.display = ''; }
       else if (search) { filterTitle.textContent = '\u641c\u7d22\uff1a' + search; filterHeader.style.display = ''; }
       else { filterHeader.style.display = 'none'; }
     }
 
-    // 页面标题
     if (tag) document.title = '\u6807\u7b7e\uff1a' + tag + ' - \u822a\u901a\u793e';
-    else if (date) document.title = date + ' - \u822a\u901a\u793e';
-    else if (month) document.title = month.replace('-', '\u5e74') + '\u6708 - \u822a\u901a\u793e';
     else if (year) document.title = year + '\u5e74\u6587\u7ae0 - \u822a\u901a\u793e';
     else if (search) document.title = '\u641c\u7d22\uff1a' + search + ' - \u822a\u901a\u793e';
     else document.title = '\u822a\u901a\u793e | \u4f60\u5e94\u8be5\u77e5\u9053\u7684\u5386\u53f2\u3001\u73b0\u5728\u548c\u672a\u6765';
@@ -341,7 +320,6 @@
     function check() {
       var w = logo.naturalWidth, h = logo.naturalHeight;
       if (w && h) {
-        // 宽高比 > 1.5 视为横向 logo，隐藏站点名称描述，只显示 logo
         if (w / h > 1.5) brand.classList.add('hidden');
       }
     }
@@ -354,6 +332,7 @@
     initLogo();
     initTheme(); initMobileMenu(); initScrollToTop();
     initCopyLink(); initSearch(); initImageToggle();
-    initCalendar(); initPagination();
+    initArchive(); initFeatured(); initWechatShare();
+    initPagination();
   });
 })();
