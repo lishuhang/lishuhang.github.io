@@ -13,7 +13,7 @@ layout: base
 <div class="featured-carousel" id="featuredCarousel">
   <div class="featured-slides" id="featuredSlides">
     {% for post in featured_posts %}
-    <a href="{{ post.url | relative_url }}" class="featured-slide">
+    <a href="{{ post.url | relative_url }}" class="featured-slide{% if forloop.first %} active{% endif %}">
       <div class="featured-slide-img">
         {% if post.image %}
         <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=900&h=500&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
@@ -36,6 +36,12 @@ layout: base
     {% endfor %}
   </div>
   {% if featured_posts.size > 1 %}
+  <button class="featured-arrow featured-arrow-prev" id="featuredPrev" aria-label="上一张">
+    <svg class="icon-svg"><use href="#i-chevron-left"/></svg>
+  </button>
+  <button class="featured-arrow featured-arrow-next" id="featuredNext" aria-label="下一张">
+    <svg class="icon-svg"><use href="#i-chevron-right"/></svg>
+  </button>
   <div class="featured-dots" id="featuredDots">
     {% for i in (0..featured_posts.size) limit: featured_posts.size %}
     <button class="featured-dot{% if i == 0 %} active{% endif %}" data-idx="{{ i }}"></button>

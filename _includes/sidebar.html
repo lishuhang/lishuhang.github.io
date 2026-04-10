@@ -26,13 +26,13 @@
 
   <!-- 文章存档（年份选择器） -->
   <div class="sidebar-section">
-    <h3 class="widget-title">文章存档</h3>
+    <h3 class="sidebar-label sidebar-section-title">文章存档</h3>
     <div id="calendarWidget" class="sidebar-calendar"></div>
   </div>
 
   <!-- 标签 -->
   <div class="sidebar-section">
-    <h3 class="widget-title">标签</h3>
+    <h3 class="sidebar-label sidebar-section-title">标签</h3>
     <div class="tags-cloud">
       {% for tag in site.tags %}
         {% unless tag[0] == 'AIGC' %}
@@ -44,7 +44,7 @@
 
   <!-- 原图开关 -->
   <div class="sidebar-toggle-row">
-    <span class="sidebar-toggle-label">原图</span>
+    <span class="sidebar-label">原图</span>
     <label class="toggle-switch">
       <input type="checkbox" id="originalImageToggle">
       <span class="toggle-slider"></span>
@@ -53,7 +53,7 @@
 
   <!-- 深色模式三态切换 -->
   <div class="sidebar-toggle-row">
-    <span class="sidebar-toggle-label">主题</span>
+    <span class="sidebar-label">主题</span>
     <div class="theme-switcher">
       <button class="theme-btn" data-theme="light" title="浅色">
         <svg class="icon-svg"><use href="#i-sun"/></svg>

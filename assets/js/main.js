@@ -1,5 +1,5 @@
 /**
- * 航通社极简 JS v5
+ * 航通社极简 JS v6
  * 三态主题 / 年份存档 / Featured轮播 / 翻页 / 搜索
  */
 (function() {
@@ -92,40 +92,72 @@
     render();
   }
 
-  /* ===== Featured 轮播 ===== */
+  /* ===== Featured 轮播（仅首页第一页显示） ===== */
   function initFeatured() {
+    var carousel = document.getElementById('featuredCarousel');
     var slides = document.querySelectorAll('.featured-slide');
     var dots = document.querySelectorAll('.featured-dot');
-    if (slides.length <= 1) return;
+    var prevBtn = document.getElementById('featuredPrev');
+    var nextBtn = document.getElementById('featuredNext');
+    if (slides.length <= 1 || !carousel) return;
     var current = 0;
     var timer;
 
     function show(idx) {
-      current = idx;
-      slides.forEach(function(s, i) { s.classList.toggle('active', i === idx); });
-      dots.forEach(function(d, i) { d.classList.toggle('active', i === idx); });
+      current = ((idx % slides.length) + slides.length) % slides.length;
+      slides.forEach(function(s, i) { s.classList.toggle('active', i === current); });
+      dots.forEach(function(d, i) { d.classList.toggle('active', i === current); });
     }
 
-    function next() { show((current + 1) % slides.length); }
+    function next() { show(current + 1); }
+    function prev() { show(current - 1); }
 
+    // 圆点点击
     dots.forEach(function(dot) {
       dot.addEventListener('click', function() {
         show(parseInt(this.dataset.idx));
-        clearInterval(timer); timer = setInterval(next, 5000);
+        resetTimer();
       });
     });
+
+    // 左右箭头
+    if (prevBtn) prevBtn.addEventListener('click', function() { prev(); resetTimer(); });
+    if (nextBtn) nextBtn.addEventListener('click', function() { next(); resetTimer(); });
+
+    // 触屏滑动
+    var touchStartX = 0, touchEndX = 0;
+    carousel.addEventListener('touchstart', function(e) { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+    carousel.addEventListener('touchend', function(e) {
+      touchEndX = e.changedTouches[0].screenX;
+      var diff = touchStartX - touchEndX;
+      if (Math.abs(diff) > 50) { diff > 0 ? next() : prev(); resetTimer(); }
+    }, { passive: true });
+
+    function resetTimer() { clearInterval(timer); timer = setInterval(next, 5000); }
 
     // 自动轮播
     timer = setInterval(next, 5000);
     // 鼠标悬停暂停
+    carousel.addEventListener('mouseenter', function() { clearInterval(timer); });
+    carousel.addEventListener('mouseleave', function() { timer = setInterval(next, 5000); });
+
+    // 根据当前页面/过滤状态显示或隐藏 featured
+    updateFeaturedVisibility();
+  }
+
+  function updateFeaturedVisibility() {
     var carousel = document.getElementById('featuredCarousel');
-    if (carousel) {
-      carousel.addEventListener('mouseenter', function() { clearInterval(timer); });
-      carousel.addEventListener('mouseleave', function() { timer = setInterval(next, 5000); });
+    if (!carousel) return;
+    var params = new URLSearchParams(window.location.search);
+    var isFiltered = params.get('tag') || params.get('year') || params.get('search');
+    if (isFiltered || currentPage > 1) {
+      carousel.classList.add('hidden');
+    } else {
+      carousel.classList.remove('hidden');
     }
   }
 
-  /* ===== 移动端侧边栏 ===== */
+  /* ===== 移动端侧边栏（含遮罩修复） ===== */
   function initMobileMenu() {
     var btn = document.getElementById('hamburgerButton');
     var overlay = document.getElementById('sidebarOverlay');
@@ -136,8 +168,15 @@
     btn.addEventListener('click', function() { sidebar.classList.contains('open') ? close() : open(); });
     if (overlay) overlay.addEventListener('click', close);
     if (sidebar) sidebar.addEventListener('click', function(e) { if (e.target.tagName === 'A') close(); });
+    // 修复：窗口放大到宽屏时确保遮罩消失
     var mq = window.matchMedia('(min-width: 769px)');
     mq.addEventListener('change', function(e) { if (e.matches) close(); });
+    // 双重保障：resize 事件也检查
+    var resizeTimer;
+    window.addEventListener('resize', function() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(function() { if (window.innerWidth > 768) close(); }, 100);
+    });
   }
 
   /* ===== 回到顶部 ===== */
@@ -154,8 +193,8 @@
     if (!btn) return;
     btn.addEventListener('click', function() {
       navigator.clipboard.writeText(window.location.href).then(function() {
-        btn.title = '\u5df2\u590d\u5236\uff01';
-        setTimeout(function() { btn.title = '\u590d\u5236\u94fe\u63a5'; }, 1500);
+        btn.title = '已复制！';
+        setTimeout(function() { btn.title = '复制链接'; }, 1500);
       });
     });
   }
@@ -170,7 +209,6 @@
 
     function show() {
       var url = window.location.href;
-      // 使用 Google Chart API 生成二维码（无需外部依赖）
       qrDiv.innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=' + encodeURIComponent(url) + '" alt="QR Code" loading="lazy">';
       overlay.classList.add('active');
     }
@@ -189,7 +227,7 @@
     document.querySelectorAll('input[name="engine"]').forEach(function(r) {
       r.addEventListener('change', function() {
         var v = document.querySelector('input[name="engine"]:checked').value;
-        input.placeholder = v === 'google' ? '\u7528 Google \u641c\u7d22...' : v === 'baidu' ? '\u7528\u767e\u5ea6\u641c\u7d22...' : '\u641c\u7d22\u6587\u7ae0...';
+        input.placeholder = v === 'google' ? '用 Google 搜索...' : v === 'baidu' ? '用百度搜索...' : '搜索文章...';
       });
     });
     form.addEventListener('submit', function(e) {
@@ -227,6 +265,7 @@
         container.style.display = '';
         container.innerHTML = '';
         if (loadingHint) loadingHint.style.display = 'none';
+        updateFeaturedVisibility();
         renderPage();
       }, 30);
       return;
@@ -249,23 +288,23 @@
     var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
 
     if (filterHeader && filterTitle) {
-      if (tag) { filterTitle.textContent = '\u6807\u7b7e\uff1a' + tag; filterHeader.style.display = ''; }
-      else if (year) { filterTitle.textContent = year + '\u5e74\u6587\u7ae0'; filterHeader.style.display = ''; }
-      else if (search) { filterTitle.textContent = '\u641c\u7d22\uff1a' + search; filterHeader.style.display = ''; }
+      if (tag) { filterTitle.textContent = '标签：' + tag; filterHeader.style.display = ''; }
+      else if (year) { filterTitle.textContent = year + '年文章'; filterHeader.style.display = ''; }
+      else if (search) { filterTitle.textContent = '搜索：' + search; filterHeader.style.display = ''; }
       else { filterHeader.style.display = 'none'; }
     }
 
-    if (tag) document.title = '\u6807\u7b7e\uff1a' + tag + ' - \u822a\u901a\u793e';
-    else if (year) document.title = year + '\u5e74\u6587\u7ae0 - \u822a\u901a\u793e';
-    else if (search) document.title = '\u641c\u7d22\uff1a' + search + ' - \u822a\u901a\u793e';
-    else document.title = '\u822a\u901a\u793e | \u4f60\u5e94\u8be5\u77e5\u9053\u7684\u5386\u53f2\u3001\u73b0\u5728\u548c\u672a\u6765';
+    if (tag) document.title = '标签：' + tag + ' - 航通社';
+    else if (year) document.title = year + '年文章 - 航通社';
+    else if (search) document.title = '搜索：' + search + ' - 航通社';
+    else document.title = '航通社 | 你应该知道的历史、现在和未来';
 
     document.querySelectorAll('.tag-btn').forEach(function(b) { b.classList.toggle('active', tag && b.textContent === tag); });
 
     var total = displayedPosts.length;
     container.innerHTML = '';
     if (total === 0) {
-      if (noResults) { noResults.textContent = '\u6ca1\u6709\u627e\u5230\u5339\u914d\u7684\u6587\u7ae0'; noResults.style.display = 'block'; }
+      if (noResults) { noResults.textContent = '没有找到匹配的文章'; noResults.style.display = 'block'; }
       if (paginationEl) paginationEl.innerHTML = '';
       return;
     }
@@ -275,6 +314,7 @@
     var end = Math.min(start + PAGE_SIZE, total);
     for (var i = start; i < end; i++) container.appendChild(createCard(displayedPosts[i]));
     renderPageButtons(paginationEl, total, currentPage);
+    updateFeaturedVisibility();
   }
 
   function renderPageButtons(el, total, current) {
@@ -282,15 +322,21 @@
     var tp = Math.ceil(total / PAGE_SIZE);
     if (tp <= 1) { el.innerHTML = ''; return; }
     var h = '';
-    h += current > 1 ? '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 \u4e0a\u4e00\u9875</a>' : '<span class="pagination-btn pagination-disabled">\u2190 \u4e0a\u4e00\u9875</span>';
+    h += current > 1 ? '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 上一页</a>' : '<span class="pagination-btn pagination-disabled">\u2190 上一页</span>';
     var s = Math.max(1, current - 2), e = Math.min(tp, current + 2);
     if (s > 1) { h += '<a href="#" class="pagination-btn" data-page="1">1</a>'; if (s > 2) h += '<span class="pagination-ellipsis">\u2026</span>'; }
     for (var i = s; i <= e; i++) h += i === current ? '<span class="pagination-btn pagination-current">' + i + '</span>' : '<a href="#" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
     if (e < tp) { if (e < tp - 1) h += '<span class="pagination-ellipsis">\u2026</span>'; h += '<a href="#" class="pagination-btn" data-page="' + tp + '">' + tp + '</a>'; }
-    h += current < tp ? '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">\u4e0b\u4e00\u9875 \u2192</a>' : '<span class="pagination-btn pagination-disabled">\u4e0b\u4e00\u9875 \u2192</span>';
+    h += current < tp ? '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">下一页 \u2192</a>' : '<span class="pagination-btn pagination-disabled">下一页 \u2192</span>';
     el.innerHTML = h;
     el.querySelectorAll('a[data-page]').forEach(function(btn) {
-      btn.addEventListener('click', function(ev) { ev.preventDefault(); currentPage = parseInt(this.dataset.page); renderPage(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      btn.addEventListener('click', function(ev) {
+        ev.preventDefault();
+        currentPage = parseInt(this.dataset.page);
+        renderPage();
+        updateFeaturedVisibility();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
     });
   }
 
@@ -315,34 +361,29 @@
     toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); process(); });
   }
 
-  /* ===== Logo 宽高比检测 ===== */
-  function initLogo() {
-    var logo = document.querySelector('.site-logo img');
-    var brand = document.getElementById('brandText');
-    if (!logo || !brand) return;
-    function check() {
-      var w = logo.naturalWidth, h = logo.naturalHeight;
-      if (w && h) {
-        if (w / h > 1.5) brand.classList.add('hidden');
-      }
-    }
-    if (logo.complete && logo.naturalWidth) check();
-    else logo.addEventListener('load', check);
-  }
-
   /* ===== 文章内图片懒加载 ===== */
   function initLazyImages() {
+    // 为文章正文中所有图片设置懒加载
     var article = document.querySelector('.article-content');
-    if (!article) return;
-    article.querySelectorAll('img').forEach(function(img) { img.setAttribute('loading', 'lazy'); });
+    if (article) {
+      article.querySelectorAll('img').forEach(function(img) {
+        img.setAttribute('loading', 'lazy');
+        if ('fetchPriority' in img) img.setAttribute('fetchpriority', 'low');
+      });
+    }
   }
 
   /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
-    initLogo();
-    initTheme(); initMobileMenu(); initScrollToTop();
-    initCopyLink(); initSearch(); initImageToggle();
-    initArchive(); initFeatured(); initWechatShare();
+    initTheme();
+    initMobileMenu();
+    initScrollToTop();
+    initCopyLink();
+    initSearch();
+    initImageToggle();
+    initArchive();
+    initFeatured();
+    initWechatShare();
     initLazyImages();
     initPagination();
   });

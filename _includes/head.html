@@ -5,8 +5,17 @@
   {% seo %}
   {% if site.robots %}<meta name="robots" content="{{ site.robots }}">{% endif %}
 
+  <!-- 搜索引擎验证 -->
+  {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
+  {% if site.bing_site_verification %}<meta name="msvalidate.01" content="{{ site.bing_site_verification }}">{% endif %}
+
   <!-- RSS 自动发现 -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ '/feed.xml' | relative_url }}">
+
+  <!-- 结构化数据 (JSON-LD) -->
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title | jsonify }}","url":"{{ site.url | jsonify }}","description":"{{ site.description | jsonify }}"}
+  </script>
 
   <!-- 思源黑体 -->
   <link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/earlyaccess/notosanssc.css">

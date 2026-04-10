@@ -6,10 +6,12 @@
       <a href="{{ '/' | relative_url }}" class="site-logo">
         <img src="{{ site.logo | default: '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}">
       </a>
-      <div class="brand-text" id="brandText">
+      {% if site.show_title != false %}
+      <div class="brand-text">
         <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
         <span class="site-description">{{ site.description }}</span>
       </div>
+      {% endif %}
     </div>
 
     <!-- 中：页眉导航（桌面端） -->

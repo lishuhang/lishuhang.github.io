@@ -27,6 +27,7 @@ layout: base
     <img src="https://images.weserv.nl/?url={{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
          alt="{{ page.title }}"
          loading="lazy"
+         fetchpriority="low"
          data-original="{{ page.image | absolute_url }}">
   </div>
   {% endif %}
@@ -44,14 +45,14 @@ layout: base
   <nav class="article-nav">
     {% if page.next %}
     <a href="{{ page.next.url | relative_url }}" class="article-nav-link article-nav-prev">
-      <svg class="icon-svg"><use href="#i-chevron-left"/></svg>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
       <span>{{ page.next.title }}</span>
     </a>
     {% else %}<span></span>{% endif %}
     {% if page.previous %}
     <a href="{{ page.previous.url | relative_url }}" class="article-nav-link article-nav-next">
       <span>{{ page.previous.title }}</span>
-      <svg class="icon-svg"><use href="#i-chevron-right"/></svg>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
     </a>
     {% endif %}
   </nav>
