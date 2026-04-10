@@ -3,7 +3,7 @@ layout: post
 title: "一部特朗普纪录片，为啥弄得BBC总裁辞职？"
 date: 2025-11-13
 categories: 文章
-tags: [科技]
+tags: [传媒], [featured]
 image: https://lishuhang.me/img/2025/11/13/yi-bu-te-lang-pu-ji/01.webp
 ---
 

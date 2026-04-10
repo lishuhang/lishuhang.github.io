@@ -3,7 +3,7 @@ layout: post
 title: "酒店电视不再是摆设：2200万块屏背后的60亿产业链条"
 date: 2025-10-22
 categories: 文章
-tags: [科技]
+tags: [传媒], [featured]
 image: https://lishuhang.me/img/2025/10/22/jiu-dian-dian-shi-bu-zai/01.jpg
 ---
 

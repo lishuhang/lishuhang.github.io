@@ -3,7 +3,7 @@ layout: post
 title: "用 AI 一句话生成应用：理想丰满，现实依然骨感"
 date: 2025-11-29
 categories: 文章
-tags: [科技]
+tags: [AI], [featured]
 image: https://lishuhang.me/img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.png
 ---
 
