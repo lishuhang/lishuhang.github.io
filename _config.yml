@@ -20,11 +20,11 @@ collections:
 
 color: "#347df8"    # 主题色，决定全站 accent color
 
-logo: "/assets/logo.svg"
-show_title: true   # true = 同时显示站点标题和描述，false = 仅显示 Logo
+logo: "/assets/logo.png"
+show_title: false   # true = 同时显示站点标题和描述，false = 仅显示 Logo
 header_accent_bg: false   # true = 页眉使用主题色背景，始终显示浅色文字
 
-copyright: "© 2025 书航 [lishuhang.me](https://lishuhang.me)"
+copyright: "© 2006-2026 书航 [lishuhang.me](https://lishuhang.me)"
 
 # Analytics（留空则不加载）
 google_analytics: ""
