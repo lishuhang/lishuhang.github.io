@@ -19,6 +19,12 @@
     <a href="https://lishuhang.me/daily/" target="_blank" rel="noopener noreferrer" class="sidebar-link sidebar-link--highlight">每日 AIGC 早报</a>
   </div>
 
+  <!-- 日历 -->
+  <div class="sidebar-section">
+    <h3 class="widget-title">日历</h3>
+    <div id="calendarWidget" class="sidebar-calendar"></div>
+  </div>
+
   <!-- 标签 -->
   <div class="sidebar-section">
     <h3 class="widget-title">标签</h3>
@@ -31,23 +37,6 @@
     </div>
   </div>
 
-  <!-- 年份 -->
-  <div class="sidebar-section">
-    <h3 class="widget-title">按年份浏览</h3>
-    <ul class="sidebar-list">
-      {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-      {% for year_group in posts_by_year %}
-      {% assign aigc_posts = year_group.items | where_exp: "post", "post.tags contains 'AIGC'" %}
-      {% assign total = year_group.items | size %}
-      {% assign aigc_count = aigc_posts | size %}
-      {% assign non_aigc = total | minus: aigc_count %}
-      {% if non_aigc > 0 %}
-      <li><a href="/?year={{ year_group.name }}" class="sidebar-link">{{ year_group.name }}年 ({{ non_aigc }}篇)</a></li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-
   <!-- 原图开关 -->
   <div class="sidebar-toggle-row">
     <span class="sidebar-toggle-label">原图</span>
@@ -57,12 +46,26 @@
     </label>
   </div>
 
-  <!-- 深色模式 -->
+  <!-- 深色模式三态切换 -->
   <div class="sidebar-toggle-row">
-    <span class="sidebar-toggle-label">深色模式</span>
-    <label class="toggle-switch">
-      <input type="checkbox" id="darkModeToggle">
-      <span class="toggle-slider"></span>
-    </label>
+    <span class="sidebar-toggle-label">主题</span>
+    <div class="theme-switcher">
+      <button class="theme-btn" data-theme="light" title="浅色">
+        <svg class="icon-svg"><use href="#i-sun"/></svg>
+      </button>
+      <button class="theme-btn" data-theme="system" title="跟随系统">
+        <svg class="icon-svg"><use href="#i-monitor"/></svg>
+      </button>
+      <button class="theme-btn" data-theme="dark" title="深色">
+        <svg class="icon-svg"><use href="#i-moon"/></svg>
+      </button>
+    </div>
   </div>
+
+  <!-- 版权 -->
+  {% if site.copyright %}
+  <div class="sidebar-section sidebar-copyright">
+    {{ site.copyright | markdownify }}
+  </div>
+  {% endif %}
 </aside>

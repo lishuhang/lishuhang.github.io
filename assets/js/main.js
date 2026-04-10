@@ -1,6 +1,6 @@
 /**
- * 航通社极简 JS — 顶部页眉 + 右侧边栏 + 翻页
- * 功能：深色模式、移动端菜单、回到顶部、翻页浏览、tag/year/search过滤、搜索引擎切换、原图切换、复制链接
+ * 航通社极简 JS v4
+ * 三态主题 / 日历控件 / 翻页 / 预建索引过滤 / 搜索引擎切换
  */
 (function() {
   'use strict';
@@ -10,35 +10,22 @@
   var allPosts = [];
   var displayedPosts = [];
 
-  // ===== 工具 =====
-  function debounce(fn, ms) {
-    var t;
-    return function() { clearTimeout(t); t = setTimeout(fn, ms); };
-  }
+  /* ===== 工具 ===== */
+  function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
 
-  function esc(s) {
-    var d = document.createElement('div'); d.textContent = s; return d.innerHTML;
-  }
-
-  // 从 __POSTS__ 数据生成一张卡片 DOM
   function createCard(post) {
     var el = document.createElement('article');
     el.className = 'post-card';
     el.dataset.year = post.y;
+    el.dataset.month = post.m;
     el.dataset.tags = post.g || '';
     el.dataset.title = (post.t || '').toLowerCase();
     el.dataset.excerpt = (post.e || '').toLowerCase();
-
-    var imgSrc = post.i
-      ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=200&output=jpg&q=80&fit=cover'
-      : '';
-
+    var imgSrc = post.i ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=200&output=jpg&q=80&fit=cover' : '';
     var h = '<a href="' + post.u + '" class="post-card-link">';
     if (imgSrc) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
     h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
-    if (post.g) post.g.split(',').slice(0, 3).forEach(function(t) {
-      t = t.trim(); if (t) h += '<span class="post-tag">#' + esc(t) + '</span>';
-    });
+    if (post.g) post.g.split(',').slice(0, 3).forEach(function(t) { t = t.trim(); if (t) h += '<span class="post-tag">#' + esc(t) + '</span>'; });
     h += '</div><h2 class="post-card-title">' + esc(post.t) + '</h2>';
     if (post.e) h += '<p class="post-card-excerpt">' + esc(post.e) + '</p>';
     h += '</div></a>';
@@ -46,145 +33,220 @@
     return el;
   }
 
-  // ===== 深色模式 =====
-  function initDarkMode() {
-    var toggle = document.getElementById('darkModeToggle');
-    if (!toggle) return;
-    var saved = localStorage.getItem('theme');
-    if (saved) { applyTheme(saved); toggle.checked = saved === 'dark'; }
-    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      applyTheme('dark'); toggle.checked = true;
+  /* ===== 三态主题（浅色 / 跟随系统 / 深色） ===== */
+  function initTheme() {
+    var saved = localStorage.getItem('theme') || 'system';
+    applyTheme(saved);
+    document.querySelectorAll('.theme-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var t = this.dataset.theme;
+        localStorage.setItem('theme', t);
+        applyTheme(t);
+      });
+    });
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+      if ((localStorage.getItem('theme') || 'system') === 'system') applyTheme('system');
+    });
+  }
+
+  function applyTheme(preference) {
+    var actual = preference === 'system'
+      ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+      : preference;
+    document.documentElement.setAttribute('data-theme', actual);
+    var f = document.querySelector('iframe.giscus-frame');
+    if (f) f.contentWindow.postMessage({ giscus: { setConfig: { theme: actual === 'dark' ? 'dark' : 'light' } } }, 'https://giscus.app');
+    document.querySelectorAll('.theme-btn').forEach(function(b) { b.classList.toggle('active', b.dataset.theme === preference); });
+  }
+
+  /* ===== 日历控件 ===== */
+  function initCalendar() {
+    var el = document.getElementById('calendarWidget');
+    if (!el || !window.__CD__) return;
+    var params = new URLSearchParams(window.location.search);
+    var now = new Date();
+    var state = { view: 'days', year: now.getFullYear(), month: now.getMonth() };
+    if (params.get('year')) state.year = parseInt(params.get('year'));
+    if (params.get('month')) { var mp = params.get('month').split('-'); state.year = parseInt(mp[0]); state.month = parseInt(mp[1]) - 1; }
+    if (params.get('date')) { var dp = params.get('date').split('-'); state.year = parseInt(dp[0]); state.month = parseInt(dp[1]) - 1; }
+
+    var MN = ['1\u6708','2\u6708','3\u6708','4\u6708','5\u6708','6\u6708','7\u6708','8\u6708','9\u6708','10\u6708','11\u6708','12\u6708'];
+    var WD = ['\u4e00','\u4e8c','\u4e09','\u56db','\u4e94','\u516d','\u65e5'];
+
+    function cdHas(year, month, day) { var k = year + '-' + String(month + 1).padStart(2, '0'); var s = window.__CD__[k]; return s && s.has(day); }
+    function cmHas(year, month) { var k = year + '-' + String(month + 1).padStart(2, '0'); var s = window.__CD__[k]; return s && s.size > 0; }
+
+    function render() {
+      el.innerHTML = state.view === 'days' ? rDays() : state.view === 'months' ? rMonths() : rYears();
     }
-    toggle.addEventListener('change', function() {
-      var theme = toggle.checked ? 'dark' : 'light';
-      applyTheme(theme); localStorage.setItem('theme', theme);
+
+    function rDays() {
+      var first = new Date(state.year, state.month, 1);
+      var dim = new Date(state.year, state.month + 1, 0).getDate();
+      var sd = (first.getDay() + 6) % 7;
+      var td = new Date();
+      var h = '<div class="cal-header"><button class="cal-nav" data-a="pm">&lsaquo;</button><span class="cal-title" data-a="vm">' + state.year + '\u5e74' + MN[state.month] + '</span><button class="cal-nav" data-a="nm">&rsaquo;</button></div><div class="cal-grid cal-wds">';
+      WD.forEach(function(w) { h += '<span class="cal-wd">' + w + '</span>'; });
+      h += '</div><div class="cal-grid cal-days">';
+      for (var i = 0; i < sd; i++) h += '<span></span>';
+      for (var d = 1; d <= dim; d++) {
+        var c = 'cal-day';
+        if (d === td.getDate() && state.month === td.getMonth() && state.year === td.getFullYear()) c += ' cal-today';
+        if (cdHas(state.year, state.month, d)) c += ' cal-has-post';
+        h += '<span class="' + c + '" data-d="' + d + '">' + d + '</span>';
+      }
+      h += '</div>';
+      return h;
+    }
+
+    function rMonths() {
+      var td = new Date();
+      var h = '<div class="cal-header"><button class="cal-nav" data-a="py">&lsaquo;</button><span class="cal-title" data-a="vy">' + state.year + '\u5e74</span><button class="cal-nav" data-a="ny">&rsaquo;</button></div><div class="cal-grid cal-ms">';
+      for (var m = 0; m < 12; m++) {
+        var c = 'cal-mo';
+        if (m === td.getMonth() && state.year === td.getFullYear()) c += ' cal-cur';
+        if (cmHas(state.year, m)) c += ' cal-has-post';
+        h += '<span class="' + c + '" data-m="' + m + '">' + MN[m] + '</span>';
+      }
+      h += '</div>';
+      return h;
+    }
+
+    function rYears() {
+      var base = Math.floor(state.year / 12) * 12;
+      var td = new Date();
+      var h = '<div class="cal-header"><button class="cal-nav" data-a="pr">&lsaquo;</button><span class="cal-title">' + base + ' - ' + (base + 11) + '</span><button class="cal-nav" data-a="nr">&rsaquo;</button></div><div class="cal-grid cal-ys">';
+      for (var y = base; y < base + 12; y++) {
+        var c = 'cal-yr';
+        if (y === td.getFullYear()) c += ' cal-cur';
+        h += '<span class="' + c + '" data-y="' + y + '">' + y + '</span>';
+      }
+      h += '</div>';
+      return h;
+    }
+
+    el.addEventListener('click', function(e) {
+      var t = e.target, a = t.dataset.a;
+      if (a === 'pm') { state.month--; if (state.month < 0) { state.month = 11; state.year--; } render(); return; }
+      if (a === 'nm') { state.month++; if (state.month > 11) { state.month = 0; state.year++; } render(); return; }
+      if (a === 'py') { state.year--; render(); return; }
+      if (a === 'ny') { state.year++; render(); return; }
+      if (a === 'pr') { state.year -= 12; render(); return; }
+      if (a === 'nr') { state.year += 12; render(); return; }
+      if (a === 'vm') { state.view = 'months'; render(); return; }
+      if (a === 'vy') { state.view = 'years'; render(); return; }
+      if (t.dataset.d !== undefined) {
+        var dv = parseInt(t.dataset.d);
+        if (cdHas(state.year, state.month, dv)) {
+          window.location.href = '/?date=' + state.year + '-' + String(state.month + 1).padStart(2, '0') + '-' + String(dv).padStart(2, '0');
+        }
+        return;
+      }
+      if (t.dataset.m !== undefined) {
+        var mv = parseInt(t.dataset.m);
+        state.month = mv; state.view = 'days';
+        if (cmHas(state.year, mv)) window.location.href = '/?month=' + state.year + '-' + String(mv + 1).padStart(2, '0');
+        else render();
+        return;
+      }
+      if (t.dataset.y !== undefined) {
+        state.year = parseInt(t.dataset.y); state.view = 'months';
+        window.location.href = '/?year=' + state.year;
+        return;
+      }
     });
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-      if (!localStorage.getItem('theme')) { applyTheme(e.matches ? 'dark' : 'light'); toggle.checked = e.matches; }
-    });
+    render();
   }
 
-  function applyTheme(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
-    var frame = document.querySelector('iframe.giscus-frame');
-    if (frame) frame.contentWindow.postMessage(
-      { giscus: { setConfig: { theme: theme === 'dark' ? 'dark' : 'light' } } }, 'https://giscus.app'
-    );
-  }
-
-  // ===== 移动端侧边栏 =====
+  /* ===== 移动端侧边栏 ===== */
   function initMobileMenu() {
     var btn = document.getElementById('hamburgerButton');
     var overlay = document.getElementById('sidebarOverlay');
     var sidebar = document.getElementById('site-sidebar');
     if (!btn) return;
-    function open() {
-      if (sidebar) sidebar.classList.add('open');
-      if (overlay) overlay.classList.add('active');
-      document.body.style.overflow = 'hidden';
-    }
-    function close() {
-      if (sidebar) sidebar.classList.remove('open');
-      if (overlay) overlay.classList.remove('active');
-      document.body.style.overflow = '';
-    }
+    function open() { if (sidebar) sidebar.classList.add('open'); if (overlay) overlay.classList.add('active'); document.body.style.overflow = 'hidden'; }
+    function close() { if (sidebar) sidebar.classList.remove('open'); if (overlay) overlay.classList.remove('active'); document.body.style.overflow = ''; }
     btn.addEventListener('click', function() { sidebar.classList.contains('open') ? close() : open(); });
     if (overlay) overlay.addEventListener('click', close);
     if (sidebar) sidebar.addEventListener('click', function(e) { if (e.target.tagName === 'A') close(); });
   }
 
-  // ===== 回到顶部 =====
+  /* ===== 回到顶部 ===== */
   function initScrollToTop() {
     var btn = document.getElementById('scrollToTopBtn');
     if (!btn) return;
-    window.addEventListener('scroll', function() {
-      btn.classList.toggle('show', window.scrollY > window.innerHeight);
-    }, { passive: true });
+    window.addEventListener('scroll', function() { btn.classList.toggle('show', window.scrollY > window.innerHeight); }, { passive: true });
     btn.addEventListener('click', function() { window.scrollTo({ top: 0, behavior: 'smooth' }); });
   }
 
-  // ===== 复制链接 =====
+  /* ===== 复制链接 ===== */
   function initCopyLink() {
     var btn = document.getElementById('copyLinkBtn');
     if (!btn) return;
     btn.addEventListener('click', function() {
-      navigator.clipboard.writeText(window.location.href).then(function() {
-        btn.title = '已复制！'; setTimeout(function() { btn.title = '复制链接'; }, 1500);
-      });
+      navigator.clipboard.writeText(window.location.href).then(function() { btn.title = '\u5df2\u590d\u5236\uff01'; setTimeout(function() { btn.title = '\u590d\u5236\u94fe\u63a5'; }, 1500); });
     });
   }
 
-  // ===== 搜索（站内 / Google / 百度） =====
+  /* ===== 搜索 ===== */
   function initSearch() {
     var form = document.querySelector('.search-form');
     var input = document.getElementById('searchInput');
     if (!form || !input) return;
-
-    // 搜索引擎切换时更新 placeholder
     document.querySelectorAll('input[name="engine"]').forEach(function(r) {
       r.addEventListener('change', function() {
         var v = document.querySelector('input[name="engine"]:checked').value;
-        input.placeholder =
-          v === 'google' ? '用 Google 搜索...' :
-          v === 'baidu' ? '用百度搜索...' : '搜索文章...';
+        input.placeholder = v === 'google' ? '\u7528 Google \u641c\u7d22...' : v === 'baidu' ? '\u7528\u767e\u5ea6\u641c\u7d22...' : '\u641c\u7d22\u6587\u7ae0...';
       });
     });
-
     form.addEventListener('submit', function(e) {
       e.preventDefault();
-      var q = input.value.trim();
-      if (!q) return;
-      var engine = document.querySelector('input[name="engine"]:checked');
-      var v = engine ? engine.value : 'internal';
-      if (v === 'google') {
-        window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
-      } else if (v === 'baidu') {
-        window.open('https://www.baidu.com/s?wd=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
-      } else {
-        // 站内搜索：跳转到 ?search= 由翻页系统处理
-        window.location.href = '/?search=' + encodeURIComponent(q);
-      }
+      var q = input.value.trim(); if (!q) return;
+      var v = document.querySelector('input[name="engine"]:checked');
+      var e = v ? v.value : 'internal';
+      if (e === 'google') window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
+      else if (e === 'baidu') window.open('https://www.baidu.com/s?wd=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
+      else window.location.href = '/?search=' + encodeURIComponent(q);
     });
   }
 
-  // ===== 翻页 + 过滤 =====
+  /* ===== 翻页 + 预建索引过滤 ===== */
   function initPagination() {
     allPosts = window.__POSTS__ || [];
     var container = document.getElementById('postsContainer');
+    var loadingHint = document.getElementById('loadingHint');
     if (!container) return;
 
     var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag');
-    var year = params.get('year');
-    var search = params.get('search');
-
-    // 如果 __POSTS__ 未加载（条件不生效），保留 HTML 预渲染的 10 条作为后备
+    var tag = params.get('tag'), year = params.get('year'), month = params.get('month'), date = params.get('date'), search = params.get('search');
     if (!allPosts.length) return;
 
-    // ---------- 有过滤参数：从全量数据筛选 ----------
-    if (tag || year || search) {
-      displayedPosts = allPosts.filter(function(post) {
-        if (tag && post.g.toLowerCase().split(',').indexOf(tag.toLowerCase()) === -1) return false;
-        if (year && post.y !== year) return false;
-        if (search) {
+    if (tag || year || month || date || search) {
+      // 让浏览器先绘制 loading 提示，再执行过滤
+      setTimeout(function() {
+        displayedPosts = [];
+        if (tag && window.__TI__ && window.__TI__[tag]) displayedPosts = window.__TI__[tag].map(function(i) { return allPosts[i]; });
+        else if (year && window.__YI__ && window.__YI__[year]) displayedPosts = window.__YI__[year].map(function(i) { return allPosts[i]; });
+        else if (month && window.__MI__ && window.__MI__[month]) displayedPosts = window.__MI__[month].map(function(i) { return allPosts[i]; });
+        else if (date) {
+          var mk = date.substring(0, 7), dd = parseInt(date.split('-')[2]);
+          if (window.__MI__ && window.__MI__[mk]) displayedPosts = window.__MI__[mk].map(function(i) { return allPosts[i]; }).filter(function(p) { return parseInt(p.d.split('-')[2]) === dd; });
+        } else if (search) {
           var q = search.toLowerCase();
-          if (post.t.toLowerCase().indexOf(q) === -1 && post.e.toLowerCase().indexOf(q) === -1) return false;
+          displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
         }
-        return true;
-      });
-
-      currentPage = 1;
-      container.style.display = ''; // 恢复可见
-      container.innerHTML = '';
-      renderPage();
+        currentPage = 1;
+        container.style.display = '';
+        container.innerHTML = '';
+        if (loadingHint) loadingHint.style.display = 'none';
+        renderPage();
+      }, 30);
       return;
     }
 
-    // ---------- 无过滤：正常首页 ----------
     displayedPosts = allPosts;
     currentPage = 1;
-    // HTML 已渲染前 10 条，直接添加翻页按钮
-    renderPaginationButtons(document.getElementById('pagination'), allPosts.length, 1);
+    renderPageButtons(document.getElementById('pagination'), allPosts.length, 1);
   }
 
   function renderPage() {
@@ -196,33 +258,32 @@
     if (!container) return;
 
     var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
+    var tag = params.get('tag'), year = params.get('year'), month = params.get('month'), date = params.get('date'), search = params.get('search');
 
-    // 标题栏
+    // 标题
     if (filterHeader && filterTitle) {
-      if (tag) { filterTitle.textContent = '标签：' + tag; filterHeader.style.display = ''; }
-      else if (year) { filterTitle.textContent = year + '年文章'; filterHeader.style.display = ''; }
-      else if (search) { filterTitle.textContent = '搜索：' + search; filterHeader.style.display = ''; }
+      if (tag) { filterTitle.textContent = '\u6807\u7b7e\uff1a' + tag; filterHeader.style.display = ''; }
+      else if (date) { filterTitle.textContent = date; filterHeader.style.display = ''; }
+      else if (month) { filterTitle.textContent = month.replace('-', '\u5e74') + '\u6708'; filterHeader.style.display = ''; }
+      else if (year) { filterTitle.textContent = year + '\u5e74\u6587\u7ae0'; filterHeader.style.display = ''; }
+      else if (search) { filterTitle.textContent = '\u641c\u7d22\uff1a' + search; filterHeader.style.display = ''; }
       else { filterHeader.style.display = 'none'; }
     }
 
     // 页面标题
-    if (tag) document.title = '标签：' + tag + ' - 航通社';
-    else if (year) document.title = year + '年文章 - 航通社';
-    else if (search) document.title = '搜索：' + search + ' - 航通社';
-    else document.title = '航通社 | 你应该知道的历史、现在和未来';
+    if (tag) document.title = '\u6807\u7b7e\uff1a' + tag + ' - \u822a\u901a\u793e';
+    else if (date) document.title = date + ' - \u822a\u901a\u793e';
+    else if (month) document.title = month.replace('-', '\u5e74') + '\u6708 - \u822a\u901a\u793e';
+    else if (year) document.title = year + '\u5e74\u6587\u7ae0 - \u822a\u901a\u793e';
+    else if (search) document.title = '\u641c\u7d22\uff1a' + search + ' - \u822a\u901a\u793e';
+    else document.title = '\u822a\u901a\u793e | \u4f60\u5e94\u8be5\u77e5\u9053\u7684\u5386\u53f2\u3001\u73b0\u5728\u548c\u672a\u6765';
 
-    // 高亮标签按钮
-    document.querySelectorAll('.tag-btn').forEach(function(b) {
-      b.classList.toggle('active', tag && b.textContent === tag);
-    });
+    document.querySelectorAll('.tag-btn').forEach(function(b) { b.classList.toggle('active', tag && b.textContent === tag); });
 
-    // 渲染当前页卡片
     var total = displayedPosts.length;
     container.innerHTML = '';
-
     if (total === 0) {
-      if (noResults) { noResults.textContent = '没有找到匹配的文章'; noResults.style.display = 'block'; }
+      if (noResults) { noResults.textContent = '\u6ca1\u6709\u627e\u5230\u5339\u914d\u7684\u6587\u7ae0'; noResults.style.display = 'block'; }
       if (paginationEl) paginationEl.innerHTML = '';
       return;
     }
@@ -231,85 +292,51 @@
     var start = (currentPage - 1) * PAGE_SIZE;
     var end = Math.min(start + PAGE_SIZE, total);
     for (var i = start; i < end; i++) container.appendChild(createCard(displayedPosts[i]));
-
-    renderPaginationButtons(paginationEl, total, currentPage);
+    renderPageButtons(paginationEl, total, currentPage);
   }
 
-  function renderPaginationButtons(el, total, current) {
+  function renderPageButtons(el, total, current) {
     if (!el) return;
-    var totalPages = Math.ceil(total / PAGE_SIZE);
-    if (totalPages <= 1) { el.innerHTML = ''; return; }
-
-    var html = '';
-    if (current > 1) {
-      html += '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 \u4e0a\u4e00\u9875</a>';
-    } else {
-      html += '<span class="pagination-btn pagination-disabled">\u2190 \u4e0a\u4e00\u9875</span>';
-    }
-
-    var s = Math.max(1, current - 2), e = Math.min(totalPages, current + 2);
-    if (s > 1) {
-      html += '<a href="#" class="pagination-btn" data-page="1">1</a>';
-      if (s > 2) html += '<span class="pagination-ellipsis">\u2026</span>';
-    }
-    for (var i = s; i <= e; i++) {
-      html += i === current
-        ? '<span class="pagination-btn pagination-current">' + i + '</span>'
-        : '<a href="#" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
-    }
-    if (e < totalPages) {
-      if (e < totalPages - 1) html += '<span class="pagination-ellipsis">\u2026</span>';
-      html += '<a href="#" class="pagination-btn" data-page="' + totalPages + '">' + totalPages + '</a>';
-    }
-
-    if (current < totalPages) {
-      html += '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">\u4e0b\u4e00\u9875 \u2192</a>';
-    } else {
-      html += '<span class="pagination-btn pagination-disabled">\u4e0b\u4e00\u9875 \u2192</span>';
-    }
-
-    el.innerHTML = html;
+    var tp = Math.ceil(total / PAGE_SIZE);
+    if (tp <= 1) { el.innerHTML = ''; return; }
+    var h = '';
+    h += current > 1 ? '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 \u4e0a\u4e00\u9875</a>' : '<span class="pagination-btn pagination-disabled">\u2190 \u4e0a\u4e00\u9875</span>';
+    var s = Math.max(1, current - 2), e = Math.min(tp, current + 2);
+    if (s > 1) { h += '<a href="#" class="pagination-btn" data-page="1">1</a>'; if (s > 2) h += '<span class="pagination-ellipsis">\u2026</span>'; }
+    for (var i = s; i <= e; i++) h += i === current ? '<span class="pagination-btn pagination-current">' + i + '</span>' : '<a href="#" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
+    if (e < tp) { if (e < tp - 1) h += '<span class="pagination-ellipsis">\u2026</span>'; h += '<a href="#" class="pagination-btn" data-page="' + tp + '">' + tp + '</a>'; }
+    h += current < tp ? '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">\u4e0b\u4e00\u9875 \u2192</a>' : '<span class="pagination-btn pagination-disabled">\u4e0b\u4e00\u9875 \u2192</span>';
+    el.innerHTML = h;
     el.querySelectorAll('a[data-page]').forEach(function(btn) {
-      btn.addEventListener('click', function(ev) {
-        ev.preventDefault();
-        currentPage = parseInt(this.dataset.page);
-        renderPage();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
+      btn.addEventListener('click', function(ev) { ev.preventDefault(); currentPage = parseInt(this.dataset.page); renderPage(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
     });
   }
 
-  // ===== 原图切换 =====
+  /* ===== 原图切换 ===== */
   function initImageToggle() {
     var toggle = document.getElementById('originalImageToggle');
     if (!toggle) return;
     if (localStorage.getItem('useOriginalImage') === 'true') toggle.checked = true;
-
-    function processImages() {
+    function process() {
       var article = document.querySelector('.article-content');
       var featImg = document.querySelector('.article-featured-image img');
-      var useOriginal = toggle.checked;
-      if (article) {
-        article.querySelectorAll('img').forEach(function(img) {
-          var src = img.getAttribute('data-original') || img.src;
-          if (!img.getAttribute('data-original')) img.setAttribute('data-original', src);
-          if (useOriginal) { img.src = src; }
-          else if (!img.src.includes('weserv.nl')) { img.src = 'https://images.weserv.nl/?url=' + encodeURIComponent(src) + '&output=jpg&q=80'; }
-        });
-      }
-      if (featImg) {
-        var orig = featImg.getAttribute('data-original');
-        if (orig) featImg.src = useOriginal ? orig : 'https://images.weserv.nl/?url=' + encodeURIComponent(orig) + '&output=jpg&q=80';
-      }
+      var orig = toggle.checked;
+      if (article) article.querySelectorAll('img').forEach(function(img) {
+        var src = img.getAttribute('data-original') || img.src;
+        if (!img.getAttribute('data-original')) img.setAttribute('data-original', src);
+        if (orig) img.src = src;
+        else if (!img.src.includes('weserv.nl')) img.src = 'https://images.weserv.nl/?url=' + encodeURIComponent(src) + '&output=jpg&q=80';
+      });
+      if (featImg) { var o = featImg.getAttribute('data-original'); if (o) featImg.src = orig ? o : 'https://images.weserv.nl/?url=' + encodeURIComponent(o) + '&output=jpg&q=80'; }
     }
-
-    processImages();
-    toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); processImages(); });
+    process();
+    toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); process(); });
   }
 
-  // ===== 初始化 =====
+  /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
-    initDarkMode(); initMobileMenu(); initScrollToTop();
-    initCopyLink(); initSearch(); initImageToggle(); initPagination();
+    initTheme(); initMobileMenu(); initScrollToTop();
+    initCopyLink(); initSearch(); initImageToggle();
+    initCalendar(); initPagination();
   });
 })();

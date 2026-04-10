@@ -7,7 +7,13 @@ layout: base
   <h1 id="filterTitle" class="filter-title"></h1>
 </div>
 
-<!-- 文章列表（HTML 预渲染前 10 条，其余由 JS 翻页加载） -->
+<!-- 加载提示（有 URL 过滤参数时显示） -->
+<div id="loadingHint" class="loading-hint" style="display: none;">
+  <div class="loading-spinner"></div>
+  <span>正在筛选文章...</span>
+</div>
+
+<!-- 文章列表（HTML 预渲染前 10 条） -->
 <div id="postsContainer" class="posts-container">
   {% assign shown = 0 %}
   {% for post in site.posts %}
@@ -20,10 +26,15 @@ layout: base
   {% endfor %}
 </div>
 
-<!-- 有 URL 过滤参数时，立刻隐藏 HTML 预渲染内容，等 JS 从全量数据渲染正确的筛选结果 -->
-<script>(function(){if(location.search){var c=document.getElementById('postsContainer');if(c)c.style.display='none';}})();</script>
+<!-- 有 URL 过滤参数时，隐藏预渲染内容，显示加载提示 -->
+<script>(function(){
+  if(location.search){
+    var c=document.getElementById('postsContainer');if(c)c.style.display='none';
+    var l=document.getElementById('loadingHint');if(l)l.style.display='flex';
+  }
+})();</script>
 
-<!-- 翻页导航（JS 生成） -->
+<!-- 翻页导航 -->
 <div id="pagination" class="pagination"></div>
 
 <!-- 无结果提示 -->
