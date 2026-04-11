@@ -661,7 +661,7 @@ button { font-family: inherit; }
   .sidebar-toggle { display: flex; }
   .header-nav { display: none; }
   .mobile-nav { display: grid; }
-  .site-layout { flex-direction: column; padding: 16px; }
+  .site-layout { max-width: 100%; flex-direction: column; padding: 16px; }
   .site-sidebar {
     display: none; position: fixed;
     top: 0; right: -320px; width: 300px; height: 100vh;
@@ -680,11 +680,12 @@ button { font-family: inherit; }
   .featured-arrow { opacity: 0; }
 }
 
-/* 窄屏（<780px）隐藏卡片缩略图 */
-@media (max-width: 779px) {
+/* 窄屏（<640px）隐藏卡片缩略图 */
+@media (max-width: 639px) {
   .post-card-thumb { display: none; }
   .post-card-link { padding: 16px; }
   .post-card-body { padding: 0; }
+  .header-inner { padding: 0 16px; }
 }
 
 /* =========================================

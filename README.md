@@ -1,281 +1,192 @@
-# 航通社 Jekyll 主题 — 纯静态极简版
+# 航通社 — Jekyll 博客主题
 
-## 改造背景
+## 概述
 
-航通社官网（lishuhang.me）自 2015 年建站以来经历了多次技术栈变迁：WordPress → Jekyll → Docsify → Jekyll + SPA（单页应用）。2025 年 10 月，使用 Manus AI 将站点改造为基于 Jekyll 静态生成 + JavaScript SPA 的混合架构。该架构虽然在用户体验上实现了流畅的无刷新导航，但引入了大量 JavaScript 逻辑（约 1300 行），导致页面加载时间过长，尤其是在中国大陆无 CDN 的情况下表现更为明显。
+从 WordPress "minimal-blog" 主题迁移至纯静态 Jekyll 实现的个人博客主题。支持多标签文章筛选、年份存档、搜索引擎集成、Featured 轮播、三态深色模式、Giscus 评论等完整博客功能。
 
-本次改造的核心目标是：**在保留所有现有功能的前提下，将 SPA 架构回归纯静态 Jekyll，最大程度减少页面计算量和 JavaScript 体积，提升加载速度和浏览器兼容性。**
+**部署地址**: https://lishuhang.me
+**子站（每日 AIGC 早报）**: https://lishuhang.me/daily/ （独立主题，见 `daily-theme-readme.md`）
 
-## 改造原则
-
-1. **极简优先**：每新增一行代码都必须有充分理由，能省则省
-2. **零 SPA 依赖**：彻底去除 JavaScript 路由、fetch 内容加载、History API 管理、MutationObserver 等重型机制
-3. **功能不减少**：旧版所有用户可感知的功能必须保留
-4. **无痛迁移**：保持与现有仓库的文件结构兼容，可直接替换文件上线
-5. **零构建依赖**：去除 Node.js / Tailwind CSS 构建步骤，纯 Ruby + Jekyll 即可运行
-
-## 架构对比
-
-### 旧版（SPA 架构）
+## 目录结构
 
 ```
-用户访问文章 URL (/posts/2025/...)
-    ↓
-post.html 检测到浏览器直接访问
-    ↓
-JavaScript 重定向到 /?post=/posts/2025/...
-    ↓
-home.html 加载（含全部文章 DOM + 1300 行 JS）
-    ↓
-JS 读取 URL 参数，fetch 文章 HTML
-    ↓
-DOMParser 解析 HTML，提取内容
-    ↓
-JS 清理冗余元素（标题、日期、分割线等）
-    ↓
-动态注入到 #postView 容器
-    ↓
-更新 History API、页面标题
-```
-
-**问题**：首次加载需要执行大量 JS、发起 fetch 请求、解析 HTML，阻塞渲染。
-
-### 新版（纯静态架构）
-
-```
-用户访问文章 URL (/posts/2025/...)
-    ↓
-post.html 直接渲染完整 HTML（服务端由 Jekyll 生成）
-    ↓
-浏览器展示页面（零 JS 阻塞）
-```
-
-**优势**：文章页面是预生成的完整 HTML，浏览器直接渲染，无需任何 JavaScript 计算。
-
-## 文件结构
-
-```
-├── _config.yml              # 站点配置（保持不变）
+jekyll-theme/
+├── _config.yml          # 站点配置（标题、颜色、导航、评论等）
 ├── _layouts/
-│   ├── base.html            # 基础布局（极简，约 30 行 HTML）
-│   ├── home.html            # 首页（文章列表，无 JS 逻辑）
-│   ├── post.html            # 文章页（直接渲染内容，非重定向）
-│   └── page.html            # 静态页面（直接渲染内容，非重定向）
+│   ├── base.html        # HTML 骨架（SVG 图标 + 布局容器 + 浮动按钮 + 数据嵌入）
+│   ├── home.html        # 首页（Featured 轮播 + 过滤 + 文章列表 + 翻页）
+│   ├── post.html        # 文章详情（题图 + 正文排版 + 分享 + 评论）
+│   └── page.html        # 静态页面（关于等）
 ├── _includes/
-│   ├── head.html            # <head> 元素（meta、CSS）
-│   ├── sidebar.html         # 侧边栏（Logo、搜索、标签、年份、导航、开关）
-│   ├── post-card.html       # 文章卡片组件
-│   ├── share.html           # 分享按钮（微博、Twitter/X、复制链接）
-│   └── comments.html        # Giscus 评论系统
+│   ├── head.html        # <head>（SEO、字体、样式、主题色注入）
+│   ├── header.html      # 顶部吸顶导航（Logo + 导航链接 + 汉堡按钮）
+│   ├── sidebar.html     # 右侧边栏（搜索 + 导航 + 存档 + 标签 + 开关）
+│   ├── post-card.html   # 文章卡片组件（题图 + 日期 + 标签 + 标题 + 摘要）
+│   ├── comments.html    # Giscus 评论区域
+│   └── share.html       # 分享按钮 + 微信二维码浮层
 ├── assets/
-│   ├── style.css            # 全站样式（纯 CSS，含深色模式，约 350 行）
-│   ├── js/
-│   │   └── main.js          # 全站 JS（约 150 行，详见下方）
-│   └── logo.svg             # 站点 Logo
-├── index.md                 # 首页
-├── about.md                 # 关于页
-├── 404.html                 # 404 页面
-├── feed.xml                 # RSS 订阅
-├── CNAME                    # 自定义域名
-├── Gemfile                  # Ruby 依赖（Jekyll 4.3 + feed + SEO）
-├── .ruby-version            # Ruby 版本（3.2.2）
-├── .github/workflows/jekyll.yml  # GitHub Pages CI/CD
-└── README.md                # 本文件
+│   ├── style.css        # 全站样式（含响应式 + 深色模式）
+│   ├── js/main.js       # 主题切换、轮播、翻页、搜索、筛选、缩放
+│   └── logo.svg         # 站点 Logo
+├── index.html           # 首页
+├── about.md             # 关于页面
+├── 404.html             # 404 页面（含最近文章建议）
+├── feed.xml             # RSS 订阅
+├── robots.txt           # 搜索引擎爬虫指令
+├── CNAME                # 自定义域名
+├── Gemfile              # Ruby 依赖
+└── favicon.ico          # 网站图标
 ```
 
-### 相比旧版删除的文件
+## _config.yml 配置项
 
-- `_includes/navbar.html` — 旧版遗留的导航栏（未被使用）
-- `_includes/footer.html` — 旧版遗留的页脚（未被使用，使用 Tailwind 类）
-- `assets/dist-style.css` — Tailwind CSS 编译产物（14KB），已用 200 字节的 CSS Reset 替代
-- `package.json` — Node.js 依赖（不再需要 Tailwind 构建）
-- `tailwind.config.js` — Tailwind 配置（不再需要）
+### 基础设置
 
-## JavaScript 体积对比
+| 配置项 | 说明 | 默认值 |
+|--------|------|--------|
+| `name` | 站点名称 | `"航通社"` |
+| `title` | 页面标题 | `"航通社"` |
+| `description` | 站点描述 | `"你应该知道的历史、现在和未来"` |
+| `url` | 站点域名 | `"https://lishuhang.me"` |
+| `domain` | 域名（用于搜索引擎） | `"lishuhang.me"` |
+| `lang` | 语言代码 | `"zh"` |
 
-| 功能 | 旧版 (行数) | 新版 (行数) | 说明 |
-|------|:-----------:|:-----------:|------|
-| 深色模式 | ~60 | ~30 | 简化主题切换逻辑 |
-| 移动端菜单 | ~15 | ~20 | 相当 |
-| 回到顶部 | ~60 | ~10 | 去掉 SPA 容器检测 |
-| URL 过滤 | ~200 | ~60 | 仅 CSS display 切换 |
-| 搜索 | ~80 | 含在过滤中 | 300ms 防抖 |
-| 原图切换 | ~50 | ~35 | 仅处理当前页图片 |
-| SPA 路由 | ~400 | **0** | 完全移除 |
-| History API | ~200 | **0** | 完全移除 |
-| Fetch 内容加载 | ~100 | **0** | 完全移除 |
-| DOMParser / 内容清洗 | ~80 | **0** | 完全移除 |
-| MutationObserver | ~20 | **0** | 完全移除 |
-| Popstate 监听 | ~60 | **0** | 完全移除 |
-| 无限滚动 | ~40 | **0** | 全部文章直接展示 |
-| 浮动按钮 | ~80 | **0** | 合并到 base.html HTML |
-| 文章元数据 JSON | N/A (内联) | **0** | 不再需要 |
-| **合计** | **~1,445** | **~155** | **减少 89%** |
+### 外观
 
-## 功能对照清单
+| 配置项 | 说明 | 默认值 |
+|--------|------|--------|
+| `color` | 主题色（十六进制），影响全站 accent 颜色 | `"#347df8"` |
+| `logo` | Logo 图片路径 | `"/assets/logo.svg"` |
+| `show_title` | 是否显示站名和描述文字 | `true` |
+| `header_accent_bg` | 页眉是否使用主题色背景（浅色文字） | `false` |
+| `copyright` | 侧边栏版权文字（支持 Markdown） | `"© 2025 书航 ..."` |
 
-| 功能 | 旧版实现 | 新版实现 | 状态 |
-|------|---------|---------|:----:|
-| 文章列表 | SPA DOM 显示/隐藏 | Jekyll 静态渲染全部卡片 | ✅ |
-| 文章详情 | JS fetch + DOMParser | Jekyll 直接渲染完整 HTML | ✅ |
-| 标签过滤 | JS 过滤 + History API | URL 参数 + JS CSS display | ✅ |
-| 年份过滤 | JS 过滤 + History API | URL 参数 + JS CSS display | ✅ |
-| 搜索 | JS 实时搜索 + 防抖 | 同上 | ✅ |
-| AIGC 文章分离 | JS DOM 隐藏 | Jekyll `unless` 模板过滤 | ✅ |
-| AIGC 早报入口 | 侧边栏链接 | 侧边栏链接（不变） | ✅ |
-| 深色模式 | CSS 变量 + localStorage | 同上 | ✅ |
-| 原图切换 | JS 动态修改 src | 同上（仅当前页） | ✅ |
-| Giscus 评论 | 动态创建 script | 动态创建 script | ✅ |
-| 分享按钮 | 微博/Twitter/复制 | 同上 | ✅ |
-| 上一篇/下一篇 | JS 加载 | HTML `<a>` 链接 | ✅ |
-| 移动端响应 | 汉堡菜单 + 侧边栏 | 同上 | ✅ |
-| 回到顶部 | 浮动按钮 | 同上 | ✅ |
-| 图片压缩 | Weserv CDN 代理 | 同上 | ✅ |
-| RSS 订阅 | feed.xml | 不变 | ✅ |
-| SEO | jekyll-seo-tag | 不变 | ✅ |
-| 自定义域名 | CNAME | 不变 | ✅ |
-| GitHub Pages 部署 | Actions CI/CD | 不变 | ✅ |
-| 无限滚动加载 | JS 滚动检测 + DOM 显示 | 全部渲染（无滚动加载） | ✅* |
-| 加载遮罩 | HTML overlay + JS | 移除 | ⚡ |
-| 返回首页浮动按钮 | JS 检测文章视图 | 移除（浏览器后退即可） | ✅* |
+### 功能集成
 
-*标注说明：*
-- *无限滚动*：旧版用 JS 逐步显示隐藏的 DOM 元素，新版直接渲染全部文章卡片。由于所有文章卡片在旧版也存在于 DOM 中（只是隐藏），新版实际上是去掉了多余的 JS 逻辑而非增加 DOM 开销。对于 300+ 篇文章，首屏渲染可能略慢，但省去了所有 JS 执行时间。
-- *返回首页按钮*：在纯静态架构下，浏览器原生的前进/后退按钮已足够，无需额外的 JS 浮动按钮。
+| 配置项 | 说明 | 默认值 |
+|--------|------|--------|
+| `google_analytics` | Google Analytics ID（留空不加载） | `""` |
+| `google_site_verification` | Google 站点验证（留空不加载） | `""` |
+| `bing_site_verification` | Bing 站点验证（留空不加载） | `""` |
+| `robots` | robots meta 标签内容 | `"index, follow, ..."` |
 
-## 样式系统
+### 评论（Giscus）
 
-### 去除 Tailwind CSS 的考量
+在文章页面底部集成 Giscus 评论系统，通过 `comments.html` 实现。需在 `post.html` 的 front matter 或侧边栏中配置 Giscus 参数。
 
-旧版使用 Tailwind CSS v4 + `@tailwindcss/typography` 插件，编译后生成 `dist-style.css`（约 14KB）。但在实际使用中，站点的核心样式全部写在 `style.css`（约 425 行自定义 CSS），Tailwind 仅用于：
-1. CSS Reset / Normalize（替代方案：200 字节手写 reset）
-2. `.prose` 排版类（替代方案：已在 `style.css` 中手写了完整的文章排版样式）
-3. `navbar.html` 和 `footer.html` 中的遗留 utility 类（替代方案：这些文件已不再使用）
+## 文章 Front Matter
 
-因此，去除 Tailwind 后：
-- **节省 14KB** CSS 体积
-- **去除 Node.js 构建依赖**（不再需要 `package.json`、`tailwind.config.js`、`node_modules/`）
-- **简化部署流程**（仅需 `bundle install` + `jekyll build`）
-- **零功能损失**（所有需要的样式已在 `style.css` 中实现）
-
-### CSS 架构
-
-```
-style.css
-├── CSS Reset（200 字节，替代 Tailwind Preflight）
-├── CSS Variables（颜色、间距、字体系统）
-├── 通用组件（Toggle 开关、浮动按钮）
-├── 侧边栏布局（固定 280px 左侧栏）
-├── 主内容区 + 文章卡片（Grid 布局）
-├── 文章详情页（排版、导航、分享）
-├── 404 页面
-├── 移动端适配（768px 断点）
-└── 深色模式（data-theme 属性切换）
+```yaml
+---
+layout: post
+title: "文章标题"
+date: 2025-01-01
+image: "https://example.com/cover.jpg"   # 题图（可选）
+tags: [标签1, 标签2]                       # 标签（可选）
+---
+正文内容（支持 Markdown / HTML）...
 ```
 
-深色模式配色参考 GitHub Dark 主题（`#0D1117` / `#161b22` / `#21262d`），与旧版保持一致。
+- `image` 字段用于文章列表的卡片缩略图、文章页顶部大图。通过 weserv.nl CDN 自动压缩。
+- `tags` 字段支持多标签。标签 `AIGC` 为特殊标签，会被首页过滤排除（用于每日早报子站）。
+- 文章 URL 格式：`/posts/:year/:month/:day/:title/`
 
-## 关键设计决策
+## 功能特性
 
-### 1. 为什么保留 URL 参数过滤而非生成分页？
+### 首页
 
-Jekyll 在 GitHub Pages 上不支持自定义插件，无法为每个标签和年份生成独立的静态页面。使用 URL 参数（`/?tag=科技`、`/?year=2024`）配合客户端 JS 过滤是唯一不需要自定义插件的方案。
+- **Featured 轮播**: 带 `featured` 标签的最新 5 篇文章自动轮播，支持鼠标悬停暂停、触屏滑动、左右箭头、圆点导航
+- **文章列表**: 卡片式布局，带封面图、日期、标签、标题、摘要
+- **多维度筛选**: 按标签 (`?tag=xxx`)、按年份 (`?year=xxxx`)、站内搜索 (`?search=xxx`)
+- **翻页**: 每页 10 篇，支持页码跳转
 
-过滤逻辑极其轻量：遍历文章卡片的 `data-*` 属性，设置 `style.display`。整个过程不到 60 行 JS，执行时间在毫秒级别。
+### 侧边栏
 
-### 2. 为什么文章列表不使用分页？
+- **多引擎搜索**: 站内 / Google / 百度 三种搜索模式
+- **年份存档选择器**: 12 年一组翻页，显示每年文章数
+- **标签云**: 所有标签一键筛选
+- **原图切换**: 通过 weserv.nl CDN 缩放 vs 原始图片
+- **三态主题切换**: 浅色 / 跟随系统 / 深色
+- **版权信息**
 
-旧版虽然名义上是"无限滚动加载"，但实际上所有文章卡片在 DOM 中都已存在，JS 只是在滚动到底部时逐步显示隐藏的元素。因此，旧版的 DOM 体积与新版完全相同。
+### 文章详情页
 
-分页反而会增加复杂度（需要 `jekyll-paginate` 插件，或自定义分页逻辑），且与 URL 参数过滤不兼容（分页后过滤只能看到当前页的文章）。直接渲染全部文章是最简单、最一致的方案。
+- 顶部大图（16:9 比例）
+- 完整排版支持：标题层级、代码块、表格、引用、列表
+- 分享按钮：微博 / Twitter / QQ / 微信二维码 / 复制链接
+- 上一篇 / 下一篇导航
+- Giscus 评论系统
 
-### 3. 为什么移除加载遮罩？
+### 响应式布局
 
-旧版需要加载遮罩是因为 SPA 需要时间初始化（解析文章元数据 JSON、设置事件监听、检查 URL 参数、可能还要 fetch 文章内容）。在纯静态架构下，页面由 Jekyll 预生成，浏览器直接渲染 HTML，不需要任何初始化等待时间。
+视口宽度从窄到宽的渐进式适配：
 
-### 4. 图片压缩策略
+| 视口宽度 | 布局特征 |
+|----------|---------|
+| < 640px | 卡片无缩略图，汉堡菜单，单栏 |
+| 640 – 1149px | 卡片带缩略图，全宽布局，侧边栏隐藏（汉堡菜单唤出） |
+| ≥ 1150px | 双栏布局（文章列表 + 右侧边栏） |
+| ≥ 1800px | 全页等比例放大（zoom），内容区 ≥ 2/3 视口 |
 
-保留 Weserv CDN 代理方案。文章列表的缩略图始终使用压缩版（400×200, q=80），文章详情页的图片默认使用压缩版，用户可通过"原图"开关切换。
+### 深色模式
 
-与旧版的区别：旧版的原图切换需要在 SPA 内部遍历动态注入的 DOM 元素，新版只需遍历当前页面已有的 `<img>` 元素，逻辑更简单。
+三态切换（浅色 / 跟随系统 / 深色），设置存于 `localStorage`（key: `theme`）。Giscus 评论主题随页面主题联动。
 
-### 5. Giscus 评论
+### 404 页面
 
-保留 Giscus 评论系统（基于 GitHub Discussions），配置参数不变。评论使用 `specific` 映射模式，以页面 URL 作为唯一标识。
+显示最近发布的文章列表作为导航建议，帮助用户找回内容。
 
-与旧版的区别：旧版在 SPA 内部动态创建 Giscus script 并需要在视图切换时清理，新版每个页面独立加载，无需清理逻辑。
+## 技术实现
 
-## 迁移指南
+### 数据嵌入
 
-### 从旧版升级
+首页通过 Jekyll Liquid 将全部文章数据嵌入 `<script>` 标签：
 
-1. **替换以下文件**（新版文件直接覆盖旧版对应文件）：
-   ```
-   _layouts/base.html      ← 完全重写
-   _layouts/home.html      ← 完全重写
-   _layouts/post.html      ← 完全重写（从重定向改为直接渲染）
-   _layouts/page.html      ← 完全重写（从重定向改为直接渲染）
-   _includes/head.html     ← 简化（移除 Tailwind 依赖）
-   _includes/sidebar.html  ← 新建（从 home.html 中提取）
-   _includes/post-card.html ← 新建（从 home.html 中提取）
-   _includes/share.html    ← 新建（分享按钮组件）
-   _includes/comments.html ← 新建（评论组件）
-   assets/style.css        ← 重写（移除 Tailwind import，添加 reset）
-   assets/js/main.js       ← 新建（替代 1300 行内联 JS）
-   404.html                ← 更新（使用 CSS 类替代内联样式）
-   ```
+- `window.__POSTS__`: 文章全量数据数组
+- `window.__TI__`: 标签 → 文章索引映射
+- `window.__YI__`: 年份 → 文章索引映射
 
-2. **删除以下文件**（旧版遗留，不再需要）：
-   ```
-   _includes/navbar.html   ← 旧版遗留，未被使用
-   _includes/footer.html   ← 旧版遗留，未被使用
-   assets/dist-style.css   ← Tailwind 编译产物，已用 CSS Reset 替代
-   package.json            ← Node.js 依赖，不再需要
-   tailwind.config.js      ← Tailwind 配置，不再需要
-   node_modules/           ← Node.js 包目录
-   ```
+JavaScript 在客户端读取这些预建索引实现标签筛选和年份筛选，无需 API 请求。
 
-3. **保留不变的文件**：
-   ```
-   _config.yml             ← 站点配置
-   _posts/                 ← 所有文章（Markdown 文件）
-   index.md                ← 首页
-   about.md                ← 关于页
-   feed.xml                ← RSS 订阅
-   CNAME                   ← 自定义域名
-   Gemfile                 ← Ruby 依赖
-   .ruby-version           ← Ruby 版本
-   .github/workflows/      ← CI/CD 配置
-   assets/logo.svg         ← 站点 Logo
-   favicon.ico             ← 网站图标
-   ```
+### CSS 变量主题系统
 
-4. **验证**：
-   ```bash
-   bundle install
-   bundle exec jekyll serve
-   ```
-   访问 `http://localhost:4000` 检查所有页面是否正常。
+所有颜色通过 CSS 自定义属性定义。主题色由 `_config.yml` 的 `color` 字段通过 `head.html` 内联脚本动态计算并注入 `--accent`、`--accent-hover`、`--accent-light` 三个变量。
 
-### 注意事项
+### 无构建依赖
 
-- `_posts/` 目录中的文章无需任何修改，所有 front matter（`title`、`date`、`tags`、`image`、`author` 等）格式完全兼容
-- 文章的 permalink 结构 `/posts/:year/:month/:day/:title/` 保持不变，所有现有 URL 继续有效
-- Giscus 评论的 `data-term` 使用页面 URL，与旧版保持一致，现有评论不会丢失
-- 深色模式和原图偏好的 `localStorage` 键名（`theme`、`useOriginalImage`）保持不变
+纯静态 Jekyll 主题，CSS 和 JS 均为手写，未使用任何预处理器或打包工具。唯一的运行时 JS 依赖是 Giscus 评论系统（外部脚本）。
 
-## 技术栈
+## 部署方法
 
-| 组件 | 技术 | 说明 |
-|------|------|------|
-| 静态站点生成 | Jekyll 4.3 | GitHub Pages 原生支持 |
-| 样式 | 纯 CSS + CSS Variables | 无预处理器，无框架 |
-| JavaScript | 原生 ES5+ | 无框架，无 polyfill |
-| 评论 | Giscus | GitHub Discussions 托管 |
-| 图片优化 | Weserv CDN | 开源图片代理服务 |
-| 字体 | Noto Sans SC (Google Fonts) | 思源黑体 |
-| 部署 | GitHub Pages + Actions | 自动构建部署 |
+1. 将主题文件放入仓库根目录
+2. 在 `_posts/` 目录下添加文章（`YYYY-MM-DD-title.md` 格式）
+3. 按需修改 `_config.yml`
+4. 如需评论，配置 `comments.html` 中的 Giscus 参数
+5. 推送到 GitHub Pages
 
-## 许可
+## 浏览器兼容
 
-本主题基于航通社官网改造，仅供个人博客使用。
+- Chrome 80+ / Firefox 78+ / Safari 14+ / Edge 80+
+- 依赖 `aspect-ratio`、`zoom`、CSS Grid、`position: sticky` 等现代特性
+
+---
+
+## Changelog
+
+### v6.2.0 (2026-04-11)
+- **响应式布局优化**: 中等页宽（640-1149px）时文章列表全宽显示，不再受 1200px 最大宽度限制，消除右侧空白
+- 调整缩略图隐藏阈值从 780px 降至 640px，更精确地适配窄屏
+- 窄屏 (<640px) 时 header 内边距收紧为 16px
+
+### v6.1.0
+- Giscus 评论计数联动（文章页 header 显示评论数）
+- 文章图片懒加载 + fetchPriority 低优先级标记
+- 404 页面增加最近文章建议列表
+
+### v6.0.0
+- 完整重写：从 WordPress "minimal-blog" 迁移至纯静态 Jekyll
+- 右侧边栏（搜索、存档、标签、开关）
+- Featured 轮播、标签筛选、年份筛选、站内搜索
+- 三态主题切换、深色模式
+- 超宽屏自适应缩放
+- 移动端汉堡菜单
