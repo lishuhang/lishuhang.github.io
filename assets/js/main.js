@@ -21,7 +21,7 @@
     el.dataset.tags = post.g || '';
     el.dataset.title = (post.t || '').toLowerCase();
     el.dataset.excerpt = (post.e || '').toLowerCase();
-    var imgSrc = post.i ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=200&output=jpg&q=80&fit=cover' : '';
+    var imgSrc = post.i ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover' : '';
     var h = '<a href="' + post.u + '" class="post-card-link">';
     if (imgSrc) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
     h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
@@ -373,6 +373,33 @@
     }
   }
 
+  /* ===== 文章内链接强制新标签页打开 ===== */
+  function initExternalLinks() {
+    var article = document.querySelector('.article-content');
+    if (!article) return;
+    article.querySelectorAll('a').forEach(function(a) {
+      if (a.hostname !== window.location.hostname) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  }
+
+  /* ===== Giscus 评论计数监听 ===== */
+  function initCommentCount() {
+    var countEl = document.getElementById('commentCount');
+    if (!countEl) return;
+    window.addEventListener('message', function(e) {
+      if (e.origin !== 'https://giscus.app') return;
+      if (!(typeof e.data === 'object' && e.data.giscus)) return;
+      var d = e.data.giscus;
+      if (d.hasOwnProperty('discussion')) {
+        var total = (d.discussion.totalCommentCount || 0) + (d.discussion.totalReplyCount || 0);
+        countEl.textContent = total > 0 ? total + ' 条评论' : '评论';
+      }
+    });
+  }
+
   /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
     initTheme();
@@ -385,6 +412,8 @@
     initFeatured();
     initWechatShare();
     initLazyImages();
+    initExternalLinks();
+    initCommentCount();
     initPagination();
   });
 })();

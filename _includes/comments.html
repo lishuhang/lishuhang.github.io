@@ -1,6 +1,6 @@
 <!-- Giscus 评论系统 -->
 <div class="comments-section">
-  <div class="giscus-container"></div>
+  <div class="giscus-container" id="giscusContainer"></div>
 </div>
 <script>
   (function() {
@@ -16,7 +16,7 @@
     script.setAttribute('data-term', '{{ include.path | default: page.url }}');
     script.setAttribute('data-strict', '0');
     script.setAttribute('data-reactions-enabled', '1');
-    script.setAttribute('data-emit-metadata', '0');
+    script.setAttribute('data-emit-metadata', '1');
     script.setAttribute('data-input-position', 'bottom');
     script.setAttribute('data-theme', 'preferred_color_scheme');
     script.setAttribute('data-lang', 'zh-CN');

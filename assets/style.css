@@ -485,6 +485,11 @@ button { font-family: inherit; }
 .article-tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .article-tag { color: var(--accent); font-size: 14px; }
 .article-tag:hover { color: var(--accent-hover); }
+.article-meta-right { margin-left: auto; display: flex; align-items: center; gap: 4px; }
+.article-comment-link { color: var(--text-secondary); font-size: 14px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; transition: color .15s; }
+.article-comment-link:hover { color: var(--accent); }
+.article-comment-link svg { width: 16px; height: 16px; }
+.article-comment-count { font-weight: 600; }
 
 .article-featured-image {
   width: 100%; aspect-ratio: 16/9;
@@ -589,7 +594,7 @@ button { font-family: inherit; }
 .article-nav-link svg { width: 16px; height: 16px; flex-shrink: 0; }
 
 /* 评论 */
-.comments-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.comments-section { margin-top: 48px; padding-top: 32px; padding-bottom: 80px; border-top: 1px solid var(--border); }
 .giscus-container { max-width: 100%; }
 
 /* =========================================
@@ -662,10 +667,17 @@ button { font-family: inherit; }
     border-radius: 0; border: none;
     border-left: 1px solid var(--border);
     transition: right .3s ease; flex-direction: column;
+    padding-bottom: 80px;
   }
   .site-sidebar.open { display: flex; right: 0; }
-  .post-card-link { flex-direction: column; align-items: stretch; gap: 12px; }
-  .post-card-thumb { width: 100%; min-width: 0; height: 180px; }
+  .post-card { overflow: hidden; }
+  .post-card-link { flex-direction: row; align-items: stretch; gap: 0; padding: 0; }
+  .post-card-thumb { width: 180px; min-width: 180px; height: 130px; border-radius: var(--radius) 0 0 var(--radius); overflow: hidden; position: relative; flex-shrink: 0; background: var(--bg-secondary); }
+  .post-card-thumb img { width: 100%; height: 100%; object-fit: cover; }
+  .post-card-body { padding: 12px 16px; justify-content: flex-start; }
+  .post-card-meta { flex-wrap: wrap; margin-bottom: 4px; }
+  .post-card-title { font-size: 15px; margin-bottom: 4px; -webkit-line-clamp: 3; }
+  .post-card-excerpt { font-size: 13px; -webkit-line-clamp: 3; }
   .article-title { font-size: 22px; }
   .article-nav { flex-direction: column; }
   .article-nav-link { max-width: 100%; }
