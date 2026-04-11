@@ -169,13 +169,13 @@
     if (overlay) overlay.addEventListener('click', close);
     if (sidebar) sidebar.addEventListener('click', function(e) { if (e.target.tagName === 'A') close(); });
     // 修复：窗口放大到宽屏时确保遮罩消失
-    var mq = window.matchMedia('(min-width: 769px)');
+    var mq = window.matchMedia('(min-width: 1150px)');
     mq.addEventListener('change', function(e) { if (e.matches) close(); });
     // 双重保障：resize 事件也检查
     var resizeTimer;
     window.addEventListener('resize', function() {
       clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(function() { if (window.innerWidth > 768) close(); }, 100);
+      resizeTimer = setTimeout(function() { if (window.innerWidth > 1149) close(); }, 100);
     });
   }
 
@@ -400,6 +400,21 @@
     });
   }
 
+  /* ===== 超宽屏自适应缩放 ===== */
+  function initResponsiveScale() {
+    function update() {
+      var vw = window.innerWidth;
+      var scale = (vw * 2 / 3) / 1200;
+      if (scale > 1) {
+        document.documentElement.style.setProperty('--page-zoom', scale.toFixed(4));
+      } else {
+        document.documentElement.style.removeProperty('--page-zoom');
+      }
+    }
+    update();
+    window.addEventListener('resize', update);
+  }
+
   /* ===== 初始化 ===== */
   document.addEventListener('DOMContentLoaded', function() {
     initTheme();
@@ -414,6 +429,7 @@
     initLazyImages();
     initExternalLinks();
     initCommentCount();
+    initResponsiveScale();
     initPagination();
   });
 })();
