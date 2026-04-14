@@ -4,10 +4,8 @@ title: "小程序毕业了"
 date: 2017-12-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png
+image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHIhcQQ9vBxIy39Qrj1QtdUwjgBVOdvjS15L7gLnWTrNfyZBwxolUg6oe9yF4Uicia1iaLjic0eKpNmkHw/?wx_fmt=png)
 
 文 |书航
 
@@ -15,9 +13,7 @@ image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png
 
 小游戏为微信小程序带来了3D渲染、本地存储、分包加载等新能力，标志着作为HTML5变种的小程序终于可以同原生应用分庭抗礼，而微信替代App Store的野心，也终于快要如愿以偿。
 
-![](https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png)
-
-“小程序不做游戏”的一年
+**“小程序不做游戏”的一年**
 
 一年前的2016年12月28日，张小龙在公布小程序的《微信公开课·PRO》演讲中当场说，不建议或限制做游戏、新闻和视频小程序。
 
@@ -47,9 +43,7 @@ image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png
 
 如今，小游戏的出现，意味着微信官方总算“图穷匕见”，承认了线上的，不是“用完即走”的小程序的地位，不必再遮掩它作为App Store竞品的野心。
 
-![](https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/02.png)
-
-小程序开放了一批最重要的能力
+**小程序开放了一批最重要的能力**
 
 就像当年微信用一款《全民飞机大战》开启了微信游戏的大门一样，小游戏也是用一个示例游戏《跳一跳》教会用户玩法。
 
@@ -75,9 +69,7 @@ image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png
 
 这个位置曾被用于推广小视频，当用户启蒙完成后，其入口与聊天界面中“拍照”按钮合并，而空出来的下拉推荐位就留给了小程序。
 
-![](https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/03.png)
-
-“H5”的绝地反击
+**“H5”的绝地反击**
 
 小游戏的推出，意味着本身属于HTML5变种的小程序，现在真正具备了和原生App一较高下的资格。现在的小程序支持基于WebGL的3D渲染，本地存储，分包加载，热更新等游戏所必须的能力。
 
@@ -109,4 +101,4 @@ image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.png
 
 原创文章未经许可请勿转载
 
-![](https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/04.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659337&idx=1&sn=d56ca3bfc5489c08a764b5a06a71eefe&chksm=be96930589e11a137a7c6a261a8a8a735a272ab4b9947643b192f31b02dd2cbca523a21e4138#wechat_redirect)
