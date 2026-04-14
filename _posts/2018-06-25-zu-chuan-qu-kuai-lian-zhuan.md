@@ -4,16 +4,14 @@ title: "祖传区块链，专治假新闻？"
 date: 2018-06-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png
+image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.jpg
 ---
 
-👆点航通社订阅 然后置顶公众号
+👆点**航通社**订阅 然后**置顶公众号**
 
-传媒 | 新闻传播学观察
+**传媒** | 新闻传播学观察
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKwj8gwpqzhIpfNCmOymLcFFdXLVNYnldehvMQicOjx2kRfzQ5BtRiaDrgBPriculGiaI5Xq2QMhqsYjA/640?wx_fmt=jpeg)
-
-本文首发于航通社，原创文章未经授权请勿转载。航通社 (ID:lifeissohappy) 微博 @lishuhang
+本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 自从英国脱欧和特朗普上台以来，关于新闻业前途，特别是“假新闻”相关的事情，就越来越成为各界关注的焦点，从仅有专业人士关注，过渡到了普通人也在谈论。
 
@@ -81,8 +79,6 @@ image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png
 
 ( https://g.co/trends/B9oS7 )
 
-![](https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png)
-
 有可能有些人会很愤怒，但更多的人是不以为然。如果让多数人去换用一个仅仅是“可能更安全”的替代品（哪怕是免费的），他们并没有那样的动力。
 
 而且，“刑罚的威慑力不在于刑罚的严酷性，而在于其不可避免性。”对于享受免费服务的用户而言，免费服务对其的损伤可能是长期的、慢性的，更可能是不确定的。
@@ -110,8 +106,6 @@ image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png
 读者的审美能力不够，甚至会引发排斥异己的极端状况：因为遭受极大的非议，原定在成都进行的书法家沃兴华个展被紧急叫停。在今日头条中，有大量的关于沃兴华作品的言辞激烈的批评，认为他是“书法史的罪人”“丑书代表”。
 
 ( https://www.zhihu.com/question/277092772/answer/397852837 )
-
-![](https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/02.png)
 
 试问，一旦出现这种读者选择和专业人士选择明显冲突的局面，区块链是会化解，还是加剧分歧？要化解的话，靠什么？增加专业人士的权重？那专业人士的人选怎么认定？其他读者一气之下不跟你玩了，活跃度下降了呢？……
 
@@ -145,8 +139,6 @@ image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png
 
 例如Civil是这么做的：
 
-> “用户可以自由发起新闻主题，其他用户可以通过贡献CVL代币附议该新闻主题，当集资金额达到一定限度时，记者或新闻机构将会对该主题进行认领，组织报道。”
-
 “用户可以自由发起新闻主题，其他用户可以通过贡献CVL代币附议该新闻主题，当集资金额达到一定限度时，记者或新闻机构将会对该主题进行认领，组织报道。”
 
 这应该是前些年媒体开放爆料的一个变种，像是CNN iReport这样。但这个系统是一种把不同媒体的爆料渠道打通的尝试。
@@ -173,8 +165,9 @@ image: https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.png
 
 唯一都做到的，估计就是Wikileaks了。巧了，它现在很多捐助渠道走不通，还真得依靠比特币活着，这可以说非常“区块链”了。
 
-那么，古典互联网是怎么做的？- 没电头，没作者，低级错误：“新华网批腾讯”为何如此奇怪？- 从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么- 区块链应用要落地？这三个问题必须先解决
+那么，古典互联网是怎么做的？
+- [没电头，没作者，低级错误：“新华网批腾讯”为何如此奇怪？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659759&idx=1&sn=4cfa3d77ca8776d8b8d5938ef346d9cb&chksm=be9692a389e11bb5125e06c228ed03c8f9d26c1183e295f3c3edd71f50b8b1aa4063cbbad215&scene=21#wechat_redirect)
+- [从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659725&idx=1&sn=dacd4729c0458eff5bb9f8c9d0ebbf08&chksm=be96928189e11b970e1f8197eedfa500b74366ed94458cce42cda21a10139460a538d7c953c7&scene=21#wechat_redirect)
+- [区块链应用要落地？这三个问题必须先解决](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=2&sn=ab03ccbf55d8f26b59aaba8f6ab55f71&chksm=be96923789e11b212b0b18206526e40bcef1300e3bc910dfd59e9f8753b6367435d36ba5759e&scene=21#wechat_redirect)
 
-![](https://lishuhang.me/img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/03.png)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”
+欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**
