@@ -4,10 +4,8 @@ title: "“比特”虽好，就是不能当饭吃"
 date: 2017-03-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/03/21/bi-te-sui-hao-jiu-shi/01.jpg
+image: https://lishuhang.me/img/2017/03/21/bi-te-sui-hao-jiu-shi/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHL3ic9BkJCLJOZBauJeAVaicrA1zCyr51Qb0ksjS1ibKhgbfYjOrnEM8VtBRFXHRPj4nQia21p5a9ccLA/0?wx_fmt=png)
 
 前两天腾讯云以一分钱竞标厦门政务云系统，很多人以为自己亲眼见证了一个大新闻的诞生，结果人家完全合法合规。
 
@@ -30,5 +28,3 @@ image: https://lishuhang.me/img/2017/03/21/bi-te-sui-hao-jiu-shi/01.jpg
 实际上非常多号称互联网思维的公司，能够靠着一时的烧钱，把实体产品包装成像是虚拟的分发不要成本的软件一样来卖，但是这终究是不能持久的，他们最终还是要回到老老实实地做线下店铺，来考虑各种渠道成本的老路上来。包括原先大谈免费硬件模式的周鸿祎，现在也收回了原话。这已经很能说明问题了，我们在《学习的革命》预言的未来里，确实大量的接触了“比特”。但是只有“原子”才能当饭吃，当衣服穿，当房子住。
 
 动点科技
-
-![](https://lishuhang.me/img/2017/03/21/bi-te-sui-hao-jiu-shi/01.jpg)
