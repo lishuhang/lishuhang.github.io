@@ -7,6 +7,12 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/12/26/gong-xin-bu-yao-qiu-shou/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKNDW7Ovxgr9dWaxKcUibtbsc9Nh9wwV05E8iaibpCz8ibjW3CB0Y8icI0iba0luT9jicGPq71fpA5Lt30hw/0?wx_fmt=jpeg)
+工信部《移动智能终端应用软件预置和分发管理暂行规定》指出，从 2017 年 7 月 1 日开始，“除基本功能软件外”的手机预装应用必须都可以卸载，而且该干啥干啥，不能一口气要所有权限，不能带全家桶，等等。
 
-![](https://lishuhang.me/img/2016/12/26/gong-xin-bu-yao-qiu-shou/01.jpg)
+手机默认浏览器和应用商店在豁免之列（允许不可卸载），但举例中并没有包括输入法。手机自带输入法也成为预装不可卸载的重灾区，不知道未明确的状态是否可以为厂商和监管方留下博弈空间。
+
+今年 6 月苹果在开发者大会宣布，iOS 10 中可以卸载预装应用 。一些 iOS 系统预装应用已经出现在 App Store 上。然而 iOS 10 真正发布之后，有人怀疑这种“卸载”只不过是“隐藏”了快捷方式，因为即使在网速很慢的情况下，“下载”预装应用的安装过程也会在瞬间完成，而且“卸载”后系统储存空间并未显著增加。
+
+实际上，与系统集成度高的软件／应用只是隐藏而不是完全卸载早有先例，微软 Windows XP 开始为适应部分地区法律反垄断需求，加入了“设定程序访问和默认值”，允许“卸载”IE，但实际上只是删除了菜单的快捷方式。
+
+全文：http://cn.technode.com/post/2016-12-26/pre-installed-apps-regulations/
