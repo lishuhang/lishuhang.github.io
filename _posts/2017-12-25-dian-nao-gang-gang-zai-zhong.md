@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLVCIiaJV2Bic5ogSjyuhk0SoVlyeBjpekzNNMadUnzxTia64foT4A0ZdmZjHl8UBjYRb3JV1lMzqmfA/0?wx_fmt=jpeg)
-
 题图：《想一想我们为四个现代化做了些什么》邢占奎 作
 
 文|书航
@@ -30,8 +28,6 @@ image: https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
 1984 年 2 月 16 日，在首届少年儿童计算机程序设计竞赛中获奖的丛霖和李劲，在上海展览中心为邓小平做了表演。
 
 邓小平当场表示：“计算机的普及要从娃娃做起。”那一年，计算机课程首次进入上海的高中课堂，翌年成为高中阶段的必修课。
-
-![](https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg)
 
 图片来源：复旦大学
 
@@ -79,7 +75,7 @@ image: https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
 
 如果他们不能掌握这一新时代的必备技能，就毫无疑问会被时代抛下，一旦他们同时陷于贫穷——这几乎是肯定的——那么他们将逃不出贫穷的诅咒。
 
-让全中国每个人都能平等地进入信息社会，跟精准扶贫的大目标一样任重而道远。
+**让全中国每个人都能平等地进入信息社会，跟精准扶贫的大目标一样任重而道远。**
 
 参考来源：
 
@@ -91,4 +87,4 @@ image: https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
 
 [4]http://www.zwbk.org/MyLemmaShow.aspx?lid=228037
 
-![](https://lishuhang.me/img/2017/12/25/dian-nao-gang-gang-zai-zhong/02.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658889&idx=1&sn=96e98bafcffcddc1c5b5cd5551be50f7&chksm=be96914589e11853e5924fee982c8f876e8e1ede8317a7e3ea487ad674a4cd65e7c1fe96677a#wechat_redirect)
