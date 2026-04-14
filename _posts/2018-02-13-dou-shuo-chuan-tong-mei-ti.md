@@ -4,10 +4,8 @@ title: "都说传统媒体凉了，可我们还是在意“上报纸头版”"
 date: 2018-02-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
+image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHL9LPiayqtoseyoVZSSBuF23COwtVS2jHXoicctWrTbVful91urFOltVq8CAbeAN7pibNur8bxwtcuag/640?wx_fmt=jpeg)
 
 文 | 书航
 
@@ -23,9 +21,7 @@ image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
 
 即使香港的算法暂时不用有价值观，港人也并非不再需要人工编辑帮忙选择事件要点，而很可能是恰恰相反。
 
-![](https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png)
-
-首先， 是香港媒体和记者的敬业，才为脸书、推特和 WhatsApp 上的多数港人提供了刷屏所需的基础谈资。
+首先， **是香港媒体和记者的敬业，才为脸书、推特和 WhatsApp 上的多数港人提供了刷屏所需的基础谈资。**
 
 香港并不缺少“手机拍客”。事件发生时，确实在车上还能走动的乘客连救人都顾不上，只是忙着拿手机拍片。然而当晚，敬业的香港记者们赶到现场，他们所经历的事情经过和亲历者基本一样，甚至更多——因为记录在伤者入院后仍在继续，记者彻夜守候。
 
@@ -35,8 +31,6 @@ image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
 
 当然，因为中国幅员辽阔，以及自有国情在此，内地媒体兴师动众蹲点采访确实不方便。但在有可能的任何情境下，结合手机直播的记者“千里走单骑”在内地近期的突发事件报道中也有见到，如过去没多久的江歌案等。一有直播出现，也是成为内地网民转发的主要素材。在相对自由的报道场合，市场的力量顽强地生长着。
 
-![](https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/02.png)
-
 然后， 其实在我们的潜意识中，依然需要有个主次顺序的编辑筛选。 所以当微博热搜榜一度被撤下的时候，我们分外怀念它。
 
 大埔这次车祸发生的时候，所有人得到的信息都是零散的，而此时就需要训练有素，可能有充足预案的媒体帮我们形成整个事件的一组“懒人包”。
@@ -45,8 +39,6 @@ image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
 
 也许有人还是坚持不看报纸电视，只从朋友分享获取信息，但到底分享哪一条消息，这个“议程设置” 的功能，目前为止还是由专业的媒体机构实现的。和内地相比，香港舆论中更少出现一篇朋友圈文章，或被编辑过的微博热搜就可以随意”带节奏“的情况。
 
-![](https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/03.png)
-
 最后，事件发生时另一个要抓紧解决的难题是： 应该把怒火撒向谁？事情发生了，网民的情绪被带动了，但怎样才能一击必中，避免次次都是“反转”剧情？
 
 与内地突发事件的定性依赖官方通报不同，香港的事故报道中鼓励所有能发声的利益相关方发出声音，并由媒体做梳理，由读者做判断。例如，众多媒体采访车上乘客的证言口径基本一致，从而用交叉信源很快就确定了公交车司机的情绪不稳定，具有开“斗气车”的重大嫌疑。警方第二天开始以涉嫌“误杀”罪名调查司机，也与报道所披露的细节一致。
@@ -54,8 +46,6 @@ image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
 此时必然有读者会气愤地觉得司机群体靠不住，是马路杀手。对此，代表司机方面的两个驾驶员工会代表各自开发布会阐述自己的立场，一上来就说司机出情绪问题是因为人手不足，公司用培训不足的兼职顶替全职员工，以及车上人多嘴杂，总有骂司机的等等，这成功将群众的怒气转移到了公交公司头上。
 
 发展至此的绝大多数细节都被媒体有条理地梳理出来，还包括肇事司机的成长经历，家庭背景等信息，让证据链条更扎实，今后动辄“反转”变得更困难。尽管媒体不能替代司法，但媒体报道作为今后可供核对的重要资料，成功起到了舆论监督的作用。
-
-![](https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/04.png)
 
 除了媒体机构的高度发达和白热化竞争， 还必须加上香港人的审美趣味，以及香港完备的法律制度的约束，香港的媒体”把关人“角色才能至今依然发挥重要的正向作用。
 
@@ -67,6 +57,4 @@ image: https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.png
 
 [1] http://hk.news.appledaily.com/local/daily/article/20180211/20302145
 
-本文首发于动点科技原创文章 未经授权 请勿转载微信公众号：航通社（ID:lifeissohappy)微博：@lishuhang
-
-![](https://lishuhang.me/img/2018/02/13/dou-shuo-chuan-tong-mei-ti/05.jpg)
+*本文首发于动点科技**原创文章 未经授权 请勿转载**微信公众号：航通社（ID:lifeissohappy)**微博：@lishuhang*
