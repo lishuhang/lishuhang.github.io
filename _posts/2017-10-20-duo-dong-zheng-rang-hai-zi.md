@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKKKtQGYTtLZyIlFErEhBiaGWwSa0ucL4G4NqxeCOo3LLlL43RXCByuhHOf14xia0275CQg5UG2ybicw/0?wx_fmt=jpeg)
-
 文 | 书航
 
 香港大学医学院在 2011 年起对近 700 名幼童进行一项追踪调查，观察他们从 5 岁到 9 岁的表现。 最近该调查发布了结果 [1]，显示孩子们幼年每天看电视、玩电子游戏的时间越长，日后出现情绪问题、行为问题、超重、特别是多动症（香港称“过度活跃症”）的机会都会增加。
@@ -22,8 +20,6 @@ image: https://lishuhang.me/img/2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg
 近视、肥胖、不合群这三大毛病，是滥用电子产品的必然结局，即使不需要统计数字也能想出来。而港大这项研究结果则怀疑，电子产品还对脑神经系统造成了额外的影响。
 
 港大儿童及青少年科学系临床副教授叶柏强说：
-
-> “幼儿园阶段，正是孩子的脑前叶——影响是否有多动症的地方——发育得最快的时候。我们怀疑，也有理由相信，正是因为过度使用电子产品，可以影响儿童，特别是幼儿园阶段儿童的脑神经系统发展，增加长远患多动症的风险。”
 
 “幼儿园阶段，正是孩子的脑前叶——影响是否有多动症的地方——发育得最快的时候。我们怀疑，也有理由相信，正是因为过度使用电子产品，可以影响儿童，特别是幼儿园阶段儿童的脑神经系统发展，增加长远患多动症的风险。”
 
@@ -47,6 +43,12 @@ image: https://lishuhang.me/img/2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg
 
 -END-
 
-[1] http://t.cn/ROsCQux[2] http://t.cn/ROsCeRc[3] https://www.zhihu.com/question/26007678[4] http://news.now.com/home/local/player?newsId=230816[5] http://cn.technode.com/post/2015-05-06/zaobao0506/[6] http://t.cn/ROsNUEh[7] https://www.zhihu.com/question/23200381/answer/23894288
+[1] http://t.cn/ROsCQux
+[2] http://t.cn/ROsCeRc
+[3] https://www.zhihu.com/question/26007678
+[4] http://news.now.com/home/local/player?newsId=230816
+[5] http://cn.technode.com/post/2015-05-06/zaobao0506/
+[6] http://t.cn/ROsNUEh
+[7] https://www.zhihu.com/question/23200381/answer/23894288
 
-![](https://lishuhang.me/img/2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NTAyNjE4MA%3D%3D&mid=2649614396&idx=1&sn=0abb709dc141c94fefbd5c550adaac92)
