@@ -4,10 +4,8 @@ title: "祝你……什么节快乐好呢"
 date: 2017-03-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/03/07/zhu-ni-shen-me-jie-kuai/01.png
+image: https://lishuhang.me/img/2017/03/07/zhu-ni-shen-me-jie-kuai/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHI5l28b6TpFia0pwJVbEoDuZUCGzhVVKiavFGI6zowMAg1WSAFkpu1CTtrPDSDKDzpsvyQOWN8tAX7Q/0?wx_fmt=jpeg)
 
 当你看到这篇文章的时候，很大概率已经来到了3月8号。这一天有很多种不同的称呼，去年我看到大多数人都在说女神节，前几年的时候也有说少女节或者女孩节的。
 
@@ -30,5 +28,3 @@ image: https://lishuhang.me/img/2017/03/07/zhu-ni-shen-me-jie-kuai/01.png
 我对今后有两个希望，一是想让男性不再为叫3月8日什么节而挠头，二是各行各业的女员工能多点，并且大家同工同酬，平等相处。
 
 动点科技
-
-![](https://lishuhang.me/img/2017/03/07/zhu-ni-shen-me-jie-kuai/01.png)
