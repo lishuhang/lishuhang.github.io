@@ -7,18 +7,28 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/01.jpg
 ---
 
-> 你写给我的建议我看到啦，而且这些除了最后一条，也都已经完成了。
+……坐游船，吃顿火锅，还有空的话到磁器口买点特产带回家。”这是这个公众号的一个读者给我的留言。虽然我打开时有点晚了，已经不能直接回复，但还是要说一句：
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHLt7CaFTJjE5ukBxMbfA4J5tAuMXq2CFst4ftbUJBT5a3qXkibyvzqn6ia5cl9hcKnU9nGwDt3Z6ibYA/0?wx_fmt=jpeg)
+你写给我的建议我看到啦，而且这些除了最后一条，也都已经完成了。
 
-![](https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/01.jpg)
+比如，去坐坐穿楼的轻轨：
 
-![](https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/02.jpg)
+坐一次索道：
 
-![](https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/03.jpg)
+到朝天门看夜景：
 
-![](https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/04.jpg)
+坐游船：
 
-![](https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/05.jpg)
+吃顿火锅：
 
-> 我本来就很喜欢重庆，相信今后会越来越喜欢的——就像你在这度过的大学时光一样。
+还有可能买到这样的特产。
+
+我本来就很喜欢重庆，相信今后会越来越喜欢的——就像你在这度过的大学时光一样。
+
+我在这次长住之前来过 2 次重庆。第一次是在 2010 年 10 月，受到重庆最大互联网公司江南……啊呸，猪八戒的邀请。游船就是那次坐的。后来是好友 Hidecloud 大婚，过来尝了火锅、小面，去了洪崖洞，坐了索道。不得不说 hc 待客真是周到。
+
+这次时间长，我在寄住的青旅也发现了更多可能更小众的新路线，我要用自己的脚步丈量完这里的每一处风景。
+
+文后推荐我在北京的室友的公众号文章，他不知道怎么申请原创只好在标题打一个“原”字。虽然我看不懂他说什么但我相信一定有人能看懂。
+
+点击 **[阅读原文](https://mp.weixin.qq.com/s?__biz=MzAxMTgzNjIxMQ==&mid=424586221&idx=1&sn=e198d1f759df8d5d1b7a378237b9f056&scene=1&srcid=0310kjyZtken6ortdbi9L6Hk#rd)** 查看这篇《[原]量化投资教程（一）：用R语言打造量化分析平台》。
