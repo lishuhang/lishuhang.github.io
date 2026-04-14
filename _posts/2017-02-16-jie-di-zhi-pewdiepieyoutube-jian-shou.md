@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/02/16/jie-di-zhi-pewdiepieyoutube-jian-shou/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHI6kFdGleMwXbf0wCANwqe2YwoP7x22Y9P7SOOG1ArFCdicmRlSceOzGFpk7Aj5ibaiaI7AFCicbLCn7w/0?wx_fmt=jpeg)
-
 火爆北美的Youtube超级网红PewDiePie近几天遭受所在平台YouTube、金主迪士尼等的联合抵制，主要是因为最近一期节目中出现了涉嫌种族歧视的“杀死犹太人”字眼。
 
 出现问题的一幕发生在节目进行途中，PewDiePie被指雇佣了两个印度人裸上身举起写有“杀死犹太人”字样的纸板并高喊同样口号。而这并不是第一次——PewDiePie在过去6个月里发布了9条被指涉嫌种族歧视的视频。此前的视频里还曾播放过纳粹相关歌曲。
@@ -40,7 +38,3 @@ PewDiePie系列作者瑞典人FelixKjellberg道歉称，相关情景是节目上
 目前，美国科技界与文化艺术界的主流声音都是继续维护特朗普上台前的“政治正确”局面，继续坚定不移的照顾少数族裔的感情。《金融时报》甚至有评论指出，艺术从业者对特朗普政府的强烈对立情绪，将影响他们的创作，使得当代艺术品的一级市场涌现出大量意识形态极化的作品。由此看来，PewDiePie这类“草根博主”的生长根基脆弱，为“沉默的大多数”代言的作品也不多见。
 
 “政治正确”产生之初是作为一种对WASP把握价值观解释权的反制，在当初是一种犯规和反叛，但此刻已成为新的正统。一直都游走于越界边缘的PewDiePie是YouTube上最受欢迎的播主，这件事本身就说明了一个难以言说的真相——犯规其实一直是件很刺激的事，而历史似乎正在重演。
-
-新浪
-
-![](https://lishuhang.me/img/2017/02/16/jie-di-zhi-pewdiepieyoutube-jian-shou/01.jpg)
