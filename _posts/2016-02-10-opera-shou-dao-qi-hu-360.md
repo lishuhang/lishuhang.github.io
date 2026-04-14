@@ -4,10 +4,8 @@ title: "Opera收到奇虎360和昆仑万维12亿美元收购要约"
 date: 2016-02-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/02/10/opera-shou-dao-qi-hu-360/01.png
+image: https://lishuhang.me/img/2016/02/10/opera-shou-dao-qi-hu-360/01.jpg
 ---
-
-> 没有一点点防备。还让不让人好好过年了……
 
 挪威老牌浏览器厂商Opera（欧朋）今天宣布收到由中国科技公司昆仑万维和奇虎360等共同组成的财团递来的收购要约。据报道，财团计划出资12亿美元收购Opera公司100%的股份。Opera董事会在一份声明中表示，“一致推荐”其股东接受这个要约。
 
@@ -23,7 +21,7 @@ Opera首席执行官 Lars Boilesen 则对此交易评价如下，“该财团对
 
 Opera将会于美国中部时间早上7点半公布2015年第四季度营收，届时我们就将知道公司最近的财务状况。
 
-背景资料
+**背景资料**
 
 Opera曾经与微软的Inetrnet Explorer和Mozilla基金会的Firefox并称为三大现代浏览器。Opera在发展历史上有多个业界首创，包括多标签页，跨平台，对HTML最新标准兼容等。Opera一直以来推广自有内核，直到几年前放弃自有内核，专注于浏览器外部功能开发。
 
@@ -40,5 +38,3 @@ Opera最近宣布他们在桌面和移动设备上总共拥有3.5亿用户，去
 “金砖丝路资本”是一个私有的投资机构，与官方的金砖开发银行、丝路基金没有关系。2015年4月27日歌华有线与奇虎、金砖丝路签署战略合作协议；同年底，奇虎360接近完成私有化交易，奇虎360创始人周鸿祎及与之合作的投资机构于6月提出不具约束性的私有化要约，希望以每存托凭证77美元（即每普通股51.33美元）的价格完成公司的私有化。除创始人周鸿祎外，其他合作参与此次私有化的投资机构包括中信证券、金砖丝路资本、华兴资本、红杉中国或以上这些公司的附属公司。
 
 cnBeta
-
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHKN4bpaxA9ukZFWDqkiaOZUrnxDoONhcr8Ygmiaxs1HqibOiapemKl83BuJYyHOhdkMqtIJVzic4HgkiaAQ/0?wx_fmt=jpeg)
