@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/12/24/shou-gou-hou-quan-shen-er/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJcRfJ50xbRzHtz56EpxSJvJ6TVg0qNPTQRpe8CoEmZSH9wcVBzfFDjDkaC8QRwLhsSENjtH89KGg/0?wx_fmt=jpeg)
-
 2016年最后几天，北京天气寒冷而空气质量恶劣。在这一周召开了两场与豌豆荚有关的发布会，而不幸的是，这两场发布会都赶上了雾霾。
 
 周二，完成与阿里整合的新豌豆荚，在地处偏僻的筑中美术馆召开发布会，当时正是北京“史上最严重”雾霾肆虐的时候。而在今天（24日）下午所召开的发布会，则是由当初的豌豆荚衍生出来的新团队“轻芒”的见面活动，结果仅有的两天好天气也在昨天晚上溜走。
@@ -77,6 +75,6 @@ image: https://lishuhang.me/img/2016/12/24/shou-gou-hou-quan-shen-er/01.jpg
 
 “原本是我在内部说，我们要‘发现更大更美好的世界’，结果阿里那边一看，这个口号不错，干脆就对外公开了。现在对外宣传都在用‘发现更大更美好的世界’。所以可以说，豌豆荚是对阿里朴素的价值观体系，提供一个美感上的补全。这是非常重点的一部分。从这个角度看，不用担心豌豆荚会失去原来的品质，相反它会将追求美的精神在阿里内部发扬开来。”
 
-虎嗅
+![](https://lishuhang.me/img/2016/12/24/shou-gou-hou-quan-shen-er/02.jpg)
 
-![](https://lishuhang.me/img/2016/12/24/shou-gou-hou-quan-shen-er/01.jpg)
+虎嗅
