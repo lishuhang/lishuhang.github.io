@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKv2WLmBBq7KufsPNdDJLbAJnGhJ4pCUUPpzwQ7c4s0ickx0cqIMmlRtsdscy2DzC5iagHjhQDMsxkg/640?wx_fmt=jpeg)
-
 文 | 书航
 
 在过去的一两年里，巴展的光环可以说显著褪色，苹果等顶级厂商都有自己的发布会周期，基本上都不选在这个时段发布新机。所以有些媒体和评测博主干脆就偷懒不去了。
@@ -30,8 +28,6 @@ image: https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
 消费者们本来就倾向于认为所有安卓系统都是一个样的，手机的区别只在于外观和性能两方面。所以，你说 iPhone X 或者三星的面部识别准确率高，其他型号的面部识别容易被盗刷等等，这都是一般用户感知不到的。
 
 小米 mix 和 mix2 正是看到了这点，所以为屏幕牺牲了众多相对不是很重要的功能点，例如前后置摄像头的画质都一般，扬声器也没有多高保真，等等。
-
-![](https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/01.jpg)
 
 而 vivo 和华为两个全面屏最新尝试则说明，甚至前置摄像头的存在都是可有可无的。它们被收纳起来是给了用户一种心理暗示，就是自己平时用不到那么多自拍的场合，只有视频聊天的时候偶尔可以用用。
 
@@ -55,12 +51,13 @@ image: https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
 
 全面屏概念提出以来的普及过程之快其实已经超出了人们的预期。由此可以乐观地预计，同样的全面屏技术在推出 1 年多以后，其造价就可以降低到中低端机型能运用的程度。这也将鼓励厂商们在中低端全面屏机型中，通过缩减一些传感器，减少一些功能，甚至降低配置的方式，来实现量产整机尺寸的缩小。
 
-![](https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/02.jpg)
-
 例如，如果未来能出现屏幕尺寸跟信用卡卡面相同的全面屏手机，可以方便地揣在卡包里，健身等不便携带重物的场合也可以轻松携带。这种轻便的手机，哪怕它的性能低到只能用 Android One，我想也会有人捧场。
 
 要实现这样的突破，从而让手机的轻薄程度进一步提升，手机厂商也需要自我观念上的更新，放弃对性能的执念，而更倾向于外观设计方面的研发创新。
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
-![](https://lishuhang.me/img/2018/02/28/quan-mian-ping-de-xia-yi/03.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530#wechat_redirect)
