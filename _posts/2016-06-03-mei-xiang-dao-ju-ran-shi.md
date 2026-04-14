@@ -4,9 +4,23 @@ title: "没想到居然是这个浓眉大眼的专栏开通了赞赏权限"
 date: 2016-06-03
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/06/03/mei-xiang-dao-ju-ran-shi/01.png
+image: https://lishuhang.me/img/2016/06/03/mei-xiang-dao-ju-ran-shi/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHJOLnmu56pibN3tgAxJtjKXNDHVHQrbLWvicgvNOTTQiarrTg3ACAVn7licRxibBS1bIfguyItBkwzqolA/0?wx_fmt=png)
+开通权限的是跟这个微信公众号同步的 喵。 专栏，而不是我一直存放所有科技文章的 航通社 。
 
-> 微信公众号 lifeissohappy知乎专栏 https://zhuanlan.zhihu.com/lishuhang新浪微博 @lishuhang
+当然，我会在这边每一次更新的时候，都附上隔壁专栏今天都写了啥。
+
+5月基本就是混吃混喝混过去的，新的一个月，希望所有工作都能恢复正轨，每天都能稳定产出文章才是硬道理。
+
+点击 **阅读原文** ，还可以再打赏一次。
+
+顺便一说……
+
+**微信公众号 lifeissohappy**
+
+**知乎专栏 https://zhuanlan.zhihu.com/lishuhang**
+
+**新浪微博 @lishuhang**
+
+原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字原创声明300字
