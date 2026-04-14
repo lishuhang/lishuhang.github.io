@@ -4,20 +4,18 @@ title: "爱奇艺IPO：传统视频网站的赢家，面对新形态视频产品
 date: 2018-03-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/01.png
+image: https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/01.jpg
 ---
 
-点上面的蓝字 👆航通社 订阅我们
+点上面的蓝字 **👆****航通社**订阅我们
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLjCMjdWdyeVwtMZO6HgBkKTzKMyRic3xNp9nGRdrqccl19IIbTwku21XqbvbGiaZVnKicVOkr2dsDBw/640?wx_fmt=jpeg)
-
-本文为百家号约稿。微信公众号：航通社 (ID:lifeissohappy)，微博：@lishuhang，原创文章，未经授权，请勿转载。
+本文为百家号约稿。微信公众号：**航通社 (ID:lifeissohappy)**，微博：**@lishuhang**，原创文章，未经授权，请勿转载。
 
 北京时间29日晚间，爱奇艺（NASDAQ: IQ）就开始了在美股上市的旅程。IPO定价为每股18美元，计划发行1.28亿股ADS，整体募资规模23.04亿美元，市值达到127.39亿美元。
 
 爱奇艺是坚持到现在的传统视频网站中，唯一一个创始人依然在位的，且独立性相对更强，会员转化相对更多，亏损相对更少。但在它以IPO标志自己阶段性站稳脚跟的同时，紧接着就要面对手机直播、ACG、短视频等新形态视频产品的挑战。
 
-![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/01.png)
+![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/02.png)
 
 ## 传统视频网站的赢家
 
@@ -37,9 +35,9 @@ image: https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/01.png
 
 因为亏损上市，爱奇艺不得不选择海外IPO；而同期上市的B站和预计年内香港上市的快手，也是同类原因而不能选择回国上市。
 
-![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/02.jpg)
+![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/03.jpg)
 
-![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/03.png)
+![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/04.png)
 
 ## 新型态视频产品的挑战
 
@@ -83,6 +81,6 @@ image: https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/01.png
 
 [5] http://mp.weixin.qq.com/s/7yraT_O2qkGALrMZ8UiJBQ
 
-![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/04.jpg)
+![](https://lishuhang.me/img/2018/03/30/ai-qi-yi-ipo-chuan-tong/05.jpg)
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
