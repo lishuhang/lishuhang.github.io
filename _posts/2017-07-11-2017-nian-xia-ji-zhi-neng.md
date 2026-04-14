@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKvtNrpiaQs59KVVnuaIpYfMHM0XXNBXTSPzEUrOe3sJ2MEYdEYic0wxbT0CWmMYVLTA7Xiau8babc8g/0?wx_fmt=jpeg)
-
 随着BAT在一周之内陆续宣布推出自己搭载人工智能助手的智能音箱产品，似乎在国外已经持续一年左右的智能音箱风潮，即将在国内全面袭来。
 
 在BAT之前，市面上已经有喜马拉雅、酷狗、小米等多款同类智能音箱产品，即使加入人工智能助手它也依然属于智能音箱的范围。总之就是现在大家的选择多了很多，而且铺天盖地的宣传似乎也有了更多的吸引力，看起来好像是可以入手的时候了。
@@ -41,8 +39,6 @@ image: https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg
 
 所以，请务必花一点点时间查看你想买的智能产品那些不智能的部分，例如音箱的音质；并谨记不要让你的钱在任何上不了网的时候变成一堆废铁。
 
-![](https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg)
-
 4. 不要指望它能自动兼容你家其他电器。
 
 先不说如何让家里的“笨”电器加装智能传感器，比如用智能插座控制电源什么的。
@@ -67,10 +63,6 @@ image: https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg
 
 如果不支持7天无理由退货的话，请坚持一回家就打开手机或电脑的Siri，并把手机放在一边不拿起来，试试看你习不习惯。
 
-题图：我很讨厌这四个字。你看到任何打着这个宣传标语的都多留个心眼。
-
-> 本文由航通社（微信：lifeissohappy，微博：@lishuhang）发布
+*题图：我很讨厌这四个字。你看到任何打着这个宣传标语的都多留个心眼。*
 
 本文由航通社（微信：lifeissohappy，微博：@lishuhang）发布
-
-![](https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/02.jpg)
