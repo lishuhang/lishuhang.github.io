@@ -4,10 +4,8 @@ title: "专门做“老年型、儿童型家电”没有必要"
 date: 2018-02-27
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
+image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKv2WLmBBq7KufsPNdDJLbAyaktjqpuf78w4h2l5qI0wRR91kmuoxwRposvoicj9GNicNibhe1087o6Q/640?wx_fmt=jpeg)
 
 文 | 书航
 
@@ -19,9 +17,7 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 那么，是否有必要针对老年人、小孩子的特点，专门设计有别于一般家电产品的“老年型、儿童型家电”呢？
 
-按年龄设计的家电有何不同？
-
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png)
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/02.png)
 
 有报道指出，日本和欧美地区很早就提出“老年型家电”的概念，与普通电器相比做了如下改进：尽可能减少机体上的按键、旋钮的数量，并辅之以醒目易懂的说明，和清晰明了的颜色标志等。
 
@@ -31,9 +27,9 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 站在一个相对年轻的观察角度上，我认为不管是像冰箱、洗衣机、电饭锅等生存必需的家电，还是像手机、电视等娱乐用途的硬件产品，都可以不去刻意追求按年龄搞“特殊化”。
 
-换硬件的成本高了，不能说扔就扔
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/03.png)
 
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/02.png)
+换硬件的成本高了，不能说扔就扔
 
 人们习惯了硬件“只换不修”，对硬件的要求也从以前追求耐用寿命长，改为专门开发多样化的外壳和形状，以满足各种年龄，装修风格的搭配，这是近年来物质生活丰富的体现。
 
@@ -45,9 +41,9 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 这样一来，如果再在本可以不那么依赖技术进步的机器上区分“年轻人”和“老人小孩”，那就太不值得了。
 
-硬件要做成全年龄都适合操作的形式
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/04.png)
 
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/03.png)
+硬件要做成全年龄都适合操作的形式
 
 反过来，老人孩子也不是完全不能适应新产品，或者说不能适应字体细小，配色模糊的硬件。尽管他们身体功能有所减弱，但对他们受过训练（如老人年轻时）的硬件操作，相信他们会根据所谓“肌肉记忆”继续习惯性使用。
 
@@ -63,9 +59,9 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 宜家有一款儿童床，可以根据儿童是 0-3 岁，4-6 岁，还是 8-10 岁或更多，每次稍微调整一点床的长度就可以供孩子每一步成长使用。任何需要随年龄变化而隔几年一换的产品（例如儿童座椅和“毛毛虫”鞋），都绝对应该向它学习。
 
-应该区分功能设计和外观设计
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/05.png)
 
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/04.png)
+**应该区分功能设计和外观设计**
 
 众多已经作出的“老年型、儿童型家电”年轻人也可以操作，只是可能外观不尽时尚，不符合审美。越是大型的、不可移动的硬件，似乎越有必要在外形上加以年龄区分。
 
@@ -77,7 +73,7 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 更进一步说，老年人也可以追求被认为只有年轻人才喜欢的性冷淡风，北美/北欧风，或者糖果色什么的。
 
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/05.jpg)
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/06.jpg)
 
 造成市面上只有“你妈喜欢的蕾丝电视罩”等“老年型”装饰品的，除了历史遗留的品味差异，还有就是那些“老年型”装饰，可能在功能设计上确实也方便了老年人。
 
@@ -87,6 +83,9 @@ image: https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.png
 
 我相信一个在功能方面适合所有年龄，又可以通过换壳等方式在外观上实现个性化的硬件产品，不管它是什么，都一定会大受欢迎，拥有更长的使用寿命。除了手机这个最典型的例子之外，真心希望还有更多其他硬件，也都能遵循这样的设计思路。
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
-![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/06.jpg)
+![](https://lishuhang.me/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/07.jpg)
