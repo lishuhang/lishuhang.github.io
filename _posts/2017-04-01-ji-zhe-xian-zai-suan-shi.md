@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/04/01/ji-zhe-xian-zai-suan-shi/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKhKOYL5awaDCWian2XXrk5NndLQdnFD8U0mjuicGu6X7DMWX7NZqica0KwR3VcAzHbMzObIsRKr3xqg/0?wx_fmt=jpeg)
-
 时隔多年，我又一次看到有人提问：“ 记者还是一份好的职业吗，还值得年轻人为之奋斗吗”。
 
 在我看来，一个能被公认为“好”的职业，其实就意味着如果自己不热爱这个职业，而是随便混混，或者摸索着无感觉地进入行业，也大致能过得很好的意思 。
@@ -30,5 +28,3 @@ image: https://lishuhang.me/img/2017/04/01/ji-zhe-xian-zai-suan-shi/01.jpg
 在这种情况下， 一个被认为不好的，没有前景的职业，也有它存在的不可替代的价值。不过这个价值更多的是在坚定信念的从业者心中。
 
 全文：http://cn.technode.com/post/2017-04-01/be-a-journalist/
-
-![](https://lishuhang.me/img/2017/04/01/ji-zhe-xian-zai-suan-shi/01.jpg)
