@@ -4,7 +4,7 @@ title: "从“有机”和“非转”的异同，看亚马逊买全食的背后
 date: 2017-06-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/18/cong-you-ji-he-fei-zhuan/01.png
+image: https://lishuhang.me/img/2017/06/18/cong-you-ji-he-fei-zhuan/01.jpg
 ---
 
 亚马逊以 137 亿美元收购全食超市（Whole Foods Market）的消息，使得这个周末不再平静。关于亚马逊布局全食，并且如何将个性化推荐及算法延伸到线下，网上已经有了不少的分析。不过引起我关注的，却是全食超市主打的“有机食品”这个属性。
