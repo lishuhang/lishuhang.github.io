@@ -4,10 +4,8 @@ title: "“一元夺宝”被禁，“一元众筹”性质存疑"
 date: 2017-08-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
+image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHKNaDw8krUeiaz2pZuG0malbCUHLItOmw7HFz7m4SvqEqpwION3RRxYFHcJgwvOpHtRrh4GAbQjJCg/0?wx_fmt=png)
 
 文|书航
 
@@ -15,9 +13,7 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 
 最近一周，该《意见》曝光于媒体，各大互联网公司中仍有类似一元夺宝业务的，匆忙将其“维护”或者关停。在这一波动作后，就只剩下一些众筹项目的“一元抽奖”环节，可能被视为仅剩的“漏网之鱼”。
 
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png)
-
-“一元购”被定性为变相赌博或诈骗
+**“一元购”被定性为变相赌博或诈骗**
 
 《意见》指出，“一元购”是指将一件商品平分成若干1元金额的“等份”，通过互联网平台出售，购买者可以购买其中的一份或多份，当所有“等份”售出后从购买者中抽出幸运者获得此商品，其他购买者的认购资金不予退还的销售模式。
 
@@ -27,9 +23,7 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 
 《意见》指出，网络“一元购”尽管极个别购买者存在侥幸获取较大利益的机会，绝大部分投资者都将承担损失全部本金的风险。
 
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/02.png)
-
-巨头反应迅速，小虾米尚待清理
+**巨头反应迅速，小虾米尚待清理**
 
 目前在微博上，“一元购”已经加入了敏感关键词，搜索结果不予显示。
 
@@ -41,17 +35,13 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 
 8月15日，魅族福利中心的“闪闪夺宝”服务宣布下线。下架前未揭晓商品会原路退款给用户，8月15日前获得商品的用户，魅族会将奖品陆续发出。
 
-互联网巨头不再参与，不过目前在苹果App Store中，还有众多“一元购”APP，苹果对海量“一元购”APP的宽容态度和前段时间下架中国区某类应用时的迅速反应形成了鲜明对比。
+互联网巨头不再参与，不过目前在苹果App Store中，还有众多“一元购”APP，**苹果对海量“一元购”APP的宽容态度和前段时间下架中国区某类应用时的迅速反应形成了鲜明对比**。
 
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/03.png)
+**硬件众筹的“一元档”属于什么性质？**
 
-硬件众筹的“一元档”属于什么性质？
-
-不过在一周以来的媒体曝光中还有一个很少被关注的地方，就是众筹项目的“一元档”。
+**不过在一周以来的媒体曝光中还有一个很少被关注的地方，就是众筹项目的“一元档”。**
 
 此类项目一般将金额设置为1元，抽奖用户数量正好满足售出1台机器的众筹价格时就会开奖一次，余数不满足时也会把剩下的人再集合起来开奖一次。京东众筹的不少项目都有这样的抽奖档位。
-
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/04.png)
 
 实际上这种明确标注为“抽奖档”和奖品金额普遍较小的项目，风险要远远低于“一元夺宝”类。
 
@@ -67,13 +57,11 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 
 据此，该文作者认为，除商家承担相应的行政责任外，“如果商家拒不支付奖品，消费者有权要求商家退还购买的商品，并且还可要求商家承担因购买商品而受到的损失，包括支付商品价款及利息、差旅费用、误工费用以及预期利益等”。
 
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/05.png)
-
-什么是“互联网金融风险专项整治领导小组办公室”？
+**什么是“互联网金融风险专项整治领导小组办公室”？**
 
 由于《关于网络“一元购”业务的定性和处置意见》目前只有影印件流传，而落款又是陌生的单位“互联网金融风险专项整治领导小组办公室”，借用了中国人民银行的公章，因此该文件的发出主体就成了一个有趣的话题。
 
-针对互联网金融风险的专项整治工作自2016年4月就已展开，原计划于2017年3月底前完成。在此期间，国务院办公厅于2016年10月公布了《互联网金融风险专项整治工作实施方案》[4] ，将专项整治工作分为四个阶段：摸底排查、清理整顿、督查和评估、验收和总结。
+针对互联网金融风险的专项整治工作自2016年4月就已展开，原计划于2017年3月底前完成。在此期间，国务院办公厅于2016年10月公布了《互联网金融风险专项整治工作实施方案》[4] ，将专项整治工作分为四个阶段：*摸底排查、清理整顿、督查和评估、验收和总结*。
 
 而银、证、保等多部门也分别在同一时间公布了对P2P、股权众筹、互联网保险等的具体方案，明确了整治工作的全面部署安排。
 
@@ -89,12 +77,6 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 
 附：《关于网络“一元购”业务的定性和处置意见》全文
 
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/06.png)
-
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/07.png)
-
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/08.png)
-
 [1] http://b2b.netsun.com/detail--6411573.html
 
 [2] http://www.infzm.com/content/120641
@@ -108,7 +90,3 @@ image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.png
 [6] https://zhuanlan.zhihu.com/p/27620702
 
 ——END——
-
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/09.jpg)
-
-![](https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/10.jpg)
