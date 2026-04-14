@@ -4,16 +4,12 @@ title: "再谈“微信互联网”"
 date: 2018-04-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/08/zai-tan-wei-xin-hu-lian/01.png
+image: https://lishuhang.me/img/2018/04/08/zai-tan-wei-xin-hu-lian/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们
+点上面的蓝字 **航通社 👆**订阅我们
 
-本文首发于动点科技，原创文章，未经授权，请勿转载。
-
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHK3fiarxgKm74mExTXJrqhaW4A96YOu65eOXrr6VIBEBnpzWHBicrDPDIoyZQcB66kMFZ1ZfBYhVxwQ/640?wx_fmt=png)
-
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 **(ID:lifeissohappy)** 微博：**@lishuhang**
 
 在我们航通社（微信：lifeissohappy）的微信读者群中，有人反映了一个现象：微信的Android版本会对部分网站的404页面做替换，也就是当你输入了一个不存在或者错误的网址时看到的页面。
 
@@ -57,4 +53,4 @@ image: https://lishuhang.me/img/2018/04/08/zai-tan-wei-xin-hu-lian/01.png
 
 对于普通用户来说，要时刻记住那看上去并不友好的一长串网址，才是我们最值得信赖的伙伴。如果有页面提示停止访问，可以使用我上面提到的方法，去查看该网页的原始信息，或者到浏览器去搜索关键字，而不是因为微信不让你看，就止步不前。
 
-![](https://lishuhang.me/img/2018/04/08/zai-tan-wei-xin-hu-lian/01.png)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659566&idx=1&sn=ec18ce24a36ed63125cb8580f92e1f96&chksm=be9693e289e11af47cbafab33a2c7123a17f5aa4a4397a9958ab48b28460af1837da548eb7df#wechat_redirect)
