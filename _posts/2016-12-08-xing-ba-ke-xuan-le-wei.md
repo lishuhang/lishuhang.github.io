@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/12/08/xing-ba-ke-xuan-le-wei/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJ4FuL7h09d1SXr8NoehAYKNYSfAALJCcqLCzPYbS0SnhX8R9BpxhF3n2zx1K95vIT3TyJeLD1AcQ/0?wx_fmt=jpeg)
-
 有分析认为，星巴克迟迟不愿引入国内主流第三方支付手段，主要是害怕自家 App 以及随之绑定的会员系统的使用量下降。这一点在支持了支付宝和微信支付的麦当劳和肯德基门店体现得很明显，官方订餐 App 在使用率上远远比不上微信公众号。不过，经过专门开发，两家快餐连锁店的公众号基本上实现了和 App 一样的全功能，同步更新。
 
 目前，星巴克的手机官网仅仅起到一个宣传作用，依然力推星巴克 App，客观上为用户造成了不便。他们需要对于在中国，微信就是事实上的 App Store 这一点有更充分的认识。
@@ -21,4 +19,4 @@ image: https://lishuhang.me/img/2016/12/08/xing-ba-ke-xuan-le-wei/01.jpg
 
 全文：http://cn.technode.com/post/2016-12-08/starbucks-china-partnered-with-wechat/
 
-![](https://lishuhang.me/img/2016/12/08/xing-ba-ke-xuan-le-wei/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658854&idx=1&sn=3e6df3a2c0d7dd0f1e89b13ecb4cd94f&chksm=be96912a89e1183c825ce0f62fc6af0224c1c2cda5320d74a15092444cef5fcacca2e555863a#wechat_redirect)
