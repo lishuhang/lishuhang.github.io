@@ -4,11 +4,13 @@ title: "三星做电视广告宣传自家手机电池安全"
 date: 2017-02-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/20/san-xing-zuo-dian-shi-guang/01.jpg
+image: https://lishuhang.me/img/2017/02/20/san-xing-zuo-dian-shi-guang/01.png
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHIOX1PZga8MUiaRaQK03ZwvQVibm767LWjb055AafIra5VKniaDNwOic7OIOKBg0PysWfVgvJFZZhH9lg/0?wx_fmt=png)
+近日，三星在香港 TVB 播出一段 30 秒的电视广告，宣传自家的电池是安全的，请用户放心购买。广告词如下：
 
-> “一直以来，三星都非常注重产品安全。我们也进一步改进智能手机的生产过程，并制定出“八项电池安全检测”。我们对电池作出最严格，全面的测试，以实现对产品安全的承诺。三星将会继续创新，因为创新是我们的信念，而品质比一切都要优先。“
+三星电子移动通信部总裁高东真在Note 7电池问题调查结果发布会上称，在经历了数月的调查之后，三星从Note7身上吸取深刻教训，制定“8项电池安全检查措施”用以确保电池安全。包含安全检查、电池外观检查、X光检查、电芯拆解检查、TVOC检查、ΔOCV 测定、充放电检查以及用户使用场景下的安全性检查。
 
-![](https://lishuhang.me/img/2017/02/20/san-xing-zuo-dian-shi-guang/01.jpg)
+而与此同时，今天你去机场坐飞机还是会被提醒不能携带三星 Galaxy Note 7 手机，办理值机的柜台小姐会用生涩的英文告诉你不能带“No 七”手机上飞机。两相角力，不知道哪个“广告”对三星品牌的“宣传”效果更强一些。
+
+全文：http://http://cn.technode.com/post/2017-02-19/samsung-battery-tv-ad/
