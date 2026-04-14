@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/12/19/ren-gong-zhi-neng-ru-he/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIJ82LDRKfXuxnw7ibe5Yib5x9TfuN0ERib0jG3Ym03uoenClbyczwaHiauDcfCSficMbT75w8NIaKKOUg/0?wx_fmt=jpeg)
-
 文|书航
 
 在坐公交车的时候，如果是有人售票的话，在扬声器传出的机械的甜美女声报站之后，售票员的重复报站就会适时的响起。
@@ -69,4 +67,4 @@ The Verge记者Chaim Gartenberg在Twitter上提了一个有趣的问题：当你
 
 你看，人工智能其实应该用在这样的地方，不是么？
 
-![](https://lishuhang.me/img/2017/12/19/ren-gong-zhi-neng-ru-he/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659229&idx=1&sn=88c14d51cb6696f8dc4642108f684924&chksm=be96909189e11987b95e25b46dec09d7be71b33f2b120e770a6c9a6dcd56dc6777d81a8309bb#wechat_redirect)
