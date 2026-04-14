@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/01/01/cnbeta-2017-xin-nian-xian-ci/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHL6b5PDP017ue1qmlhRNEnANqc8db8Oyr9o59icibSALd1Po0yBdYuJTCbGHpzWbViblbteC5MJT0iaGw/0?wx_fmt=jpeg)
-
 各位亲爱的访客朋友：新年好！
 
 雾霾锁城之中，我们送走了 2016 年。很多人带着深切的担忧和焦虑告别这一年，心情就像这天空弥漫的滚滚烟尘一般。毕竟，2016年发生了很多不好的事情。
@@ -40,5 +38,3 @@ LJ执笔
 http://cnBeta.COM 编辑团队
 
 2017.1.1
-
-![](https://lishuhang.me/img/2017/01/01/cnbeta-2017-xin-nian-xian-ci/01.jpg)
