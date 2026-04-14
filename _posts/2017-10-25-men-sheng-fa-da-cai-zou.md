@@ -4,10 +4,8 @@ title: "闷声发大财：走进中东市场的国产手机"
 date: 2017-10-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png
+image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJB5L0lTicgEp3pPhUFpxaclwyqDW1uqYaOIIssKJEqBIQNqBniamWLLVtT3dnTSKxCLh1CKLRaAXXA/0?wx_fmt=jpeg)
 
 文 | 书航
 
@@ -16,8 +14,6 @@ image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png
 跨文化沟通交流一向面临重重挑战，来自西方世界的智能手机和移动互联网让信奉伊斯兰教的中东诸国十分警惕。
 
 然而，克服各种障碍，成功把“清真手机”卖到伊斯兰市场的，正是来自我们中国的商人。
-
-![](https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png)
 
 早在iOS和Android像现在这么普及之前，中国的低价手机就已经在中东大显身手。
 
@@ -35,8 +31,6 @@ image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png
 
 商务部网站整理称，IDC中东非洲部在2015年初预计，当年中国品牌智能手机在中东非洲市场占有率将比2014年翻番 [4] 。
 
-![](https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/02.png)
-
 其实针对宗教信仰开发一些相关的东西是非常容易的。针对佛教做一些相关的优化是大家都能想到的，我们都看过在电视购物当中那种“开光”手机，手机壁纸上金光闪闪的佛像你可以对着它礼拜虚拟上香。微信甚至还宣布禁止非宗教团体开发H5礼佛应用牟利 [5] 。
 
 那么对于穆斯林做开发不也是很自然的吗？例如古兰经专属应用，以及针对麦加朝拜方向的指南针等等，这些东西做起来都毫不费力，而且也特别方便当地群众。
@@ -50,8 +44,6 @@ image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png
 比如这家深圳公司 [7] 的业务范围是：“专业开发古兰经点读笔，古兰经mp3/mp4/mp5，古兰经音箱，朝拜手表等伊斯兰教电子产品。工厂承接OEM，SMT贴片加工，产品组装代加工，一条龙服务。”
 
 他们的拳头产品还包括“古兰经点读笔”，嗯你没猜错，确实是“哪里不会点哪里”。
-
-![](https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/03.png)
 
 只要世界上能去的地方，中国人就会把他们的生意做在那里，中东自然也不例外。特别是，中东地区还是“一带一路”倡议当中“丝绸之路经济带”途径的重要地带，对中国的发展具有重要的意义。
 
@@ -69,6 +61,13 @@ image: https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/01.png
 
 -END-
 
-[1] http://www.pconline.com.cn/3g/wap2013/x/161/1619956.html[2] http://m.yicai.com/news/5104811.html[3] http://www.cifnews.com/article/14322[4] http://www.mofcom.gov.cn/article/i/dxfw/gzzd/201501/20150100879832.shtml[5] http://www.thepaper.cn/newsDetail_forward_1583327[6] https://www.baijingapp.com/article/6115[7] https://quranmakka.1688.com/[8] http://www.jiemian.com/article/368114.html
+[1] http://www.pconline.com.cn/3g/wap2013/x/161/1619956.html
+[2] http://m.yicai.com/news/5104811.html
+[3] http://www.cifnews.com/article/14322
+[4] http://www.mofcom.gov.cn/article/i/dxfw/gzzd/201501/20150100879832.shtml
+[5] http://www.thepaper.cn/newsDetail_forward_1583327
+[6] https://www.baijingapp.com/article/6115
+[7] https://quranmakka.1688.com/
+[8] http://www.jiemian.com/article/368114.html
 
-![](https://lishuhang.me/img/2017/10/25/men-sheng-fa-da-cai-zou/04.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659229&idx=1&sn=88c14d51cb6696f8dc4642108f684924&chksm=be96909189e11987b95e25b46dec09d7be71b33f2b120e770a6c9a6dcd56dc6777d81a8309bb#wechat_redirect)
