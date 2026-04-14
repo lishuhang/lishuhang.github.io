@@ -4,12 +4,12 @@ title: "#旅行记录#关于十八梯的几句稍显严肃的话"
 date: 2016-08-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/08/17/lv-xing-ji-lu-guan-yu/01.png
+image: https://lishuhang.me/img/2016/08/17/lv-xing-ji-lu-guan-yu/01.jpg
 ---
 
 大家好我又来推广女票写的游记啦。我们在重庆住的最后几天是重温一下我们有回忆的几个地方，就包括她刚过来重庆时候去的十八梯。那么，首先是她写的游记：
 
-请点击 阅读原文 到此处寻找本文链接：浓情十八梯
+请点击 **阅读原文** 到此处寻找本文链接：浓情十八梯
 
 －－以下正文－－
 
@@ -34,8 +34,6 @@ image: https://lishuhang.me/img/2016/08/17/lv-xing-ji-lu-guan-yu/01.png
 在穆斯林大厦背后有一个露台停车场，这个停车场也是建在地势较高的地方，可以说是一个无敌的观景台，整个十八梯可以尽收眼底。旁边的渝亚大厦4层，是一个地理位置极佳的青年旅舍，我来重庆的第一站，以及以后的很多故事，都发生在这个地方。
 
 （没有照片，照片都在女票的文章里呢－。－）
-
-> 微信公众号 lifeissohappy知乎专栏 https://zhuanlan.zhihu.com/lishuhang新浪微博 @lishuhang
 
 微信公众号 lifeissohappy
 
