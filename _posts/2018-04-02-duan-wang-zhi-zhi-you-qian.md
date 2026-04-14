@@ -4,24 +4,20 @@ title: "短网址：只有前世，没有今生"
 date: 2018-04-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png
+image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们本文首发于百度百家
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIJ9ATIFhERE4MIXjlLLEuvvNldVHkjAlymKLlb61GQMztp7SkSwHMyCfGE6uiaSmncLh7gJZs2dKQ/640?wx_fmt=jpeg)
+点上面的蓝字 **航通社 👆**订阅我们本文首发于百度百家
 
 原创文章，未经授权，请勿转载
 
-航通社 (ID:lifeissohappy)
+航通社 **(ID:lifeissohappy)**
 
-微博：@lishuhang
+微博：**@lishuhang**
 
 3月底，谷歌宣布其网址缩短服务Goo.gl将会停止运作。从现在开始算的一年之后，任何用户都不能再新创建缩短的网址，但已经创建好的短网址依然能够继续解析。
 
 这已经比一些其他的默默消失，也没有给用户补偿方案的网址缩短服务好太多了。转眼间，2008-2009年距离现在已有10年历史。在那时候蜂拥而起的一些短网址服务，多数都是静悄悄的停止运作的。
-
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png)
 
 短网址服务是随着Twitter和微博这样短小的互联网内容的兴起而出现的，因为这些社交网站的140字字数限制，如果网址不用什么办法来缩短的话，会很容易占据一条消息的绝大部分篇幅，甚至使得消息无法发出。
 
@@ -45,8 +41,6 @@ image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png
 
 至于zhi.hu就会让你看到一个知乎问题或回答。亚马逊的z.cn和京东的jd.cn都被用作推销商品详情页，甚至就连演员基努·里维斯也将自己的网址改为了更简短的kea.nu。
 
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/02.png)
-
 身为国外短网址服务的发源地，Twitter站方对于自己做这种基础设施类服务却一直不感兴趣，因为怕别人说它垄断。Twitter很长时间都没有官方视频上传通道，甚至连自己的图片服务器都没有。
 
 早期的Twitter会将任何后缀名为.jpg等图片格式的网址伸长，并将这种外部图片显示在消息页面。因此也诞生了众多的第三方Twitter图片托管服务，以Twitpic和yFrog最为著名。
@@ -69,10 +63,6 @@ image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png
 
 至于在聊天界面当中发布网址，则可能会被一些IM软件直接替换成界面更友好的预览卡片。
 
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/03.png)
-
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/04.png)
-
 谷歌用来替代Goo.gl短网址服务的Firebase动态链接（FDL），是一项更智能的重定向服务：用一个统一的跳转网址，在PC互联网、iOS和Android等不同操作系统间，在App内外自由切换，并且跳转指引到同一位置的服务。
 
 大家能看到的是同一个网址，但在不同状况下，点击这个网址所发生的事情是不一样的，最终却又能让大家做成同一件事。
@@ -88,8 +78,6 @@ image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png
 谷歌用来替代Goo.gl的服务和之前一样好用，甚至要好用的多。但是毕竟，这一变动改变了很多一般用户的使用习惯。虽然谷歌承诺今后将继续保留现有Goo.gl网址解析，但这实在是说不准的事情。
 
 历史上，谷歌有太多口碑非常好，但却因为盈利能力不佳，而被放弃甚至突然腰斩的产品了。
-
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/05.png)
 
 在当初一张彻底开放互联的大网，逐渐被各种自有协议和App分割为众多不连续的孤岛的进程中，短网址现在被人们看中的，不再是其短小的尺寸，而是其可以作为中介跳转，保证内容链接不断裂的能力。
 
@@ -115,6 +103,6 @@ image: https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/01.png
 
 人们基本不需要输入网址，并对其基本没有感知——直到偶然的DNS故障让大家上不了网，这样的意外才会提醒我们，网址体系依然是构筑当今互联网的基石。
 
-![](https://lishuhang.me/img/2018/04/02/duan-wang-zhi-zhi-you-qian/06.png)
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659489&idx=1&sn=41b42c11e395b813600d6f9dd87ff333&chksm=be9693ad89e11abb736567239da200d232ff4161964c2079d494022ba7650c5569f6ab9e5234#wechat_redirect)
