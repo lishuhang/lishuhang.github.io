@@ -4,10 +4,8 @@ title: "三星掌门人李在镕被逮捕，韩国最大的财阀要走到头了
 date: 2017-02-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/17/san-xing-zhang-men-ren-li/01.jpg
+image: https://lishuhang.me/img/2017/02/17/san-xing-zhang-men-ren-li/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHI6kFdGleMwXbf0wCANwqe2u5sU4AeM2UibveG43QGSiaxAZXPWWOicCR9LJrtRpYnpic9hWhcg6OicIBQ/0?wx_fmt=png)
 
 韩国法院 17 日签发对三星电子副会长李在镕的逮捕证，这是三星成立以来掌门人第一次被批准逮捕。检查组指控李在镕有 5 项罪名，包括向朴槿惠和崔顺实承诺行贿 430 亿韩元（人民币 2.58 亿元）（目前已到账 250 多亿韩元）（人民币 1.5 亿元），给郑宥拉买了一匹售价 43 亿韩元（人民币 2580 万元）的马等。
 
@@ -24,5 +22,3 @@ image: https://lishuhang.me/img/2017/02/17/san-xing-zhang-men-ren-li/01.jpg
 韩国民众的怒火只有通过彻查真相和严惩罪犯才能平息。但如何平衡这一怒火，使得作为韩国目前经济支柱的财阀不至于全都“休克”，获得较为平稳的过渡，也是考验民众智慧的问题。
 
 全文：http://cn.technode.com/post/2017-02-17/samsung-lee-jye-yong-arrested/
-
-![](https://lishuhang.me/img/2017/02/17/san-xing-zhang-men-ren-li/01.jpg)
