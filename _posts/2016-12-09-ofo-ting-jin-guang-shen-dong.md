@@ -4,10 +4,8 @@ title: "ofo 挺进广深，冬日单车大战一路向南"
 date: 2016-12-09
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/09/ofo-ting-jin-guang-shen-dong/01.png
+image: https://lishuhang.me/img/2016/12/09/ofo-ting-jin-guang-shen-dong/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIpUYCSficZymsqAicZRztFoZRACdhNxT7EFOm4ibZibiaG3JQ1iclLczEOZ19aumBFQGKhzic2hu3bhMJEQ/0?wx_fmt=jpeg)
 
 在京沪两地，自行车缺乏“路权”，车道狭窄，还遭到汽车、电动车夹逼。而遍布广东全省的绿道体系，在省会广州尤为发达，本来就是方便自行车出行的，可以认为华南地区是对自行车更加友好的地区。这也更便于以政府的力量，将其纳入社会管理的共同体之中。
 
@@ -18,5 +16,3 @@ image: https://lishuhang.me/img/2016/12/09/ofo-ting-jin-guang-shen-dong/01.png
 当时我就建议，在市政自行车覆盖不到的地区，或者是其停止服务的时间段之内，第三方运营商都可以和政府建立一种类似 PPP 的关系，成为参与市政运营的一部分。从他们如今在广州和深圳的布局看来，确实也是这么做的。有了政府的支持，共享单车的推进更将如虎添翼。市政的统一规划，有助于解决单车数量增加后占道，对公共空间的侵犯问题，使得人们在充分享受便利的同时，又不至于使日常生活受阻。
 
 全文：http://cn.technode.com/post/2016-12-08/ofo-entering-guagnzhou-and-shenzhen/
-
-![](https://lishuhang.me/img/2016/12/09/ofo-ting-jin-guang-shen-dong/01.png)
