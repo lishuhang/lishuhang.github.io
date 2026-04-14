@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIIHSloLiaXRhwYiaOdvQM9My0HFicULUiaDlXISUlopC3lOSiaIjXRoSKDFcmKvcgMVpZfwJ8RX3OiaIYw/640?wx_fmt=jpeg)
-
 文 | 书航
 
 对于“自媒体”而言——我一度很讨厌这个称呼，但现在也约定俗成地使用——来说，写出一篇文章以后，一定要自己尽可能快地主动发布到各种各样的”号“平台上，微信公众号，头条号、企鹅号、百家号、搜狐号、网易号、一点号、大鱼号……我需要在每个平台上都占用”航通社“这个名字，以免他人盗用。
@@ -59,8 +57,10 @@ image: https://lishuhang.me/img/2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg
 
 当然，如果你只是为了给所有文章留一个备份，那还是非常值得的，其实也可以在本地电脑上通过 XAMPP（Windows）或者 MAMP（Mac）架设一个 WordPress 环境，达到同样的备份目的。所以这一部分不多讨论。
 
-文章首发于动点科技原创文章 未经授权 请勿转载 微信公众号：航通社（ID:lifeissohappy) 微博：@lishuhang
+**文章首发于动点科技
+原创文章 未经授权 请勿转载 
+微信公众号：航通社（ID:lifeissohappy) 
+微博：@lishuhang**
 
-[1] https://zhuanlan.zhihu.com/p/21349196[2] http://www.geekpark.net/news/187221
-
-![](https://lishuhang.me/img/2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg)
+[1] https://zhuanlan.zhihu.com/p/21349196
+[2] http://www.geekpark.net/news/187221
