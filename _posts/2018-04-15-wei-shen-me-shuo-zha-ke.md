@@ -4,22 +4,16 @@ title: "为什么说扎克伯格的听证会“首秀合格”？"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.png
+image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.jpg
 ---
-
-# 点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLibhGJsnCR740XTPzSqIDGsibVibFBweoJyicaXgNRUc36KSLuRP30icSMcPXfW0SSWDIdt2hmbbLqWUg/640?wx_fmt=jpeg)
 
 本文首发于百家号，原创文章未经授权请勿转载
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 这两天，如同之前所承诺的那样，Facebook的创始人扎克伯格在美国国会山参加了总计10个小时的听证，接受美国国会数十位议员的质询。
 
 这是一次吸引全世界目光的听证过程，不仅被多家全球主流媒体直播，而且到达现场去提问的国会议员，都占据了总数的接近半数，在以前的听证会历史上也是少见的。
-
-![](https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.png)
 
 这些议员作为全美用户，以及全球多达20亿的Facebook用户的代表，以普通用户的身份对扎克伯格提出所能想到的最尖锐的问题，而在我们看到的直播画面中，扎克伯格都能一一化解。
 
@@ -30,8 +24,6 @@ image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.png
 我们观看各位议员提的问题就会发现，其中涉及真正核心的技术、算法问题，或者是哪怕在公司经营方面比较难以解答的问题，都是没有的。
 
 扎克伯格实际上是以车轮战的方式，重复很多遍回答不同议员提出的同类问题，有时候甚至是旁人听来非常幼稚可笑的问题。不需要扎克伯格本人开口，我们这些观察者翻查之前的媒体报道也能给出类似的答案。
-
-![](https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/02.png)
 
 有一种说法是，在听证会之前的几天，包括桑德伯格在内的Facebook多名高管，积极的花钱游说国会议员，就像以前那些需要做听证的传统大企业一样。
 
@@ -54,8 +46,6 @@ image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.png
 但是扎克伯格从事件曝光直到现在，在任何应对媒体盘问和社会追问的场合，都显得极其保守，能不说就不说。
 
 他终于露出尊容接受CNN的采访，也是等舆论发酵了一两个星期之后；就算在接受采访的时候，他也说只有到万不得已的时候，自己才要过去，他本来希望是对这个问题直接接手，了解最多的工程师先出席听证。
-
-![](https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/03.png)
 
 既然对于在知识储备层面拥有相对优势的程序员来说，回答议员的盘问可能没有想象的那么困难，那么，为什么扎克伯格之前对此态度始终非常保守，不愿意自己本人去听证会呢？
 
@@ -90,5 +80,3 @@ image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.png
 目前对于公司来说，要安全度过这场危机的最大的风险，就在于CEO扎克伯格本人。
 
 只要他能够平安的度过现在和接下来的各种考验，而不是因为在这种场合下高度紧张，而说出什么失态的话来，这就是给公司及资本市场最好的答案。
-
-![](https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/04.png)
