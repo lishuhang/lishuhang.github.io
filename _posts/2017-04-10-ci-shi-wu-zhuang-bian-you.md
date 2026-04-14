@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/04/10/ci-shi-wu-zhuang-bian-you/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHK3M25Hf1OvJMkNx9icYQUhHM1Jnz3lpnLiczsGl31lNawFQE0zMs57pfdmd52OSyjagiaoLcDqGkXcQ/0?wx_fmt=jpeg)
-
 商业共享单车随意停放、侵犯“路权”的现象，使得它们原本无桩停放的最大优势变成了一个尴尬的负担。最近一段时间，各地政府都倾向于划设停放点，通过引导和查处并重的方式，逐渐化解商业共享单车原本的“无桩”特性。
 
 随着共享单车占道问题日益表面化，跟管理部门之间的摩擦也在日常化，说明单车运营商再也不能凭着“共享经济”和“大众创业”作为免死金牌，撒娇让市政帮自己进行实质上的管理。
@@ -30,5 +28,3 @@ ofo 通过骑行人的手机 App 进行定位。为了确保用户守规矩，of
 商业单车狂热的补贴总有消逝的时候，加上它们还会从“无桩”变“有桩”，我想也许至少在有市政公共自行车覆盖的区域，潮水退去的速度将超过人们的想象。
 
 动点科技
-
-![](https://lishuhang.me/img/2017/04/10/ci-shi-wu-zhuang-bian-you/01.jpg)
