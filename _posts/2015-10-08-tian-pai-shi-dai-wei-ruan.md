@@ -7,10 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2015/10/08/tian-pai-shi-dai-wei-ruan/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz/nmVQQlxOIsISbqpzavZ1cDCVeKJmrFVOAAWEDUEs2ibVZvFMm6swyJGicBALuaYZpCGic4yk974qXVYR8aq3Fb4Kw/0?wx_fmt=jpeg)
-
-![](https://lishuhang.me/img/2015/10/08/tian-pai-shi-dai-wei-ruan/01.jpg)
-
 微软的新昵称已经定下来了。6 日凌晨，睡眼惺忪的人们一觉醒来，发现一系列后背印着一个简洁的“田”字的机器如约而至，而其中某一款将把他们彻底炸醒。
 
 就像在某场万众瞩目的比赛中，广州恒大球员身着一个人们从未见过的商标“恒大冰泉”上场，一举捧红了一个尚未上市的产品一样；Surface Book 的完美表现，让人们在深深把它刻进脑海之时，也默然接受了新机型后背的新设计。
@@ -49,8 +45,6 @@ image: https://lishuhang.me/img/2015/10/08/tian-pai-shi-dai-wei-ruan/01.jpg
 
 TechCrunch 2015 国际创新峰会<北京站>点击下图了解更多活动详情
 
-![](https://lishuhang.me/img/2015/10/08/tian-pai-shi-dai-wei-ruan/02.jpg)
-
 TechNode 动点科技
 
 关注创业的中英法三语科技媒体
@@ -59,4 +53,4 @@ TechNode 动点科技
 
 坚持原创，转载请注明出处
 
-![](https://lishuhang.me/img/2015/10/08/tian-pai-shi-dai-wei-ruan/03.png)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NTAyNjE4MA%3D%3D&mid=208257499&idx=1&sn=8cddaec0cba718f022bd899f273a2bde)
