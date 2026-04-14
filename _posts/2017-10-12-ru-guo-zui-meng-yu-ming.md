@@ -4,22 +4,16 @@ title: "如果最萌域名 .cat 开放注册，你需要知道这背后的故事
 date: 2017-10-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.png
+image: https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKh65LKxhgxQSMeZaqMXHqiaeheXxq76XWG95srPnYBnqG3Xz3Zh7LNlJ1EStxneo9h36PlkQl2xqQ/0?wx_fmt=jpeg)
-
 文 | 书航
-
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.png)
 
 全世界的爱猫人士，恐怕都热切盼望能使用直接以“猫”的英文命名的域名，毫无疑问就是 .cat 。
 
 然而，现在真正使用这个域名的却大多是与猫无关的网站，涵盖各行各业，并使用一种我们大多数人（包括我）看不懂的语言。
 
 作为一个猫奴，你会发现自己不能随心所欲注册你的名字.cat ，而这是有原因的。我是在 2012 年亲身前往巴塞罗那，才知道了.cat 域名背后的故事。
-
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/02.png)
 
 在 2004 年，ICANN 将这个也许是世界上最萌的顶级域名，授予了西班牙的一个自治区——至少眼下我们还可以这样定义——加泰罗尼亚（Catalunya）。
 
@@ -33,13 +27,9 @@ image: https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.png
 
 我曾经在 2012 年去过巴塞罗那报道 MWC 通信展。那时我发现加泰文和西班牙文的提示信息，在巴塞罗那的公共设施中并排摆放。看上去，完全可以从两者对同一名词拼写的相似程度中发现其亲缘关系。
 
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/03.png)
-
 我曾偶遇并“蹭饭”的一家从美国移居而来的人家，将加泰语称为是西班牙语的一种“方言”——就像普通话和粤语的关系，我想。
 
 值得玩味的是，在这样的指示牌中，加泰文总是位于西班牙文之上——他们甚至要把英文放在西班牙文之上，就像在香港很多地方，都是在繁英两种文字下面“不情不愿”地附上简体字。
-
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/04.png)
 
 西班牙政府已经宣布不惜动用一切手段阻止加泰“擅自”宣布独立 [2] ——这些手段特别不像一个西方民主国家的做派，但却是维系国家统一、领土完整而不得不用的手段。
 
@@ -50,8 +40,6 @@ image: https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.png
 这种对中央政权的离心，背后是长期潜伏的不公平。例如加泰自治区，因为独特的旅游资源和经济中心的优势，长期为包括首都马德里在内的西班牙其他地区“输血” [4] ，财政收入分配不均。
 
 这种潜伏的矛盾因为去年的英国脱欧而受到鼓舞 [5] ，浮上水面，同时伴随的是全球化的大退潮 [6] 。
-
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/05.png)
 
 9 月 20 号，西班牙警察进入了位于巴塞罗那商业区的 puntCAT 办公室 [7] ，没收了办公室的电脑，并以煽动叛乱名义逮捕了该组织的 IT 负责人。
 
@@ -93,4 +81,4 @@ image: https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/01.png
 
 [10] http://fundacio.cat/sites/default/files/20170517_ndp_observatori_puntcat_0.pdf
 
-![](https://lishuhang.me/img/2017/10/12/ru-guo-zui-meng-yu-ming/06.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NTAyNjE4MA%3D%3D&mid=2649614330&idx=1&sn=061154128d468982a5babca95b5414bc)
