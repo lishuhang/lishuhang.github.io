@@ -4,18 +4,17 @@ title: "辱骂语音助手"
 date: 2018-03-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/01.png
+image: https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIXhicOq4jJ2ypMxCY6ZvMuBPAJ6MR1eZnciaq08lCFs0E365a6ibq2A9JpjABosPnjGSolZ1Tco4HAA/640?wx_fmt=jpeg)
-
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
 当你第一次开始玩一个语音助手的时候，你会对 ta 做的最多的一件事情是什么？
 
 虽然没有严格的统计数据，但很多人可能会将辱骂这个语音助手当做他们的第一要务。
-
-![](https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/01.png)
 
 能侧面证明这一点的，是 2014 年微软小冰刚刚上线之后不久的景象。
 
@@ -27,8 +26,6 @@ image: https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/01.png
 
 如果此时你失望地对 Siri 连续说“傻*”这样的脏话，Siri 的回复也是中规中矩的：“请注意你的言辞。”
 
-![](https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/02.png)
-
 如果一个可以听懂你的语言，并试图回复你，却记不住你说什么的生物站在你面前，你对 ta 做的任何事都不需要付出代价，那你的第一反应是什么？
 
 B 站用户“科里斯”的选择是对这样的一个小女孩远程性侵犯。他对自己认识的一个 10 岁少女展开引诱，让她通过文字与自己进行涉性互动。孩子患有阿斯伯格综合症，有与人交往的意愿，但分不清善意和恶意，以及难以辨认抽象和深度的隐喻。
@@ -39,8 +36,6 @@ B 站用户“科里斯”的选择是对这样的一个小女孩远程性侵犯
 
 所以人们先后用扎小人、玩暴力电脑游戏等方式去发泄心情。像语音助手这种为你保密，又不会记仇的工具，真的是一个很理想的发泄对象——即使 ta 什么都没有做错。
 
-![](https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/03.png)
-
 虽然有人统计过针对语音助手的正常的使用方法，例如设置闹钟或开关家用电器等等，但我相信目前为止，我所看到的任何一个使用场景的调查，都不会把辱骂包括在内。
 
 有一些语音助手会防止人们这样做，因为即使是在一个人畜无害的工具上进行练习，也能够降低人们对这件事情的警戒心理。人们不应该认为辱骂或者是歧视性的言论，在任何一个场合是合理的。即使是私密的场合也不行。
@@ -50,8 +45,6 @@ B 站用户“科里斯”的选择是对这样的一个小女孩远程性侵犯
 而亚马逊的语音助手 Alexa 也有类似的设置 [3] 。原先她还不够智能的时候，会将用户的辱骂言论“你是个婊子”或“你是个荡妇”看作是对自己工作的否定，说“好的，感谢您的反馈”（well, thanks for the feedback），并且将这种反馈提交给亚马逊。
 
 现在 Alexa 会改口说：“这听起来像是性骚扰。性骚扰无论何时何地都不可接受，它通常根植于性别歧视”（That sounds like sexual harassment. Sexual harassment is not acceptable under any circumstances, and is often rooted in sexism.），以此来教育用户。
-
-![](https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/04.png)
 
 虽然没有非常精确的数据统计结果，但国外媒体之前曾经在不同的语音助手上测试过对其进行辱骂的相关回复。因为国外要注意得相对更多一点，同时也会测试包括种族歧视或宗教歧视类的内容。其结果都是类似的，就是助手在几轮之后就不会表现得那么像人类了。
 
@@ -65,8 +58,13 @@ B 站用户“科里斯”的选择是对这样的一个小女孩远程性侵犯
 
 正如我在昨晚查资料时看到的一句话 [4] ——实在忘记了它的出处，但说得非常有道理：“当人们开始称呼助手为‘她’（而不是‘它’）的时候，他们就已经输掉了这场对机器的战争。”
 
-[1] http://tech.sina.com.cn/it/2014-06-26/14359460867.shtml[2] http://news.ifeng.com/a/20160816/49782218_0.shtml[3] https://work.qz.com/1180607/amazons-alexa-is-now-a-feminist-and-shes-sorry-if-that-upsets-you/[4] https://hotair.com/archives/2018/01/24/guys-alexa-victim-patriarchy/
+[1] http://tech.sina.com.cn/it/2014-06-26/14359460867.shtml
+[2] http://news.ifeng.com/a/20160816/49782218_0.shtml
+[3] https://work.qz.com/1180607/amazons-alexa-is-now-a-feminist-and-shes-sorry-if-that-upsets-you/
+[4] https://hotair.com/archives/2018/01/24/guys-alexa-victim-patriarchy/
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+*～欢迎转发到朋友圈～**商业转载和引用
+请在公众号对话框
+输入关键字【**转载**】*
 
-![](https://lishuhang.me/img/2018/03/15/ru-ma-yu-yin-zhu-shou/05.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659517&idx=1&sn=e9d34c0f13cdd513cf8e34123152ea18&chksm=be9693b189e11aa7db34c14cc699c3e21f0d6a350f845b7230bcc9dd6d705d88f5484aaeaaed#wechat_redirect)
