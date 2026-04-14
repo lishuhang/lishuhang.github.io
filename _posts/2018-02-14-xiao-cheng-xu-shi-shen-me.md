@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHL9LPiayqtoseyoVZSSBuF23aVl2ZzpXZ9hFnHNia7NwcoYibLd3faaePyKMzloBQicZAndAmcZpxJL2Q/640?wx_fmt=jpeg)
-
 文 | 书航
 
 当我听说还要讨论下“小程序会不会成为微信的‘滑铁卢’” [1] 这个话题的时候，相当的摸不着头脑，因为我压根不知道这句话是什么时候流行起来的，或者以前有谁说过。
@@ -33,8 +31,6 @@ image: https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
 
 为啥说在安卓更好用呢？因为在安卓中，小程序可以生成桌面快捷方式，使用体验基本上全等于App，iOS不提供桌面级别的快捷方式，就始终做不到最好用。就算主界面上拉再简洁，相比直接在桌面打开还是差一截。
 
-![](https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg)
-
 因而，所谓用户用小程序替代原生App，比如大众点评、下厨房等轻量级的App，这种行为也是主要发生在Android用户中。类似的还有支付宝的付款码和微信的扫一扫，都可以设置桌面快捷方式，这一定程度上抵消了安卓机由于权限和恶意软件等导致的系统卡顿和体验下降。
 
 小游戏确实是一阵风，来了又走。但就算你在App Store做了个堂堂正正的App，不用小程序，你就能改变大多数小游戏都是“爆款”，过气了就留不住的现实吗？
@@ -51,8 +47,6 @@ image: https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
 
 不然呢？假如微信真的有哪怕那么一点点做大做强的私心，它的界面一定会满是入口，千疮百孔，就像早几年的QQ，一口气可以有40多个入口。
 
-![](https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/02.jpg)
-
 我们是入口！曾经的“狂人QQ”可以选择关闭QQ各项功能，图源自《电脑知识与技术：经验技巧》杂志
 
 所以我就很奇怪，是谁说的微信要有“滑铁卢”了，难道是出现了能在IM层面挑战它的对手？后来发现，是有人先自己猜测张小龙有要封神的心，然后再自己猜测什么是他封神路上的阻碍。其实，他要那么多干啥呢？也就只有我们这些没吃过肉的穷人，才在乎年终微信团队能多赚一台iPhone X，还是少赚一台。
@@ -63,8 +57,11 @@ image: https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
 
 这个思路至少现在看是没问题的，只是没人能预测未来而已。如果一个能颠覆它的新形态能被预测到，它就不再具有颠覆性了。这是科技行业的测不准原理，不是吗？
 
-[1] https://baijia.baidu.com/topic?topic_id=763[2] http://www.tmtpost.com/2552075.html[3] https://mp.weixin.qq.com/s/KDpu9QPoUMzA9wd_ltg-vw
+[1] https://baijia.baidu.com/topic?topic_id=763
+[2] http://www.tmtpost.com/2552075.html
+[3] https://mp.weixin.qq.com/s/KDpu9QPoUMzA9wd_ltg-vw
 
-本文首发于百家号原创文章 未经授权 请勿转载微信公众号：航通社（ID:lifeissohappy)微博：@lishuhang
+本文首发于百家号
+*原创文章 未经授权 请勿转载**微信公众号：航通社（ID:lifeissohappy)**微博：@lishuhang*
 
-![](https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/03.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659432&idx=1&sn=50eb7056c81c1028f933cee03e7bca94&chksm=be96936489e11a72fa4fd70c8323ea84a8920920826802998fb84984b1dd9da3c4e4f65b574e#wechat_redirect)
