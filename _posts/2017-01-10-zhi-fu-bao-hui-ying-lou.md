@@ -7,6 +7,24 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/01/10/zhi-fu-bao-hui-ying-lou/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJN6kHpPuNpz1B9tMwngjqZFrCwqGh7B0Y9vtCOXmvtZiaG4mc6zRbM5tGwGg7VIv5ZHNfxM1VXxdg/0?wx_fmt=jpeg)
+关于今天早上网曝支付宝漏洞，支付宝官方回应简单的说就是：
 
-![](https://lishuhang.me/img/2017/01/10/zhi-fu-bao-hui-ying-lou/01.jpg)
+支付密码（6 位数字）和登录密码不同 ，仅仅登录无法立刻执行支付操作；
+
+收到不是本人操作的短信通知提醒应立即挂失 ；
+
+目前支付宝声称， 仅在用户自己的手机 上才能够通过识别商品和好友找回登录密码。
+
+但是，我自己亲自试验发现：
+
+完全陌生人的账号 找回确实不能识别商品和好友；
+
+但是已经在你好友名单中的人，还是可以用这个办法找回。 换句话说，你亲友的手机可以用这个办法登录你的账号，依然不能避免熟人作案。
+
+有部分网友自述经历称， 账户安全险可能不理赔熟人作案 。
+
+针对熟人作案问题，支付宝为我提供了一个过去的案例：一位名为“星小白”的网友发文称《支付宝账户只有 200 余额仍被盗刷万元》，结果盗刷“星小白”账户的“黑客”正是其相识十年、准备结婚的男友林浩。 林浩因盗窃罪，被判处拘役六个月，并处罚金 2000 元 。
+
+全文：http://cn.technode.com/post/2017-01-10/alipay-response-to-latest-breach/
+
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658897&idx=1&sn=205586614c6d12c3b57ba777d1852763&chksm=be96915d89e1184b299bc0c69d4fd33d865a2cb87d547443583131d5b3518d5dab9788bb9e90#wechat_redirect)
