@@ -4,14 +4,13 @@ title: "区块链应用要落地？这三个问题必须先解决"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/qu-kuai-lian-ying-yong-yao/01.png
+image: https://lishuhang.me/img/2018/04/15/qu-kuai-lian-ying-yong-yao/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们
+点上面的蓝字 **航通社 👆**订阅我们
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJylxp4gXA6E9xJibP2YYVZGzm5E32n8oo7Bw8o0xUEEQsDGuPicrHWMRrpB0lxc3LRiahclsyluqic3g/640?wx_fmt=jpeg)
-
-本文首发于百家号，原创文章，未经授权，请勿转载。航通社 (ID:lifeissohappy) 微博：@lishuhang
+本文首发于百家号，原创文章，未经授权，请勿转载。
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 目前为止，大家对区块链非炒币的应用方向，最常见的一个想象是：发挥其忠实记录，可追溯，并且不可逆转的特性，可以避免冒用身份的情况，或者确定事件发生时的责任谁属。
 
@@ -51,6 +50,4 @@ image: https://lishuhang.me/img/2018/04/15/qu-kuai-lian-ying-yong-yao/01.png
 
 当然，因为我对区块链还处于非常外行的阶段，以上这些问题仅仅是我在自学过程中想到的疑点，当然可能已经有了很好的解决方法，也欢迎资深人士看到后能多加指教。
 
-![](https://lishuhang.me/img/2018/04/15/qu-kuai-lian-ying-yong-yao/01.png)
-
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
