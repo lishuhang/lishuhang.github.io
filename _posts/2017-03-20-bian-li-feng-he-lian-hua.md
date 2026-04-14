@@ -4,10 +4,8 @@ title: "便利蜂和莲花 Go"
 date: 2017-03-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/03/20/bian-li-feng-he-lian-hua/01.png
+image: https://lishuhang.me/img/2017/03/20/bian-li-feng-he-lian-hua/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHII4BeVqZ5uZFBb3fXYPOMTmHF8N98sEnicmKQnHsq1pvx3u1ibACpw7vQYPb5yCcrucZsUgusFzJcw/0?wx_fmt=jpeg)
 
 北京的便利店三年前还只是7-11一家独大，竞争者快客和好邻居不知为何散发着一股陈旧的国企味儿。之后北京就陆续开了全家和罗森，只是店铺数量少得可怜。后来全时逐渐多了起来，同时一位从7-11辞职创业的高管创办了邻家便利店，竞争格局就丰富了一点。
 
@@ -33,6 +31,4 @@ image: https://lishuhang.me/img/2017/03/20/bian-li-feng-he-lian-hua/01.png
 
 动点科技
 
-![](https://lishuhang.me/img/2017/03/20/bian-li-feng-he-lian-hua/01.png)
-
-![](https://lishuhang.me/img/2017/03/20/bian-li-feng-he-lian-hua/02.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650662870&idx=1&sn=162bb1c94162092a678249b253b59985&chksm=be96aeda89e127cc12bd00299b82f2bbe3d044521816600819a7c59f33eda7161a9917dbff4a#wechat_redirect)
