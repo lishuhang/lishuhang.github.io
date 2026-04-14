@@ -4,9 +4,15 @@ title: "被称为音频版 YouTube 的 Soundcloud 可能活不过今年了"
 date: 2017-01-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/12/bei-cheng-wei-yin-pin-ban/01.jpg
+image: https://lishuhang.me/img/2017/01/12/bei-cheng-wei-yin-pin-ban/01.png
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHLcRepleqRK36R1Tg7AojgZZrIfFuJKSc7RI12gAibDNqhgDWCeylKorcrnqfDsEbaUlMmT5YAJA1A/0?wx_fmt=png)
+音频分享平台 SoundCloud 的 2015 年财报显示，尽管 2015 财年营收增长 21.6% 达到 2110 万欧元，但亏损增加 30.9% 到 5122 万欧元。按照现在的趋势，在 12 月 31 日以前，SoundCloud 可能就会用光所有的现金。
 
-![](https://lishuhang.me/img/2017/01/12/bei-cheng-wei-yin-pin-ban/01.jpg)
+总体上，纯音频文件的黄金时代一直没有来临。在它足够被传播的今天，高速发展的移动互联网让音频的地位迅速让位给短视频服务。在这一层面上看，独立创作者更受欢迎的发布平台可能就是 YouTube 本身，而轮不到什么声音界的 YouTube。
+
+另一方面，音乐人想要获得更好的传播机会，也更倾向于选择和已有的大牌音乐服务签约。在国内也是如此，更流行的代理音频版权的服务例如 QQ、网易、虾米以及豆瓣都是专业的版权代理方，并非完全主打业余牌。
+
+娱乐行业是为了满足人们的感官之欲，最近几年内容消费的热点分布，绝大多数都是满足人们在视觉的需求，有的是视觉和听觉的结合，而单纯适用于听觉的服务，现在是处于越来越少的状态。基本上一家 iTunes 已经足够满足大部分人的需要。今后的 VR、AR 等等也是主要满足人们的视觉欲望，而听力只是作为一种辅助。
+
+全文：http://http://cn.technode.com/post/2017-01-12/soundcloud-cashflow-crisis/
