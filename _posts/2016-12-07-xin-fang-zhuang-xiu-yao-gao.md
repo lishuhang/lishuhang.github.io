@@ -4,10 +4,8 @@ title: "新房装修要搞“智能家居”？不妨看看这些建议"
 date: 2016-12-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/07/xin-fang-zhuang-xiu-yao-gao/01.png
+image: https://lishuhang.me/img/2016/12/07/xin-fang-zhuang-xiu-yao-gao/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKY1fF0fFsz5iaHsj2G0YNGHnAibIOs1yg3uV3riaEzAic0n6icTGuWuaJuic6JRpvoFwCrUYBXpUq3HLuA/0?wx_fmt=jpeg)
 
 两三年前，智能家居成为科技业界一个流行的概念，也跟着当时的智能硬件大潮一起火爆。但是到现在，智能家居的发展似乎进入了一个停顿的阶段。曾被称为世界智能硬件高地的深圳，并没有出现能够根本上引领全球风潮的智能家居创新。在全球其他地方，无人机、人工智能、无人驾驶、VR等成为新热点，智能家居的发展似乎被搁置了下来。
 
@@ -61,8 +59,6 @@ image: https://lishuhang.me/img/2016/12/07/xin-fang-zhuang-xiu-yao-gao/01.png
 
 有时候，应急备份指的并不只是遭遇危机时临时拿出来的方案，更是在提醒你保留一种不那么智能的生活方式，以免自己已经习以为常的东西，到了其他地方都没了，感觉不习惯。当然，如果你的生活长期是公司到家两点一线，那倒是也无所谓。只不过，随时想想自己还处在一个不那么智能的世界，会增加你对多样化环境的适应程度。也许，在一个已经充分电气化的时代，稍微拿出来一点时间，来体验100多年前古人的生活，学会喂马、劈柴、周游世界，这才能真正面朝大海，春暖花开吧。
 
-题图：Surface Studio 应用的 Home Hub 功能谍照（图／Windows Central）
+*题图：Surface Studio 应用的 Home Hub 功能谍照（图／Windows Central）*
 
 新浪（独家）
-
-![](https://lishuhang.me/img/2016/12/07/xin-fang-zhuang-xiu-yao-gao/01.png)
