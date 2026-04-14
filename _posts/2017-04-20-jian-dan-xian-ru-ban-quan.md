@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/04/20/jian-dan-xian-ru-ban-quan/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHI6ceWCgaWaCI6DZkZlVcVeeYfZFOGBNCKSgPs8OdGn4TDD18PnibBuXGpy3T7QsRcUH9Vl7X2LQrA/0?wx_fmt=jpeg)
-
 煎蛋陷入了建站以来至今最艰难的时刻之一。sein表示收到了来自视觉中国的律师函。他跟视觉中国之间进行了几次邮件沟通，对方后续反而提高了单张图片的售价。sein表示作为个人站长实在无力负担，决定要鱼死网破，直接让对方走法律途径。
 
 创办十多年来，煎蛋始终通过编译来自国外网站的新闻作为其特色，而这些编译的新闻几乎没有获得国外来源网站官方的授权。这也并非他们故意无视版权，而是外国网站大多在国内并没有一个合适的代理商。
@@ -29,4 +27,6 @@ image: https://lishuhang.me/img/2017/04/20/jian-dan-xian-ru-ban-quan/01.jpg
 
 动点科技
 
-![](https://lishuhang.me/img/2017/04/20/jian-dan-xian-ru-ban-quan/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=403008102&idx=1&sn=3bb5d701ca1085c4dd4b8406a306ea2d#rd)
+
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658942&idx=1&sn=bf6bd888f4f84b438d70103797734a99&chksm=be96917289e1186442f65a1d7b0bd6ab3707269f4c950c50eb9a73ce715abd6b619781bc4048#wechat_redirect)
