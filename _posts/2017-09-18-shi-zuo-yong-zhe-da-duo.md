@@ -4,10 +4,8 @@ title: "始作俑者，大多无后"
 date: 2017-09-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png
+image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLaWYuUqrOpvImjQibhWx7VjYPMdx33f7xovz5EbwKDWePX8q0nzs0pTMwq1ZbcEUichdKdTDzOjgibA/0.jpeg)
 
 文|书航
 
@@ -16,8 +14,6 @@ image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png
 受此影响，周四 (9 月 14 日) 欧市盘中， 比特币大跌超过 10% [3]，比特币现金暴跌 63%，其他虚拟货币也是应声狂泻。
 
 历史上，某一领域的先行者一旦被有关部门“叫停”以后，往往一蹶不振，待同类业务重启后，收割胜利果实的也都另有其人。这当中的规律惹人深思。
-
-![](https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png)
 
 9 月 2 日，济南天桥区一小区物业发现一间地下室温度较高，似乎有机器运转的声音，随后他们拿着锤子“捣毁了一个伪基站”。但根据新闻图片，网友发现，那些被砸毁的机器分明是比特币挖矿的矿机 [4]。此事因此被调侃为一场“矿难”。
 
@@ -33,8 +29,6 @@ image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png
 
 彻底否定比特币交易合法化可能性的事件，应该算是近段时间混乱的 ICO 风波。由于国内的代币发行严重鱼龙混杂，投机者、韭菜、传销人员等乱七八糟的人夹杂其间，监管部门及时刹车的同时，也找到了顺势叫停所有虚拟货币的一个好理由。
 
-![](https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/02.png)
-
 需要注意的是，比特币交易所的倒下并不意味着监管层对数字货币技术的全盘否定，相反区块链还成为从上到下各级管理层在金融创新上的一个切入点，一直被重点研究。
 
 只不过跟已经形成强大区块链，并且呈现去中心化良好态势的比特币等相比，国内的区块链官方应用基本还处于聊胜于无的状态。官方能从一项新技术中得益，并且确保新技术完全在控制范围内，这是让该种新技术在国内合法推广的必要条件。
@@ -48,8 +42,6 @@ image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png
 所以倒不如将对比特币交易的遏制，看作是与“国产电影保护月”等等做法很类似的“地方保护主义”行为。这只是在等待国内相关研究和应用成熟，并且官方已经做好了管控的充分准备。
 
 对于天生去中心化的数字货币来说，在官方重新放开（如果有的话）之前的寒冬，可能比其他互联网创新要长的多。
-
-![](https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/03.png)
 
 联想起历史上当局叫停互联网彩票业务，叫停互联网第三方平台售药，以及叫停饭否等第一代微博客服务的故事，我们大概能估算一下比特币中国、火币网、币行等交易所先驱们，在寒冬过后的命运。
 
@@ -83,4 +75,4 @@ image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.png
 
 [8] http://news.iresearch.cn/content/2017/09/270397.shtml
 
-![](https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/04.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NTAyNjE4MA%3D%3D&mid=2649613946&idx=2&sn=7ef58cdb03fb4c5551c2536314796187)
