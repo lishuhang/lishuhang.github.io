@@ -7,20 +7,20 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/04/24/zhe-ji-tian/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHJ4A3QvPib1w8fTicrAXN8CAAztZJKrYTKAicsLiaf4JLetdQzHNxwBaia1je8beZxcGaGIWVs4NxmLqkw/0?wx_fmt=jpeg)
+确实是n年不遇，可以拍到这样的镜头……当然我也可以考虑起个“狗男女光天化日之下”之类的标题，不过估计立马离删号不远了。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/01.jpg)
+这几天我在忙其他事情，本来以为可以持续的形成发稿的节奏，结果自然是事与愿违。不过，我在探索重庆各种引人入胜的小细节的旅程仍在继续。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/02.jpg)
+国泰广场展览各种名人蜡像。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/03.jpg)
+解放碑前几天有一个互动展览，街上的人可以在大屏幕里面看到自己。机器随即选中一个人特写，拍下来以后可以手机扫屏幕二维码去下载。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/04.jpg)
+中午，在这家“重庆小面前五强”的著名摊点花市豌杂面，聚满了坐都坐不下的人，有的只好站着端碗吃。当这么些人都吃着同一种食物的时候，这就形成了一种震撼。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/05.jpg)
+在龙湖天街，孩子们排排站通过攀岩设施。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/06.jpg)
+最后依然要以虐狗作为结束（是偷拍的所以画质很渣）。图中情侣一直在指点江山，始终没察觉后面有人在拍。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/07.jpg)
+最近的写作也就是在百度做的一个公众号当中发了一篇和VR有关的文章，大家可以去 **[阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650018782&idx=1&sn=804fddd2baa247aab018cc219d6490fb&scene=0#rd)** 观看这篇《**VR要来了，电影还会好吗？**》。
 
-![](https://lishuhang.me/img/2016/04/24/zhe-ji-tian/08.png)
+_(:°з」∠)_ 下周见……
