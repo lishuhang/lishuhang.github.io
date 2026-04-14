@@ -4,7 +4,15 @@ title: "一个知乎重度用户眼中的“百度派”"
 date: 2016-12-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/06/yi-ge-zhi-hu-zhong-du/01.png
+image: https://lishuhang.me/img/2016/12/06/yi-ge-zhi-hu-zhong-du/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJh4Kz46GtvS5qlic1aSQ6zZbtfV5JvDEDvI73qqVVUVC8QkQus58dfMNibJ2j8RjYvYLVKFmAN91oQ/0?wx_fmt=jpeg)
+**“百度派”和“百家号”都是百度在内容分发方面的尝试。**错失知乎，又没有阿里把控传统媒体的大手笔，百度现在在内容分发的积累是很孱弱的，顺便引发了舆论的批评声浪上涨。
+
+**“百度派”还有一个重要作用是补充百度对需要专业知识的细分搜索领域的能力增强。**如果“百度派”能成功引入一些医疗专家，把他们在知道未竟的事业做好，那么百度医疗搜索结果可能会有意料之外的改善。
+
+**官方投入重度的运营力量进行维护将会是一个常态。**人工的，一对一的服务，可能只会作用于一些高级用户，这种趋势在知识共享的领域一样存在。
+
+所以，如果知乎无论如何都适应不了一些大V挑剔的口味，而这边恰好又有一个服务的更好的平台，跳过去也不奇怪。只是，百度本身的糟糕声誉可能成为他们过来的一个大障碍，“这届百度公关”可得加油了。
+
+全文参见动点：http://cn.technode.com/post/2016-12-06/baidu-pai-vs-zhihu/
