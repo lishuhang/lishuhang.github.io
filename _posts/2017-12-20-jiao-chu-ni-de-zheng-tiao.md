@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/12/20/jiao-chu-ni-de-zheng-tiao/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIJ82LDRKfXuxnw7ibe5Yib5xOxaSHrmublYiafTzvicW0lmcuJU5q2JpK9NQQTNHOdb6vB6vDYsu7ehw/0?wx_fmt=jpeg)
-
 文|书航
 
 近段时间，几大巨头火气有点大，隔空开火开得有点多。从双11阿里京东就交易额破纪录互怼开始，后面有马云和刘强东，马云和马化腾等多场针锋相对的发言。最近的一次隔空互搏，就发生在今天上午。
@@ -30,5 +28,3 @@ image: https://lishuhang.me/img/2017/12/20/jiao-chu-ni-de-zheng-tiao/01.jpg
 这些只能说明一个道理，即使你是公司的最初创始人，你流过汗流过泪，也别太把公司当回事，你要是失去了对你亲儿子的控制权，大不了再生一个。在冠冕堂皇的“改变世界”的说辞下，落袋为安才是真相。
 
 2014年，我们曾经用系列报道，梳理过围绕在阿里、百度、腾讯、360四个阵营旗下，所谓被“招安”的创业公司的情况。即使已经过去3年，今天看来仍然很有意思。如果知道历史是怎样发生的，其实根本就不会对现状有任何疑问。
-
-![](https://lishuhang.me/img/2017/12/20/jiao-chu-ni-de-zheng-tiao/01.jpg)
