@@ -4,10 +4,8 @@ title: "中国可能会成为全球上网最便宜的地方"
 date: 2018-03-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png
+image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIRibP8dVunaAoGdgwhPT6oLibqpjYOVQvUtvaf3sMcRibhEicYKHKqSHHdYC2ZXnUaY2iavFxChEp0ufg/640?wx_fmt=jpeg)
 
 文 / 书航
 
@@ -16,8 +14,6 @@ image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png
 2015 年初，中国正式提出了“提速降费”的总方针，三大运营商从当年 5 月开始推进改革方案。三年来，家庭固定宽带的网络速度得到了明显的提升，已经跟韩国等全球网速最快的国家看齐。而今天，这种优势会进一步体现到移动网络上。
 
 记得当时我曾经写了一篇名为《提速降费也得下乡》[2] 的文章，希望除了城市的宽带资源有改善之外，也能够提升农村宽带的性价比。现在，这一进程是确实进行当中的；而且随着流量漫游概念取消，意味着只要有信号覆盖的角落，所有的流量资费都将迎来一个均等的调整，今后的优惠将对于城乡居民同等有效。
-
-![](https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png)
 
 终极“网络中立”
 
@@ -29,8 +25,6 @@ image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png
 
 然而，从今天开始引入的全面取消流量漫游的政策，可能会彻底终结所谓的“流量寻租”的可能性，在应用范围更广泛的资费套餐更便宜的时候，专用套餐省下的钱不多的话，意义就不大了。
 
-![](https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/02.png)
-
 本地和全国流量间的价差
 
 目前运营商的本地流量都不约而同给得非常慷慨。由于分省结算的缘故，一线城市、直辖市等和中小城镇之间，往往存在一个巨大的价差，因为要按照当地人民的生活标准制定费率。部分欠发达地区的流量套餐，会便宜得让大城市人瞠目结舌。
@@ -40,8 +34,6 @@ image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png
 在新政策出来之后，如果老用户的资费不发生任何调整，这就意味着在小地方安装固定宽带之后，可以获得全国无限流量的资格，跟现有的冰淇淋套餐等相比会省下很多钱。
 
 不仅是在众多大城市漂的老家，假设你住的地方是和帝都一河之隔的燕郊，或类似的外省卫星城，都能体会到立竿见影的价格变化。这也许是任何形式的“价格双轨制”在“并轨”时候一定要经历的改变。
-
-![](https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/03.png)
 
 进一步激发互联网创新
 
@@ -53,8 +45,13 @@ image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.png
 
 这将进一步激发中国成为新的互联网产品形态的试验场。中国的网速及资费优势，将和人多、地广、劳动力便宜、部分地方监管宽松等诸多因素加在一起，吸引更多全球范围内的前沿创新项目，在中国率先落地生根。
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载欢迎转发到朋友圈
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载
+欢迎转发到朋友圈*
 
-[1] http://www.xinhuanet.com/politics/2018lh/2018-03/05/c_137016973.htm[2] https://cn.technode.com/post/2015-05-18/zaobao0518/[3] https://www.zhihu.com/question/58178068/answer/155940595[4] http://www.pingwest.com/lets-talk-about-net-neutrality/
-
-![](https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/04.jpg)
+[1] http://www.xinhuanet.com/politics/2018lh/2018-03/05/c_137016973.htm
+[2] https://cn.technode.com/post/2015-05-18/zaobao0518/
+[3] https://www.zhihu.com/question/58178068/answer/155940595
+[4] http://www.pingwest.com/lets-talk-about-net-neutrality/
