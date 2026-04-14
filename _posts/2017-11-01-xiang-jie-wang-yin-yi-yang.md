@@ -4,20 +4,16 @@ title: "像“戒网瘾”一样管理爸妈的朋友圈，成吗？"
 date: 2017-11-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png
+image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIQPPv1qre5MN8Rvn5UCo1wViczyBYib3VPvZqicAZiaSo6EUzTH9bjUyjO8VedzGSXKkc5l2n0vdJZEg/0?wx_fmt=jpeg)
-
-文 | 书航
+文 | **书航**
 
 看到父母在朋友圈，群聊，头条，微博等地看到和分享的内容，有时挺让人崩溃的，大概就像他们当年看到我们贪玩的那种恨铁不成钢一样。
 
 所以，就像某些家长给孩子“戒网瘾”，某些学校收手机、砸手机之类的做法一样，我们反过来也会很自然地萌生一个想法，希望控制父母能看什么，不能看什么；希望给他们也看看我们是怎样看待某些事情的。
 
 若真的存在这种反向的“家长控制”，是否能增进父母对我们的了解，从而润滑家人之间的关系呢？
-
-![](https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png)
 
 几乎每台能上网的设备都内置“家长控制”功能，至少它存在于 Windows、macOS、iOS 和 Android 这几个最常用的操作系统当中。
 
@@ -30,8 +26,6 @@ image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png
 毕竟，这些应用的背后都是管不好孩子的焦虑的家长们，有了它们，至少可以少几个孩子受到更悲惨的待遇，比如被所谓“戒网瘾学校”戕害。
 
 这不是重点。重点在于，“家长控制”功能本质上就是一种使用权限管理。只要放开思路，它完全可以用在相反的方向——让孩子管理父母能看到什么。
-
-![](https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/02.png)
 
 沉溺于精心剪裁、简短易消化的网络文章，会让人丧失深度思考和表达能力，这个影响对老年人更甚。而假消息、谣言和所谓“有毒”的价值观就更可怕，也许我们一看便知，但长辈难以分辨。
 
@@ -47,8 +41,6 @@ image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png
 
 所以，借助父母对新事物的不了解，将他们的手机更深程度的接管过来，只允许他们看我们准备好的几个公众号，那就相当于我们给他定做了一份“报纸”——这是比直接“辟谣”更温柔，更易被接受的形式。
 
-![](https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/03.png)
-
 回想过去，全家人一起看一样的电视节目，尽管可能没有任何一个人会完全对节目称心如意，也有抢遥控器换台的，但大家总会达到妥协，其乐融融，这就是建构家庭记忆的过程。
 
 因为个性化推送满足了人证明自我的欲望，这个建构过程遭到了破坏。我们虽然还是会看到同一条新闻，但因为我们接触的信息源、生活经验和朋友圈各不一样，有时会对同一个事实产生截然相反的解读。这就可能在餐桌上引发一场争吵。
@@ -58,8 +50,6 @@ image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png
 假如这种控制信源的手法是用在孩子身上，那就好比被舆论痛批的“戒网瘾”，是不将孩子视为独立个体的行为。但对老人做同样的事，大家似乎就更容易接受。
 
 在我看来，这可能是因为老人都已经形成了稳固的三观，一般也不会靠几篇文章就扭转了。
-
-![](https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/04.png)
 
 头条们肯定是故意不做严格的黑/白名单功能的，就更别说替人设置阅读权限了。在信息流中手动屏蔽了无数次的账号和内容，下次依然野火烧不尽地冒出来，就是因为“算法”越俎代庖，替你觉得你可能需要它们。
 
@@ -77,4 +67,4 @@ image: https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.png
 
 [1] https://baijia.baidu.com/s?old_id=638655
 
-![](https://lishuhang.me/img/2017/11/01/xiang-jie-wang-yin-yi-yang/05.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659321&idx=1&sn=3b9fc34f0524371cc15d0b810a9228e2&chksm=be9690f589e119e3a739d32dfaaba79cf62bdf82066edc2a7b31e0dfb91173ef213d257878c2#wechat_redirect)
