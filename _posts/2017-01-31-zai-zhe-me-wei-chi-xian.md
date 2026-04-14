@@ -4,10 +4,8 @@ title: "再这么维持现状下去，世俗的仇恨也会变成“世仇”"
 date: 2017-01-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/31/zai-zhe-me-wei-chi-xian/01.jpg
+image: https://lishuhang.me/img/2017/01/31/zai-zhe-me-wei-chi-xian/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHJzaYySGU78z08ic8JFqmxRucMVmNyEicve24DV7r6e5uN6HAlOnsMEo697RN8wv5QmUS4loszb235Q/0?wx_fmt=png)
 
 表面上看来，我这个反对接收难民，挺川普的人是知乎、微博等国内互联网上“政治正确”的一部分，应该是个挺好的事儿。实际上我一点也没有为此感到高兴。
 
@@ -34,5 +32,3 @@ image: https://lishuhang.me/img/2017/01/31/zai-zhe-me-wei-chi-xian/01.jpg
 但是如果放任难民进入，今后就不见得世俗袭击者会不记仇了。日本上世纪数十年侵略造成的中日民间紧张情绪，那可以说也不是宗教相关的仇恨，但也延续下来了。冲突各方都应该在矛盾固化成世仇之前紧急刹车。
 
 我对于一直进行到去年为止的全球化，民族融合的浪潮，表示悲观。不管是百年来的遭遇，还是最近全球化进程的挫折，似乎都说明，不同文明之间很难取得彼此平等的和解，都是或文明或野蛮的彼此征服。如果“入侵”的文明与主体文明发生冲突，能退回各自栖息地，以邻为壑，可能是多种结局中还比较好的一种。未来我们将可能面临全球化倒退和民族主义崛起，但比起更坏的结局，这种休养生息已经算是不错的未来了。
-
-![](https://lishuhang.me/img/2017/01/31/zai-zhe-me-wei-chi-xian/01.jpg)
