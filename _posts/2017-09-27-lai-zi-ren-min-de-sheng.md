@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHKiczP8z6Hib2tNOq6Fk2KsCPu3OibSfB52LzbW3KmT8OlSP0sx0u5oOUsET7bYBcrVl0secvXoTsxTw/0?wx_fmt=png)
-
 文 | 书航
 
 人民网四评《王者荣耀》之后，腾讯市值蒸发了1000亿 [1] ，以马化腾做客人民网 [2] 作为结尾。
@@ -19,7 +17,7 @@ image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 花样解读
 
-![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png)
+![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/02.png)
 
 花样解读
 
@@ -43,7 +41,7 @@ image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## “来自人民”
 
-![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/02.png)
+![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/03.png)
 
 “来自人民”
 
@@ -71,7 +69,7 @@ image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 钱没给够
 
-![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/03.png)
+![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/04.png)
 
 钱没给够
 
@@ -105,7 +103,7 @@ image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 尾声
 
-![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/04.png)
+![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/05.png)
 
 尾声
 
@@ -165,4 +163,4 @@ image: https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 [16] http://cpc.people.com.cn/GB/69112/75843/75874/75994/5182893.html
 
-![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/05.jpg)
+![](https://lishuhang.me/img/2017/09/27/lai-zi-ren-min-de-sheng/06.jpg)
