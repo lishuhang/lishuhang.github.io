@@ -4,16 +4,13 @@ title: "三星新旗舰主打 AR 表情，为啥我认为这个功能会失败"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/01.png
+image: https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们
+点上面的蓝字 **航通社 👆**订阅我们
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJylxp4gXA6E9xJibP2YYVZGJhflDyqYErWarlBs7C2CnIuoE5mdaJr4VeTlBibJLEwMS7FPueaFCSQ/640?wx_fmt=jpeg)
-
-本文首发于百家号，原创文章，未经授权，请勿转载。航通社 (ID:lifeissohappy) 微博：@lishuhang
-
-![](https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/01.png)
+本文首发于百家号，原创文章，未经授权，请勿转载。
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 众多电脑和数码产品厂商，前赴后继的开发能将用户本人的个人印记，特别是生理特征刻印在产品当中的技术，认为他们可以用自己的产品，来假装成用户本人，或者用户心爱的人的形象，并以为这样是传情达意的好办法。
 
@@ -31,13 +28,11 @@ image: https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/01.png
 
 厂商们似乎觉得，如果能用各种手段复制出一个虚拟状态下的用户自己，那么他在游戏当中似乎就更能有沉浸感。
 
-但实际上，比起让自己的形状出现在视频或3D模型当中，人们更在意的是，这个形状是否更像是真人，或者更像是一个现实当中能存在，能被人接受的东西，而不会让他们感到奇怪，甚至是可怕。
+但实际上，比起让自己的形状出现在视频或3D模型当中，**人们更在意的是，这个形状是否更像是真人，或者更像是一个现实当中能存在，能被人接受的东西，而不会让他们感到奇怪，甚至是可怕。**
 
 特别是在涉及到真人头像的时候，一个久经考验的理论“恐怖谷”就会浮出水面。这个名词是说，当画出来或者做出来的人脸与真人的仿真度高到一定程度，但是又没有100%地完美的时候，就会让观赏的人感到恐怖。
 
 为什么呢？你可以说“ta”是人，但“ta”又和真人有无论如何不能忽略的区别，是一个让人感到诡异的存在。
-
-![](https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/02.png)
 
 很不幸，三星最近做出来的“动态萌拍”（AR Emoji）就是“恐怖谷”理论的又一现实例子。
 
@@ -65,13 +60,9 @@ AR Emoji能区分人头部的不同部位，例如双眼、鼻子、嘴、头发
 
 当然，三星的AR Emoji也是如此——只是用过之后如果体验不佳，这套“表情包”难免会被打入冷宫。
 
-![](https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/03.png)
-
 AR Emoji还让我想到另一个出现几乎一样的问题的产品。之前依托Xbox的Kinect所实现的NBA2K15游戏的换脸功能，允许玩家把自己的脸型勾勒到他想操作的球员的头上，让这个球员换成自己的头。
 
 初衷本来还不错，官方给的效果图也还可以。但在实际使用当中，稍有不慎，这个脸就会变形走样，摆出非常夸张的样子。
-
-![](https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/04.jpg)
 
 你可以说是当时的机器性能不够或算法不够聪明。但是即使过去了3年，新一代的产品依然没有从根本上跨越“恐怖谷”，而几乎同期出现的所谓获得沙特阿拉伯公民权的第一个女性人形机器人，也长得蛮可怕的。
 
@@ -81,6 +72,6 @@ AR Emoji还让我想到另一个出现几乎一样的问题的产品。之前依
 
 相信在拍照方面的强大性能，会成为一部分用户选择它的理由。
 
-![](https://lishuhang.me/img/2018/04/15/san-xing-xin-qi-jian-zhu/05.png)
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650662372&idx=1&sn=0d1aa0f72d231918e4eab4c9f25c94f4&chksm=be96ace889e125feeafc38a156eefaa5daa58c51919a87d54a69e6b98346555d1568cbdf7e30#wechat_redirect)
