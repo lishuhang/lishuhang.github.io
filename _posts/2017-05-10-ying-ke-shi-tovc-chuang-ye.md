@@ -7,12 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/01.jpg
 ---
 
-![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/02.jpg)
-
-![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/02.jpg)
-
-![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/02.jpg)
-
 昨日晚间得知映客将过半股权卖给了创业板上市的4A公关公司宣亚国际，在找了一通事情的来龙去脉后，也多少有些感慨。映客曾因为入局直播行业早，被看作很有可能跟今日头条一样由垂直产品晋升而来的独角兽，而今年初开始却陷入资金紧张，频繁卖身传闻，以及再一次被苹果下架的不断困扰中。
 
 也因此，如今映客能找到下家，砸了大钱的投资人能成功退出，也算是一个阶段内的功德圆满。而映客的“对投资人友好”又远不止这一点，它能踩中风口，能快速决策，能合理烧钱，映客团队以极强的执行力，实际演示了如果你有一个点子（就差一个程序员了？），应该怎样把它变成现实。
@@ -65,7 +59,7 @@ image: https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/01.jpg
 
 而直到昨日出售股权消息确定当时，观察者还很难确定这事的性质到底是映客卖身，还是它“借壳上市”。可以说，这个退出对于早期投资人来说是相当的漂亮了。
 
-![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/03.jpg)
+![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/02.jpg)
 
 ## 映客的未来
 
@@ -89,4 +83,4 @@ BAT三巨头中，除百度发展AI战略无暇他顾以外，阿里和腾讯以
 
 cnBeta
 
-![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/04.jpg)
+![](https://lishuhang.me/img/2017/05/10/ying-ke-shi-tovc-chuang-ye/03.jpg)
