@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "针对日本年轻人的调查显示，超过 1_3 在社交媒体有秘密的“小号”"
+title: "针对日本年轻人的调查显示，超过 1/3 在社交媒体有秘密的“小号”"
 date: 2018-04-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png
+image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.jpg
 ---
 
-# 点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIFqRrrOcUuBs7mq0KzgkZjLHGG6vMMFnbicMqdwZAjDzVx325SabV8KDibXfRAgtaW0saHicoBZM5Rw/640?wx_fmt=jpeg)
+# 点上面的蓝字航通社👆订阅我们
 
 本文首发于动点科技，原创文章未经授权请勿转载
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 我们可能会向自己的父母或者是老板屏蔽朋友圈。那么有没有情况是，你专门开设了一个谁都不知道的小号，用来存放你的心理秘密，或者跟素不相识的陌生人交流呢？
 
@@ -21,7 +19,7 @@ image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png
 
 这些受访者限定为 16-25 岁的年轻人，他们把不愿意跟亲朋好友透露的烦恼，或者自己面对的社交压力，通过小号抒发出来，却不知这样不被其他任何人发现的交流，可能会让自己处于危险之中。
 
-![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png)
+![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/02.png)
 
 让我们回想一下不久前刚刚平息的江歌事件。当时很多人希望在日本作案的凶手陈世峰被判死刑。然而在日本的现状就是，有很多所作所为远比陈世峰更残忍的恶魔，也许拉高了日本国民对变态案件的“心理接受度”。这也可能是造成在日本真正被执行死刑者极其罕见的原因之一。
 
@@ -33,7 +31,7 @@ image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png
 
 由此看来，特别是在青少年涉世未深，还没有充分接触社会险恶的情况之下，如果对秘密账号下隐藏的此类念头不加注意，年轻人确实会遭遇危险。
 
-![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/02.png)
+![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/03.png)
 
 今年 3 月中旬，日本广播协会 NHK 通过聊天软件 LINE 进行问卷调查，收到了年龄在 16 到 25 岁的 5000 人的回复。其结果是，在类似推特这样的 SNS 当中，拥有一个以上的所谓“里账户”或者是“暗账户”的人，一共有 1728 人，占所有受访者的 34.5%。
 
@@ -57,7 +55,7 @@ image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png
 
 但是以这种方法使用小号的少女，有一次线下见面时，差一点被人拐跑，后来在一家便利店附近才从车里钻了出来。女孩去找了相关的咨询中心，经过一段时间的咨询，现在已经可以尝试跟父母建立适当的关系。她说自己希望被爱，希望能够正视过去，面对自己的父母。
 
-![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/03.png)
+![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/04.png)
 
 从去年 4 月到今年 3 月底，像这样通过社交网络诱骗未成年人的绑架和猥亵等案件一共有 35 例。
 
@@ -67,4 +65,4 @@ image: https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/01.png
 
 [1]https://www3.nhk.or.jp/news/html/20180407/k10011394381000.html
 
-![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/04.png)
+![](https://lishuhang.me/img/2018/04/13/zhen-dui-ri-ben-nian-qing/05.png)
