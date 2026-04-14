@@ -4,18 +4,14 @@ title: "社交网络是新闻的底稿"
 date: 2017-08-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png
+image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLrntsXaIjzM5wgtfvtmic1CseXPUxFLkAzHUG8toRibiacpXY3U1HxRTMQrh1ZIKlUVN0YGHmDWOJKw/0?wx_fmt=jpeg)
 
 文|书航
 
 本文最初于2015年6月23日发布在动点科技。
 
-谷歌推出了一项业务新闻实验室（News Lab），是整合自己之前的资源推出的，针对公民记者和新闻工作者的服务。稍早之前，在谷歌的视频网站YouTube上面，已经推出了供媒体取用新闻片段的服务Newsreel。
-
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png)
+谷歌推出了一项业务**新闻实验室（News Lab）**，是整合自己之前的资源推出的，针对公民记者和新闻工作者的服务。稍早之前，在谷歌的视频网站YouTube上面，已经推出了供媒体取用新闻片段的服务Newsreel。
 
 在官方公告当中谷歌宣布，新闻实验室将整合谷歌旗下的所有与新闻有关的产品，包括搜索趋势，互动图表生成器，历史新闻检索，作者可以使用这些工具快速生成可视化的新闻产品，并且嵌入到自己的报道当中。
 
@@ -27,8 +23,6 @@ image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png
 
 这也许是促使谷歌研发自己新闻服务的最大动因。此外，谷歌笼络一部分本应导向社交网站的流量，也有助于持续改善搜索结果，并摆脱对Twitter、Facebook等信息的依赖。
 
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/02.png)
-
 早已有多种工具帮助人们把社交网络消息转换成可以通俗阅读的新闻报道，或称“懒人包”。其中一家最著名的公司就是Storify。
 
 在2010年9月的TC Disrupt大会上，他们的产品首次向世人亮相，并且获得了2010年西南偏南（SXSW）大会的创意加速器入选资格。他们在2011年4月上线公众测试版本，2013年9月被另一家社交新闻公司Livefyre收购。
@@ -39,8 +33,6 @@ image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png
 
 所以，跟随国外道路，最终发展起来的社交新闻工具，在国内可以说有且只有一个，那就是微博。
 
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/03.png)
-
 除了利用第三方工具，新闻机构更多是自己雇人，开发自己的新闻工具。
 
 《纽约时报》的新媒体实验室一直是在媒体报道技术方面“炫技”的典范，正是他们提出了媒体不应该将新技术开发部门外包的观点。CNN开发公民新闻平台iReport以后，电视台纷纷跟风，现在电视台的爆料系统基本都是各自自行开发的。
@@ -50,8 +42,6 @@ image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png
 在台湾，网页模式的“懒人包”更加流行，因为比较适合Facebook页面的长文章模式，而且Twitter不支持长微博图片。相比之下，在国内，由于微博长图片的特殊限制，“懒人包”和Storify的功能是交给长微博来行使的。
 
 我之前写过，这样不利于检索和在不同设备上排版。微博的对策是将原先的新浪博客转为文字版长微博，仍可以在微博界面展开，并且加入打赏功能引导用户使用。
-
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/04.png)
 
 不管具体形式如何，现在社交媒体对新闻的重塑，逐渐分化出两条并行的路径：
 
@@ -66,7 +56,3 @@ image: https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/01.png
 传统新闻学理论说“新闻是历史的底稿”，现在再加上一句“社交网络是新闻的底稿”，就能很好地概括现在的状况了。
 
 -- END --
-
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/05.jpg)
-
-![](https://lishuhang.me/img/2017/08/23/she-jiao-wang-luo-shi-xin/06.jpg)
