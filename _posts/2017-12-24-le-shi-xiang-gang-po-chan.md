@@ -4,10 +4,8 @@ title: "乐视香港破产，它为香港人带来了什么？"
 date: 2017-12-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png
+image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLVCIiaJV2Bic5ogSjyuhk0SoXTsv0T2jibSgTDibcJAb3134iaC0yiae2nNbJHCuoAgyQneAiaFCB30KXOQ/0?wx_fmt=jpeg)
 
 文|书航
 
@@ -23,7 +21,7 @@ image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png
 
 所以，要说乐视系欠供应商的钱都花到哪去了，我觉得至少有一部分花到了我们去香港的机票、酒店以及人手一件正版曼联球衣上面。
 
-![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png)
+![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/02.png)
 
 ## 将OTT普及到香港市场
 
@@ -41,7 +39,7 @@ image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png
 
 最迟到建台50周年的今年，无线才开始规范海外版权市场，推出正版TVB Anywhere并打击海外盗播。
 
-![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/02.png)
+![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/03.png)
 
 ## 英超版权大战盛极而衰
 
@@ -65,7 +63,7 @@ image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png
 
 还有，因为更吸引人的比赛放不了，本港足球联赛“港超联”也意外的迎来了发展机遇期。
 
-![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/03.png)
+![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/04.png)
 
 ## 乐视式烧钱不是经营之道
 
@@ -81,4 +79,4 @@ image: https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/01.png
 
 今后如果有内地企业想进入香港的话，可能更让香港人接受，和更接近成功的方法，始终是精细化运营，逐渐投入软实力在香港人上面。像乐视这样砸钱，对于钱不一定有它多的企业更是不可持续的。
 
-![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/04.jpg)
+![](https://lishuhang.me/img/2017/12/24/le-shi-xiang-gang-po-chan/05.jpg)
