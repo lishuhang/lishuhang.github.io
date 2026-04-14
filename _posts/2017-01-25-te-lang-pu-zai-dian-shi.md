@@ -4,9 +4,15 @@ title: "特朗普在电视上说过的每一句话都将成为“呈堂证供”
 date: 2017-01-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/25/te-lang-pu-zai-dian-shi/01.jpg
+image: https://lishuhang.me/img/2017/01/25/te-lang-pu-zai-dian-shi/01.png
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHIEicUYaEFnVVV9jZiahic4nZB6NI2Zg3TNS7zicnAgU23o8jHRUQHQqoAJJ3vo46JkW8WxgGJ9YT1KsQ/0?wx_fmt=png)
+从 1996 年开始为全球互联网建立网页快照的非营利机构“互联网档案” 发布了名为“特朗普档案”的专栏 ，收集从 2009 年开始关于特朗普的所有电视节目，包含公开演讲，电视辩论，采访和关于他的专题片等超过 700 个新闻片段。
 
-![](https://lishuhang.me/img/2017/01/25/te-lang-pu-zai-dian-shi/01.jpg)
+奥巴马向特朗普进行权力交接的时候，“互联网档案”宣布他们会保存接近 100TB 的政府网站数据。这一存档很快就被证明非常有用：白宫网站现在整体删除了所有关于“气候变暖”议题和“LGBT”议题的页面；特朗普曾公开宣称气候变暖是“中国主张的阴谋”，并宣布要取消此前基于“政治正确”提供的对少数性取向者的倾斜政策。
+
+然而，即便“互联网档案”能够记录所有电视媒体出品的内容，却无法做到将社交媒体上的所有内容都收录进去。至少不收录 “信息战”（InfoWars） 将是一个重大的遗憾——这个“经常散播阴谋论和假新闻的保守派网站”，收获了 1.1 亿 YouTube 播放次数，在媒体类频道中大幅抛离 CBS，福克斯和 NBC。
+
+不准确的、甚至虚假的报道，如果引发了重大的影响，那么它是否就真的具有了价值？假新闻本身也许不能忠实记录历史，但如果它们“创造”了历史，又该怎么看待它们？这个问题从 1938 年的 CBS 广播剧《火星人入侵地球》就开始了，但时至今日，“互联网档案”和我们所有媒体观察者也不觉得有一个合适的答案。
+
+全文：http://cn.technode.com/post/2017-01-25/trump-archive/
