@@ -4,7 +4,7 @@ title: "#今天的办公室#9月30日"
 date: 2015-10-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/10/08/jin-tian-de-ban-gong-shi/01.png
+image: https://lishuhang.me/img/2015/10/08/jin-tian-de-ban-gong-shi/01.jpg
 ---
 
 今天的办公室是朝阳门旁边丰联广场的星巴克。但是我想说的并不是这家咖啡馆，而是与它有一条街之隔的日坛公园。
