@@ -4,10 +4,8 @@ title: "“慰安妇表情包”作者承受的公关灾难，规模可能超出
 date: 2017-08-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
+image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHK9Iicice585JPFHNz3ukwxn7dq6DQhibxrLkThmTU01hhPPv7r91MrS3rL52iaX9pj9m20mEJoQoAK8Q/0?wx_fmt=jpeg)
 
 文|书航
 
@@ -15,9 +13,7 @@ image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
 
 近段时间，公关危机为企业带来的伤害，可能比以前更严重和更长远。对舆论风向，潜在风险的预测和调控，日益成为社交媒体运营的头等大事。
 
-![](https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png)
-
-处罚远不止停业整顿
+**处罚远不止停业整顿**
 
 8月21日，有几张以电影《二十二》为基础的动图成为了“热门表情”，这些表情的主人公是二战慰安妇幸存者。她们被放在一个严肃的语境中讨论，而当她们被做成表情包的时候，社会的回应更多是愤怒，官方媒体也纷纷批评 [1]。
 
@@ -29,9 +25,7 @@ image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
 
 他们在官网 [4] 除了放置处罚责任书，还附上了前后一共三次发微博道歉的截图。在微博回查相关帖子，可以发现排山倒海、铺天盖地的谩骂和诅咒，都是希望公司早日倒闭，创始人被打翻在地踏上一只脚。似乎表情包不是针对慰安妇，而是针对这些评论人士自己刚刚去世的家族长辈一般。
 
-![](https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/02.png)
-
-不给申辩机会
+**不给申辩机会**
 
 所谓“常在河边走，哪能不湿鞋”。似颜绘官方声明说因为“年轻编辑的疏忽大意，历史政治意识薄弱”。这是非常容易理解的错误，只要设身处地，想一想作为一个新媒体编辑，在追热点时候的狼奔豕突、手忙脚乱，就一定有体会。然而，评论当中的谩骂根本不给他们任何申辩的机会。
 
@@ -43,9 +37,7 @@ image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
 
 也就是说，肯定有人是一边用着表情云提供或原创的表情，一边以最严厉的语言咒骂表情云，这种事情目前正在上演。
 
-![](https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/03.png)
-
-“病来如山倒，病去如抽丝”
+**“病来如山倒，病去如抽丝”**
 
 热点终究会过去，而社交媒体又是健忘的。所以此前，大部分广告主和相关产业链企业，对于偶然发生的公关危机都不是特别重视，赔钱或优惠一轮了事，中国尤甚。这催化了大公司在社交媒体运营方面，敢于采用由年轻人主导的模式。哪怕经验不足偶尔犯错，也在可以接受的程度内。
 
@@ -61,9 +53,7 @@ image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
 
 所以，百度情急之下任命年仅25岁的“李叫兽”任公司副总裁，实际上是对社交媒体风险控制强烈需求的一个极端体现。
 
-![](https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/04.png)
-
-投入风控正当时
+**投入风控正当时**
 
 诸如此类的事件呼唤着行业内早日产生专业的风险控制服务，此类懂行的人才现在已经非常抢手。而如果能将社交媒体“牛人”的追热点能力以技术和算法的形式固化下来，任何社交媒体的运营者，都能够在门槛很低的情况下使用，就会是一个非常好的创业方向。
 
@@ -88,5 +78,3 @@ image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.png
 [7] http://www.yicai.com/news/5335818.html
 
 ——END——
-
-![](https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/05.jpg)
