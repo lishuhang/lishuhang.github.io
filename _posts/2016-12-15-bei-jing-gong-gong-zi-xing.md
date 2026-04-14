@@ -7,6 +7,12 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/12/15/bei-jing-gong-gong-zi-xing/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKVH94r2AyEnGlIOZIt5GpZJq629uOTNdLozlwHDpSuJiciaaibceeAdOXR6F5iaOpddJKZcZo5TT1MAw/0?wx_fmt=jpeg)
+北京市政公共自行车开始正式推广其 官方 Android App（iOS 尚未上架）。该应用联合支付宝和芝麻信用，实现了“信用租车”，如此就不需支付 200 块押金，也不必跑去城区屈指可数的几个固定办卡点。
 
-![](https://lishuhang.me/img/2016/12/15/bei-jing-gong-gong-zi-xing/01.jpg)
+同时，市政公共自行车前一个小时免费的政策依然有效。你依然可以在一小时之内，找到一个新的停车点，休息一下，还了再借，就再享受一个小时免费。如此循环即可无限制的免费用车。
+
+已经通过公交卡交了押金的可以在 App 绑定自己的公交卡，只需输入当初注册的卡号（在公交卡正面）之后，开通支付宝小额免密代付，这样通过 App 产生的费用就不会被记入公交卡。在应用中还预留了预存余额以及优惠券功能，不过暂未开通。
+
+全文：http://t.cn/RIq4Htx
+
+*12:50 修正了不准确的付费方法描述*
