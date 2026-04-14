@@ -4,17 +4,38 @@ title: "国行 iPhone 7 Plus 裂成“曲面屏”？你™瞎编的吧？"
 date: 2016-10-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/01.jpg
+image: https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/01.png
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKtxA6IuhDtMQAjkL6Hcbt4deBL3ecQr3sCNU58kf0N4VJ9PlI6ky23ftNKVGvKxOMpbFSIXYuctQ/0?wx_fmt=jpeg)
+*本文中所有链接都点不了，但是你点击***阅读原文***就能点了，嗯。*
 
-![](https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/01.jpg)
+我采访了一位匿名知乎用户遭遇的事故 iPhone 7/iPhone 7 Plus 的上手体验如何？ - 匿名用户的回答 并于今天早上发了出去。国内网友官网购 iPhone 7 Plus 开裂 屏幕翘起
 
-![](https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/02.jpg)
+文章发出后有很多网友质疑，在此稍作回答：
 
-![](https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/03.jpg)
+**1. 图片是iPhone 6 Plus或者6S Plus吧？7哪有这样的天线？**
 
-![](https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/04.jpg)
 
-> 微信公众号 lifeissohappy知乎专栏 https://zhuanlan.zhihu.com/lishuhang新浪微博 @lishuhang［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！知乎专栏 https://zhuanlan.zhihu.com/c_45860409微信公众号 zouzhezouzhejiudaole
+实际上，7的正侧面天线位置还真是和6一样，只是翻转到背面的时候，天线拐了上去。
+
+
+事件当事人刚才给我拍摄了角度更清晰的机器照片，也给大家发上来看一下：
+
+**2. 匿名的你都能找出来人是谁还采访，自己瞎编的吧？**
+
+这个回答很简单，是我们在采访过程中，她表示会匿名的——因为我提示了一下她可能会火。在她回答问题后几个小时就推送到我的时间线了，因为我关注的一个人点了赞。
+
+只能说这位当事人同学不属于三无小透明用户，嗯。
+
+**3. 作者还写过三星洗地文，现在洗地难度大了就转移视线，呸。**
+如果你们对洗地文感兴趣可以去围观：知乎专栏
+
+就比如韩春雨那事，当事件性质不明朗的时候，没有专业人士贸然站出来义愤填膺，都在等待科学共同体的验证；而等到更多有力证据指向对他不利的结果时，你才会看到隐藏在那些一开始不发声的人们背后的愤怒。
+
+在 Note 7 确认死透以后我的结论是：再见，Galaxy Note7 - 航通社 - 知乎专栏
+
+**4.**
+
+暂时没了。
+
+//真希望自己也有资格过来回答“iPhone 7/iPhone 7 Plus 的上手体验如何？”的问题呀（星星眼
