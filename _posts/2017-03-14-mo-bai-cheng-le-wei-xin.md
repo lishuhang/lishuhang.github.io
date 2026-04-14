@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/03/14/mo-bai-cheng-le-wei-xin/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLNibtdVs1MM7tfmu4bAXjTtKdyobDsRd4zfmuFUfD0crsFE2Ase0MLumBoKm7sDhzCiambJziaJV4pw/0?wx_fmt=jpeg)
-
 今天晚上我遇到了一位大妈，她拿着微信对准一辆单车上的二维码开始扫描。很显然，微信是她的手机上唯一一个能扫二维码的应用。她问我怎么用，我见她对准的恰好是一辆摩拜，就说直接扫就可以了。紧接着她进入了摩拜单车的小程序，在那里抖抖索索地支付了 299 元押金。
 
 这是一个符合微信小程序“用完即走”初衷的典范场景。难怪微信支付团队在 前几天将摩拜拿出来做为优秀典型 ，来说明微信小程序并非大家说的那样是高开低走。
@@ -29,4 +27,4 @@ image: https://lishuhang.me/img/2017/03/14/mo-bai-cheng-le-wei-xin/01.jpg
 
 原文：http://http://cn.technode.com/post/2017-03-14/mobike-mini-programs/
 
-![](https://lishuhang.me/img/2017/03/14/mo-bai-cheng-le-wei-xin/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658707&idx=1&sn=184d017d248c0797329d58567073ee82&chksm=be969e9f89e11789631147f1b24edc4da5b9fe71569e506bf1a6484d17869335be3f529be195#wechat_redirect)
