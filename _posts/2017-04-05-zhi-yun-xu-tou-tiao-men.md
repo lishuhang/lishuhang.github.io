@@ -4,10 +4,8 @@ title: "只允许头条们抓知乎，就不允许知乎自己做头条？"
 date: 2017-04-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.jpg
+image: https://lishuhang.me/img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHJoNGEKHSLz10YpagSu0QIANRHCWQSyZ7LZzG1uOoHEodL7icAh7N1GzLMjt6K2c42H7I0yOsmPJWA/0?wx_fmt=png)
 
 知乎目前是中国互联网上最令人瞩目的原创内容策源地之一。在这里输出的内容，被源源不断地转移到微博，微信以及各种头条，各种新闻客户端当中。很多人通过其他的渠道读到的内容依然是产生于知乎。
 
@@ -32,7 +30,3 @@ image: https://lishuhang.me/img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.jpg
 随着知乎快马加鞭的走上了商业化和国际化的道路，它似乎彻底认清了自己只能坚持将所有的鸡蛋放在同一个篮子里的路线。就像是当年豆瓣一直分开的十几个App终于在近一两年合成了一个单独的豆瓣应用一样， 知乎正向着进一步成为全民装机必备的应用这一路线大力狂奔。
 
 而这绝对是一条正确的路线。大家都来做各种头条的最大原因，是头条占用了用户们的所谓“国民总时间”。只要一个应用能够足够多的占用用户的时间，在这里面能够完成他所有的需求，那么它到底是不是一个真的头条，这一点并不重要。也许今后我们还可以在知乎里面买东西，交手机话费等等——如果它真的这样做了，请千万不要为此感到惊奇。
-
-新浪
-
-![](https://lishuhang.me/img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.jpg)
