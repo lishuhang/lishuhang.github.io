@@ -4,20 +4,18 @@ title: "大V功成记者枯？舆论英雄和英雄背后的人们"
 date: 2018-07-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/24/da-v-gong-cheng-ji-zhe/01.png
+image: https://lishuhang.me/img/2018/07/24/da-v-gong-cheng-ji-zhe/01.jpg
 ---
 
-👆点航通社订阅 然后置顶公众号
+👆点**航通社**订阅 然后**置顶公众号**
 
-传媒 | 新闻传播学观察
+**传媒** | 新闻传播学观察
 
 3850 字 / 10 分钟
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKR6ibCmxjFCToicCorjTwyJcxO6qaibicHH9TlJ8RqnrUNnrqaKsGlZJ8pRCfUB5hNia7F7hGEib4CS3nQ/640?wx_fmt=jpeg)
+本文首发于**航通社**，原创文章未经授权请勿转载
 
-本文首发于航通社，原创文章未经授权请勿转载
-
-航通社 (ID:lifeissohappy) 微博 @lishuhang
+航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 时至今日，由兽爷《疫苗之王》引爆的疫苗话题，已经进入了舆论意义上的“安全区”，成功地走出了之前险象环生的“深水区”。
 
@@ -129,12 +127,10 @@ image: https://lishuhang.me/img/2018/07/24/da-v-gong-cheng-ji-zhe/01.png
 
 “在未来，每个人都能出名15分钟”
 
-- 从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么
+- [从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659725&idx=1&sn=dacd4729c0458eff5bb9f8c9d0ebbf08&chksm=be96928189e11b970e1f8197eedfa500b74366ed94458cce42cda21a10139460a538d7c953c7&scene=21#wechat_redirect)
 
-- 谁都可以投“差评”，腾讯不可以
+- [谁都可以投“差评”，腾讯不可以](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659747&idx=1&sn=0b6cd7ba6a09199099603c3c2fefcc1b&chksm=be9692af89e11bb9779ae070d08b3363ed044be20dd97a46d50c3548cfc232906cef7313d56c&scene=21#wechat_redirect)
 
-- 祖传区块链，专治假新闻？
+- [祖传区块链，专治假新闻？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659792&idx=1&sn=0cd48860b4020698400f4ed47977bde5&chksm=be9692dc89e11bcaaa13cd14c573b899772bac9183ef43ca5a5a8e2904784a1825de52e71fa3&scene=21#wechat_redirect)
 
-![](https://lishuhang.me/img/2018/07/24/da-v-gong-cheng-ji-zhe/01.png)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”。转载时请保留版权信息。
+欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
