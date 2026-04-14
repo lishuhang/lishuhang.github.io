@@ -4,26 +4,22 @@ title: "《人民日报》官方Twitter“定调”？别拿鸡毛当令箭"
 date: 2018-08-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
+image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 ---
 
-点第一个航通社可以👍喜欢作者
+点第一个**航通社**可以👍**喜欢作者**
 
-点第二个航通社可以⭐设为星标
+点第二个**航通社**可以⭐**设为星标**
 
-传媒 | 新闻传播学观察
+**传媒** | 新闻传播学观察
 
 3300 字 / 9 分钟
 
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHKPO5VCaicKQDubXicBCqfZnT0nlb0ZBDbSBVnocwOiaXtBUQ2D8BBXBvbHMiatH9hSMHJu25oiaNeOvCA/640?wx_fmt=png)
+*本文首发于航通社，原创文章未经授权请勿转载*
 
-本文首发于航通社，原创文章未经授权请勿转载
-
-航通社 (ID:lifeissohappy) 微博 @lishuhang
+*航通社 (ID:lifeissohappy) 微博 @lishuhang*
 
 昨天，因为《人民日报》的官方Twitter帐号发布了一篇名为《稳定是中国互联网开放的重要前提》的文章，业界似乎更加确定了谷歌入华获得“首肯”的信号；而李彦宏也在今天中午通过微信朋友圈回应此事。
-
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png)
 
 不过，并不是所有跟《人民日报》四个字沾边的消息，都足以从中分析出微言大义来。
 
@@ -34,8 +30,6 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 由于这是《人民日报》的官方帐号，也引发了国内外媒体的猜测。不过到今天下午截稿时，该文的各个版本都已被删除。
 
 实际上，这篇文章并非出自《人民日报》或《人民日报海外版》，而是刊登在8月5日的《环球时报英文版》（Global Times）。其作者是该报一位经常署名的社论作者Yu Ning（未检查到中文名）。（http://www.globaltimes.cn/content/1113992.shtml）
-
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/02.png)
 
 该文也没有在中文版《环球时报》上发布，这可能因为8月5日是周日，而中文版报纸周日不出刊。翻查前几天或者后几天的报纸，也没发现同题中文版稿件。
 
@@ -51,13 +45,11 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 
 但有时此类评论文章也会出问题。2013年，该报《北京副刊》刊登了名为Amulet Mok的作者写的文章《不要和处女睡觉》（Never sleep with a virgin），引起了许多人的争论乃至误解。（http://www.globaltimes.cn/content/780964.shtml）
 
-那么问题来了，如果你知道这篇文章是出自《环球时报英文版》，而不是《人民日报》，你还会以现在这样的关注度，来看待和解读它所发出的“信号”吗？
+那么问题来了，**如果你知道这篇文章是出自《环球时报英文版》，而不是《人民日报》**，你还会以现在这样的关注度，来看待和解读它所发出的“信号”吗？
 
 更不用说，《人民日报》官方帐号转发的文章不都代表该报的意见，更不都是“社论”级别，早就应该是网民的一个“常识”了。
 
 人民日报社旗下新媒体矩阵有几十个帐号，其中“人民日报”法人微信每天会推送很多次，微博发文就更是频繁，而其中总免不了会有一些转载自民间作者的文章，涉及职场、家庭、养生这些方面。
-
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/03.png)
 
 不同公众号之间甚至互相打架。去年9月，豆瓣评分系统遭受质疑，“人民日报”微信号发布文章《豆瓣、猫眼电影评分面临信用危机 恶评伤害电影产业》。
 
@@ -75,7 +67,7 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 
 例如，其以 #YangtzeRiverStories （#长江故事）作为主题，向国外读者译介最近的一个重磅系列报道《大江奔流——来自长江经济带的报道》。
 
-英文翻译和中文原文相比，最大限度保留了中文报道包含的关键信息，但采用了海外读者喜闻乐见的短平快的文风，去除了部分偏抒情式，富有文采的表述。
+英文翻译和中文原文相比，**最大限度保留了中文报道包含的关键信息，但采用了海外读者喜闻乐见的短平快的文风，去除了部分偏抒情式，富有文采的表述**。
 
 例如《中国“光谷”在武汉闪耀》（China’s Optic Valley shines in Wuhan）一文，是编译自国内报纸的《武汉，再造绿色新动能》。（http://politics.people.com.cn/n1/2018/0807/c1001-30212507.html）
 
@@ -86,8 +78,6 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 有知乎用户发现，《人民日报》海外社交媒体账号的热度背后，都有真实的用户关注和点赞作为支撑，“中国人非常少，美国人也不多，主要是中亚、非洲、中东地区的关注者比较多。”
 
 （https://www.zhihu.com/question/35099769/answer/61319189）
-
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/04.png)
 
 图 / 知乎用户 Xiao Zhang
 
@@ -105,13 +95,11 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 
 也许，随着梨视频（Pear Video）和抖音（Tik Tok）为代表的更多介绍中国的社交产品登陆海外，官方社交账号的传播优势会受到一定的挑战。
 
-但是比较起来，前景还是很乐观的——因为官方号最大的“吸粉”利器，是天天发熊猫。
+但是比较起来，前景还是很乐观的——因为官方号最大的“吸粉”利器，是**天天发熊猫**。
 
 （https://www.guancha.cn/Celebrity/2016_05_23_361406.shtml）
 
 图 / 微博 @罐装米米
-
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/05.jpg)
 
 在人民日报、CGTN、新华社New China TV等YouTube帐号按照视频热度排列，排在最前面的除了中国的一些超级工程，突发事件报道之外，最多的就是各种各样的滚滚。
 
@@ -121,12 +109,10 @@ image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.png
 
 他们怎样玩转社交网络？
 
-- 开播一月有余，CGTN 该怎样讲好中国故事
+- [开播一月有余，CGTN 该怎样讲好中国故事](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658806&idx=1&sn=058a2bcc1347473366499b478ffdbaf2&chksm=be969efa89e117ec714be3e4d54e94f4aa0e3cc3ec3ecc2b0238a586ee9e67af21f4295b992a&scene=21#wechat_redirect)
 
-- 都说传统媒体凉了，可我们还是在意“上报纸头版”
+- [都说传统媒体凉了，可我们还是在意“上报纸头版”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659444&idx=1&sn=fce485a52fdc14d98362a6eaf423a0f8&chksm=be96937889e11a6eadd9be92d122b639ff3d02c9437a6fbdee446b50d45695024880befb9c50&scene=21#wechat_redirect)
 
-- 摘编微信公众号的《青年文摘》们
+- [摘编微信公众号的《青年文摘》们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530&scene=21#wechat_redirect)
 
-![](https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/06.png)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”。转载时请保留版权信息。
+欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
