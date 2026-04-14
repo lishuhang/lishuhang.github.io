@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "这次，抖音是不是被微信“系统抖动”了？ _"
+title: "这次，抖音是不是被微信“系统抖动”了？ ​"
 date: 2018-03-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.png
+image: https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.jpg
 ---
 
-点上面的蓝字 👆航通社 订阅我们
+点上面的蓝字 **👆****航通社**订阅我们
 
-![](http://mmsns.qpic.cn/mmsns/AdRKyBVLoHKMVDlzGY40aicr1tWPdERrq8f3sicmbo0hicp0t8mZib7y6Q/0)
-
-本文首发于动点科技航通社 (ID:lifeissohappy) 微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技**航通社 (ID:lifeissohappy) 微博：@lishuhang**原创文章，未经授权，请勿转载*
 
 针对 3 月 25 日有抖音视频链接在微信朋友圈中疑似被屏蔽一事，腾讯表示朋友圈有防刷屏策略，某个链接或域名单日分享超过一定阈值就会不可见，过了次日凌晨便恢复正常。“ 这次抖音就属于这种情况，不存在屏蔽一说。” [1]
 
@@ -37,8 +35,6 @@ image: https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.png
 
 后来随着知乎因为违规被有关部门处罚，在应用商店下架 7 天，知乎悄悄的在网页版中取消了大多数必须打开客户端的限制。
 
-![](https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.png)
-
 虽然微博和知乎可能在朋友圈中被分享的概率更高，但两者却更少受到腾讯官方的限流。
 
 这可能与这两家都为了推广自己的客户端而主动限流有关；但仅凭表面证据也不能完全说明，为什么抖音受到的限制会引发更大的讨论。
@@ -57,8 +53,12 @@ image: https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.png
 
 只能说，有人感受到了抖音被屏蔽，然后微信官方否认了。但微信官方是不是真的这么做了，我们可能永远也不会知道。
 
-[1] http://www.tmtpost.com/3149126.html[2] https://cn.technode.com/post/2018-03-12/tik-tok-weibo/[3] https://www.ifanr.com/1001159[4] https://mp.weixin.qq.com/s/g6CNKrtZZxsDzxjq1LqLMA[5] https://www.leiphone.com/news/201507/rF8H9Acit211hYau.html
+[1] http://www.tmtpost.com/3149126.html
+[2] https://cn.technode.com/post/2018-03-12/tik-tok-weibo/
+[3] https://www.ifanr.com/1001159
+[4] https://mp.weixin.qq.com/s/g6CNKrtZZxsDzxjq1LqLMA
+[5] https://www.leiphone.com/news/201507/rF8H9Acit211hYau.html
 
-![](https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/02.png)
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530#wechat_redirect)
