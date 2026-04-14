@@ -7,6 +7,12 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/01/23/fen-da-xiao-jiang-fen-da/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIUtqQeZSwndgMWxibaDPK9ZOp6PQ2Ew8fXsZrrhR907ZzUaSZ9SJUR1iaxrxnicVndyDw1yiaG8khceA/0?wx_fmt=jpeg)
+付费语音课程 “分答小讲”与知乎 Live 的具体差异在于，课程本身并非互动进行，是预先录制好分段收听的。
 
-![](https://lishuhang.me/img/2017/01/23/fen-da-xiao-jiang-fen-da/01.jpg)
+预先录制的节目还允许讲者不被提问打断，能更连贯的输出内容。分答初期要求讲者将时间限制在 20-30 分钟之内，而我听过的几场知乎 Live 讲者经常超时。
+
+付费用户对课程的讨论，随后在单独的讨论组“小讲圈”进行，且不像知乎 Live 般具有付费时间限制，在知乎 Live 满一定数量后，后来付费的用户没有提问权限。在知乎 Live 的用户将先来的有权提问的称为“坐票”，后来只可旁听的称为“站票”。
+
+事实上，除了介质是声音而非文字以外，这种形式更像是罗辑思维的知识付费产品“得到”的模式。因为用户付费获得的产品，是预先做好的，而不是讲者与读者互动而成。只能说这些方式各有利弊。
+
+全文：http://t.cn/RxLGqls
