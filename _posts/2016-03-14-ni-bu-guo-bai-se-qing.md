@@ -23,14 +23,10 @@ image: https://lishuhang.me/img/2016/03/14/ni-bu-guo-bai-se-qing/01.jpg
 
 借用一句顺口溜，“人生路漫漫，各人陪一段”。
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHJVw2lNxu6RWeaf41rtUteDCaNJLX8HiaZfMK011RvibTYAwlUaicOQReI7hWGgP3MaUvkPMLzarWWaQ/0?wx_fmt=png)
-
 即将过去的今天是所谓的白色情人节，是女生向男生敲诈勒索礼物的日子。不知道关注者当中的少女们收获如何？
 
 而对于所有因为各种各样的原因而不能过节的朋友们，以下这张图是献给你们的。
 
-![](https://lishuhang.me/img/2016/03/14/ni-bu-guo-bai-se-qing/01.jpg)
-
 题图／Pixabay
 
-点击 阅读原文 去我的专栏。我发文章的时候还没有更新专栏，但写完了就会更新了。所以我也不知道你点击以后会看到什么更新。没有的话就把过去的文章看一遍。
+点击 **阅读原文** 去我的专栏。我发文章的时候还没有更新专栏，但写完了就会更新了。所以我也不知道你点击以后会看到什么更新。没有的话就把过去的文章看一遍。
