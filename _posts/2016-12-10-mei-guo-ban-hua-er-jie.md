@@ -4,7 +4,13 @@ title: "美国版“华尔街见闻”是怎么倒下的？"
 date: 2016-12-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/10/mei-guo-ban-hua-er-jie/01.png
+image: https://lishuhang.me/img/2016/12/10/mei-guo-ban-hua-er-jie/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJIqmww9TsoqYLr0J8WpWAQN78pdB8VIibOy0jlA0Qial8MIUzDScN0xNyNnMop9OiaWDVjcToEPOZQw/0?wx_fmt=jpeg)
+全世界的新闻出版商，都将受众的手机锁屏看作是一块富有价值的领地。牛津大学路透新闻学研究所今年 11 月发布的一份报告表明，美国的智能手机用户当中，有 1/3 选择打开自己手机上新闻客户端的通知推送功能。这些人大部分都是年轻人，同样大部分都很满意他们所接受到的消息。
+
+推送通知是新闻机构直接接触用户的一种方式，这使得他们不需要把自己的命运完全让给 Facebook、Twitter 这样统治性的社交网络。Breaking News 应用已经被证明是一个非常受欢迎的桌面入口，而且通过社交渠道和全面的第三方嵌入，它的理论覆盖面更广。而关闭它意味着把这个已经成型的入口拱手让给了竞争对手。
+
+也许同类产品——例如华尔街见闻，和附属于大通讯社的快讯服务——都能在未来的尝试当中找到更适合自己的盈利点。但是，Breaking News 在广告和高端服务方面的探索失利，都值得作为一个生动的案例，以作前车之鉴。
+
+全文：http://cn.technode.com/post/2016-12-10/breaking-news-is-shutting-down/
