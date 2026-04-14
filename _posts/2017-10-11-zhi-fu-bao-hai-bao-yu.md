@@ -4,10 +4,8 @@ title: "支付宝海报与德国大选"
 date: 2017-10-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
+image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHI8uc89gZWWnQicCUicNdSCqbXPVbmuRoEia3ZV7UEasWo34UoBFfFIJfrKvYFnPOO4GtotPXfpT21tA/0?wx_fmt=png)
 
 文 | 书航
 
@@ -16,8 +14,6 @@ image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
 比较大的是阿里健康团队疑似抄袭“你今天真好看”应用的事情，还有就是蚂蚁金服联合了 16 家基金公司，在做它们官方财富号的宣传海报当中，出现了一些对没钱人的冷嘲热讽的话，总体取了个名字叫“年龄越大，越没人原谅你的穷”。
 
 这里我不太想多谈那个抄袭事件，因为对于基本上证据确凿，看来也不会有什么反转的抄袭事件，大家都是早有定论的。我主要想谈一下支付宝的海报。
-
-![](https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png)
 
 其实当我第一眼看到这个海报的时候，真的不是特别明白为什么它会引发如此大的谴责声。因为上面说的事情确实能让我感到会心一笑。虽然每一句都扎中了我的心，但是我并不会感到对自己造成侮辱或者冒犯。
 
@@ -32,8 +28,6 @@ image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
 从诉求方面，这种订阅某个号就能够咸鱼翻身的说法，跟以前地铁上某某教育说“你距离大学文凭只差一个电话”，难道不是有异曲同工之妙吗？
 
 所以，这么粗略的一看，站在文案编辑的角度上就会觉得很冤枉，别人做得我做不得！这种事情让支付宝没来由地遭受了一轮暴打，就让人感到很费解。
-
-![](https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/02.png)
 
 我看了一些批评支付宝这个“仇穷”文案的言论，才有点明白过来这次它中枪的理由。
 
@@ -54,8 +48,6 @@ image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
 甚至已经有很多国内外的分析称，互联网巨头正在悄然改变着中国的社会结构以及社会治理，具有一定的公共服务职能。
 
 所以，将政党宣传和全民应用的宣传作比，某个角度来讲也是挺合适的。
-
-![](https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/03.png)
 
 最近刚刚结束的德国大选的结果，恰好可以为支付宝这类的全民应用应该在宣传策略当中扮演的角色，做一个跨界的解释。
 
@@ -79,8 +71,6 @@ image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
 
 如果他们没有学会妥协，他们的政纲依然锋芒毕露，那不仅他们一定会失去另外一部分选民的支持——这对于他们的选举非常危险，同时也意味着他们其实并没有做好一个向成熟的政党蜕变的准备。
 
-![](https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/04.png)
-
 回到支付宝，它原先是在一些懂技术，也完全知道理财的重要性，心理素质也很强，也很有危机感的城市白领当中流传。特别是余额宝在刚刚出现的时候，有很多人还是心怀芥蒂的。
 
 甚至于我的家长一两年前还是坚持说，不要开支付宝和微信，不要网上购物，因为骗子很多。为了省事，我自己也是这么教育他们的。不过最近，就连我爸妈也开始去慢慢的学习和接触支付宝的使用。
@@ -93,6 +83,10 @@ image: https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.png
 
 --END--
 
-[1] http://finance.sina.com.cn/money/bank/bank_hydt/2017-09-28/doc-ifymkwwk6676971.shtml[2] http://opinion.people.com.cn/n1/2017/0815/c1003-29472615.html[3] https://www.zhihu.com/question/22905959[4] http://mp.weixin.qq.com/s/eTb7xPJAyFgdYyI7ZaNvig[5] http://mp.weixin.qq.com/s/0uXqRlfs7byNKZ9IY4MU_w
+[1] http://finance.sina.com.cn/money/bank/bank_hydt/2017-09-28/doc-ifymkwwk6676971.shtml
+[2] http://opinion.people.com.cn/n1/2017/0815/c1003-29472615.html
+[3] https://www.zhihu.com/question/22905959
+[4] http://mp.weixin.qq.com/s/eTb7xPJAyFgdYyI7ZaNvig
+[5] http://mp.weixin.qq.com/s/0uXqRlfs7byNKZ9IY4MU_w
 
-![](https://lishuhang.me/img/2017/10/11/zhi-fu-bao-hai-bao-yu/05.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659003&idx=1&sn=7067ac4a5d9618a400b65c02d6d38ff6&chksm=be9691b789e118a17f342129c73ae4b91c72c1677799499f1d4f99a135a8c5108e8210bc837e#wechat_redirect)
