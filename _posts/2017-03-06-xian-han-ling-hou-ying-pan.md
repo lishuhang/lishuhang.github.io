@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/03/06/xian-han-ling-hou-ying-pan/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKruJJR4p7UHHH5DpPaHGO0Cjibr1AzQSQ8wph0hzfAWsoVreGbAHBnVwd5IiaAibCcpJmod94HH59VA/0?wx_fmt=jpeg)
-
 淘宝发布了一条新规定，搞得ACG行业哀鸿遍野，具体来说就是禁止海淘“出版物”，这样AKB原版饭就没法大量进口带着应援表格的CD了，一些原版的口袋本轻小说、漫画、动画光盘销售也一并受到影响。
 
 一种解读认为，这可能会减少你收寄带有实体载体的图书音像产品，所需要产生的国际邮寄成本，以及在原产地印刷或封装的成本。不同于各种“中国制造”，印刷和光碟制作等在美、日、韩等地本国进行的可能性更大。因此，在购买原版实体书、音像产品时产生的增值收益更多会流入海外，而国内制作的正版可以增进国内印刷等产业的就业。
@@ -43,6 +41,4 @@ image: https://lishuhang.me/img/2017/03/06/xian-han-ling-hou-ying-pan/01.jpg
 
 但对于不得不长久保存的另一些东西，大家可能不得不重新思考一下将服务从网络上迁移回来，返回到本地存储或私有云上的可能性了。而云服务商的私有云、混合云适用范围也可能不仅限于他们宣传的银行和国企——这恐怕对硬盘和服务器厂商是个更大的利好吧。
 
-新浪
-
-![](https://lishuhang.me/img/2017/03/06/xian-han-ling-hou-ying-pan/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658656&idx=1&sn=11003edb9619a59fe4672930812c56bb&chksm=be969e6c89e1177a76ce97fb6cdb3f6777006caa45c187a51fc5ed2cf713f19383ee48fa23cc#wechat_redirect)
