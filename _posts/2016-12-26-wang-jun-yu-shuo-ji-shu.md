@@ -4,10 +4,8 @@ title: "王俊煜说技术是有价值观的，那么他的价值观是什么？
 date: 2016-12-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.jpg
+image: https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHKNDW7Ovxgr9dWaxKcUibtbsNYmsppupPXT9dqNtxT05xPxVZAL5iaZq2ibjian2xvGXbq73TJhMXRvvQ/0?wx_fmt=png)
 
 圣诞节前，豌豆荚联合创始人，轻芒联合创始人王俊煜在知乎说：“技术是有价值观的，取决于你想用来做什么；面对现实不意味着沉沦于现实之中；普通人今天也不仅仅需要娱乐，他们除了娱乐以外，也还需要更多。”几天之后，他的新作品“轻芒杂志”正式发布。
 
@@ -38,8 +36,6 @@ image: https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.jpg
 俊煜自己就说：“现实是人们总是懒惰的、贪婪的、虚荣的、好色的…但现实也并不意味着所有的人都只需要看八卦、娱乐、笑话。我们身上还有另外一面，还希望自己能变得更好。”今年早些时候他们访谈的王同学是22岁的的大四工科生（现已毕业）。他喜欢“键盘政治局”性的军事历史内容，自己看的客户端推送了一个《中南海保镖》，他对推送非常满意。
 
 “当时我们觉得，我们这么小清新的一款应用，他是不会喜欢的，”俊煜说。后来王同学通过找战争主题游戏的资讯用上了轻芒产品，但讲述这个故事的过程中，俊煜对他的定义完全可以看出轻芒的价值观。
-
-![](https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.jpg)
 
 （图／《iPad 生产力指南》少数派）
 
@@ -87,8 +83,6 @@ image: https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.jpg
 
 例如，网传视频“4000流明灯光下微距镜头拍摄的北京雾霾”，某专业机构辟谣：“这是灰，PM 2.5无法用肉眼观察。”然而，微博CEO王高飞批评道：“这种辟谣还不如不辟，公众看到这个视频，心里的第一感觉是‘空气居然这么脏’，你跟公众说‘这不是PM2.5’？这只会让公众觉得你在顾左右而言他，你还不如干脆说这视频伪造的呢。”
 
-![](https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/02.png)
-
 类似这类“事实核查”只会起到反效果，这正是特朗普支持者无视主流媒体“事实核查”的理由：很明显Check哪些Fact也是价值观。
 
 俊煜将轻芒其中一类用户称为“上进青年”，说这个以刚毕业大学生为主的群体，希望通过“罗辑思维，李笑来，知乎Live”等产品让自己变得更好，梦想成功。也许他们是最需要及时引导，以树立正确价值观的群体。但总体上，“事实核查”能力只能通过自我学习来实现。轻芒只是他们的一种选择，不能在根本上越俎代庖。
@@ -99,4 +93,4 @@ image: https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/01.jpg
 
 首发于虎嗅网
 
-![](https://lishuhang.me/img/2016/12/26/wang-jun-yu-shuo-ji-shu/03.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659943&idx=1&sn=7ef482a8ff4e263ed9b84181c8bb9b2c&chksm=be96956b89e11c7da3289a8385aebbd48e00b85ea0cbf75dd7cc79d946273e1b5d2ca5dd7fc0#wechat_redirect)
