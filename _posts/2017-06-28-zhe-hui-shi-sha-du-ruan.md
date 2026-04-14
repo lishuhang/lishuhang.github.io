@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIrCQhzDmaJ95icqj6fCygeREICk3sWI4b6AicmoxhpyI1MV075twLriblkSc9JZk2prWjFmDxGkL6pA/0?wx_fmt=jpeg)
-
 继此前在全球爆发的 WannaCry 勒索病毒之后，部分东欧国家和欧美部分地区相继爆发一种新的勒索病毒 Petya，似乎比 WannaCry 的毒性更强，能够攻击更深层次的文件头部分。
 
 不过专家估计说，Petya 的作者可能会拿到的钱更少了，因为 WannaCry 之后更多人会做安全防范措施，基本上也就等于升级自己的系统。据说本次 Petya 病毒作者对每台中招的机器勒索价值 300 美元的比特币，但是实际上才总共收到 9000 多美元，可谓是广种薄收。
@@ -29,8 +27,6 @@ image: https://lishuhang.me/img/2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg
 
 安全厂商在被操作系统抢了饭碗以后，不妨跟其他一些同样悲惨的开发者学习：他们开发了 Mac／iOS 的一些非常友好的功能，在后续操作系统版本中，这些功能被系统内置，第三方应用的生存空间也被堵死。这类系统增强应用的开发者因此不得不选择新的战场。
 
-![](https://lishuhang.me/img/2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg)
-
 目前的 iOS 以及安卓是安全漏洞的重灾区，将来的物联网、独立 VR／AR 设备、手表、汽车也都应该成为杀毒软件开发者的新战场。安卓在智能手机端的碎片化已经比较严重，而智能硬件本身的固件就更是不能用碎片化形容，可以说以手机作比，其发展阶段还停留在功能机和山寨机时代。
 
 这导致很多安全漏洞不会因为厂商更新而出现在一些旧手机上，但是不安全的终端却依然可以继续使用最新版的应用，用户可以假装漏洞不存在而不升级。这会造成很大的安全隐患。
@@ -42,5 +38,3 @@ image: https://lishuhang.me/img/2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg
 PC 端杀毒软件的式微绝对不意味着安全产业的消亡，而是恰好相反。安全厂商也应该由杀毒软件的变迁历史得到经验，首先是让客户更易用，在无痛无感知的过程中完成主动防御和威胁清理工作，同时也需要为 PC 之后新的主流计算平台做好准备，继续在对恶意威胁的防范工作中占据主动。
 
 动点科技
-
-![](https://lishuhang.me/img/2017/06/28/zhe-hui-shi-sha-du-ruan/02.jpg)
