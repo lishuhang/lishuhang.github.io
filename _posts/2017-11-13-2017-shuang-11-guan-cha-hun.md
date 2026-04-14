@@ -4,10 +4,8 @@ title: "2017双11观察：混乱和疲倦并存 农村要包围城市"
 date: 2017-11-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png
+image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJ8J28ooUqMENp02oMfu7aIrOLUXTb6O6LBv9a8Dcib9vzH7wp8mTIrOlVdU4wxwbuCqhtkCQkzkMw/0?wx_fmt=jpeg)
 
 文 | 书航
 
@@ -17,9 +15,9 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png
 
 在上海的天猫双11媒体中心，我感受到震撼人心的繁荣景象；从朋友圈和知乎、微博里，我却能发现众多的吐槽、质疑和混乱。这就是双11——场外质疑“还能不能办下去”，而台上是一片“明天会更好”。
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png)
+![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/02.png)
 
-谁先到1000亿？
+**谁先到1000亿？**
 
 每年天猫双11都会安排记者竞猜交易额的环节。去年是1207亿，看着历年交易额曲线，我很保守的猜了1400亿。但很快我看到分析师说应该是1800亿，还有更多人猜测上了2000亿。我不由得有点后悔。
 
@@ -33,9 +31,9 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png
 
 在场的很多记者认为二者是半斤八两，双11期间让自己平台的商家囤货，让数据变好看一点，都是在意料之中的。同为在美国上市的企业，如今的投资者正用越发严格的眼光审视阿里和京东这两只巨无霸——很多没挤上车的投资者其实也暗地希望发生点什么黑天鹅事件，好让他们有机会买入这两家的股票。
 
-优惠体系如高数般复杂
+![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/03.png)
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/02.png)
+**优惠体系如高数般复杂**
 
 让女记者或男记者的爱人们更关注的，是这次双11近乎奇葩的优惠体系。
 
@@ -51,9 +49,9 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png
 
 另一方面，通过“变态”规则来干扰消费者的空间也在不断压缩。多年连续参加双11的消费者会对薅得越来越困难的羊毛产生审美疲劳，索性就不怎么买了。另一些人平时就不怎么仔细阅读条款小字，比如领了几百上千元的券，11号当天才发现这不能用那不能用，还得有一堆附加条件，这种“上当受骗”的感觉会更加明显。
 
-希望在城市之外
+![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/04.png)
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/03.png)
+**希望在城市之外**
 
 双11走到现在，正处于一种“走钢丝般”的危险平衡，商家和消费者各有各的疲倦和不满。近年来，天猫双11同比GMV增幅一路走低，相比2015年GMV同比59.74%的增幅，2016年同比仅增长32.32%，下降了非常多；今年比2016年增长39.35%，增幅有补偿性的回升。
 
@@ -77,4 +75,4 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.png
 
 -END-
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/04.jpg)
+![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/05.jpg)
