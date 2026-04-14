@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/01/30/wei-ruan-li-shi-shang-zui/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHJEQujnJ2750FjwF9VAQrNuiat8F3Ome6kfrRSJp1WQaFGsVw4KcyCSLudUl4SGhhWV9kT0UhNSzicA/640?wx_fmt=png)
-
 文 | 书航
 
 Raymond Chen 在微软所有程序员里可能是最有意思的一位，这不仅因为他在微软忠心耿耿的服务了十余年——这种资历可不寻常，而且他还勤奋写作关于公司以及 Windows 开发制作的“黑历史”，在微软官方的支持下就此出了一本书。书籍的大部分内容可以在他位于 MSDN 的官方博客 “The Old New Thing” [1] 上看到。
@@ -17,7 +15,7 @@ Raymond 讲的段子并非所有的都是通俗易懂，但下面这条发布于
 
 最流行的操作系统肯定就是 Windows XP，相信这没什么争议。另一方面，我们都知道微软在 90 年代中期曾经推出过一款非常不成功的导览软件，叫做微软“鲍勃”（Bob）。这款软件虽然有包括拟人化居家环境和生动的小狗助手在内的功能，部分还沿用到了后续产品当中；但是实际上并没有多少人真正购买。
 
-不过“鲍勃”在 Windows XP 的发行过程中却发挥了一个非常特殊的作用： 反盗版 。
+不过“鲍勃”在 Windows XP 的发行过程中却发挥了一个非常特殊的作用： **反盗版** 。
 
 2001 年，微软要发布 Windows XP 的数字拷贝，它装在一张标准的 CD-ROM 光盘里面，容量大约是 700MB。在容纳了所有的程序文件、本地化文件、一些必要的驱动程序等等之后，依然还剩下大概 30M 的空间没有利用。
 
@@ -35,7 +33,8 @@ Raymond 讲的段子并非所有的都是通俗易懂，但下面这条发布于
 
 数不清的用户其实并未发现他们随机收到附赠的微软“鲍勃”，尽管他们根本无法打开它。——没人可以打开它：那位微软程序员当初加密用的密码是手滚键盘胡乱设置的，他自己后来也忘了（至少 Raymond 是这么说的）。
 
-[1] https://blogs.msdn.microsoft.com/oldnewthing/[2] https://technet.microsoft.com/en-us/library/2008.07.windowsconfidential.aspx
+[1] https://blogs.msdn.microsoft.com/oldnewthing/
+[2] https://technet.microsoft.com/en-us/library/2008.07.windowsconfidential.aspx
 
 原创文章 未经授权 请勿转载
 
@@ -45,4 +44,4 @@ Raymond 讲的段子并非所有的都是通俗易懂，但下面这条发布于
 
 微博：@lishuhang
 
-![](https://lishuhang.me/img/2018/01/30/wei-ruan-li-shi-shang-zui/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659351&idx=1&sn=69d43a28e25538ced4bb742dde1ac042&chksm=be96931b89e11a0da12269b5e47546ed8601845a638d1beca3ecf23d084ddebc4da084ad03c8#wechat_redirect)
