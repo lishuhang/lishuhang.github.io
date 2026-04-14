@@ -7,9 +7,7 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 ---
 
-👆点击名字订阅【航通社】公众号
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKiakUlbdQCPMlmicTFjEFCab9lAqvd5wRb4e8Xvwia1iax5TMgQS9ISpdI5IbHyHPS3T1QHXjDVzTN1w/640?wx_fmt=jpeg)
+**👆点击名字订阅【航通社】公众号**
 
 文 / 书航
 
@@ -17,7 +15,9 @@ image: https://lishuhang.me/img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 
 苹果宣布 [2] 关注此事并与该用户一同调查事件。同时披露的信息还有以下几点：
 
-（1）苹果没有办法访问用户的任何个人隐私内容，（2）这位工作人员在事件发生之前近一个月就已经递交了离职申请，（3）腾讯科技的报道称，他是苹果的外包人员 [3] 。
+（1）苹果没有办法访问用户的任何个人隐私内容，
+（2）这位工作人员在事件发生之前近一个月就已经递交了离职申请，
+（3）腾讯科技的报道称，他是苹果的外包人员 [3] 。
 
 苹果能多大程度上掌握用户的个人信息？这是所有关心此事的用户的最大疑问。对这个问题的解答可以帮助为事件定性 ：是任何一名客服都拥有权限挟私报复，还是这只是某个有其他手段破解客户资料的客服造成的一例个案。
 
@@ -47,8 +47,11 @@ image: https://lishuhang.me/img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 
 如果要让苹果“享受”到”更高的待遇”，就要期待国内 iCloud 用户的信心被集体摧毁，促使他们不惜一切代价，也要把存在网上的几十上百个 G 的照片和其他一些数据撤回来；或者等到国外网友也有类似经历，在国外社交网络同样传播一回才行。
 
-[1] http://tech.sina.com.cn/mobile/n/n/2018-03-06/doc-ifxipenn8630989.shtml[2] http://tech.sina.com.cn/mobile/n/n/2018-03-08/doc-ifxpwyhw0009430.shtml[3] https://cn.technode.com/post/2018-03-09/apple-icloud-3-5/[4] https://finance.qq.com/a/20160422/044012.htm[5] http://www.xdkb.net/index/article/2018-03/05/content_1086087.htm[6] https://cn.technode.com/post/2018-02-25/apple-icloud-security-keys-guizhou/
+[1] http://tech.sina.com.cn/mobile/n/n/2018-03-06/doc-ifxipenn8630989.shtml
+[2] http://tech.sina.com.cn/mobile/n/n/2018-03-08/doc-ifxpwyhw0009430.shtml
+[3] https://cn.technode.com/post/2018-03-09/apple-icloud-3-5/
+[4] https://finance.qq.com/a/20160422/044012.htm
+[5] http://www.xdkb.net/index/article/2018-03/05/content_1086087.htm
+[6] https://cn.technode.com/post/2018-02-25/apple-icloud-security-keys-guizhou/
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载欢迎转发到朋友圈
-
-![](https://lishuhang.me/img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg)
+*本文首发于动点科技**微信公众号：航通社 (ID:lifeissohappy)**微博：@lishuhang**原创文章，未经授权，请勿转载**欢迎转发到朋友圈*
