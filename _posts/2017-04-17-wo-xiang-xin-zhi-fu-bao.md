@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/04/17/wo-xiang-xin-zhi-fu-bao/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKr3UxaHic2yiaQ2uTIY3XLtHns9MAYjkzRfrUcwiafO1ibpfBqXn0RRkUNC7AUj9pOcTkhZN5ksyTOXQ/0?wx_fmt=jpeg)
-
 彭蕾曾在“校园日记”事情之后道歉说支付宝要重新把焦点集中在支付场景上，放弃发展社交的道路。然而并没有多少人信。之前支付宝“班委”曾对外表示，做聊天功能只是为了完善交易场景使之直观化，而不是为了把支付宝变成微信，但不断增肥的安装包，占用的系统资源，以及更显著醒目的推广位置，都让这些解释成为徒劳。
 
 不做社交，支付宝就难以成为高频应用——至少很多人表面理解如此。毕竟，驻留后台的微信随时都可以打开；而支付宝庞大臃肿，启动得等上半天，尤其是在快没电的时候。启动速度的短暂差距，也许就是让人取舍的分水岭。
@@ -29,4 +27,4 @@ image: https://lishuhang.me/img/2017/04/17/wo-xiang-xin-zhi-fu-bao/01.jpg
 
 动点科技
 
-![](https://lishuhang.me/img/2017/04/17/wo-xiang-xin-zhi-fu-bao/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658756&idx=1&sn=8ea975b3f98bbc87610c76be03f43a20&chksm=be969ec889e117de803c28654d5c918368cf2e601603e8767ee002c182a25854d7795426b5f3#wechat_redirect)
