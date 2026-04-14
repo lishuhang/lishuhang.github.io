@@ -4,10 +4,8 @@ title: "“程序员不好找对象”到底该怎么破"
 date: 2017-09-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png
+image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLaWYuUqrOpvImjQibhWx7VjHMLRbg44cdXfvy4BMdpepbN8avkFN5iaUvPu1l2Z4qwKOae8bYMflvg/0?wx_fmt=jpeg)
 
 文|书航
 
@@ -21,8 +19,6 @@ image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png
 
 你看，这个人介绍写的真是栩栩如生，三两笔你就知道这人大概是个什么样子。你会发现，这种文字风格是一种简单有效的筛选器，让不符合条件的女士可以自愿离开，不用浪费时间。
 
-![](https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png)
-
 婚介平台，父母介绍，亲友介绍，自己认识，去公园相亲角……你选择了不同的筛选器，你就会遇到不同的对手。
 
 在婚介平台，特别是宣传上针对大龄未婚恨嫁青年的平台，你大概率会找到自卑内向，不愿见人，软弱可欺的男性，和不知是不是骗子，反正都很少的女性。
@@ -32,8 +28,6 @@ image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png
 反过来，在女多男少的地方，例如刚刚启动的直播平台，也得平台给网红主播灌点儿水，才能“冷启动”。
 
 对于专业骗婚人士而言，在没有办法时注册婚恋网站的（男性居多），天生就好比待宰的羔羊一样。这也是个绝佳的筛选器，只不过筛选结果对处于渴求中的一方而言毫无意义。
-
-![](https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/02.png)
 
 程序员遭遇“骗婚”自杀的大新闻，还带来另一个讨论，是针对所谓“程序员”或者“IT 男”思维。
 
@@ -53,8 +47,6 @@ image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png
 
 现在回想起来，还是女性在 IT 互联网的圈子里太少了。
 
-![](https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/03.png)
-
 我们依然会时不时看到公司年会上请女优，“程序员鼓励师”做花瓶，无处不在的职场性骚扰，对女性生育赶尽杀绝的规则设计。职场依然是一个对女性不友好的环境，而程序员、产品经理、创业者们的圈子，更甚。
 
 曾看到有人问，为什么一部分农村地区男女比例这么悬殊，还是改变不了生儿子吃香的观念。互联网圈也是男女比例悬殊，但整体上针对男性设计的职场环境和文化，不也没什么改变么？
@@ -64,5 +56,3 @@ image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.png
 让程序员在工作和生活圈当中遇到女性同行，他们当然可以成就一场更美满的姻缘。但这做起来太难了，所以程序员们也就只好继续“不好找对象”下去。
 
 ---END---
-
-![](https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/04.jpg)
