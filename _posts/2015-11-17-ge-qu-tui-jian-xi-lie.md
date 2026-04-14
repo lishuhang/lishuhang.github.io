@@ -4,19 +4,45 @@ title: "#歌曲推荐#系列歌单：每时每刻"
 date: 2015-11-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/01.png
+image: https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHKNxfLTPpES4fAj6E88S0Ox3micwDUASBGPqh0kFqyuL8icdiaWOhVpNkW9I3zlHoBUHdw48e1gqORBA/0?wx_fmt=png)
+从晨曦初露到暮色深沉，一天中5个时段的背景音乐，会在我窗边放出，陪伴每一天……
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/01.png)
+每时每刻-0530
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/02.png)
+05：30 起床 洗漱
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/03.png)
+05：40 上地铁 在地铁上处理当日微信、微博、知乎和工作清单
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/04.png)
+06：00 到奥森跑5+3km（是什么支撑你跑完五公里？ - 知乎用户的回答）
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/05.png)
+07：40 回来洗澡
 
-![](https://lishuhang.me/img/2015/11/17/ge-qu-tui-jian-xi-lie/06.jpg)
+每时每刻-0800
+
+08：00 早餐（糖分较低的水果）
+
+08：30 上午时段的工作
+
+每时每刻-1330
+
+12：30 午餐（只能吃鱼肉、鸡胸肉和蔬菜，饱腹同时限制热量和油）
+
+13：00 下午时段的工作
+
+每时每刻-1700
+
+17：30 健身时段2（室内）
+
+19：00 晚餐（蔬菜沙拉）
+
+19：30 晚间学习或休息时段
+
+每时每刻-2130
+
+22：00 睡觉
+
+歌曲推荐 - 网易云音乐
+
+查看这6个纯音乐歌单以及曾在博客推荐过的其他歌曲：网易云音乐 听见好时光
