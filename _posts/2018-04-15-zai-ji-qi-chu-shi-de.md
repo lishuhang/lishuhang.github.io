@@ -4,16 +4,14 @@ title: "在机器出事的时刻，人类要像机器一样操作"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/zai-ji-qi-chu-shi-de/01.png
+image: https://lishuhang.me/img/2018/04/15/zai-ji-qi-chu-shi-de/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHLdd7kXqMWoQVpL9yLH1CxicGvD4PkSAWzJjNDfK0yhIB0bkA9wyzFAadnQ9j72gZL43pYTpCV5lWg/640?wx_fmt=png)
+点上面的蓝字 **航通社 👆**订阅我们
 
 本文首发于动点科技，原创文章，未经授权，请勿转载。
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 **(ID:lifeissohappy)** 微博：**@lishuhang**
 
 最近重温了《萨利机长》这部影片，讲述 2009 年在哈得孙河奇迹般地迫降飞机的萨伦伯格机长英勇事迹。
 
@@ -75,6 +73,6 @@ NTSB 在模拟飞行时发现，虽然遭鸟击后立刻着手操作倒是有可
 
 就像我感谢和信赖这位随时待命的值班人一样，我也相信未来只有极少数人，有义务担负现在萨利机长这样的责任：在机器出故障的时刻，像机器一样操作。而这些人，应该得到比现在的驾驶员、司机、值班员等等岗位更高的社会地位，和更多的奖赏。
 
-![](https://lishuhang.me/img/2018/04/15/zai-ji-qi-chu-shi-de/01.png)
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659689&idx=1&sn=c9bdaa3d463e202fbe8c6f4d6bacb6b8&chksm=be96926589e11b73cccdf3aae93c3659903295b2ed75911bd59ea709f7ea477a57b23a46504d#wechat_redirect)
