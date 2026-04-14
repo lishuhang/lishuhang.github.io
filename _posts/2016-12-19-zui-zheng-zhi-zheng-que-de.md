@@ -7,6 +7,14 @@ tags: [科技]
 image: https://lishuhang.me/img/2016/12/19/zui-zheng-zhi-zheng-que-de/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIoKsgAvkYPFibKsGxQr5YfV2cib7YvG09LJko2EoVF4vAQzgkH0wgsoxRMPKrzLlQ35icXxpvicmRJPw/0?wx_fmt=jpeg)
+媒体主要分析了谷歌、Facebook、雅虎、微软、Airbnb 和苹果这六家公司 2015 年的“多样性报告”数据。他们的主要批评包括：
 
-![](https://lishuhang.me/img/2016/12/19/zui-zheng-zhi-zheng-que-de/01.jpg)
+1. 一些基本指标原地踏步。Facebook、雅虎、Airbnb 和谷歌的非裔员工比例仅为 1%，和 2014 年相比几乎没有变化。
+
+2. 单纯为满足 KPI 招聘的少数族裔员工，无法解决两种或以上因素叠加造成的复合歧视。例如，大多数多样性举措表示会招聘更多的女性员工，但最终的结果往往都是招聘更多的白人女性。有色人种女性面临的具体问题常被忽略。
+
+3. 在非白人员工当中，部分公司亚裔员工数量明显高于其他族裔，例如 Airbnb 的白人员工比例在几家公司中最低，为 48％；但其技术团队并不是“多样化的”，其中 91%的技术人员为白人或亚裔。
+
+4. 跟上一条互相矛盾的是，亚裔员工往往会在从中基层升职过程中遭遇障碍，相对于指代女性的“玻璃天花板”，这一现象被称为“竹子天花板”（2005 年由 Jane Hyun 提出）。如今，亚裔依然在高管团队中严重缺席。
+
+全文：http://http://cn.technode.com/post/2016-12-19/silicon-valley-diversity-report/
