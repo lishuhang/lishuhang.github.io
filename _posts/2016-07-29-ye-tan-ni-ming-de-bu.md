@@ -4,7 +4,7 @@ title: "也谈匿名的不友好评论"
 date: 2016-07-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/29/ye-tan-ni-ming-de-bu/01.png
+image: https://lishuhang.me/img/2016/07/29/ye-tan-ni-ming-de-bu/01.jpg
 ---
 
 很久之前活跃在知乎上的一位著名用户，在出了自己实名写的书之后，改换成自己的真实姓名又回到了这个平台上。不过，他的专栏现在已经禁止评论了。
@@ -28,8 +28,6 @@ image: https://lishuhang.me/img/2016/07/29/ye-tan-ni-ming-de-bu/01.png
 只是对我自己的要求上，我觉得，自己能够对从没谋面的第三人给予的任何风言风语或者负面评论都保持正常态度，其实要得益于我还小的时候就遭遇过毒性比较低的版本。我到现在也感谢cnBeta对我的训练，造就了我这样的性格，可以让我在大风浪当中处之泰然，并且有能力至少在这一特定方面，也能保护最爱的人。
 
 题图：Flickr
-
-> 微信公众号 lifeissohappy知乎专栏 https://zhuanlan.zhihu.com/lishuhang新浪微博 @lishuhang
 
 微信公众号 lifeissohappy
 
