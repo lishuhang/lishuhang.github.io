@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "你喊破喉咙，抵制也不会_成功_"
+title: "你喊破喉咙，抵制也不会&quot;成功&quot;"
 date: 2017-07-19
 categories: 文章
 tags: [科技]
 image: https://lishuhang.me/img/2017/07/19/ni-han-po-hou-long-di/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIpS75bibXdFSt2I5NiasVJTZ0PwiavZX1S0bj57N8ibG3kxAmPbKlGPw6kvulG6BGpknTu6zkgd9vkWg/0?wx_fmt=jpeg)
 
 美团外卖的一份宣传物料成为了近几天争议的焦点，说美团外卖使用单独的送餐箱服务穆斯林顾客。对这一宣传的抵制之声不绝于耳，可说是捅了当今网上政治正确的马蜂窝。
 
@@ -27,8 +25,6 @@ image: https://lishuhang.me/img/2017/07/19/ni-han-po-hou-long-di/01.jpg
 
 对于抵制的虎头蛇尾不仅中国独有。几个月前美联航粗暴对待一位因“超售”被赶下飞机的越南裔人士一事，有关的网民抵制仅仅持续了最多一个月时间。此后再出消息已经是在几周前，美联航据称采用了最新的计算机系统，可妥善安排受超售影响的乘客。随着当事人接受了钱款赔偿以及达成和解，此事也逐渐被人们遗忘。
 
-![](https://lishuhang.me/img/2017/07/19/ni-han-po-hou-long-di/01.jpg)
-
 我们无须举出更多例子，就可以说明，如果抵制单纯是为了看到公司业绩受损，甚至倒闭算球，那么它可能确实不能成功。抵制始终无效的最关键原因在于，利益受损通常只作用于个别用户，其他绝大部分用户只是道义上的声援，而不是自身实际的利益相关方。那么，如果企业给点儿小恩小惠，他们自然也就掉转风向了，这简直太正常了。
 
 而我要说的，也不是说我们不应该抵制，不应该发出批评声音。我并不会因为一个事情做了没有结果，就说它没有意义。
@@ -42,5 +38,3 @@ image: https://lishuhang.me/img/2017/07/19/ni-han-po-hou-long-di/01.jpg
 只有一个必要的提醒，就是要告诉大家，不要对任何民间行动抱有过分的期待，要做的只是完成自己要表达的诉求，这就算是尽人事听天命了。
 
 我想，天空不会留下鸟儿飞过的痕迹，但它们飞过的事实则就摆在那里，并总会带来比一只蝴蝶扇动翅膀更大的响动。
-
-![](https://lishuhang.me/img/2017/07/19/ni-han-po-hou-long-di/02.jpg)
