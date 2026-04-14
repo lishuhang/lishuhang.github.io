@@ -4,24 +4,20 @@ title: "小蓝重回北京，但可能还没到打价格战的时候"
 date: 2018-03-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.png
+image: https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.jpg
 ---
 
-点击【航通社】👆订阅公众号
+*点击****【航通社】👆****订阅**公众号*
 
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHLKgAicW4kNCEhA8m4uuFgMicpOBtYlnMaiaUm5icWgicxRdqoANIicNNRzw50kpA9emyc7WDXMRDEzaylw/640?wx_fmt=png)
+*本文首发于动点科技*
 
-本文首发于动点科技
+*微信公号：航通社 (ID:lifeissohappy)  微博：@lishuhang*
 
-微信公号：航通社 (ID:lifeissohappy)  微博：@lishuhang
-
-原创文章，未经授权，请勿转载
+*原创文章，未经授权，请勿转载*
 
 这两天在北京多地，上下班的打工一族可能会发现，被滴滴接管的小蓝单车高调回到了市场上。
 
 例如上面的照片就是在望京 SOHO 楼底和附近地铁口拍到的，一列排到整整齐齐的小蓝单车旁边，有工作人员用大喇叭对来往行人喊话说“最好骑的共享单车小蓝单车又回来了”。
-
-![](https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.png)
 
 就在我前几天说 ofo 在摩拜停止补贴的情况下，仍然能慷慨送出免费券之后不久，ofo 对大多数老用户取消了 1 块钱的免费骑车券。
 
@@ -49,8 +45,6 @@ image: https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.png
 
 但是这实际上是依靠通过变速减缓车速来实现的，这样做的代价就是速度怎么也提不起来，甚至有时会给你一种在原地打转，并没有前进的印象。
 
-![](https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/02.png)
-
 说完用户体验，再来说说押金这个历史遗留问题。
 
 当初滴滴是宣布接管小蓝单车，而并不是原先人们所预料的收购或注资。正因为是接管单车资源，而没有接下其他的债务，所以滴滴并没有主动承担起退还用户押金的责任。
@@ -63,8 +57,6 @@ image: https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.png
 
 之前 A 站运营困难的时候，其实就是各方金主在价格上没有谈拢，在来回拉锯扯皮的过程当中，不断的消磨 A 站最后剩余价值。由此足以看出商业斗争的残酷。
 
-![](https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/03.png)
-
 滴滴在共享单车方面有布局，但接连遭遇意外。主要押注的 ofo 不听话，并且想借助最近一次融资加借款跳入阿里怀抱。而滴滴自营单车品牌青桔在深圳投放，又因为没有及时打招呼而被叫停。
 
 但即使有以上问题，只要可以打着重新翻新小蓝单车，盘活现有单车资源的旗号，滴滴也完全可以投新车。
@@ -75,8 +67,8 @@ image: https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.png
 
 那么今年我们是否能看到共享单车重新开打价格战，继续让我们免费骑车？这就要看滴滴在另外的外卖和打车战场上，跟美团的缠斗结果如何，毕竟它不能多线作战，要等收拾完一个战场，再来打下一场仗。
 
-![](https://lishuhang.me/img/2018/03/25/xiao-lan-zhong-hui-bei-jing/04.jpg)
+*～欢迎转发到朋友圈～*
 
-～欢迎转发到朋友圈～
-
-商业转载和引用请在公众号对话框输入关键字【转载】
+*商业转载和引用
+请在公众号对话框
+输入关键字【**转载**】*
