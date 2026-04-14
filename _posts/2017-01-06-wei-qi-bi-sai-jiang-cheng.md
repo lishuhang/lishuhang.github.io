@@ -7,10 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/01/06/wei-qi-bi-sai-jiang-cheng/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHK4eGicV6x0Bc3Ow373kJmkuywjLqcB3vfkicla7IRV4PhqmLlYvFv9BeVr3cp3OdP4wiaKUETm5zfAg/0?wx_fmt=jpeg)
-
-> Master真实身份就是AlphaGo，对此你意外吗？
-
 在AlphaGo还没有官方承认自己就是那个将所有人类围棋高手挑落马下的Master之前，人们对Master的身份进行各种猜测，回顾起来，也是充满了乐趣。
 
 例如，有些人想起了日本漫画《棋魂》中以“灵魂”形式存在的大国手藤原佐为，也有人说可能是某两位因身体原因引退的前围棋大师。在猜测范围逐渐缩小之后，各方更清晰地认为这可能是一个人工智能。但是，除了大多数人认为这是AlphaGo之外，也有人认为这可能是韩国、日本公司或腾讯、百度等开发的同类产品。
@@ -31,4 +27,4 @@ image: https://lishuhang.me/img/2017/01/06/wei-qi-bi-sai-jiang-cheng/01.jpg
 
 今日头条
 
-![](https://lishuhang.me/img/2017/01/06/wei-qi-bi-sai-jiang-cheng/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658683&idx=1&sn=e2caf0008d5e3054dc402ba863ce6e6a&chksm=be969e7789e11761cf4e973c0b5616fb6a01188baba0de1ff455d90559986bc7e3420ca2ef73#wechat_redirect)
