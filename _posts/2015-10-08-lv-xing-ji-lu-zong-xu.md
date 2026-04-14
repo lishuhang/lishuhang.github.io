@@ -4,7 +4,7 @@ title: "#旅行记录#总序：旅行的意义就是确认"
 date: 2015-10-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/10/08/lv-xing-ji-lu-zong-xu/01.png
+image: https://lishuhang.me/img/2015/10/08/lv-xing-ji-lu-zong-xu/01.jpg
 ---
 
 从今天起，我在知乎专栏和微信公众号连载“旅行记录”系列文章。
@@ -52,5 +52,3 @@ image: https://lishuhang.me/img/2015/10/08/lv-xing-ji-lu-zong-xu/01.png
 景点前的①②③等小圈数字为游览顺序。如果想按日程回顾我的行程，可以按照数字顺序阅读。
 
 除了在微信公众号和知乎专栏连载，本系列也将推送到所有允许发布科技话题之外主题的自媒体平台上。想要完整查看本系列，可以订阅本专栏或者微信公众号：lifeissohappy。
-
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHJasJOOfwdZlBs26iaMf1Y4eC83Oo5OicGjBEQ4SPBQKuhFI6VaCAE9yYfgRg0Y6OySYLgwNG4v1I9w/0?wx_fmt=gif)
