@@ -4,10 +4,8 @@ title: "在知道你何时何地消费之后，支付宝还想知道你买了什
 date: 2017-09-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png
+image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLpiaVCqMjWagr4QiaeO8cpHicyvlsXiconrjwRguXj450xFMcLbe0EBuOlE60VQXyhhOpqnm6REaIljA/0?wx_fmt=jpeg)
 
 文|书航
 
@@ -15,11 +13,9 @@ image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png
 
 因为现在蚂蚁金服的 CRM 解决方案统一冠以口碑品牌，所以这个自助结账方案没有以“支付宝”的名义推出。
 
-![](https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png)
+**方案可近乎 0 成本部署**
 
-方案可近乎 0 成本部署
-
-我曾经写过 《便利蜂和莲花 Go》 说了我观察到的自助结账现象。当时我认为，要改用自助结账，商家都必须重新开发 IT 系统，需要比较高的成本。所以商户的接受度与系统的性价比有关。
+我曾经写过 [《便利蜂和莲花 Go》](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658865&idx=1&sn=33c8017b909dab1f0f94c580f9e93632&chksm=be96913d89e1182b3ff6921b834e34b6856eaa5dbb65055815de97adad1aaae7ea043692128d&scene=21#wechat_redirect) 说了我观察到的自助结账现象。当时我认为，要改用自助结账，商家都必须重新开发 IT 系统，需要比较高的成本。所以商户的接受度与系统的性价比有关。
 
 相对于小便利店，大型超市客流更大，排队时间也更长，对自助结账的需求更高。
 
@@ -29,11 +25,9 @@ image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png
 
 如同当年收钱码推广时一样，第三方线下服务商完全可以做同类方案并参与竞争。他们也可能会因此瓜分一小部分用户数据。
 
-![](https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/02.png)
+**渐进式替代人力**
 
-渐进式替代人力
-
-自助结账解决方案相对更激进的无人便利店后退一步，其实是提供了一种更务实的思路：不要一上来就想着机器替代人力，而是先从维持现有人力，并节省他们的工作量做起。
+自助结账解决方案相对更激进的无人便利店后退一步，其实是提供了一种更务实的思路：**不要一上来就想着机器替代人力，而是先从维持现有人力，并节省他们的工作量做起。**
 
 自助结账系统不仅应该在繁忙的时候有用，而是要整体改变收银的流程。就连半夜没什么人的时候，店员也仅仅是看一眼小票，确认一下没问题就可以。
 
@@ -43,9 +37,7 @@ image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png
 
 这是一个渐进的过程，而不是直接取代了事。不管是对现有的收银员群体，还是对店铺的老板，都在心理上给予了缓冲空间。
 
-![](https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/03.png)
-
-完整还原消费者购物过程
+**完整还原消费者购物过程**
 
 而更重要的是，作为服务提供商的蚂蚁金服将可以获得更多信息，前所未有的还原消费者的购物过程。
 
@@ -59,8 +51,8 @@ image: https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/01.png
 
 理论上，自助结账可以将扫码和收银环节分开，因此第三方方案可能会支持跨平台支付。这样，支付平台本身就有动力先行一步做出来，越早推广，就越可能展开排他性的合作，从而截流数据。
 
-支付平台的霸主之争，最终一定会归结为数据层面的对决。这也应该是支付宝力推无人值守的根本意图。
+**支付平台的霸主之争，最终一定会归结为数据层面的对决**。这也应该是支付宝力推无人值守的根本意图。
 
 ---END---
 
-![](https://lishuhang.me/img/2017/09/07/zai-zhi-dao-ni-he-shi/04.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658865&idx=1&sn=33c8017b909dab1f0f94c580f9e93632&chksm=be96913d89e1182b3ff6921b834e34b6856eaa5dbb65055815de97adad1aaae7ea043692128d#wechat_redirect)
