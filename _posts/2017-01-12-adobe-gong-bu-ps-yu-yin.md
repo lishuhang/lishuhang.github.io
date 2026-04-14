@@ -7,6 +7,12 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/01/12/adobe-gong-bu-ps-yu-yin/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLcRepleqRK36R1Tg7AojgZ9j424pXRg380bj7wsC02KPgo63vKKFM2RZJ7PpZtYT3LuTOEqB3kwg/0?wx_fmt=jpeg)
+今天 Adobe 研究院上传了一段视频 ，显示了在 iPad 版本的 Photoshop 当中，一位并不会电脑图形操作的老人如何使用语音命令来使得系统自动帮他剪裁图片。
 
-![](https://lishuhang.me/img/2017/01/12/adobe-gong-bu-ps-yu-yin/01.jpg)
+老人所用到的命令包括“把图片切成方形”，“翻转 180 度”以及“撤销”。老人使用了自然语言，系统返回的则是简单的命令语音。从这些非常基础的命令来看，系统对于语音的反馈还比较单一，因为 Adobe 是从头开始做语音助手，并没有像 Siri 或者 Cortana 这样的积累，因此一切还是要从头来过。
+
+但是这一功能的演示为我们开辟了新的想象空间。试想一下，所有的基础工作诸如新建画板，添加图层，添加滤镜等等的工作都被设为语音命令，然后让系统自动执行的酸爽感觉。就算快捷键再快可能也赶不上我们说话的速度和自然流畅。
+
+根据 Adobe 研究院的说法，语音命令的远景是用户不需要知道“魔术棒”或者是“快速选择”有什么不同，只要语音命令说“让牙齿变白一点”，软件就会自动完成工作。
+
+全文：http://http://cn.technode.com/post/2017-01-12/adobe-voice-assistant/
