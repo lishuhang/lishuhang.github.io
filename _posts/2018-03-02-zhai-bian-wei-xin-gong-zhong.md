@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKSVTEiaJHco1kAnSbGLQnyibbrV0EILa5zHnrDvzZJoFFbj0ibFyhibqL9zbOICaTlGFqdzOQE20iaauA/640?wx_fmt=jpeg)
-
 文 | 书航
 
 我有收集飞机刊物的习惯，基本上每次都拿到的是《China Daily》和《环球时报》，但去年有一次坐飞机，散发的读物是一本《青年文摘》。
@@ -41,6 +39,9 @@ image: https://lishuhang.me/img/2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg
 
 它变成了对我自己的质问——我的文章，又是写给什么读者群体看的呢？
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
-![](https://lishuhang.me/img/2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659447&idx=1&sn=f010dd03edabc1fd5052892fa4a3b30f&chksm=be96937b89e11a6daf73d70515761f74f773ecc21db5abbcd00157208af1d82024c21d7ddc50#wechat_redirect)
