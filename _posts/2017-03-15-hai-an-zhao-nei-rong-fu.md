@@ -7,13 +7,9 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/03/15/hai-an-zhao-nei-rong-fu/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJcfQYic8FoBWzsYJ1nMwqNOlYRGicN4awhcEV5UBIhV8DNvTd6JRibtQfuk0ptLkghnO4oaWxckTibaQ/0?wx_fmt=jpeg)
-
 如果只是用市场上前辈们给定的知识变现产品的标准来看，那么 3 月 7 号上线的“豆瓣时间”，无疑是一个很不成功的例子。
 
 有部分评论者在测试之后觉得，它只是由作者本人来念自己的作品，并没有给人更多的期待。与其要听这种现场表演，还不如直接买一本纸质书。它没有提供给它的听众提供任何新的东西。例如有这么说的：
-
-> “它既缺乏‘课堂’应有的现场感，难令用户有所收获，也缺乏知识付费所必须的‘实用价值’。”
 
 然而，你不应该从一个所谓已经有知识，要讲解传授的角度来理解这个产品，而应该是从一个类似 iTunes 的“有声读物”的角度来理解。这种东西国内以前都不当作商品，所以会显得比较陌生。
 
@@ -44,5 +40,3 @@ image: https://lishuhang.me/img/2017/03/15/hai-an-zhao-nei-rong-fu/01.jpg
 希望豆瓣能做的好一点。
 
 新浪（独家）
-
-![](https://lishuhang.me/img/2017/03/15/hai-an-zhao-nei-rong-fu/01.jpg)
