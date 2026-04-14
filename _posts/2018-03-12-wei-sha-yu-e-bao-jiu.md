@@ -4,16 +4,16 @@ title: "为啥余额宝就算被吐槽也要限购？"
 date: 2018-03-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
+image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 ---
 
-👆点击名字订阅【航通社】公众号
+**👆点击名字订阅【航通社】公众号**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHIO6vhHKb3wx9Vd8IPVIfvfwrouAzobtLudh5Zz9PXpbg9677P188xskPT3GhOwHo1zKzXkcxfFWg/640?wx_fmt=jpeg)
+*本文为百家号约稿*
 
-本文为百家号约稿
-
-微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
 3月8日，全国人大代表，浙江卫视首席主播、主持人席文表示 [1] ，近期余额宝的额度大幅度收紧，出现了买余额宝要抢购的现象。他建议推出更多安全、稳健、便利，更有针对性的老百姓闲钱理财产品，让老百姓有更多的便利和获得感。
 
@@ -25,17 +25,15 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 ## 官方是怎么说的？
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/02.png)
 
-官方是怎么说的？
+****官方是怎么说的？****
 
 余额宝的官方微博已经“荒废”了一阵，最新一条消息 [2] 还是辟谣一种“余额宝将于3月15日正式停止”的说法。其实3月15日会发生的事情并不是余额宝下线，而是余额宝“顺应民心”，恢复不用抢购，自由购买的好日子。
 
 只不过，因为最开始官方通知文案 [3] 是这样的：
 
 > “自2018年2月1日起至3月15日，天弘基金管理有限公司将调整余额宝服务规则，在此期间自动转入功能暂停执行，用户可在次日9点尝试手动转入。在3月15日之前，将设定余额宝货币市场基金的单日申购额度，即单日实际申购达到设定额度时，当日不再受理申购申请。”
-
-“自2018年2月1日起至3月15日，天弘基金管理有限公司将调整余额宝服务规则，在此期间自动转入功能暂停执行，用户可在次日9点尝试手动转入。在3月15日之前，将设定余额宝货币市场基金的单日申购额度，即单日实际申购达到设定额度时，当日不再受理申购申请。”
 
 一看里面又是“暂停”，又是“不再受理”的，老百姓本能地联想到各种办年卡的健身房理发店“跑路”之前的说辞，所以产生整个余额宝都要停止的谣言，也就不足为奇了。
 
@@ -45,9 +43,9 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 ## 跟银行有关系吗？
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/02.png)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/03.png)
 
-跟银行有关系吗？
+****跟银行有关系吗？****
 
 简单地说，经过多年发展，余额宝成为了创新倒逼监管进步的一个典型例子，跟银行的博弈已经趋于正常，这段时间的限额应该和银行关系不大了。
 
@@ -67,9 +65,9 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 ## 跟监管有关系吗？
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/03.png)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/04.png)
 
-跟监管有关系吗？
+****跟监管有关系吗？****
 
 除了银行之外，另一个悬在余额宝头顶的不确定因素是政策。在“宝宝”们的发展历程中，确实有几次重要的节点受到了政策变动的影响。
 
@@ -93,9 +91,9 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 ## 对支付宝有啥影响？
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/04.png)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/05.png)
 
-对支付宝有啥影响？
+****对支付宝有啥影响？****
 
 如果包括余额宝在内的所有货币基金，都会逐步展开限额、限购等措施，那么这对余额宝、蚂蚁金服会有什么影响？作为老百姓，又有什么应对方法？
 
@@ -107,9 +105,9 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 ## 对我们有啥影响？
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/05.png)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/06.png)
 
-对我们有啥影响？
+****对我们有啥影响？****
 
 而普通用户能从一系列变化中学到的最重要的一条道理，自然就是：余额宝不是一种躺着赚钱的保本工具，它是一种投资，而只要是投资，都会有风险。
 
@@ -127,10 +125,19 @@ image: https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/01.png
 
 同时，还要记住余额宝只是把广大群众拉进投资领域的启蒙老师，我们必须不断比较和选择其他多样的投资形式，学习金融常识，分散投资，不要把所有的鸡蛋都放进一个篮子里，即使是余额宝这样的篮子。
 
-[1] http://industry.people.com.cn/n1/2018/0309/c413883-29858853.html[2] https://www.weibo.com/3535450414/G1IoroP9k[3] https://cshall.alipay.com/lab/help_detail.htm?help_id=257946[4] http://it.people.com.cn/n/2014/0222/c1009-24435039.html[5] http://finance.people.com.cn/n/2014/0224/c70846-24448819.html[6] http://www.people.com.cn/n/2014/0304/c376550-24527416.html[7] http://finance.sina.com.cn/roll/2017-09-23/doc-ifymesii5069724.shtml[8] http://news.sina.com.cn/c/2018-03-09/doc-ifysauxh9409563.shtml
+[1] http://industry.people.com.cn/n1/2018/0309/c413883-29858853.html
+[2] https://www.weibo.com/3535450414/G1IoroP9k
+[3] https://cshall.alipay.com/lab/help_detail.htm?help_id=257946
+[4] http://it.people.com.cn/n/2014/0222/c1009-24435039.html
+[5] http://finance.people.com.cn/n/2014/0224/c70846-24448819.html
+[6] http://www.people.com.cn/n/2014/0304/c376550-24527416.html
+[7] http://finance.sina.com.cn/roll/2017-09-23/doc-ifymesii5069724.shtml
+[8] http://news.sina.com.cn/c/2018-03-09/doc-ifysauxh9409563.shtml
 
-～欢迎转发到朋友圈～
+*～欢迎转发到朋友圈～*
 
-商业转载和引用请在公众号对话框输入关键字【转载】
+*商业转载和引用
+请在公众号对话框
+输入关键字【**转载**】*
 
-![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/06.jpg)
+![](https://lishuhang.me/img/2018/03/12/wei-sha-yu-e-bao-jiu/07.jpg)
