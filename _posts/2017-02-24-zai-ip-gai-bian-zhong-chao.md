@@ -4,10 +4,8 @@ title: "在IP改编中，抄袭作品的风头为何往往盖过了原著"
 date: 2017-02-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/01.jpg
+image: https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHL3ic9BkJCLJOZBauJeAVaicr3xFibw9tebVx8NCibu1iaANnlk9W3LKcuCib8aICdVpm0R6tL9LUFrMhTg/0?wx_fmt=png)
 
 11位作家联名起诉热播剧《锦绣未央》的原著《庶女有毒》抄袭，据说该书共抄袭209本书，全书294章仅9章未抄。不过，该剧在高争议中也保持着高关注，甚至被卖到了香港TVB，目前正在黄金时间播出，也算是内地对香港来了一波“反向文化输出”。
 
@@ -21,7 +19,7 @@ image: https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/01.jpg
 
 不过，我觉得也有必要进一步说说为何在IP改编中，抄袭作品的风头盖过原著的情况会如此频繁地发生，而谁又应该为此负责。
 
-（在未被法院判决认定前，“抄袭”一词均为涉嫌而不确指，下同）
+*（在未被法院判决认定前，“抄袭”一词均为涉嫌而不确指，下同）*
 
 ## 抄袭主要是对原文的“再加工”
 
@@ -89,4 +87,4 @@ image: https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/01.jpg
 
 新浪
 
-![](https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/01.jpg)
+![](https://lishuhang.me/img/2017/02/24/zai-ip-gai-bian-zhong-chao/02.jpg)
