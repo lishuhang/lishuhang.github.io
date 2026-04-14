@@ -4,7 +4,7 @@ title: "SlowQuitApps：解决Mac程序误按Cmd+Q退出的问题"
 date: 2016-07-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.png
+image: https://lishuhang.me/img/2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.jpg
 ---
 
 我们都知道在Chrome浏览器当中，如果按一次退出组合键Cmd+Q的时候会害怕按错，可以在设置中选择按两次Cmd+Q之后再退出。但是Mac Safari本身并没有这样的功能。
@@ -18,8 +18,6 @@ image: https://lishuhang.me/img/2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.
 就是延迟5秒（修改的单位是ms）。
 
 虽然这个功能非常赞，但是为了单一的特定功能非得要用一个小插件来解决问题，这也是水果家风格啦。想想iOS吸收了那么多越狱插件的精华，希望在下一版系统更新当中，也可以把这个小功能加进去。
-
-> 微信公众号 lifeissohappy知乎专栏 https://zhuanlan.zhihu.com/lishuhang新浪微博 @lishuhang
 
 微信公众号 lifeissohappy
 
