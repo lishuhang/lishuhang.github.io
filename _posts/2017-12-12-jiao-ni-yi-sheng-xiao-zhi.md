@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "叫你一声“小智障”你敢答应吗_"
+title: "叫你一声“小智障”你敢答应吗?"
 date: 2017-12-12
 categories: 文章
 tags: [科技]
 image: https://lishuhang.me/img/2017/12/12/jiao-ni-yi-sheng-xiao-zhi/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHL37DHLoxmSiaNckHE0A2oEu8AVpCBzqtj9Yex3E7BEmhafosCR8vfP45qgrvkH2skQMiapouFbcW1g/0?wx_fmt=jpeg)
 
 文|书航
 
@@ -43,4 +41,4 @@ image: https://lishuhang.me/img/2017/12/12/jiao-ni-yi-sheng-xiao-zhi/01.jpg
 
 [1]http://cn.technode.com/post/2017-10-30/hts-171030/
 
-![](https://lishuhang.me/img/2017/12/12/jiao-ni-yi-sheng-xiao-zhi/01.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659337&idx=1&sn=d56ca3bfc5489c08a764b5a06a71eefe&chksm=be96930589e11a137a7c6a261a8a8a735a272ab4b9947643b192f31b02dd2cbca523a21e4138#wechat_redirect)
