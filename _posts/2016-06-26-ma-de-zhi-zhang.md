@@ -4,26 +4,18 @@ title: "妈的智障"
 date: 2016-06-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/06/26/ma-de-zhi-zhang/01.png
+image: https://lishuhang.me/img/2016/06/26/ma-de-zhi-zhang/01.jpg
 ---
 
 只相隔1天就发布一个新的Build是个什么精神病？
 
-![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHKzGVW6NnCAw1vR8hHMSp6mtsNzwJT5krKOL6saGUquKbnpJhtF5ib0azhDQVNk0bWWPgw48bfvP9Q/0?wx_fmt=png)
-
-我昨天刚花了4个小时（因为虚拟机执行慢）更新完 14371 ，然后第二天，第二天，14372 ………………
-
-> The team is busily working on triaging and investigating the top bugs that you sent in. The hustle is pretty real around Redmond right now. As they check in fixes for these bugs into builds, its important for us to get those builds out to you as soon as we can to validate those fixes. So here we are today with another new build for you! We are releasing Build 14372 for both PC and Mobile to Windows Insiders in the Fast ring.
+我昨天刚花了4个小时（因为虚拟机执行慢）更新完 14371 ，然后第二天，**第二天，**14372 ………………
 
 啊你说的很轻快可是我们一点也不高兴啊喂！
 
-> This build is just one build newer than the last one but has a handful of fixes to improvement overall performance and reliability.
-
 “就做了一点微小的工作”
 
-> The Microsoft Edge Team also has a new extension to let you know about!Evernote Web Clipper for Microsoft Edge: Clip the web pages you want to keep. Save them in Evernote and easily find them on any device. Visit our extensions page at the Microsoft Edge Dev website to learn more and try it out for yourself.
-
-The Microsoft Edge Team also has a new extension to let you know about!
+**The Microsoft Edge Team also has a new extension to let you know about!**
 
 Evernote Web Clipper for Microsoft Edge: Clip the web pages you want to keep. Save them in Evernote and easily find them on any device. Visit our extensions page at the Microsoft Edge Dev website to learn more and try it out for yourself.
 
