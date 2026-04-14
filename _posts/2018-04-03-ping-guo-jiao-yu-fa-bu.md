@@ -4,16 +4,14 @@ title: "苹果教育发布会，教育市场难买帐"
 date: 2018-04-03
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/03/ping-guo-jiao-yu-fa-bu/01.png
+image: https://lishuhang.me/img/2018/04/03/ping-guo-jiao-yu-fa-bu/01.jpg
 ---
 
-点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHL9jjHXSviaEfTh20XiaOg9vD6zHX2OPfBHJJQpdD3WflG3iaRPcTmRg5bUNbJJdiaRtyEYqnaHrseic5Q/640?wx_fmt=jpeg)
+点上面的蓝字 **航通社 👆**订阅我们
 
 本文首发于动点科技，原创文章，未经授权，请勿转载。
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 **(ID:lifeissohappy)** 微博：**@lishuhang**
 
 苹果 3 月底的春季教育发布会，除了发布一款低价的 iPad ，同时宣布了一些校园优惠措施，例如使用学校官方开设的 iCloud 账户，每人获得 200GB 的存储空间。
 
@@ -67,9 +65,7 @@ iPad 作为生产力工具本身的单薄，短时间之内难以通过刺激开
 
 估计这次也不例外，打着面向教育市场的旗号，最终只是给市场推出了一款 2000 块钱以内的 iPad 选择而已。如此一来，也难怪我会听到有人阴暗的揣摩说苹果是在变相清理库存零件了。
 
-![](https://lishuhang.me/img/2018/04/03/ping-guo-jiao-yu-fa-bu/01.png)
-
-～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
+*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
 [1]https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
 
