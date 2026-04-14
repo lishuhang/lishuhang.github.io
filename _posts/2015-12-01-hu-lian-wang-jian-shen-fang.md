@@ -7,10 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2015/12/01/hu-lian-wang-jian-shen-fang/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz/nmVQQlxOIsLEibhZDicbUMOO6ic9FaiaoLwI0CUBdlhJGv1Pq6levR3F1SK4HVHTVIZuibDdYWyicibGUdPCPQFJSBHdQ/0?wx_fmt=jpeg)
-
-![](https://lishuhang.me/img/2015/12/01/hu-lian-wang-jian-shen-fang/01.jpg)
-
 一些想要用互联网来改变传统健身房业态的应用遭遇了不同程度的抵制。已经有新闻说一些健身房拒绝已经购买了小熊快跑、全城热炼等服务次数的人按次来使用他们的场地，而必须遵循场地的包月或者包年模式。只花一点点钱可以使用全城不限地点的场地，甚至是随意指定私教来给自己上课——这当然是很多用户都向往的方式。然而因为健身场所的抵制，使得这种事情不太可能实现。
 
 跟注重器械锻炼的健身房相比，太极拳也被我们看作是一种类似的体育锻炼方式，就像是游泳馆、羽毛球馆一样，也涉及到场馆和教练这两方面的资源。然而，他们在注意到有这种风险的情况下，还是毅然决然地切入了这一领域。太极拳的“互联网+”和传统的健身项目相比，既有相同，也有不同。
@@ -41,4 +37,4 @@ TechNode 动点科技
 
 坚持原创，转载请注明出处
 
-![](https://lishuhang.me/img/2015/12/01/hu-lian-wang-jian-shen-fang/02.png)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NTAyNjE4MA%3D%3D&mid=400529144&idx=3&sn=f30784e8bdde09ce94fb4f332a256a20)
