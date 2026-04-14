@@ -4,16 +4,12 @@ title: "搜狗IPO后股价怎么走？主要看两点"
 date: 2017-11-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.png
+image: https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJLVWFv6hibyWetiaJ3mJO4KhBibjVNgpicGDvkFViayiaJt0SqAOZBdxnibWrfm9uQ49Em1eibx3D84h4udA/0?wx_fmt=jpeg)
-
-文 | 书航
+文 | **书航**
 
 如果有公司想IPO，它得没有“软肋”，只有“铠甲”。它首先要能讲一个好故事，给大家一个更好的想象空间；同时又要看它的敌人是否很多，是否有容易被对手和业界攻击的弱点。
-
-![](https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.png)
 
 11月8日，腾讯控股分拆的阅文集团在港交所上市，首日如愿大涨82%，进入“红底股”（股价超过100港币）的行列。阅文在国内在线文学市场份额庞大，是由腾讯业务部门分拆，既有巨头靠山，又无显著威胁，大涨都在预料之中。
 
@@ -31,8 +27,6 @@ image: https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.png
 
 然而很快媒体就纷纷曝光趣店校园贷业务的监管疑云，以及对蚂蚁金服的过度依赖，趣店CEO罗敏回应却引发更大质疑。特别是有消息传出监管将更趋严格，这直接导致趣店随后的股价破发。
 
-![](https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/02.png)
-
 以“会讲好故事”和“没有强势对手”这两个标准来看搜狗IPO计划，它的情况并不是特别好。
 
 搜狗目前标榜人工智能是业务主要方向，但AI整体的发展势头，都低于业界期望。搜狗的本行搜索业务背靠腾讯，这是搜狗目前发展的最大优势。但这一合作不够稳固，同时对手众多，这是其软肋所在。
@@ -44,8 +38,6 @@ image: https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.png
 现在即使是谷歌、亚马逊、BAT等业界头部企业，对AI特别是王小川推崇不已的“强人工智能”的研究和应用都还在相对早期的阶段。此时，对科学家和研发力量的争夺会非常激烈。而搜狗有和清华共建实验室等做法，但缺乏比较亮眼的研究团队阵容。
 
 过去一年，直到今年年初之前，百度一直有吴恩达站台，确实引发了百度一些产品的改善。其他像阿里、腾讯、今日头条等现在都有一定的科学家储备。与腾讯在搜索领域展开合作的搜狗，却暂时不能“借用”腾讯的AI科学家资源。
-
-![](https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/03.png)
 
 搜狗目前真正的盈利基础在于它与腾讯的长期合作。招股书表明，腾讯将至少到2023年都继续和搜狗在主要产品中默认搜索引擎的合作。
 
@@ -61,4 +53,4 @@ image: https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.png
 
 首发于百家号
 
-![](https://lishuhang.me/img/2017/11/14/sou-gou-ipo-hou-gu-jia/04.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659693&idx=1&sn=43bddf2ba29e9768100602af0729ccc6&chksm=be96926189e11b77e7afc464158acd3a37258537b3c68730f0c88e233c7def7482b1b0b0a51a#wechat_redirect)
