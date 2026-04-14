@@ -4,9 +4,15 @@ title: "Facebook 直播可通过桌面浏览器发起，美国人为何对此大
 date: 2017-01-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/12/facebook-zhi-bo-ke-tong-guo/01.jpg
+image: https://lishuhang.me/img/2017/01/12/facebook-zhi-bo-ke-tong-guo/01.png
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHLcRepleqRK36R1Tg7AojgZYrwMibHicH8nJsYQka5QY3QNxkChbES5XNa05AOlPynTvGicnD6dicqZkQ/0?wx_fmt=png)
+Facebook 宣布了一项更新：其视频直播功能将不再需要用户打开手机客户端发起，在任何一个当代的桌面端浏览器上，只要拥有摄像头即可进行直播。这一变动引发了一些人的忧虑。
 
-![](https://lishuhang.me/img/2017/01/12/facebook-zhi-bo-ke-tong-guo/01.jpg)
+在性质类似的 Twitter 和新浪微博上发起直播，由于信息流本来就很庞杂，大家都是把它当媒体来看，所以不管是专业视频还是业余短片也都能和平共处。但是在朋友圈当中发起视频直播都会引发对时间线的“污染”。其实，微信也对聊天之外的社交功能进行了严格限制，可以说，Facebook 开放 PC 直播的冲击就类似微信开放电脑版访问朋友圈。
+
+还有一个例子是，当年 Instagram 只允许把图片裁剪成正方形再分享。当它的正方形画幅限制取消，人们可以上传长方形比例的图片之后，也同样有人发出了类似的不适应的声音。有些人可能就是奔着诸如正方形图片这样的一些特性而来，一旦降低门槛有更多人涌入，将会使这种说不清道不明的气氛遭遇破坏。
+
+但总体上来说，Facebook 希望直播业务能够快速成长起来，以进一步巩固目前的优势，估计要一条路走到黑了。毕竟 Meerkat 和 Vine 这些曾经的对手已经消亡。
+
+全文：http://cn.technode.com/post/2017-01-12/facebook-live-goes-to-desktop-web-browsers/
