@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLkoU2ES57Pia9ibiabJ3bj4cDCZluRQlYX4Eb93QGxwsN856kgR5kx717hOKOVwO0P174v1JeEkn46w/640?wx_fmt=jpeg)
-
 文 | 书航
 
 根据专门扒苹果专利的 Patently Apple 的消息，苹果已经获得一项新的外观专利 [1] ，让 Apple Watch 获得一个可以为其无线充电的包装盒，就像 Airpods 一样。似乎苹果要在无线且慢充的道路上一条道走到黑，把所有设备都当成现在正倚靠在墙头充电的电动牙刷一样对待。
@@ -51,8 +49,14 @@ image: https://lishuhang.me/img/2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg
 
 依靠目前使用人数尚多的硬件生态闭环盈利的苹果，在 FAANG 当中出现了市盈率低于纳指均值的情况 [6] （对比亚马逊的市盈率高得惊人），一定程度也代表了分析师眼中的未来潜力预期。
 
-本文首发于动点科技微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang原创文章，未经授权，请勿转载
+*本文首发于动点科技
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang
+原创文章，未经授权，请勿转载*
 
-[1] http://www.patentlyapple.com/patently-apple/2018/02/apple-granted-a-patent-for-a-new-wireless-charging-apple-watch-carrying-case.html[2] http://tech.sina.com.cn/t/2017-08-27/doc-ifykiuaz1176099.shtml[3] https://www.forbes.com/sites/ewanspence/2016/09/24/iphone-7-ugly-smart-battery-case/[4] http://tech.sina.com.cn/mobile/n/n/2017-12-29/doc-ifypyuve2705914.shtml[5] https://cn.technode.com/post/2018-02-25/apple-icloud-security-keys-guizhou/[6] http://tech.qq.com/a/20120822/000157.htm
-
-![](https://lishuhang.me/img/2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg)
+[1] http://www.patentlyapple.com/patently-apple/2018/02/apple-granted-a-patent-for-a-new-wireless-charging-apple-watch-carrying-case.html
+[2] http://tech.sina.com.cn/t/2017-08-27/doc-ifykiuaz1176099.shtml
+[3] https://www.forbes.com/sites/ewanspence/2016/09/24/iphone-7-ugly-smart-battery-case/
+[4] http://tech.sina.com.cn/mobile/n/n/2017-12-29/doc-ifypyuve2705914.shtml
+[5] https://cn.technode.com/post/2018-02-25/apple-icloud-security-keys-guizhou/
+[6] http://tech.qq.com/a/20120822/000157.htm
