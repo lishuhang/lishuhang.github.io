@@ -4,10 +4,8 @@ title: "从小米平板 3 谍照能看到什么？"
 date: 2016-12-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/16/cong-xiao-mi-ping-ban-3/01.png
+image: https://lishuhang.me/img/2016/12/16/cong-xiao-mi-ping-ban-3/01.jpg
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLL54f2uMJyyf6x0zxPYm0pqpZUlvicWdwBNQcnoaibjDCltDWZfc56rTdEH1wYpM0BFbClyhs6wUuQ/0?wx_fmt=jpeg)
 
 早先推出的小米平板 2 只是当时小米跟微软合作的第一步，可以认为只是双方为了试验合作可能性推出的一个试水的产品，因此各项指标都差强人意，特别是 Windows 10 版小米平板 2 的 2GB 内存和 64GB 存储空间让日常使用显得很吃力。根据这次的幻灯片来看，小米砍掉了小米平板 3 当中的 Android 版本，售价也提升到了 1999／2299 元，说明小米与微软的合作已经趋于成熟。
 
@@ -20,5 +18,3 @@ image: https://lishuhang.me/img/2016/12/16/cong-xiao-mi-ping-ban-3/01.png
 最值得期待的应该是联想、华为等主要厂商将二合一平板产品尝试转移到 ARM，竞争加速将更推动较旧的产品线降价。由此 Windows 10 二合一平板将摆脱由台电、酷比魔方等厂商带来的“山寨”印象，传统非触屏一体式的笔记本电脑形态，也将加速退出历史舞台。
 
 全文：http://cn.technode.com/post/2016-12-16/xiaomi-tab-3/
-
-![](https://lishuhang.me/img/2016/12/16/cong-xiao-mi-ping-ban-3/01.png)
