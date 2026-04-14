@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/04/19/yi-sao-huang-de-ming-yi/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHId5dYib9g5ibibmcO54BmXUkSibky5uSrqfnaKjx0ycCrt8Lq4ztYaSv2fuU9YtQGSozgxGcXsZ9U4JQ/0?wx_fmt=jpeg)
-
 新浪微博 宣布 暂停对美拍、小影、微录客等 11 款第三方微博视频应用的视频解析。这里面最值得一提的就是美拍，联想到美图港股这两天正在联交所坐过山车，我想美拍失去微博视频的推广渠道，可能会令美图更加坐立不安。
 
 公告还提出如果被停止视频解析的应用之后仍然被举报外链涉黄的，就将会终止第三方 API 开放合作，并且拦截视频的域名链接。
@@ -26,5 +24,3 @@ image: https://lishuhang.me/img/2017/04/19/yi-sao-huang-de-ming-yi/01.jpg
 渠道为王这四个字，曾经让广义上的视频网站在与广电系统的用户争夺战中胜出，今天又决定了视频网站内部的座次排名。谁是占用国民时间的大杀器，谁就能借势让自己扶持的视频网站渠道上位，从而一荣俱荣。而一直寄生于各大社交平台，却又与平台若即若离的美拍、小影们则成为最大的输家。
 
 动点科技
-
-![](https://lishuhang.me/img/2017/04/19/yi-sao-huang-de-ming-yi/01.jpg)
