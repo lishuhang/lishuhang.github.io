@@ -4,7 +4,7 @@ title: "Windows Phone 要起死回生？那得先弄死所有的“手机”"
 date: 2017-04-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/07/windows-phone-yao-qi-si-hui/01.png
+image: https://lishuhang.me/img/2017/04/07/windows-phone-yao-qi-si-hui/01.jpg
 ---
 
 去年今日，Windows Phone还被戏称为1%，而事到如今可能是连0.1%都保不住了。根据IDC几天前的估计，采用Windows Phone系统手机的市场份额会下降到只有0.1%，而到了2021年市场份额将会下降到0，届时还在跑Windows Phone系统的手机将会剩下大概只有80万部。
@@ -27,4 +27,4 @@ image: https://lishuhang.me/img/2017/04/07/windows-phone-yao-qi-si-hui/01.png
 
 动点科技
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKiagZ6LAzEAetSAFkcW0VQGVOoJECb3ZV56dn7lLhdmhw1jR11xXic8x7pXemPUmb6mibI0nib0Izufg/0?wx_fmt=jpeg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658602&idx=1&sn=e84beb2138d9c98065de7b9a1ac91faa&chksm=be969e2689e117307fc05116e491754770a0c8a7bdffbcaf28440e5bf952965bae2773832988#wechat_redirect)
