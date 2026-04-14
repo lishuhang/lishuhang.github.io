@@ -4,16 +4,12 @@ title: "遭微博“扫荡”，同性恋又惹到了谁？"
 date: 2018-04-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png
+image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.jpg
 ---
-
-# 点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJngcrJUnneiaDGEQFQA8FNW6D7ibsXEb786bibN1KAWy7YHse8oylzJV7tE6MrBLQqmnw2AUPiaLIklQ/640?wx_fmt=jpeg)
 
 本文首发于百家号 ，原创文章未经授权请勿转载
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 4月13日，新浪微博称根据《网络安全法》等法律法规的要求，进行为期三个月的集中清理行动。被清理的对象包括“同性恋题材的漫画及短视频容”、“包含腐、基、耽美、本子的内容”。
 
@@ -29,9 +25,7 @@ image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png
 
 在微博上发起的这一轮对同性恋内容的清理行动，会否因此发生转变？
 
-![](https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png)
-
-事件为什么如此引人关注？
+**事件为什么如此引人关注？**
 
 促使新浪微博做出此番清理同性恋题材内容行动的原因主要有两个：
 
@@ -57,9 +51,7 @@ image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png
 
 对于总数估计几千万的中国同性恋群体来说，你可以在一段时间内禁止他们所有人发出声音，也可以命令一部分人永久不准开口。但是想要永远禁止他们所有人说话，是不可能做到的。
 
-![](https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/02.png)
-
-同性恋的真实情况是怎样的？
+**同性恋的真实情况是怎样的？**
 
 同性恋是人类多种正常的性取向其中之一，同性恋者能正常生活、学习和工作。在中国，同性恋在法律层面已经不是病，更不是犯罪。
 
@@ -75,9 +67,7 @@ image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png
 
 即使从安抚民心的角度看，让同性恋群体走到阳光下也是有必要的。正如《人民日报》的评论文章委婉提到的，“不能因急而生错，眉毛胡子一把抓”，否则“难免会引来舆论的焦虑”。
 
-![](https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/03.png)
-
-微博方面的理解错了吗？
+**微博方面的理解错了吗？**
 
 在刚刚过去的一轮针对短视频及新闻客户端的整治行动中，并没有明确的波及新浪微博。微博上一次遭受整治是在今年年初，微博热搜榜功能被暂停一周。在整顿之后，微博热搜榜大量删除了之前的明星动向类内容，转而有了一些反映新时代特色的置顶内容。
 
@@ -111,6 +101,4 @@ image: https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/01.png
 
 但有一个问题是最好解答的：
 
-不管是怎样的原因和结果，整个过程中最不被重视的和最不值得重视的，就是普通网民的声音。
-
-![](https://lishuhang.me/img/2018/04/16/zao-wei-bo-sao-dang-tong/04.png)
+**不管是怎样的原因和结果，整个过程中最不被重视的和最不值得重视的，就是普通网民的声音。**
