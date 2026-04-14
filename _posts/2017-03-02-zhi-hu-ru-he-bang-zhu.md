@@ -4,10 +4,8 @@ title: "知乎如何帮助品牌商了解站内热点的变化趋势？"
 date: 2017-03-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/03/02/zhi-hu-ru-he-bang-zhu/01.jpg
+image: https://lishuhang.me/img/2017/03/02/zhi-hu-ru-he-bang-zhu/01.png
 ---
-
-![](http://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHJoNGEKHSLz10YpagSu0QIANRHCWQSyZ7LZzG1uOoHEodL7icAh7N1GzLMjt6K2c42H7I0yOsmPJWA/0?wx_fmt=png)
 
 随着知乎开设机构账号功能，它已经成为广大品牌商运营品牌，打造人格化形象的一个舞台。但是怎样在这个舞台当中准确的把握用户信息，并精确的及时作出反应，还是在考验着运营者的智商。
 
@@ -21,6 +19,4 @@ image: https://lishuhang.me/img/2017/03/02/zhi-hu-ru-he-bang-zhu/01.jpg
 
 按照知乎以往的风格，很有可能会在今年 3 月 26 日举办的“盐 Club”活动上公布统计类功能的最新进展。
 
-动点
-
-![](https://lishuhang.me/img/2017/03/02/zhi-hu-ru-he-bang-zhu/01.jpg)
+*动点*
