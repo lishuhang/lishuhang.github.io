@@ -7,19 +7,9 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 ---
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/05.png)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/02.jpg)
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/05.png)
-
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/04.jpg)
-
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/04.jpg)
-
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/04.jpg)
-
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/05.png)
-
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/06.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/03.jpg)
 
 微信公众号搜索“航通社”看更多精彩文章
 
@@ -41,7 +31,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 > “以后如果网络安全领域做得不好，比如说，你在报纸上看到某某银行欺诈风险达到20%，或者有300万账户被击破，那谁还会跟这家银行做生意，谁还会把自己的钱放在这家银行？”
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/07.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/04.jpg)
 
 但是很多时候，一次安全事故的背后，银行或大型机构的责任只有一点点，最容易攻破的地方，是那些疏于防范和不及时升级设备的最终用户。
 
@@ -69,7 +59,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 然而，登录过支付应用、网银等的旧机器，又几乎永久地保留了个人数据的碎片，它们易于被破解，却难于被消除。除了拿榔头砸烂或送到正规的手机回收站，人们都不敢随意处置它们。
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/08.png)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/05.png)
 
 万事达卡创新实验室研发部副总裁黄东浩
 
@@ -81,7 +71,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 蒂姆斯表示，万事达卡的二维码和人脸识别技术标准足够安全。例如其技术可以在人脸上标记数据点，用算法进行验证，哪怕使用像素很低的普通摄像头，也能保障识别的准确度。
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/09.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/06.jpg)
 
 但最重要的第三点，是尽量让用户放下手机，用人本身，而不是设备或密码作为验证主体。作为一家发卡机构，万事达卡的技术演示特意强调了不用实体信用卡，不用手机，不用密码，令人印象深刻。
 
@@ -89,7 +79,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 持卡人通过绑定万事通（Masterpass）电子支付账号的手机，只需要在首次使用时与机器人或音箱进行一次非接触的配对，就能够实现在餐厅或家中，通过语音的方式点单。配对并非通过蓝牙或NFC，而是使用Wi-Fi以确保兼容性。
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/10.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/07.jpg)
 
 你甚至可以用自然语言向Pepper机器人询问菜品信息，如有多少卡路里（how many calories）。这种点餐机器人明年初会在新加坡的必胜客餐厅试点。
 
@@ -115,7 +105,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 香港《苹果日报》近期有专栏文章称“有信用者不用支付宝”，该文尽管没有理解内地移动支付的一些基本概念，但其提出了一个真实的问题——芝麻信用、小贷平台等未接入或部分接入国家征信体系的“信用”机制，实际上是“不算数”的。
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/11.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/08.jpg)
 
 例如，芝麻信用分的计算不透明，除了真正算钱的“花呗”以外，还要加上人脉关系、学校、工作单位等证据。问题是，我认识很多有钱人，就一定意味着能按时还钱吗？这当中不存在必然的联系。
 
@@ -147,7 +137,7 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 虽然我几乎每天都能在邮箱收到支付宝勤勤恳恳攻城拔寨的新闻稿，说今天又拿下了国外某大超市，可是加装二维码识别，比让POS机多支持一种卡片，还是困难得多。
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/12.jpg)
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/09.jpg)
 
 在全球范围来看，万事达卡能提供的覆盖，更像支付宝和微信在国内能做到的。一旦全面入华，万事达卡在世界所有其他地方推广的新科技，都可以在中国的商户享受到，而且不需要持卡人进行操作习惯上的更改。
 
@@ -157,6 +147,6 @@ image: https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/01.png
 
 而在国外提供不输给国内移动支付般的便捷应用，将会成为征服基本盘的最好武器。
 
-作者于2017年11月15日受万事达卡邀请访问其新加坡亚太区总部。
+![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/10.jpg)
 
-![](https://lishuhang.me/img/2017/11/27/bu-huan-shou-ji-he-tao/13.jpg)
+作者于2017年11月15日受万事达卡邀请访问其新加坡亚太区总部。
