@@ -4,16 +4,12 @@ title: "Windows部门被裁撤，然后一个时代终结了？瞎扯"
 date: 2018-04-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/01.png
+image: https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/01.jpg
 ---
-
-# 点上面的蓝字 航通社 👆订阅我们
-
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHLibhGJsnCR740XTPzSqIDGs392am0ks11yPNQzAAXDmYI4dfnouv80TTNDTxR5qswYsXRdD0zeDPA/640?wx_fmt=png)
 
 本文首发于百家号，原创文章未经授权请勿转载
 
-航通社 (ID:lifeissohappy) 微博：@lishuhang
+航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
 
 大家先来看看这几个标题：
 
@@ -29,9 +25,7 @@ image: https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/01.png
 
 虽然我的这些信息也是从公开的资料所得出，但我相信至少会比上述那些不靠谱的公众号文章要好一点。
 
-![](https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/01.png)
-
-Windows部门调整的真相
+**Windows部门调整的真相**
 
 现在仍然在各种公众号当中发酵的所谓Windows部门被裁的事情，准确的表述应该是这样的：
 
@@ -53,9 +47,7 @@ Windows部门调整的真相
 
 既然现在情况已经改变，任何设备都可以使用同样的内核，那么内核的制作团队，就可以和随机应用开发，以及其他硬件的适配工作脱离原来的耦合状态，具备了分家的条件。
 
-![](https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/02.png)
-
-Windows部门调整的影响
+**Windows部门调整的影响**
 
 既然现在Windows的内核开发和随机应用开发已经开始逐步分离，这个变化也会在接下来的Windows系统更新上有体现。
 
@@ -79,8 +71,6 @@ Windows部门调整的影响
 
 在面向少部分Insider测试用户的更新当中，已经可以使用这个功能。虽然只针对少数uwp程序，Edge浏览器本身以及Office 2016测试版有效。微软将这个新功能命名为Sets，就是你可以将所有关于同一个主题的程序汇聚在一个窗口当中，成为一个“集合”的意思。
 
-![](https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/03.jpg)
-
 如果你是一个学生，你需要在写作业的时候查阅资料，就在Word旁边开一个Edge标签，打开浏览器去查询。查到了之后，又赶紧把这个资料放到新标签的OneNote里，方便有时间慢慢整理。这样，这三个窗口就能够有机联系在一起。
 
 更妙的是，如果你在学校和家庭的电脑当中登录了同一个微软账号，你还可以远程打开云端保存的Sets，继续你未完成的工作。
@@ -95,4 +85,4 @@ Windows部门调整的影响
 
 所以，那些又喊着一个时代结束了的人，都可以洗洗睡了。
 
-![](https://lishuhang.me/img/2018/04/16/windows-bu-men-bei-cai-che/04.png)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=3&sn=dbcdfe5e4a9002a0be35d9905e4e90bc&chksm=be96923789e11b213b84e9e3d45a820622988c0108868531d0b6ee6cf825e8fddc3b787680a6#wechat_redirect)
