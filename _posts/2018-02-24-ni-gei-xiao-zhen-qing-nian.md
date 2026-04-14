@@ -4,10 +4,8 @@ title: "你给小镇青年再多高雅文化，也不能把他们从喊麦手游
 date: 2018-02-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
+image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.jpg
 ---
-
-![](https://mmbiz.qpic.cn/mmbiz_png/AdRKyBVLoHIoEquQRmx9EUDBIjHcF8Fnicnmmxr6CNXQm4PibejaF1T31IOplhRC4Mib7OX8OJw9ZFJDqYW7d8Wxw/640?wx_fmt=png)
 
 文 | 书航
 
@@ -25,15 +23,11 @@ image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
 
 你说，为啥优秀的城市教育资源，甚至高雅的文化艺术下乡都失败了，但快手喊麦和手游就能下乡成功呢？
 
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png)
-
 远程教育加剧教育的贫富分化
 
 最早的所谓远程教育在视频出现以前就存在，就是所谓函授。等电视台取代了收音机的80年代，央视一套的黄金时间都播出《跟我学》和《标准日本语》。
 
 而教辅视频课程的大量普及，是和录像带和VCD光盘普及同步的，也就是在90年代后期到2000年代初。其中“北京四中”系列可以说是最为成功的一种。到后来转型为“北京四中网校”，也是他们做的相对好些。
-
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/02.png)
 
 90年代还有一家叫“科利华”的，卖教育电脑光盘，针对的是在那时候可以拿得出房价10分之一到5分之一买一台台式电脑的富裕家庭。他们把黄色封皮的《学习的革命》引入国内，也是当时一条大新闻。至于新东方、学而思这些都是更往后的事了。
 
@@ -44,8 +38,6 @@ image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
 80年代的语言学习节目，和90年代起出现的四中、黄冈等名师教学VCD，其结果都是让家境好的孩子在严格的父母、老师监督、同伴压力下获得了更多学习机会，让家境一般的孩子拿到光盘以后无人监督，也不去看，让家境贫寒的孩子根本买不起也看不起。
 
 所以，本意是让优秀教育资源脱离时空限制，造福更多孩子的远程教育，从一开始到现在，始终没能摆脱让富裕孩子享受更多，让穷孩子得到更少的困境，它的存在持续加剧了教育的贫富分化。
-
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/03.png)
 
 不是文化供给少，而是自控能力差
 
@@ -63,8 +55,6 @@ image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
 
 只是，就算你把城里的高雅内容贴在乡村青年眼前，他们都不会看的。为啥你自己过年回乡，要往iPad狂拷综艺和电子书，等着漫漫长路打发时间，而他们就学不会？
 
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/04.png)
-
 乡下青年管不住自己，你城里人也好不到哪去
 
 任何教育领域的课题，最终都会归结为让天资和个性不同的学习者，都能战胜自己人性弱点的过程。不管是名师补习班，电击治网瘾，《王者荣耀》塞入历史答题，还是知识付费，都无可避免要解决这个问题。
@@ -77,11 +67,7 @@ image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
 
 人与人的接触，对任何形式的远程教育来说，都是不可避免的。这可以迫使学生真正的对课程内容引起重视，否则绝大多数人都会因为惰性，而陷入自我欺骗。
 
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/05.png)
-
 为啥农村孩子会沉迷所谓“低俗”和消磨时间的东西？你别对农村带有色眼镜，难道你自己就没有沉迷过？你之所以没有一看就看8小时，因此耽误青春，无非是因为你有家长、老师、同伴等社会压力，你要主动或被动完成学业、工作、你的人生目标。
-
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/06.png)
 
 本质上，他们缺的是可靠的同伴
 
@@ -105,8 +91,10 @@ image: https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.png
 
 [1] http://tech.sina.com.cn/i/2018-02-11/doc-ifyrmfmc1702318.shtml
 
-本文首发于微信公众号：航通社 (ID:lifeissohappy)微博：@lishuhang
+*本文首发于
+微信公众号：航通社 (ID:lifeissohappy)
+微博：@lishuhang*
 
-原创文章，未经授权，请勿转载
+*原创文章，未经授权，请勿转载*
 
-![](https://lishuhang.me/img/2018/02/24/ni-gei-xiao-zhen-qing-nian/07.jpg)
+详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659417&idx=1&sn=48bc834214b702b1930484f866cda265&chksm=be96935589e11a43afe5cb7d1beee5bd1e2b49943b7a9dfd8f2588f81360f0d7c2d671a9de1b#wechat_redirect)
