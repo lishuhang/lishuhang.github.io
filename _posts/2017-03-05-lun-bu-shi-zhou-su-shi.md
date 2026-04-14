@@ -7,8 +7,6 @@ tags: [科技]
 image: https://lishuhang.me/img/2017/03/05/lun-bu-shi-zhou-su-shi/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJkzEM6Cmg6hRfKC2HiaxeqHq5dHOsf2OsC3hC10yBAib7C5FHH5nqMibcS17JibiaDXrQcPBKAkxlzOag/0?wx_fmt=jpeg)
-
 伯夷和叔齐可能是见诸史书的最著名的中国隐士之一。在 2017 年的深圳，也出现了这么两位隐士，一对夫妻住在繁华街头的帐篷里，因为高学历又遭遇创业失败，自己信念上不肯回家见父老乡亲；同时又觉得找工作高不成低不就，过于低端的，似乎不太想干。
 
 不过不同于伯夷叔齐，他们并没有羞愧的绝食也没有羞愧的回老家，目前事情的后续情况我们还不得而知。但有一点是清楚的，如果他们的父母稍微看看电视，估计已经足够辨认出自己孩子的身份信息，从而两人想要瞒过江东父老的愿望也成了泡影。
@@ -24,5 +22,3 @@ image: https://lishuhang.me/img/2017/03/05/lun-bu-shi-zhou-su-shi/01.jpg
 这就像最开始写伯夷和叔齐故事的孔子，还说他们是求仁得仁，赞赏一番；而在鲁迅的《故事新编》里，对他们却只有满满的嘲笑加上一点点的怜悯。
 
 原文：http://cn.technode.com/post/2017-03-05/the-tent-master-couple/
-
-![](https://lishuhang.me/img/2017/03/05/lun-bu-shi-zhou-su-shi/01.jpg)
