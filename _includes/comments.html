@@ -1,27 +1,27 @@
-<!-- ============================================================
-     comments.html – Giscus comments (lazy loaded)
-     
-     Giscus is NOT loaded on page load. It only loads when the
-     comments section enters the viewport (via Intersection Observer
-     in main.js). This saves 150-300KB on article pages.
-     
-     Configuration comes from data attributes, read by JS.
-     ============================================================ -->
-{% if page.comments != false %}
-<section class="comments-section" aria-label="评论">
-  <h2 class="comments-title">评论</h2>
-  <div
-    class="giscus-container"
-    id="giscus-container"
-    data-repo="{{ site.giscus.repo }}"
-    data-repo-id="{{ site.giscus.repo-id }}"
-    data-category="{{ site.giscus.category }}"
-    data-category-id="{{ site.giscus.category-id }}"
-    data-mapping="{{ site.giscus.mapping }}"
-    data-lang="{{ site.giscus.lang }}"
-  >
-    <!-- Giscus iframe is inserted here by JS when section becomes visible -->
-    <noscript>请启用 JavaScript 以查看评论。</noscript>
-  </div>
-</section>
-{% endif %}
+<!-- Giscus 评论系统 -->
+<div class="comments-section">
+  <div class="giscus-container" id="giscusContainer"></div>
+</div>
+<script>
+  (function() {
+    var container = document.querySelector('.giscus-container');
+    if (!container) return;
+    var script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.setAttribute('data-repo', 'lishuhang/lishuhang.github.io');
+    script.setAttribute('data-repo-id', 'R_kgDOKbcVHw');
+    script.setAttribute('data-category', 'Announcements');
+    script.setAttribute('data-category-id', 'DIC_kwDOKbcVH84CwoJY');
+    script.setAttribute('data-mapping', 'specific');
+    script.setAttribute('data-term', '{{ include.path | default: page.url }}');
+    script.setAttribute('data-strict', '0');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-emit-metadata', '1');
+    script.setAttribute('data-input-position', 'bottom');
+    script.setAttribute('data-theme', 'preferred_color_scheme');
+    script.setAttribute('data-lang', 'zh-CN');
+    script.setAttribute('crossorigin', 'anonymous');
+    script.async = true;
+    container.appendChild(script);
+  })();
+</script>
