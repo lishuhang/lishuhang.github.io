@@ -3,7 +3,7 @@ categories: 文章
 date: 2025-03-23
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/23/01.png
 layout: post
-tags: AI
+tags: [AI]
 title: AI视频的“DeepSeek时刻”要来了吗？
 ---
 

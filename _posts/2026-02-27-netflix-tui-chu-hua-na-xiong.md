@@ -3,7 +3,7 @@ layout: post
 title: "Netflix退出华纳兄弟探索争夺战，派拉蒙成最终赢家"
 date: 2026-02-27
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2026/02/27/netflix-tui-chu-hua-na-xiong/01.png
 ---
 

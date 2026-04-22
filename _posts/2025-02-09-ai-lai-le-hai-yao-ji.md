@@ -2,7 +2,7 @@
 date: 2025-02-09
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/09/11.jpg
 layout: post
-tags: AI
+tags: [随笔]
 title: AI来了还要记者编辑干啥
 ---
 

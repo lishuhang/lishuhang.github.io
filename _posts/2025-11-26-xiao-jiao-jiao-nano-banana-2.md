@@ -3,7 +3,7 @@ layout: post
 title: "小蕉蕉Nano Banana 2生成长信息图实战与避坑"
 date: 2025-11-26
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: https://lishuhang.me/img/2025/11/26/xiao-jiao-jiao-nano-banana-2/01.png
 ---
 

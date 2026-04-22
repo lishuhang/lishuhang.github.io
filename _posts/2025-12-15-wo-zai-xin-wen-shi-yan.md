@@ -3,7 +3,7 @@ layout: post
 title: "我在新闻实验室的更新：雷军与小米舆论危机"
 date: 2025-12-15
 categories: 文章
-tags: [科技]
+tags: [新闻实验室]
 image: https://lishuhang.me/img/2025/12/15/wo-zai-xin-wen-shi-yan/01.jpg
 ---
 

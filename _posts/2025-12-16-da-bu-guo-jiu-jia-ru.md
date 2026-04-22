@@ -3,7 +3,7 @@ layout: post
 title: "打不过就加入？迪士尼10亿美元授权给OpenAI背后"
 date: 2025-12-16
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: https://lishuhang.me/img/2025/12/16/da-bu-guo-jiu-jia-ru/01.png
 ---
 

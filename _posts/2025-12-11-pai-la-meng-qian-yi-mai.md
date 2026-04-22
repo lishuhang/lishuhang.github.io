@@ -3,7 +3,7 @@ layout: post
 title: "派拉蒙千亿买华纳，里面还有腾讯的10亿美元？"
 date: 2025-12-11
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/12/11/pai-la-meng-qian-yi-mai/01.jpg
 ---
 

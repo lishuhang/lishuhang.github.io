@@ -3,7 +3,7 @@ layout: post
 title: "仅三天，Netflix买华纳生变：派拉蒙发起1084亿敌意收购"
 date: 2025-12-09
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/12/09/jin-san-tian-netflix-mai-hua/01.jpg
 ---
 

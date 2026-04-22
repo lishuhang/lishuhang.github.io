@@ -3,7 +3,7 @@ layout: post
 title: "如果一本书写得特别好，但作者坦白是 AI 写的，你还会愿意打赏、追更、推荐给朋友吗？"
 date: 2026-04-07
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: https://lishuhang.me/img/2026/04/07/ru-guo-yi-ben-shu-xie/01.jpg
 ---
 

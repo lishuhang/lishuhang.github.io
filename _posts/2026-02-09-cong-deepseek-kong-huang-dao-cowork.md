@@ -3,7 +3,7 @@ layout: post
 title: "从DeepSeek恐慌到Cowork恐慌"
 date: 2026-02-09
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: https://lishuhang.me/img/2026/02/09/cong-deepseek-kong-huang-dao-cowork/01.png
 ---
 

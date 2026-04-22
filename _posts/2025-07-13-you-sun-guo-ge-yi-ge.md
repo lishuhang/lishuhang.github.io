@@ -3,7 +3,7 @@ categories: 文章
 date: 2025-07-13
 image: https://lishuhang.me/img/2025/07/13/01.jpg
 layout: post
-tags: 随笔
+tags: [历史]
 title: “有损国格”：一个被意外激活的陈年条款
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "分享最近的两篇文章"
 date: 2026-02-21
 categories: 文章
-tags: [科技]
+tags: [公告]
 image: https://lishuhang.me/img/2026/02/21/fen-xiang-zui-jin-de-liang/01.jpg
 ---
 

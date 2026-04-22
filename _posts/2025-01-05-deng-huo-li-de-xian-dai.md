@@ -2,7 +2,7 @@
 date: 2025-01-05
 image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/05/01.jpg
 layout: post
-tags: 随笔
+tags: [历史]
 title: 灯火里的现代生活
 ---
 

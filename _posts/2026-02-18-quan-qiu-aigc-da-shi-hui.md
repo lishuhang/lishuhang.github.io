@@ -3,7 +3,7 @@ layout: post
 title: "全球AIGC大事回顾（2026年1月）"
 date: 2026-02-18
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: https://lishuhang.me/img/2026/02/18/quan-qiu-aigc-da-shi-hui/01.png
 ---
 

@@ -3,7 +3,7 @@ categories: 文章
 date: 2025-05-03
 image: https://lishuhang.me/img/2025/05/03/01.jpg
 layout: post
-tags: 传媒
+tags: [传媒]
 title: 特朗普想要好莱坞“再次伟大”，没那么容易
 ---
 

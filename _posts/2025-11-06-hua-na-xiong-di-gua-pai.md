@@ -3,7 +3,7 @@ layout: post
 title: "华纳兄弟挂牌出售，600亿美元还嫌低"
 date: 2025-11-06
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2025/11/06/hua-na-xiong-di-gua-pai/01.jpg
 ---
 
