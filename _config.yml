@@ -1,45 +1,119 @@
-# Site
+# ============================================================
+# Site Configuration – lishuhang.me
+# Optimized Jekyll blog theme
+# ============================================================
+
 name: "航通社"
 title: "航通社"
 description: "你应该知道的历史、现在和未来"
 url: "https://lishuhang.me"
 domain: lishuhang.me
 email: i@lishuhang.me
-
 lang: zh
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Author
+author:
+  name: 书航
 
+# ============================================================
+# Theme & Appearance
+# ============================================================
+
+color: "#347df8"
+logo: "/assets/logo.svg"
+show_title: true
+header_accent_bg: false
+copyright: "© 2006-2026 书航 [lishuhang.me](https://lishuhang.me)"
+
+# ============================================================
+# Build settings
+# ============================================================
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink: /posts/:year/:month/:day/:title/
+
+# Pagination (jekyll-paginate)
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Collections
 collections:
   posts:
     permalink: /posts/:year/:month/:day/:title/
     output: true
 
-color: "#347df8"    # 主题色，决定全站 accent color
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 
-logo: "/assets/logo.png"
-show_title: false   # true = 同时显示站点标题和描述，false = 仅显示 Logo
-header_accent_bg: false   # true = 页眉使用主题色背景，始终显示浅色文字
+# ============================================================
+# Plugins
+# ============================================================
 
-copyright: "© 2006-2026 书航 [lishuhang.me](https://lishuhang.me)"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# Analytics（留空则不加载）
+# ============================================================
+# SEO & Analytics
+# ============================================================
+
 google_analytics: ""
-
-# SEO 验证（留空则不加载）
 google_site_verification: ""
 bing_site_verification: ""
-
-# 搜索引擎爬虫指令
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1, archive"
 
-authors:
-  james:
-    name: James Li
-    display_name: James
-    email: i@lishuhang.me
-    web: https://lishuhang.me
-    description: "书航，航通社创始人"
+# Social
+twitter:
+  username: lishuhang
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - .gitignore
+
+# Include
+include:
+  - .nojekyll
+
+# ============================================================
+# Giscus comments
+# ============================================================
+
+giscus:
+  repo: lishuhang/lishuhang.github.io
+  repo-id: "R_kgDOKbcVHw"
+  category: Announcements
+  category-id: "DIC_kwDOKbcVH84CwoJY"
+  mapping: specific
+  reactions-enabled: 1
+  emit-metadata: 1
+  lang: zh-CN
+
+# ============================================================
+# Image proxy (weserv.nl)
+# ============================================================
+
+image_proxy: "https://images.weserv.nl/?url="

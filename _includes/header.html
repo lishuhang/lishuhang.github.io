@@ -1,34 +1,36 @@
-<!-- 顶部吸顶页眉 -->
-<header class="site-header{% if site.header_accent_bg %} header-accent-bg{% endif %}" id="site-header">
+<!-- ============================================================
+     header.html – Sticky site header
+     
+     Contains: Logo, desktop navigation, hamburger (mobile)
+     ============================================================ -->
+<header class="site-header" role="banner">
   <div class="header-inner">
-    <!-- 左：Logo + 站名 -->
-    <div class="site-branding">
-      <a href="{{ '/' | relative_url }}" class="site-logo">
-        <img src="{{ site.logo | default: '/assets/logo.svg' | relative_url }}" alt="{{ site.title }}">
-      </a>
+    <!-- Logo -->
+    <a href="/" class="site-logo" aria-label="{{ site.title }} – 首页">
+      <img src="{{ site.logo | default: '/assets/logo.svg' }}" alt="{{ site.title }}" width="36" height="36">
       {% if site.show_title != false %}
       <div class="brand-text">
-        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+        <span class="site-title">{{ site.title }}</span>
         <span class="site-description">{{ site.description }}</span>
       </div>
       {% endif %}
-    </div>
+    </a>
 
-    <!-- 中：页眉导航（桌面端） -->
-    <nav class="header-nav" id="header-nav">
-      <ul class="header-nav-list">
-        <li><a href="{{ '/' | relative_url }}">首页</a></li>
-        <li><a href="{{ '/about' | relative_url }}">关于</a></li>
-        <li><a href="https://lishuhang.me/daily/" target="_blank" rel="noopener noreferrer">AI 早报</a></li>
-        <li><a href="/photos" target="_blank" rel="noopener noreferrer">图片库</a></li>
-        <li><a href="{{ '/feed.xml' | relative_url }}" target="_blank" rel="noopener noreferrer">RSS</a></li>
-        <li><a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener noreferrer" title="开往随机博客">友链接力</a></li>
-      </ul>
+    <!-- Desktop Navigation -->
+    <nav class="header-nav" role="navigation" aria-label="主导航">
+      <a href="/" {% if page.layout == 'home' %}class="active"{% endif %}>首页</a>
+      <a href="/about/" {% if page.url == '/about/' %}class="active"{% endif %}>关于</a>
+      <a href="https://lishuhang.me/daily/" target="_blank" rel="noopener noreferrer">AI 早报</a>
+      <a href="/photos" target="_blank" rel="noopener noreferrer">图片库</a>
+      <a href="/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a>
+      <a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener noreferrer">友链接力</a>
     </nav>
 
-    <!-- 右：汉堡按钮（移动端） -->
-    <button class="sidebar-toggle" id="hamburgerButton" aria-label="打开侧边栏">
-      <svg class="icon-svg"><use href="#i-menu"/></svg>
+    <!-- Hamburger (mobile only, toggles sidebar) -->
+    <button class="hamburger" id="hamburgerButton" aria-label="打开菜单" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
     </button>
   </div>
 </header>

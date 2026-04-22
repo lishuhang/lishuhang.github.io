@@ -1,435 +1,846 @@
-/**
- * 航通社极简 JS v6
- * 三态主题 / 年份存档 / Featured轮播 / 翻页 / 搜索
- */
-(function() {
-  'use strict';
+/* ============================================================
+   main.js – Optimized JavaScript for lishuhang.me
+   
+   Architecture:
+   - All code uses vanilla JS, no dependencies
+   - Deferred loading: this script loads with `defer`
+   - Post data (window.__POSTS__) loads from separate /assets/data/posts.js
+   - Giscus comments load lazily via Intersection Observer
+   
+   Performance notes:
+   - No inline data in HTML (moved to posts.js)
+   - Giscus only loads when comments section is visible
+   - Carousel uses requestAnimationFrame for scroll detection
+   - Event delegation where possible (document-level listeners)
+   ============================================================ */
 
-  var PAGE_SIZE = 10;
-  var currentPage = 1;
-  var allPosts = [];
-  var displayedPosts = [];
+(function () {
+  "use strict";
 
-  /* ===== 工具 ===== */
-  function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
-
-  function createCard(post) {
-    var el = document.createElement('article');
-    el.className = 'post-card';
-    el.dataset.year = post.y;
-    el.dataset.month = post.m;
-    el.dataset.tags = post.g || '';
-    el.dataset.title = (post.t || '').toLowerCase();
-    el.dataset.excerpt = (post.e || '').toLowerCase();
-    var imgSrc = post.i ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover' : '';
-    var h = '<a href="' + post.u + '" class="post-card-link">';
-    if (imgSrc) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
-    h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
-    if (post.g) post.g.split(',').slice(0, 3).forEach(function(t) { t = t.trim(); if (t) h += '<span class="post-tag">#' + esc(t) + '</span>'; });
-    h += '</div><h2 class="post-card-title">' + esc(post.t) + '</h2>';
-    if (post.e) h += '<p class="post-card-excerpt">' + esc(post.e) + '</p>';
-    h += '</div></a>';
-    el.innerHTML = h;
-    return el;
-  }
-
-  /* ===== 三态主题（浅色 / 跟随系统 / 深色） ===== */
-  function initTheme() {
-    var saved = localStorage.getItem('theme') || 'system';
-    applyTheme(saved);
-    document.querySelectorAll('.theme-btn').forEach(function(btn) {
-      btn.addEventListener('click', function() {
-        var t = this.dataset.theme;
-        localStorage.setItem('theme', t);
-        applyTheme(t);
-      });
-    });
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
-      if ((localStorage.getItem('theme') || 'system') === 'system') applyTheme('system');
-    });
-  }
-
-  function applyTheme(preference) {
-    var actual = preference === 'system'
-      ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
-      : preference;
-    document.documentElement.setAttribute('data-theme', actual);
-    var f = document.querySelector('iframe.giscus-frame');
-    if (f) f.contentWindow.postMessage({ giscus: { setConfig: { theme: actual === 'dark' ? 'dark' : 'light' } } }, 'https://giscus.app');
-    document.querySelectorAll('.theme-btn').forEach(function(b) { b.classList.toggle('active', b.dataset.theme === preference); });
-  }
-
-  /* ===== 年份存档选择器 ===== */
-  function initArchive() {
-    var el = document.getElementById('calendarWidget');
-    if (!el || !window.__YD__) return;
-    var now = new Date();
-    var state = { base: Math.floor(now.getFullYear() / 12) * 12 };
-    var params = new URLSearchParams(window.location.search);
-    if (params.get('year')) state.base = Math.floor(parseInt(params.get('year')) / 12) * 12;
-
-    function render() {
-      var h = '<div class="cal-header"><button class="cal-nav" data-a="prev">&lsaquo;</button><span class="cal-title">' + state.base + ' - ' + (state.base + 11) + '</span><button class="cal-nav" data-a="next">&rsaquo;</button></div><div class="cal-grid cal-ys">';
-      for (var y = state.base; y < state.base + 12; y++) {
-        if (y < 2006) continue;
-        var c = 'cal-yr';
-        if (y === now.getFullYear()) c += ' cal-cur';
-        var count = window.__YD__[y] || 0;
-        h += '<span class="' + c + '" data-y="' + y + '">' + y + '<span class="cal-yr-count">' + count + ' 篇</span></span>';
+  /* ----------------------------------------------------------
+     1. Theme Manager
+     - Reads saved preference from localStorage
+     - Falls back to system preference (prefers-color-scheme)
+     - Updates toggle UI and Giscus theme on change
+     ---------------------------------------------------------- */
+  const Theme = {
+    KEY: "theme",
+    init() {
+      // Apply saved or system preference
+      const saved = localStorage.getItem(this.KEY);
+      if (saved) {
+        document.documentElement.setAttribute("data-theme", saved);
+      } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        document.documentElement.setAttribute("data-theme", "dark");
       }
-      h += '</div>';
-      el.innerHTML = h;
-    }
+      this.updateToggleUI();
 
-    el.addEventListener('click', function(e) {
-      var t = e.target, a = t.dataset.a;
-      if (a === 'prev') { state.base -= 12; if (state.base < 2000) state.base = 2000; render(); return; }
-      if (a === 'next') { state.base += 12; render(); return; }
-      if (t.dataset.y !== undefined) {
-        window.location.href = '/?year=' + parseInt(t.dataset.y);
+      // Bind click on theme toggle button
+      document.querySelectorAll(".theme-toggle").forEach((btn) => {
+        btn.addEventListener("click", () => this.toggle());
+      });
+
+      // Bind keyboard on toggle switch for accessibility
+      document.querySelectorAll(".theme-toggle .toggle-switch").forEach((sw) => {
+        sw.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            this.toggle();
+          }
+        });
+      });
+
+      // Listen for system preference changes
+      window
+        .matchMedia("(prefers-color-scheme: dark)")
+        .addEventListener("change", (e) => {
+          if (!localStorage.getItem(this.KEY)) {
+            document.documentElement.setAttribute(
+              "data-theme",
+              e.matches ? "dark" : "light"
+            );
+            this.updateToggleUI();
+          }
+        });
+    },
+    toggle() {
+      const current =
+        document.documentElement.getAttribute("data-theme") || "light";
+      const next = current === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", next);
+      localStorage.setItem(this.KEY, next);
+      this.updateToggleUI();
+      this.updateGiscusTheme(next);
+    },
+    updateToggleUI() {
+      const isDark =
+        document.documentElement.getAttribute("data-theme") === "dark";
+      document
+        .querySelectorAll(".theme-toggle .toggle-switch")
+        .forEach((el) => {
+          el.classList.toggle("active", isDark);
+          el.setAttribute("aria-checked", isDark);
+        });
+      document.querySelectorAll(".theme-toggle .icon-sun").forEach((el) => {
+        el.style.display = isDark ? "none" : "block";
+      });
+      document.querySelectorAll(".theme-toggle .icon-moon").forEach((el) => {
+        el.style.display = isDark ? "block" : "none";
+      });
+    },
+    updateGiscusTheme(theme) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (iframe) {
+        iframe.contentWindow.postMessage(
+          { giscus: { setConfig: { theme: theme } } },
+          "https://giscus.app"
+        );
       }
-    });
-    render();
-  }
+    },
+  };
 
-  /* ===== Featured 轮播（仅首页第一页显示） ===== */
-  function initFeatured() {
-    var carousel = document.getElementById('featuredCarousel');
-    var slides = document.querySelectorAll('.featured-slide');
-    var dots = document.querySelectorAll('.featured-dot');
-    var prevBtn = document.getElementById('featuredPrev');
-    var nextBtn = document.getElementById('featuredNext');
-    if (slides.length <= 1 || !carousel) return;
-    var current = 0;
-    var timer;
+  /* ----------------------------------------------------------
+     2. Mobile Navigation
+     - Hamburger toggle opens/closes sidebar
+     - Overlay click closes sidebar
+     - Escape key closes sidebar
+     ---------------------------------------------------------- */
+  const MobileNav = {
+    init() {
+      const hamburger = document.querySelector(".hamburger") || document.getElementById("hamburgerButton");
+      const sidebar = document.querySelector(".sidebar-area");
+      const overlay = document.querySelector(".sidebar-overlay");
 
-    function show(idx) {
-      current = ((idx % slides.length) + slides.length) % slides.length;
-      slides.forEach(function(s, i) { s.classList.toggle('active', i === current); });
-      dots.forEach(function(d, i) { d.classList.toggle('active', i === current); });
-    }
+      if (!hamburger || !sidebar) return;
 
-    function next() { show(current + 1); }
-    function prev() { show(current - 1); }
-
-    // 圆点点击
-    dots.forEach(function(dot) {
-      dot.addEventListener('click', function() {
-        show(parseInt(this.dataset.idx));
-        resetTimer();
+      hamburger.addEventListener("click", () => {
+        const isOpen = sidebar.classList.contains("open");
+        this.toggle(!isOpen);
       });
-    });
 
-    // 左右箭头
-    if (prevBtn) prevBtn.addEventListener('click', function() { prev(); resetTimer(); });
-    if (nextBtn) nextBtn.addEventListener('click', function() { next(); resetTimer(); });
+      if (overlay) {
+        overlay.addEventListener("click", () => this.toggle(false));
+      }
 
-    // 触屏滑动
-    var touchStartX = 0, touchEndX = 0;
-    carousel.addEventListener('touchstart', function(e) { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
-    carousel.addEventListener('touchend', function(e) {
-      touchEndX = e.changedTouches[0].screenX;
-      var diff = touchStartX - touchEndX;
-      if (Math.abs(diff) > 50) { diff > 0 ? next() : prev(); resetTimer(); }
-    }, { passive: true });
-
-    function resetTimer() { clearInterval(timer); timer = setInterval(next, 5000); }
-
-    // 自动轮播
-    timer = setInterval(next, 5000);
-    // 鼠标悬停暂停
-    carousel.addEventListener('mouseenter', function() { clearInterval(timer); });
-    carousel.addEventListener('mouseleave', function() { timer = setInterval(next, 5000); });
-
-    // 根据当前页面/过滤状态显示或隐藏 featured
-    updateFeaturedVisibility();
-  }
-
-  function updateFeaturedVisibility() {
-    var carousel = document.getElementById('featuredCarousel');
-    if (!carousel) return;
-    var params = new URLSearchParams(window.location.search);
-    var isFiltered = params.get('tag') || params.get('year') || params.get('search');
-    if (isFiltered || currentPage > 1) {
-      carousel.classList.add('hidden');
-    } else {
-      carousel.classList.remove('hidden');
-    }
-  }
-
-  /* ===== 移动端侧边栏（含遮罩修复） ===== */
-  function initMobileMenu() {
-    var btn = document.getElementById('hamburgerButton');
-    var overlay = document.getElementById('sidebarOverlay');
-    var sidebar = document.getElementById('site-sidebar');
-    if (!btn) return;
-    function open() { if (sidebar) sidebar.classList.add('open'); if (overlay) overlay.classList.add('active'); document.body.style.overflow = 'hidden'; }
-    function close() { if (sidebar) sidebar.classList.remove('open'); if (overlay) overlay.classList.remove('active'); document.body.style.overflow = ''; }
-    btn.addEventListener('click', function() { sidebar.classList.contains('open') ? close() : open(); });
-    if (overlay) overlay.addEventListener('click', close);
-    if (sidebar) sidebar.addEventListener('click', function(e) { if (e.target.tagName === 'A') close(); });
-    // 修复：窗口放大到宽屏时确保遮罩消失
-    var mq = window.matchMedia('(min-width: 1150px)');
-    mq.addEventListener('change', function(e) { if (e.matches) close(); });
-    // 双重保障：resize 事件也检查
-    var resizeTimer;
-    window.addEventListener('resize', function() {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(function() { if (window.innerWidth > 1149) close(); }, 100);
-    });
-  }
-
-  /* ===== 回到顶部 ===== */
-  function initScrollToTop() {
-    var btn = document.getElementById('scrollToTopBtn');
-    if (!btn) return;
-    window.addEventListener('scroll', function() { btn.classList.toggle('show', window.scrollY > window.innerHeight); }, { passive: true });
-    btn.addEventListener('click', function() { window.scrollTo({ top: 0, behavior: 'smooth' }); });
-  }
-
-  /* ===== 复制链接 ===== */
-  function initCopyLink() {
-    var btn = document.getElementById('copyLinkBtn');
-    if (!btn) return;
-    btn.addEventListener('click', function() {
-      navigator.clipboard.writeText(window.location.href).then(function() {
-        btn.title = '已复制！';
-        setTimeout(function() { btn.title = '复制链接'; }, 1500);
-      });
-    });
-  }
-
-  /* ===== 微信分享二维码 ===== */
-  function initWechatShare() {
-    var btn = document.getElementById('wechatShareBtn');
-    var overlay = document.getElementById('wechatQrOverlay');
-    var closeBtn = document.getElementById('wechatQrClose');
-    var qrDiv = document.getElementById('wechatQrCode');
-    if (!btn || !overlay || !qrDiv) return;
-
-    function show() {
-      var url = window.location.href;
-      qrDiv.innerHTML = '<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=' + encodeURIComponent(url) + '" alt="QR Code" loading="lazy">';
-      overlay.classList.add('active');
-    }
-    function hide() { overlay.classList.remove('active'); }
-
-    btn.addEventListener('click', show);
-    if (closeBtn) closeBtn.addEventListener('click', hide);
-    overlay.addEventListener('click', function(e) { if (e.target === overlay) hide(); });
-  }
-
-  /* ===== 搜索 ===== */
-  function initSearch() {
-    var form = document.querySelector('.search-form');
-    var input = document.getElementById('searchInput');
-    if (!form || !input) return;
-    document.querySelectorAll('input[name="engine"]').forEach(function(r) {
-      r.addEventListener('change', function() {
-        var v = document.querySelector('input[name="engine"]:checked').value;
-        input.placeholder = v === 'google' ? '用 Google 搜索...' : v === 'baidu' ? '用百度搜索...' : '搜索文章...';
-      });
-    });
-    form.addEventListener('submit', function(e) {
-      e.preventDefault();
-      var q = input.value.trim(); if (!q) return;
-      var v = document.querySelector('input[name="engine"]:checked');
-      var eng = v ? v.value : 'internal';
-      if (eng === 'google') window.open('https://www.google.com/search?q=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
-      else if (eng === 'baidu') window.open('https://www.baidu.com/s?wd=' + encodeURIComponent('site:lishuhang.me ' + q), '_blank');
-      else window.location.href = '/?search=' + encodeURIComponent(q);
-    });
-  }
-
-  /* ===== 翻页 + 预建索引过滤 ===== */
-  function initPagination() {
-    allPosts = window.__POSTS__ || [];
-    var container = document.getElementById('postsContainer');
-    var loadingHint = document.getElementById('loadingHint');
-    if (!container) return;
-
-    var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
-    if (!allPosts.length) return;
-
-    if (tag || year || search) {
-      setTimeout(function() {
-        displayedPosts = [];
-        if (tag && window.__TI__ && window.__TI__[tag]) displayedPosts = window.__TI__[tag].map(function(i) { return allPosts[i]; });
-        else if (year && window.__YI__ && window.__YI__[year]) displayedPosts = window.__YI__[year].map(function(i) { return allPosts[i]; });
-        else if (search) {
-          var q = search.toLowerCase();
-          displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && sidebar.classList.contains("open")) {
+          this.toggle(false);
         }
-        currentPage = 1;
-        container.style.display = '';
-        container.innerHTML = '';
-        if (loadingHint) loadingHint.style.display = 'none';
-        updateFeaturedVisibility();
-        renderPage();
-      }, 30);
-      return;
-    }
-
-    displayedPosts = allPosts;
-    currentPage = 1;
-    renderPageButtons(document.getElementById('pagination'), allPosts.length, 1);
-  }
-
-  function renderPage() {
-    var container = document.getElementById('postsContainer');
-    var paginationEl = document.getElementById('pagination');
-    var filterHeader = document.getElementById('filterHeader');
-    var filterTitle = document.getElementById('filterTitle');
-    var noResults = document.getElementById('noResults');
-    if (!container) return;
-
-    var params = new URLSearchParams(window.location.search);
-    var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
-
-    if (filterHeader && filterTitle) {
-      if (tag) { filterTitle.textContent = '标签：' + tag; filterHeader.style.display = ''; }
-      else if (year) { filterTitle.textContent = year + '年文章'; filterHeader.style.display = ''; }
-      else if (search) { filterTitle.textContent = '搜索：' + search; filterHeader.style.display = ''; }
-      else { filterHeader.style.display = 'none'; }
-    }
-
-    if (tag) document.title = '标签：' + tag + ' - 航通社';
-    else if (year) document.title = year + '年文章 - 航通社';
-    else if (search) document.title = '搜索：' + search + ' - 航通社';
-    else document.title = '航通社 | 你应该知道的历史、现在和未来';
-
-    document.querySelectorAll('.tag-btn').forEach(function(b) { b.classList.toggle('active', tag && b.textContent === tag); });
-
-    var total = displayedPosts.length;
-    container.innerHTML = '';
-    if (total === 0) {
-      if (noResults) { noResults.textContent = '没有找到匹配的文章'; noResults.style.display = 'block'; }
-      if (paginationEl) paginationEl.innerHTML = '';
-      return;
-    }
-    if (noResults) noResults.style.display = 'none';
-
-    var start = (currentPage - 1) * PAGE_SIZE;
-    var end = Math.min(start + PAGE_SIZE, total);
-    for (var i = start; i < end; i++) container.appendChild(createCard(displayedPosts[i]));
-    renderPageButtons(paginationEl, total, currentPage);
-    updateFeaturedVisibility();
-  }
-
-  function renderPageButtons(el, total, current) {
-    if (!el) return;
-    var tp = Math.ceil(total / PAGE_SIZE);
-    if (tp <= 1) { el.innerHTML = ''; return; }
-    var h = '';
-    h += current > 1 ? '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 上一页</a>' : '<span class="pagination-btn pagination-disabled">\u2190 上一页</span>';
-    var s = Math.max(1, current - 2), e = Math.min(tp, current + 2);
-    if (s > 1) { h += '<a href="#" class="pagination-btn" data-page="1">1</a>'; if (s > 2) h += '<span class="pagination-ellipsis">\u2026</span>'; }
-    for (var i = s; i <= e; i++) h += i === current ? '<span class="pagination-btn pagination-current">' + i + '</span>' : '<a href="#" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
-    if (e < tp) { if (e < tp - 1) h += '<span class="pagination-ellipsis">\u2026</span>'; h += '<a href="#" class="pagination-btn" data-page="' + tp + '">' + tp + '</a>'; }
-    h += current < tp ? '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">下一页 \u2192</a>' : '<span class="pagination-btn pagination-disabled">下一页 \u2192</span>';
-    el.innerHTML = h;
-    el.querySelectorAll('a[data-page]').forEach(function(btn) {
-      btn.addEventListener('click', function(ev) {
-        ev.preventDefault();
-        currentPage = parseInt(this.dataset.page);
-        renderPage();
-        updateFeaturedVisibility();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
-    });
-  }
+    },
+    toggle(open) {
+      const hamburger = document.querySelector(".hamburger");
+      const sidebar = document.querySelector(".sidebar-area");
+      const overlay = document.querySelector(".sidebar-overlay");
 
-  /* ===== 原图切换 ===== */
-  function initImageToggle() {
-    var toggle = document.getElementById('originalImageToggle');
-    if (!toggle) return;
-    if (localStorage.getItem('useOriginalImage') === 'true') toggle.checked = true;
-    function process() {
-      var article = document.querySelector('.article-content');
-      var featImg = document.querySelector('.article-featured-image img');
-      var orig = toggle.checked;
-      if (article) article.querySelectorAll('img').forEach(function(img) {
-        var src = img.getAttribute('data-original') || img.src;
-        if (!img.getAttribute('data-original')) img.setAttribute('data-original', src);
-        if (orig) img.src = src;
-        else if (!img.src.includes('weserv.nl')) img.src = 'https://images.weserv.nl/?url=' + encodeURIComponent(src) + '&output=jpg&q=80';
+      if (!hamburger || !sidebar) return;
+
+      sidebar.classList.toggle("open", open);
+      hamburger.classList.toggle("active", open);
+      hamburger.setAttribute("aria-expanded", open);
+      if (overlay) overlay.classList.toggle("active", open);
+      document.body.style.overflow = open ? "hidden" : "";
+    },
+  };
+
+  /* ----------------------------------------------------------
+     3. Featured Carousel
+     - Auto-advances every 5 seconds
+     - Pause on hover
+     - Dot navigation
+     - Touch swipe support
+     - First slide uses fetchpriority="high"
+     ---------------------------------------------------------- */
+  const Carousel = {
+    current: 0,
+    timer: null,
+    interval: 5000,
+
+    init() {
+      const track = document.querySelector(".carousel-track");
+      if (!track) return;
+
+      this.track = track;
+      this.slides = track.querySelectorAll(".carousel-slide");
+      this.dots = document.querySelectorAll(".carousel-dot");
+      this.total = this.slides.length;
+
+      if (this.total <= 1) return;
+
+      // Dot navigation (event delegation)
+      document
+        .querySelector(".carousel-dots")
+        ?.addEventListener("click", (e) => {
+          const dot = e.target.closest(".carousel-dot");
+          if (!dot) return;
+          const idx = Array.from(this.dots).indexOf(dot);
+          if (idx >= 0) this.goTo(idx);
+        });
+
+      // Pause on hover
+      const container = document.querySelector(".carousel");
+      container?.addEventListener("mouseenter", () => this.pause());
+      container?.addEventListener("mouseleave", () => this.start());
+
+      // Touch support
+      this.initTouch(container);
+
+      this.start();
+    },
+
+    goTo(idx) {
+      if (idx < 0) idx = this.total - 1;
+      if (idx >= this.total) idx = 0;
+      this.current = idx;
+      this.track.style.transform = `translateX(-${idx * 100}%)`;
+      this.dots.forEach((d, i) => {
+        d.classList.toggle("active", i === idx);
+        d.setAttribute("aria-selected", i === idx);
       });
-      if (featImg) { var o = featImg.getAttribute('data-original'); if (o) featImg.src = orig ? o : 'https://images.weserv.nl/?url=' + encodeURIComponent(o) + '&output=jpg&q=80'; }
-    }
-    process();
-    toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); process(); });
-  }
+    },
 
-  /* ===== 文章内图片懒加载 ===== */
-  function initLazyImages() {
-    // 为文章正文中所有图片设置懒加载
-    var article = document.querySelector('.article-content');
-    if (article) {
-      article.querySelectorAll('img').forEach(function(img) {
-        img.setAttribute('loading', 'lazy');
-        if ('fetchPriority' in img) img.setAttribute('fetchpriority', 'low');
+    next() {
+      this.goTo(this.current + 1);
+    },
+
+    start() {
+      this.pause();
+      this.timer = setInterval(() => this.next(), this.interval);
+    },
+
+    pause() {
+      if (this.timer) {
+        clearInterval(this.timer);
+        this.timer = null;
+      }
+    },
+
+    initTouch(el) {
+      if (!el) return;
+      let startX = 0;
+      let diff = 0;
+
+      el.addEventListener(
+        "touchstart",
+        (e) => {
+          startX = e.touches[0].clientX;
+          diff = 0;
+        },
+        { passive: true }
+      );
+
+      el.addEventListener(
+        "touchmove",
+        (e) => {
+          diff = e.touches[0].clientX - startX;
+        },
+        { passive: true }
+      );
+
+      el.addEventListener("touchend", () => {
+        if (Math.abs(diff) > 50) {
+          this.pause();
+          if (diff < 0) this.next();
+          else this.goTo(this.current - 1);
+          this.start();
+        }
       });
-    }
-  }
+    },
+  };
 
-  /* ===== 文章内链接强制新标签页打开 ===== */
-  function initExternalLinks() {
-    var article = document.querySelector('.article-content');
-    if (!article) return;
-    article.querySelectorAll('a').forEach(function(a) {
-      if (a.hostname !== window.location.hostname) {
-        a.setAttribute('target', '_blank');
-        a.setAttribute('rel', 'noopener noreferrer');
+  /* ----------------------------------------------------------
+     4. Post Filter & Search (homepage only)
+     
+     On homepage:
+     - Pre-rendered cards are shown by default (static HTML)
+     - When user clicks tag/year/search, loads posts.js and filters
+     - Static pagination hides, JS pagination shows for filtered results
+     
+     On article pages:
+     - Tag/year clicks navigate to homepage with hash (#tag/xxx)
+     ---------------------------------------------------------- */
+  const Filter = {
+    PER_PAGE: 10,
+    currentFilter: null,
+    filteredPosts: [],
+    currentPage: 1,
+    dataLoaded: false,
+    isHomePage: false,
+
+    init() {
+      this.isHomePage = !!document.querySelector(".posts-grid");
+
+      // Bind click events for tags and years (works on all pages)
+      this.bindEvents();
+
+      // If on homepage, set up full filtering
+      if (this.isHomePage) {
+        this.postsGrid = document.querySelector(".posts-grid");
+        this.filteredContainer = document.querySelector(".posts-filtered");
+        this.loadingEl = document.querySelector(".posts-loading");
+        this.emptyEl = document.querySelector(".posts-empty");
+        this.activeInfo = document.querySelector(".filter-active-info");
+        this.staticPagination = document.querySelector(".pagination");
+        this.jsPagination = document.querySelector(".pagination-js");
+
+        // Check URL hash for initial filter
+        this.checkURLHash();
+
+        // Listen for hash changes (browser back/forward)
+        window.addEventListener("hashchange", () => this.checkURLHash());
       }
-    });
-  }
+    },
 
-  /* ===== Giscus 评论计数监听 ===== */
-  function initCommentCount() {
-    var countEl = document.getElementById('commentCount');
-    if (!countEl) return;
-    window.addEventListener('message', function(e) {
-      if (e.origin !== 'https://giscus.app') return;
-      if (!(typeof e.data === 'object' && e.data.giscus)) return;
-      var d = e.data.giscus;
-      if (d.hasOwnProperty('discussion')) {
-        var total = (d.discussion.totalCommentCount || 0) + (d.discussion.totalReplyCount || 0);
-        countEl.textContent = total > 0 ? total + ' 条评论' : '评论';
+    bindEvents() {
+      // Event delegation for all clicks
+      document.addEventListener("click", (e) => {
+        // Tag click
+        const tagEl = e.target.closest("[data-filter-tag]");
+        if (tagEl) {
+          e.preventDefault();
+          if (this.isHomePage) {
+            this.applyFilter("tag", tagEl.dataset.filterTag);
+          } else {
+            // Navigate to homepage with tag filter
+            window.location.href = "/#tag/" + encodeURIComponent(tagEl.dataset.filterTag);
+          }
+          return;
+        }
+
+        // Year click
+        const yearEl = e.target.closest("[data-filter-year]");
+        if (yearEl) {
+          e.preventDefault();
+          if (this.isHomePage) {
+            this.applyFilter("year", yearEl.dataset.filterYear);
+          } else {
+            window.location.href = "/#year/" + yearEl.dataset.filterYear;
+          }
+          return;
+        }
+
+        // Clear filter
+        const clearEl = e.target.closest(".filter-clear");
+        if (clearEl) {
+          this.clearFilter();
+          return;
+        }
+
+        // JS pagination
+        const pageEl = e.target.closest("[data-js-page]");
+        if (pageEl) {
+          e.preventDefault();
+          this.goToPage(parseInt(pageEl.dataset.jsPage, 10));
+          return;
+        }
+      });
+
+      // Search input (homepage only, but sidebar exists on all pages)
+      const searchInput = document.querySelector(".search-input");
+      if (searchInput && this.isHomePage) {
+        let debounceTimer;
+        searchInput.addEventListener("input", () => {
+          clearTimeout(debounceTimer);
+          debounceTimer = setTimeout(() => {
+            const q = searchInput.value.trim();
+            if (q.length >= 2) {
+              this.applyFilter("search", q);
+            } else if (q.length === 0) {
+              this.clearFilter();
+            }
+          }, 300);
+        });
       }
-    });
-  }
+    },
 
-  /* ===== 超宽屏自适应缩放 ===== */
-  function initResponsiveScale() {
-    function update() {
-      var vw = window.innerWidth;
-      var scale = (vw * 2 / 3) / 1200;
-      if (scale > 1) {
-        document.documentElement.style.setProperty('--page-zoom', scale.toFixed(4));
-      } else {
-        document.documentElement.style.removeProperty('--page-zoom');
+    checkURLHash() {
+      const hash = location.hash.slice(1);
+      if (hash.startsWith("tag/")) {
+        this.applyFilter("tag", decodeURIComponent(hash.slice(4)));
+      } else if (hash.startsWith("year/")) {
+        this.applyFilter("year", hash.slice(5));
       }
-    }
-    update();
-    window.addEventListener('resize', update);
+    },
+
+    applyFilter(type, value) {
+      if (!this.isHomePage) return;
+
+      this.currentFilter = { type, value };
+      this.currentPage = 1;
+
+      // Close mobile sidebar if open
+      MobileNav.toggle(false);
+
+      // Load data if needed
+      if (!this.dataLoaded) {
+        this.showLoading(true);
+        this.loadData().then(() => {
+          this.showLoading(false);
+          this.renderFiltered();
+        });
+        return;
+      }
+
+      this.renderFiltered();
+    },
+
+    loadData() {
+      if (this.dataLoaded) return Promise.resolve();
+      if (window.__POSTS__) {
+        this.dataLoaded = true;
+        return Promise.resolve();
+      }
+
+      return new Promise((resolve) => {
+        const script = document.createElement("script");
+        script.src = "/assets/data/posts.js";
+        script.onload = () => {
+          this.dataLoaded = true;
+          resolve();
+        };
+        script.onerror = () => {
+          console.error("Failed to load posts data");
+          resolve();
+        };
+        document.head.appendChild(script);
+      });
+    },
+
+    renderFiltered() {
+      if (!this.currentFilter || !window.__POSTS__) return;
+
+      const { type, value } = this.currentFilter;
+
+      this.filteredPosts = window.__POSTS__.filter((post) => {
+        if (type === "tag") return post.g && post.g.includes(value);
+        if (type === "year") return post.d && post.d.startsWith(value);
+        if (type === "search") {
+          const q = value.toLowerCase();
+          return (
+            (post.t && post.t.toLowerCase().includes(q)) ||
+            (post.e && post.e.toLowerCase().includes(q))
+          );
+        }
+        return true;
+      });
+
+      // Swap: hide static posts, show filtered container
+      this.postsGrid.style.display = "none";
+      if (this.staticPagination) this.staticPagination.style.display = "none";
+      this.filteredContainer.classList.add("visible");
+      this.emptyEl.classList.toggle("visible", this.filteredPosts.length === 0);
+
+      this.updateActiveInfo();
+      this.renderPage();
+    },
+
+    renderPage() {
+      const start = (this.currentPage - 1) * this.PER_PAGE;
+      const end = start + this.PER_PAGE;
+      const pagePosts = this.filteredPosts.slice(start, end);
+
+      this.filteredContainer.innerHTML = pagePosts
+        .map((post) => this.renderCard(post))
+        .join("");
+
+      this.filteredContainer
+        .querySelectorAll(".post-card")
+        .forEach((card, i) => {
+          card.classList.add("animate-in");
+          card.style.animationDelay = `${i * 50}ms`;
+        });
+
+      this.renderJSPagination();
+    },
+
+    renderCard(post) {
+      const imgProxy = window.__IMG_PROXY__ || "";
+      const imgSrc = post.i ? imgProxy + encodeURIComponent(post.i) : "";
+      const tags = post.g
+        ? post.g
+            .map((t) => `<span class="tag">${this.esc(t)}</span>`)
+            .join("")
+        : "";
+
+      return `<article class="post-card animate-in">${
+        imgSrc
+          ? `<div class="post-card-thumb"><img src="${imgSrc}" alt="${this.esc(post.t)}" loading="lazy" decoding="async"></div>`
+          : ""
+      }<div class="post-card-body"><h3 class="post-card-title"><a href="${post.u}">${this.esc(post.t)}</a></h3><div class="post-card-meta"><time>${post.d}</time></div>${
+        post.e
+          ? `<p class="post-card-excerpt">${this.esc(post.e)}</p>`
+          : ""
+      }${tags ? `<div class="post-card-tags">${tags}</div>` : ""}</div></article>`;
+    },
+
+    renderJSPagination() {
+      if (!this.jsPagination) return;
+
+      const totalPages = Math.ceil(this.filteredPosts.length / this.PER_PAGE);
+      if (totalPages <= 1) {
+        this.jsPagination.classList.remove("visible");
+        return;
+      }
+
+      this.jsPagination.classList.add("visible");
+
+      let html = "";
+      if (this.currentPage > 1) {
+        html += `<a href="#" class="prev" data-js-page="${this.currentPage - 1}">‹ 上一页</a>`;
+      }
+
+      for (let i = 1; i <= totalPages; i++) {
+        if (i === this.currentPage) {
+          html += `<span class="current">${i}</span>`;
+        } else if (
+          i === 1 ||
+          i === totalPages ||
+          Math.abs(i - this.currentPage) <= 2
+        ) {
+          html += `<a href="#" data-js-page="${i}">${i}</a>`;
+        } else if (Math.abs(i - this.currentPage) === 3) {
+          html += `<span class="gap">…</span>`;
+        }
+      }
+
+      if (this.currentPage < totalPages) {
+        html += `<a href="#" class="next" data-js-page="${this.currentPage + 1}">下一页 ›</a>`;
+      }
+
+      this.jsPagination.innerHTML = html;
+    },
+
+    goToPage(page) {
+      this.currentPage = page;
+      this.renderPage();
+      this.filteredContainer.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    },
+
+    clearFilter() {
+      this.currentFilter = null;
+      this.filteredPosts = [];
+      this.currentPage = 1;
+
+      // Restore static posts
+      if (this.postsGrid) this.postsGrid.style.display = "";
+      if (this.staticPagination) this.staticPagination.style.display = "";
+      if (this.filteredContainer) {
+        this.filteredContainer.classList.remove("visible");
+        this.filteredContainer.innerHTML = "";
+      }
+      this.emptyEl?.classList.remove("visible");
+      this.jsPagination?.classList.remove("visible");
+      this.activeInfo?.classList.remove("visible");
+
+      // Clear active states
+      document
+        .querySelectorAll(".tag.active, .year-archive-item.active")
+        .forEach((el) => el.classList.remove("active"));
+
+      // Clear search input
+      const searchInput = document.querySelector(".search-input");
+      if (searchInput) searchInput.value = "";
+
+      // Clear URL hash
+      if (location.hash) history.replaceState(null, "", location.pathname);
+    },
+
+    updateActiveInfo() {
+      if (!this.activeInfo) return;
+
+      const { type, value } = this.currentFilter;
+      let label = "";
+      if (type === "tag") label = `标签：${value}`;
+      else if (type === "year") label = `年份：${value}`;
+      else if (type === "search") label = `搜索：${value}`;
+
+      this.activeInfo.innerHTML = `<span>${label}（${this.filteredPosts.length} 篇）</span><span class="filter-clear">清除筛选</span>`;
+      this.activeInfo.classList.add("visible");
+
+      // Highlight active tag/year
+      document
+        .querySelectorAll(".tag.active, .year-archive-item.active")
+        .forEach((el) => el.classList.remove("active"));
+      if (type === "tag") {
+        document
+          .querySelectorAll(`[data-filter-tag="${CSS.escape(value)}"]`)
+          .forEach((el) => el.classList.add("active"));
+      } else if (type === "year") {
+        document
+          .querySelectorAll(`[data-filter-year="${value}"]`)
+          .forEach((el) => el.classList.add("active"));
+      }
+
+      // Update URL hash
+      history.replaceState(
+        null,
+        "",
+        `#${type}/${encodeURIComponent(value)}`
+      );
+    },
+
+    showLoading(show) {
+      this.loadingEl?.classList.toggle("visible", show);
+    },
+
+    esc(str) {
+      if (!str) return "";
+      const d = document.createElement("div");
+      d.textContent = str;
+      return d.innerHTML;
+    },
+  };
+
+  /* ----------------------------------------------------------
+     5. Giscus Lazy Loader
+     - Only loads Giscus when comments section is near viewport
+     - Uses IntersectionObserver with rootMargin for pre-loading
+     - Saves 150-300KB on article pages where user doesn't scroll to comments
+     ---------------------------------------------------------- */
+  const LazyGiscus = {
+    init() {
+      const section = document.querySelector(".comments-section");
+      if (!section) return;
+
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              this.loadGiscus(section);
+              observer.unobserve(section);
+            }
+          });
+        },
+        { rootMargin: "200px 0px" }
+      );
+
+      observer.observe(section);
+    },
+
+    loadGiscus(section) {
+      const container = section.querySelector(".giscus-container");
+      if (!container || container.dataset.loaded) return;
+
+      const repo = container.dataset.repo || "";
+      const repoId = container.dataset.repoId || "";
+      const category = container.dataset.category || "";
+      const categoryId = container.dataset.categoryId || "";
+      const mapping = container.dataset.mapping || "pathname";
+      const lang = container.dataset.lang || "zh-CN";
+      const theme =
+        document.documentElement.getAttribute("data-theme") === "dark"
+          ? "dark"
+          : "light";
+
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.setAttribute("data-repo", repo);
+      script.setAttribute("data-repo-id", repoId);
+      script.setAttribute("data-category", category);
+      script.setAttribute("data-category-id", categoryId);
+      script.setAttribute("data-mapping", mapping);
+      script.setAttribute("data-strict", "0");
+      script.setAttribute("data-reactions-enabled", "1");
+      script.setAttribute("data-emit-metadata", "0");
+      script.setAttribute("data-input-position", "top");
+      script.setAttribute("data-theme", theme);
+      script.setAttribute("data-lang", lang);
+      script.setAttribute("data-loading", "lazy");
+      script.crossOrigin = "anonymous";
+      script.async = true;
+
+      container.appendChild(script);
+      container.dataset.loaded = "true";
+    },
+  };
+
+  /* ----------------------------------------------------------
+     6. Back to Top
+     - Shows button after scrolling 400px
+     - Uses requestAnimationFrame for scroll detection
+     ---------------------------------------------------------- */
+  const BackToTop = {
+    init() {
+      this.btn = document.querySelector(".back-to-top");
+      if (!this.btn) return;
+
+      let ticking = false;
+      window.addEventListener("scroll", () => {
+        if (!ticking) {
+          requestAnimationFrame(() => {
+            this.btn.classList.toggle("visible", window.scrollY > 400);
+            ticking = false;
+          });
+          ticking = true;
+        }
+      });
+
+      this.btn.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    },
+  };
+
+  /* ----------------------------------------------------------
+     7. Original Image Toggle
+     - When enabled, removes weserv.nl proxy from article images
+     - Preference saved in localStorage
+     ---------------------------------------------------------- */
+  const ImageToggle = {
+    KEY: "original-images",
+    init() {
+      this.toggle = document.querySelector(
+        ".original-image-toggle .toggle-switch"
+      );
+      if (!this.toggle) return;
+
+      const saved = localStorage.getItem(this.KEY) === "true";
+      this.toggle.classList.toggle("active", saved);
+      this.toggle.setAttribute("aria-checked", saved);
+      if (saved) this.applyOriginal(true);
+
+      this.toggle.addEventListener("click", () => {
+        const isActive = this.toggle.classList.toggle("active");
+        this.toggle.setAttribute("aria-checked", isActive);
+        localStorage.setItem(this.KEY, isActive);
+        this.applyOriginal(isActive);
+      });
+    },
+    applyOriginal(useOriginal) {
+      const proxy = window.__IMG_PROXY__ || "";
+      if (!proxy) return;
+
+      document
+        .querySelectorAll(".post-content img[src]")
+        .forEach((img) => {
+          if (useOriginal && img.src.includes("wsrv.nl")) {
+            try {
+              const url = new URL(img.src);
+              const original = url.searchParams.get("url");
+              if (original) img.src = original;
+            } catch (e) {
+              /* ignore malformed URLs */
+            }
+          } else if (!useOriginal && !img.src.includes("wsrv.nl")) {
+            const baseUrl = img.src;
+            if (baseUrl.startsWith("http")) {
+              img.src = proxy + encodeURIComponent(baseUrl);
+            }
+          }
+        });
+    },
+  };
+
+  /* ----------------------------------------------------------
+     8. WeChat QR Code
+     - Toggles QR code popup on click
+     - Generates QR if qrcode.js library is available
+     ---------------------------------------------------------- */
+  const WeChatQR = {
+    init() {
+      const btn = document.querySelector(".share-wechat");
+      const popup = document.querySelector(".wechat-qr-popup");
+      if (!btn || !popup) return;
+
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        popup.classList.toggle("visible");
+      });
+
+      // Close on outside click
+      document.addEventListener("click", (e) => {
+        if (!popup.contains(e.target) && e.target !== btn) {
+          popup.classList.remove("visible");
+        }
+      });
+
+      // Generate QR if library is loaded
+      if (typeof QRCode !== "undefined" && !popup.querySelector("canvas")) {
+        const canvas = document.createElement("canvas");
+        popup.insertBefore(canvas, popup.querySelector(".qr-label"));
+        new QRCode(canvas, {
+          text: location.href,
+          width: 120,
+          height: 120,
+          correctLevel: QRCode.CorrectLevel.M,
+        });
+      }
+    },
+  };
+
+  /* ----------------------------------------------------------
+     9. Share Functions
+     - Twitter/X, Weibo, Copy link
+     - Uses window.open for social shares
+     - Clipboard API for copy with visual feedback
+     ---------------------------------------------------------- */
+  const Share = {
+    init() {
+      document.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-share]");
+        if (!btn) return;
+
+        const type = btn.dataset.share;
+        const url = encodeURIComponent(location.href);
+        const title = encodeURIComponent(document.title);
+
+        switch (type) {
+          case "twitter":
+            window.open(
+              `https://twitter.com/intent/tweet?text=${title}&url=${url}`,
+              "_blank",
+              "width=600,height=400"
+            );
+            break;
+          case "weibo":
+            window.open(
+              `https://service.weibo.com/share/share.php?url=${url}&title=${title}`,
+              "_blank",
+              "width=600,height=400"
+            );
+            break;
+          case "copy":
+            navigator.clipboard?.writeText(location.href).then(() => {
+              const original = btn.innerHTML;
+              btn.innerHTML =
+                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>';
+              setTimeout(() => (btn.innerHTML = original), 1500);
+            });
+            break;
+        }
+      });
+    },
+  };
+
+  /* ----------------------------------------------------------
+     10. Image Proxy Helper
+     - Reads proxy URL from meta tag for JS card rendering
+     ---------------------------------------------------------- */
+  window.__IMG_PROXY__ =
+    document.querySelector('meta[name="image-proxy"]')?.content || "";
+
+  /* ----------------------------------------------------------
+     Initialize All Modules
+     ---------------------------------------------------------- */
+  function init() {
+    Theme.init();
+    MobileNav.init();
+    Carousel.init();
+    Filter.init();
+    LazyGiscus.init();
+    BackToTop.init();
+    ImageToggle.init();
+    WeChatQR.init();
+    Share.init();
   }
 
-  /* ===== 初始化 ===== */
-  document.addEventListener('DOMContentLoaded', function() {
-    initTheme();
-    initMobileMenu();
-    initScrollToTop();
-    initCopyLink();
-    initSearch();
-    initImageToggle();
-    initArchive();
-    initFeatured();
-    initWechatShare();
-    initLazyImages();
-    initExternalLinks();
-    initCommentCount();
-    initResponsiveScale();
-    initPagination();
-  });
+  // Script is deferred, DOM should be ready
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
 })();

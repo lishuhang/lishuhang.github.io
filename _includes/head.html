@@ -1,29 +1,68 @@
+<!-- ============================================================
+     head.html – Optimized <head> for lishuhang.me
+     
+     Strategy:
+     1. Critical CSS inlined (<2KB) for instant first paint
+     2. Full CSS loaded async (non-render-blocking)
+     3. Noto Sans SC loaded async with font-display:swap
+     4. No inline JSON data (moved to posts.js)
+     5. Preconnect for external resources
+     ============================================================ -->
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  {% seo %}
-  {% if site.robots %}<meta name="robots" content="{{ site.robots }}">{% endif %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <!-- 搜索引擎验证 -->
-  {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
-  {% if site.bing_site_verification %}<meta name="msvalidate.01" content="{{ site.bing_site_verification }}">{% endif %}
-
-  <!-- RSS 自动发现 -->
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ '/feed.xml' | relative_url }}">
-
-  <!-- 结构化数据 (JSON-LD) -->
-  <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title | jsonify }}","url":"{{ site.url | jsonify }}","description":"{{ site.description | jsonify }}"}
+  <!-- Theme detection (inline, prevents flash of wrong theme) -->
+  <script>
+    (function(){var t=localStorage.getItem('theme');if(t){document.documentElement.setAttribute('data-theme',t)}else if(window.matchMedia('(prefers-color-scheme:dark)').matches){document.documentElement.setAttribute('data-theme','dark')}})();
   </script>
 
-  <!-- 思源黑体 -->
-  <link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/earlyaccess/notosanssc.css">
+  <!-- Preconnect for external resources -->
+  <link rel="preconnect" href="https://images.weserv.nl" crossorigin>
+  <link rel="preconnect" href="https://giscus.app" crossorigin>
+  {% if site.google_analytics %}
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  {% endif %}
 
-  <!-- 全站样式 -->
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <!-- SEO -->
+  <title>{% if paginator.page and paginator.page > 1 %}第 {{ paginator.page }} 页 – {% endif %}{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncatewords: 30 | escape }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-  <!-- 主题色（从 _config.yml 读取，动态计算 hover / light 变体） -->
+  <!-- Open Graph -->
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncatewords: 30 | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+  <meta property="og:locale" content="zh_CN">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ site.twitter.username }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | truncatewords: 30 | escape }}">
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% endif %}
+
+  <!-- Favicon -->
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="/feed.xml">
+
+  <!-- Theme color -->
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1a1a2e" media="(prefers-color-scheme: dark)">
+
+  <!-- Accent color (from _config.yml, injected as CSS variable) -->
   <script>
   (function(){
     var a='{{ site.color | default: "#347df8" }}';
@@ -34,9 +73,54 @@
   })();
   </script>
 
+  <!-- Image proxy meta (for JS) -->
+  <meta name="image-proxy" content="{{ site.image_proxy }}">
+
+  <!-- ============================================================
+       CRITICAL CSS (inlined ~2KB)
+       Covers: CSS variables, base styles, header, layout, cards
+       ============================================================ -->
+  <style>
+    :root{--font:"Noto Sans SC",-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;--header-h:3.5rem;--accent:#d4463a;--bg:#fff;--text:#1d1d1f;--text-secondary:#6e6e73;--text-tertiary:#86868b;--border:#e5e5ea;--border-light:#f0f0f2;--bg-card:#fff;--bg-secondary:#f5f5f7;--header-bg:rgba(255,255,255,.82);--header-border:rgba(0,0,0,.06);--shadow-md:0 4px 12px rgba(0,0,0,.08);--transition:.2s ease}
+    [data-theme=dark]{--bg:#1a1a2e;--text:#e4e4e8;--text-secondary:#a0a0a8;--text-tertiary:#7a7a82;--border:#2d3748;--border-light:#263049;--bg-card:#1f2940;--bg-secondary:#16213e;--accent:#e8594f;--header-bg:rgba(26,26,46,.85);--header-border:rgba(255,255,255,.06);--shadow-md:0 4px 12px rgba(0,0,0,.3)}
+    *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:var(--font);font-size:1rem;line-height:1.75;color:var(--text);background:var(--bg);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+    a{color:var(--accent);text-decoration:none}
+    .site-header{position:fixed;top:0;left:0;right:0;height:var(--header-h);background:var(--header-bg);backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid var(--header-border);z-index:100}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1200px;margin:0 auto;padding:0 1.5rem;height:100%}
+    .site-main{display:flex;gap:2rem;max-width:1200px;margin:0 auto;padding:calc(var(--header-h) + 1.5rem) 1.5rem 2rem;width:100%}
+    .content-area{flex:1;min-width:0;max-width:720px}
+    .post-card{display:flex;gap:1rem;padding:1rem;border-radius:.75rem;background:var(--bg-card);border:1px solid var(--border-light);transition:box-shadow var(--transition),transform var(--transition)}
+    .post-card:hover{box-shadow:var(--shadow-md);transform:translateY(-1px)}
+    .post-card-thumb{flex-shrink:0;width:140px;height:100px;border-radius:.5rem;overflow:hidden;background:var(--bg-secondary)}
+    .post-card-thumb img{width:100%;height:100%;object-fit:cover}
+    .post-card-title{font-size:1rem;font-weight:600;line-height:1.5;margin-bottom:.375rem}
+    .post-card-title a{color:var(--text)}
+    .post-card-title a:hover{color:var(--accent)}
+    .post-card-meta{font-size:.8rem;color:var(--text-tertiary)}
+  </style>
+
+  <!-- Full CSS – loaded async (non-render-blocking) -->
+  <link rel="stylesheet" href="/assets/style.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="/assets/style.css"></noscript>
+
+  <!-- Noto Sans SC – loaded async with font-display:swap
+       Only loads weights 400 and 700 (not the 909-declaration earlyaccess CSS)
+       Using SJTU mirror for China accessibility -->
+  <link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Noto+Sans+SC:wght@400;700&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Noto+Sans+SC:wght@400;700&display=swap"></noscript>
+
+  <!-- Main JS – deferred (non-render-blocking) -->
+  <script src="/assets/js/main.js" defer></script>
+
+  <!-- Google Analytics (only if configured) -->
   {% if site.google_analytics %}
-  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.google_analytics }}');</script>
+  <script>
+    window.dataLayer=window.dataLayer||[];
+    function gtag(){dataLayer.push(arguments)}
+    gtag('js',new Date());
+    gtag('config','{{ site.google_analytics }}');
+  </script>
   {% endif %}
 </head>

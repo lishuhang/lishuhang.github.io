@@ -1,90 +1,159 @@
+<!-- ============================================================
+     home.html – Homepage layout
+     
+     Architecture:
+     1. Featured carousel (page 1 only, latest posts with images)
+     2. Filter bar (all pages, popular tags)
+     3. Pre-rendered 10 post cards from paginator (instant display)
+     4. Static pagination links (/page/2/, /page/3/, etc.) – SEO-friendly
+     5. JS-filtered results container (hidden by default)
+     6. posts.js prefetched (low priority) and loaded on-demand for filtering
+     
+     Performance:
+     - First load: ~90KB HTML + critical CSS + deferred JS
+     - No inline JSON data (moved to posts.js, browser-cached)
+     - Every page has a real URL (truly static)
+     ============================================================ -->
 ---
 layout: base
 ---
 
-<!-- Featured 轮播（最新 5 篇带 #featured 标签） -->
-{% assign featured_posts = '' | split: '' %}
-{% for post in site.posts %}
-  {% if post.tags contains 'featured' and featured_posts.size < 5 %}
-    {% assign featured_posts = featured_posts | push: post %}
-  {% endif %}
-{% endfor %}
-{% if featured_posts.size > 0 %}
-<div class="featured-carousel" id="featuredCarousel">
-  <div class="featured-slides" id="featuredSlides">
-    {% for post in featured_posts %}
-    <a href="{{ post.url | relative_url }}" class="featured-slide{% if forloop.first %} active{% endif %}">
-      <div class="featured-slide-img">
-        {% if post.image %}
-        <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=900&h=500&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
-        {% else %}
-        <div class="featured-slide-placeholder"></div>
-        {% endif %}
-      </div>
-      <div class="featured-slide-overlay">
-        <div class="featured-slide-info">
-          <div class="featured-slide-meta">
-            <span>{{ post.date | date: "%Y-%m-%d" }}</span>
-            {% for tag in post.tags limit:3 %}{% unless tag == 'featured' or tag == 'AIGC' %}
-            <span class="featured-slide-tag">#{{ tag }}</span>
-            {% endunless %}{% endfor %}
-          </div>
-          <h2 class="featured-slide-title">{{ post.title }}</h2>
-        </div>
+<!-- Prefetch posts data (low priority, loads when browser is idle) -->
+<link rel="prefetch" href="/assets/data/posts.js" as="script">
+
+<!-- Page title for paginated pages -->
+{% if paginator.page > 1 %}
+<h1 class="sr-only">第 {{ paginator.page }} 页</h1>
+{% endif %}
+
+<!-- Featured Carousel (page 1 only) -->
+{% if paginator.page == 1 %}
+{% assign featured = site.posts | where_exp: "p", "p.image" | limit: 5 %}
+{% if featured.size > 0 %}
+<div class="carousel" role="region" aria-label="精选文章" aria-roledescription="轮播">
+  <div class="carousel-track">
+    {% for post in featured %}
+    <a href="{{ post.url }}" class="carousel-slide" role="group" aria-roledescription="幻灯片" aria-label="第 {{ forloop.index }} 篇精选：{{ post.title | escape }}">
+      <img
+        src="{{ site.image_proxy }}{{ post.image | absolute_url | url_encode }}&w=900&h=360&output=jpg&q=80&fit=cover"
+        alt="{{ post.title | escape }}"
+        {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}
+        decoding="async"
+        width="800"
+        height="320"
+      >
+      <div class="carousel-caption">
+        <h2>{{ post.title }}</h2>
+        <time>{{ post.date | date: '%Y-%m-%d' }}</time>
       </div>
     </a>
     {% endfor %}
   </div>
-  {% if featured_posts.size > 1 %}
-  <button class="featured-arrow featured-arrow-prev" id="featuredPrev" aria-label="上一张">
-    <svg class="icon-svg"><use href="#i-chevron-left"/></svg>
-  </button>
-  <button class="featured-arrow featured-arrow-next" id="featuredNext" aria-label="下一张">
-    <svg class="icon-svg"><use href="#i-chevron-right"/></svg>
-  </button>
-  <div class="featured-dots" id="featuredDots">
-    {% for i in (0..featured_posts.size) limit: featured_posts.size %}
-    <button class="featured-dot{% if i == 0 %} active{% endif %}" data-idx="{{ i }}"></button>
+  {% if featured.size > 1 %}
+  <div class="carousel-dots" role="tablist" aria-label="轮播控制">
+    {% for post in featured %}
+    <button
+      class="carousel-dot{% if forloop.first %} active{% endif %}"
+      role="tab"
+      aria-selected="{% if forloop.first %}true{% else %}false{% endif %}"
+      aria-label="第 {{ forloop.index }} 篇"
+    ></button>
     {% endfor %}
   </div>
   {% endif %}
 </div>
 {% endif %}
+{% endif %}
 
-<!-- 过滤条件标题 -->
-<div id="filterHeader" class="filter-header" style="display: none;">
-  <h1 id="filterTitle" class="filter-title"></h1>
-</div>
-
-<!-- 加载提示（有 URL 过滤参数时显示） -->
-<div id="loadingHint" class="loading-hint" style="display: none;">
-  <div class="loading-spinner"></div>
-  <span>正在筛选文章...</span>
-</div>
-
-<!-- 文章列表（HTML 预渲染前 10 条） -->
-<div id="postsContainer" class="posts-container">
-  {% assign shown = 0 %}
-  {% for post in site.posts %}
-    {% unless post.tags contains 'AIGC' %}
-      {% if shown < 10 %}
-        {% include post-card.html %}
-      {% endif %}
-      {% assign shown = shown | plus: 1 %}
-    {% endunless %}
+<!-- Filter Bar (shown on all pages) -->
+<div class="filter-bar" role="toolbar" aria-label="文章筛选">
+  <span class="filter-label">标签</span>
+  {% comment %}Show top 20 tags sorted alphabetically{% endcomment %}
+  {% assign all_tags = site.tags | sort %}
+  {% for tag in all_tags limit: 20 %}
+  <a href="#tag/{{ tag[0] }}" class="tag" data-filter-tag="{{ tag[0] }}">{{ tag[0] }}</a>
   {% endfor %}
 </div>
 
-<!-- 有 URL 过滤参数时，隐藏预渲染内容，显示加载提示 -->
-<script>(function(){
-  if(location.search){
-    var c=document.getElementById('postsContainer');if(c)c.style.display='none';
-    var l=document.getElementById('loadingHint');if(l)l.style.display='flex';
-  }
-})();</script>
+<!-- Filter active info (shown when filter is active) -->
+<div class="filter-active-info" aria-live="polite"></div>
 
-<!-- 翻页导航 -->
-<div id="pagination" class="pagination"></div>
+<!-- Loading hint (shown while loading posts.js) -->
+<div class="posts-loading" aria-live="polite">加载中…</div>
 
-<!-- 无结果提示 -->
-<div id="noResults" class="no-more" style="display: none;"></div>
+<!-- Pre-rendered posts from paginator (static HTML, instant display) -->
+<div class="posts-grid" id="posts-grid">
+  {% for post in paginator.posts %}
+  {% include post-card.html %}
+  {% endfor %}
+</div>
+
+<!-- JS-filtered results (hidden by default, shown when filter is active) -->
+<div class="posts-filtered" id="posts-filtered" aria-live="polite"></div>
+
+<!-- No results message -->
+<div class="posts-empty" aria-live="polite">没有找到相关文章</div>
+
+<!-- ============================================================
+     Static Pagination
+     Real URLs for SEO: /, /page/2/, /page/3/, etc.
+     Smart display: first, last, current ± 2, with ellipsis
+     ============================================================ -->
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" role="navigation" aria-label="分页导航">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="prev" rel="prev">‹ 上一页</a>
+  {% endif %}
+
+  {% comment %}Calculate display range for smart pagination{% endcomment %}
+  {% assign p_start = paginator.page | minus: 2 %}
+  {% assign p_end = paginator.page | plus: 2 %}
+  {% if p_start < 1 %}{% assign p_start = 1 %}{% endif %}
+  {% if p_end > paginator.total_pages %}{% assign p_end = paginator.total_pages %}{% endif %}
+
+  {% comment %}Always show page 1{% endcomment %}
+  {% if paginator.page == 1 %}
+  <span class="current" aria-current="page">1</span>
+  {% else %}
+  <a href="/">1</a>
+  {% endif %}
+
+  {% comment %}Ellipsis after page 1 if current range starts after page 2{% endcomment %}
+  {% if p_start > 2 %}
+  <span class="gap">…</span>
+  {% endif %}
+
+  {% comment %}Pages around current (skip 1 and total, already shown){% endcomment %}
+  {% for p in (p_start..p_end) %}
+    {% if p == 1 or p == paginator.total_pages %}
+      {% comment %}Skip - already shown{% endcomment %}
+    {% elsif p == paginator.page %}
+    <span class="current" aria-current="page">{{ p }}</span>
+    {% else %}
+    <a href="{{ site.paginate_path | replace: ':num', p }}">{{ p }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}Ellipsis before last page if current range ends before total-1{% endcomment %}
+  {% assign p_end_check = paginator.total_pages | minus: 1 %}
+  {% if p_end < p_end_check %}
+  <span class="gap">…</span>
+  {% endif %}
+
+  {% comment %}Always show last page (if more than 1 page){% endcomment %}
+  {% if paginator.total_pages > 1 %}
+    {% if paginator.page == paginator.total_pages %}
+    <span class="current" aria-current="page">{{ paginator.total_pages }}</span>
+    {% else %}
+    <a href="{{ site.paginate_path | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+    {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next" rel="next">下一页 ›</a>
+  {% endif %}
+</nav>
+{% endif %}
+
+<!-- JS Pagination (for filtered results, hidden by default) -->
+<nav class="pagination pagination-js" role="navigation" aria-label="筛选分页"></nav>

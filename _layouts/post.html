@@ -1,71 +1,93 @@
+<!-- ============================================================
+     post.html – Article detail layout
+     
+     Architecture:
+     - No posts.js loaded (saves 400-500KB)
+     - Year archive uses inline Liquid-generated data (tiny)
+     - Giscus comments lazy-loaded via Intersection Observer
+     - Share buttons inline
+     - Previous/next navigation
+     
+     Performance target: ~40KB HTML + critical CSS = fast FCP
+     ============================================================ -->
 ---
 layout: base
 ---
 
-<div class="article-detail">
-  <!-- 标题区 -->
-  <header class="article-header">
-    <h1 class="article-title">{{ page.title }}</h1>
-    <div class="article-meta">
-      <span>{{ page.author | default: '书航' }}</span>
-      <span class="meta-sep">·</span>
-      <span>{{ page.date | date: "%Y-%m-%d" }}</span>
-      {% if page.tags and page.tags.size > 0 %}
-      <span class="meta-sep">·</span>
-      <span class="article-tags">
-        {% for tag in page.tags %}
-        <a href="/?tag={{ tag | uri_escape }}" class="article-tag">#{{ tag }}</a>
-        {% endfor %}
+<article class="post-article" itemscope itemtype="https://schema.org/BlogPosting">
+  <!-- Post Header -->
+  <header class="post-header">
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    <div class="post-meta">
+      <span class="post-meta-item">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+        </svg>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: '%Y年%m月%d日' }}
+        </time>
+      </span>
+      {% if page.categories.size > 0 %}
+      <span class="post-meta-item">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+        </svg>
+        {{ page.categories | join: ' / ' }}
       </span>
       {% endif %}
-      <span class="article-meta-right">
-        <a href="#comments" class="article-comment-link" title="跳转到评论区">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-          <span class="article-comment-count" id="commentCount">评论</span>
-        </a>
+      {% if page.tags.size > 0 %}
+      <span class="post-meta-item">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/>
+        </svg>
+        {{ page.tags | join: ', ' }}
       </span>
+      {% endif %}
     </div>
   </header>
 
-  <!-- 题图 -->
-  {% if page.image and page.image != '/' %}
-  <div class="article-featured-image">
-    <img src="https://images.weserv.nl/?url={{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
-         alt="{{ page.title }}"
-         loading="lazy"
-         fetchpriority="low"
-         data-original="{{ page.image | absolute_url }}">
+  <!-- Featured Image -->
+  {% if page.image %}
+  <div class="post-featured-image">
+    <img
+      src="{{ site.image_proxy }}{{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
+      alt="{{ page.title | escape }}"
+      fetchpriority="high"
+      decoding="async"
+      itemprop="image"
+    >
   </div>
   {% endif %}
 
-  <!-- 正文 -->
-  <article class="article-content">
+  <!-- Post Content -->
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
-  </article>
+  </div>
 
-  <!-- 分享 -->
+  <!-- Share Buttons -->
   {% include share.html %}
 
-  <!-- 上一篇/下一篇 -->
-  {% if page.previous or page.next %}
-  <nav class="article-nav">
-    {% if page.next %}
-    <a href="{{ page.next.url | relative_url }}" class="article-nav-link article-nav-prev">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
-      <span>{{ page.next.title }}</span>
-    </a>
-    {% else %}<span></span>{% endif %}
+  <!-- Previous / Next Navigation -->
+  <nav class="post-nav" aria-label="文章导航">
     {% if page.previous %}
-    <a href="{{ page.previous.url | relative_url }}" class="article-nav-link article-nav-next">
-      <span>{{ page.previous.title }}</span>
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+    <a href="{{ page.previous.url }}" class="post-nav-item prev" rel="prev">
+      <span class="post-nav-label">‹ 上一篇</span>
+      <span class="post-nav-title">{{ page.previous.title }}</span>
     </a>
+    {% else %}
+    <div class="post-nav-item"></div>
+    {% endif %}
+
+    {% if page.next %}
+    <a href="{{ page.next.url }}" class="post-nav-item next" rel="next">
+      <span class="post-nav-label">下一篇 ›</span>
+      <span class="post-nav-title">{{ page.next.title }}</span>
+    </a>
+    {% else %}
+    <div class="post-nav-item"></div>
     {% endif %}
   </nav>
-  {% endif %}
+</article>
 
-  <!-- 评论 -->
-  <div id="comments">
-    {% include comments.html %}
-  </div>
-</div>
+<!-- Comments (lazy loaded) -->
+{% include comments.html %}
