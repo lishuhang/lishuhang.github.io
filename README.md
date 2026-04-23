@@ -102,7 +102,7 @@ tags: [标签1, 标签2]                       # 标签（可选）
 
 ### 侧边栏
 
-- **多引擎搜索**: 站内 / Google / 百度 三种搜索模式
+- **多引擎搜索**: 站内 / Google / Bing 三种搜索模式（单选切换）
 - **年份存档选择器**: 12 年一组翻页，显示每年文章数
 - **标签云**: 所有标签一键筛选
 - **原图切换**: 通过 weserv.nl CDN 缩放 vs 原始图片
@@ -172,6 +172,22 @@ JavaScript 在客户端读取这些预建索引实现标签筛选和年份筛选
 ---
 
 ## Changelog
+
+### v6.3.0 (2026-04-22)
+- **性能优化（初版）**: 尝试将 1MB 内嵌 JSON 数据移至独立 `posts.js` 文件以利用浏览器缓存；Jekyll paginator 实现静态分页；内联关键 CSS + 异步加载完整样式表；字体从 973KB earlyaccess CSS 精简为 400/700 两个字重；Giscus 评论改为 IntersectionObserver 懒加载；文章页不再加载 posts.js；年份归档改为 Liquid 服务端生成；图片添加 `decoding=async`；深色模式防闪烁内联脚本
+- **崩溃修复**: v6.3.0 性能优化导致站点崩溃（首页显示原始 YAML），修复三个问题：
+  1. 布局文件（`home.html`、`post.html`、`page.html`）HTML 注释出现在 YAML front matter `---` 之前，Jekyll 要求 `---` 必须在文件绝对开头 → 将注释移至 front matter 之后
+  2. `.nojekyll` 文件导致 GitHub Pages 跳过 Jekyll 处理 → 删除该文件
+  3. `Gemfile` 插件配置有误 → 将所有插件移入 `:jekyll_plugins` 组，添加缺失的 `jekyll-feed` 和 `jekyll-seo-tag`
+- **7 项功能回归修复**: 与原版主题逐项对比后恢复以下功能：
+  1. **图片修复**: 恢复原版 weserv 缩略图 URL 构造方式，JS `createCard` 添加 weserv 缩略参数，文章页题图 `data-original` 属性
+  2. **年份选择器**: 恢复日历式 3×4 网格选择器（替换摊开列表视图），12 年一组翻页
+  3. **Featured 轮播**: 仅显示 `tag=featured` 的最新 5 篇文章（非简单有图文章），筛选/搜索/年份页面自动隐藏
+  4. **搜索引擎**: 百度替换为 Bing，侧边栏搜索框增加站内/Google/Bing 单选切换
+  5. **标签选择器**: 移除 Featured 轮播下方重复的标签选择器，仅保留侧边栏标签云
+  6. **Blockquote 样式**: 引用块背景色恢复为 `var(--bg-secondary)`，与原版一致
+  7. **Giscus 评论**: 恢复页面加载时直接初始化（非懒加载），启用 `emit-metadata=1` 支持评论计数，文章页 header 显示评论数
+- **其他原版功能恢复**: SVG sprite 图标（分享按钮等）、内联 `__YD__` 和 `__POSTS__` 数据（替代外部 posts.js）、原版文章详情页布局、三态主题切换、微信分享二维码、QQ 分享、文章外链新标签页、图片懒加载、超宽屏缩放、原版分享按钮（微博/Twitter/QQ/微信/复制链接）
 
 ### v6.2.0 (2026-04-11)
 - **响应式布局优化**: 中等页宽（640-1149px）时文章列表全宽显示，不再受 1200px 最大宽度限制，消除右侧空白
