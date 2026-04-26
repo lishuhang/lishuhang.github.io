@@ -276,7 +276,8 @@ button { font-family: inherit; }
   border-radius: 6px; cursor: pointer; transition: all .15s;
 }
 .cal-yr:hover { background: var(--accent-light); color: var(--accent); }
-.cal-yr.cal-cur { color: var(--accent); font-weight: 900; }
+.cal-yr.cal-cur, .cal-yr.cal-sel { background: var(--accent); color: #fff; font-weight: 700; }
+.cal-yr.cal-cur .cal-yr-count, .cal-yr.cal-sel .cal-yr-count { color: rgba(255,255,255,.7); }
 .cal-yr-count { display: block; font-size: var(--font-xs); color: var(--text-muted); margin-top: 1px; }
 
 /* 侧边栏版权（底部自动推至末尾） */

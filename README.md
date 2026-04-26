@@ -173,6 +173,18 @@ JavaScript 在客户端读取这些预建索引实现标签筛选和年份筛选
 
 ## Changelog
 
+### v6.4.1 (2026-04-26)
+- **年份筛选加载优化**: 移除 `initPagination()` 筛选分支的 `setTimeout(30)` 人为延迟，改为立即处理；`renderPage()` 先渲染首屏卡片，翻页按钮通过 `setTimeout(0)` 延迟至下一帧渲染，减少首屏阻塞
+- **日历样式统一**: `cal-cur`（当前年份）从蓝字白底改为蓝底白字，与 `cal-sel`（选中年份）视觉一致；合并 CSS 选择器减少冗余
+- `scrollIntoView` 去掉 `behavior: 'smooth'` 避免触发滚动动画延迟渲染
+- `createCard()` 读取 `localStorage` 原图开关状态决定初始 `src`，确保筛选页卡片与原图开关联动
+
+### v6.4.0 (2026-04-26)
+- **修复年份存档高亮**: 访问 `?year=2015` 等年份筛选页时，侧边栏日历未高亮对应年份，现已添加 `cal-sel` 类（accent 背景白字）标记选中年份，并自动滚动到该年份所在位置
+- **修复原图开关**: 原图开关不论开/关始终走 weserv 缩略图，现已重构切换逻辑：开启时读取 `data-original` 原图 URL，关闭时使用 weserv 缩略图；首页卡片和文章详情页图片均支持双向切换
+- `createCard()` 和 `post-card.html` 模板添加 `data-original` 属性存储原图 URL
+- `initImageToggle()` 提取 `applyImg()` 统一处理图片切换，覆盖文章内容图、题图和卡片缩略图
+
 ### v6.3.0 (2026-04-22)
 - **性能优化（初版）**: 尝试将 1MB 内嵌 JSON 数据移至独立 `posts.js` 文件以利用浏览器缓存；Jekyll paginator 实现静态分页；内联关键 CSS + 异步加载完整样式表；字体从 973KB earlyaccess CSS 精简为 400/700 两个字重；Giscus 评论改为 IntersectionObserver 懒加载；文章页不再加载 posts.js；年份归档改为 Liquid 服务端生成；图片添加 `decoding=async`；深色模式防闪烁内联脚本
 - **崩溃修复**: v6.3.0 性能优化导致站点崩溃（首页显示原始 YAML），修复三个问题：
