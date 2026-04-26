@@ -1,5 +1,5 @@
 /**
- * 航通社极简 JS v6.4
+ * 航通社极简 JS v6.4.1
  * 三态主题 / 年份存档 / Featured轮播 / 翻页 / 搜索
  */
 (function() {
@@ -22,7 +22,8 @@
     el.dataset.title = (post.t || '').toLowerCase();
     el.dataset.excerpt = (post.e || '').toLowerCase();
     var hasImg = !!post.i;
-    var imgSrc = hasImg ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover' : '';
+    var useOriginal = localStorage.getItem('useOriginalImage') === 'true';
+    var imgSrc = hasImg ? (useOriginal ? post.i : 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover') : '';
     var h = '<a href="' + post.u + '" class="post-card-link">';
     if (hasImg) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" data-original="' + esc(post.i) + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
     h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
@@ -83,7 +84,7 @@
       el.innerHTML = h;
       if (selectedYear) {
         var sel = el.querySelector('.cal-sel');
-        if (sel) sel.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        if (sel) sel.scrollIntoView({ block: 'nearest' });
       }
     }
 
@@ -259,21 +260,19 @@
     if (!allPosts.length) return;
 
     if (tag || year || search) {
-      setTimeout(function() {
-        displayedPosts = [];
-        if (tag && window.__TI__ && window.__TI__[tag]) displayedPosts = window.__TI__[tag].map(function(i) { return allPosts[i]; });
-        else if (year && window.__YI__ && window.__YI__[year]) displayedPosts = window.__YI__[year].map(function(i) { return allPosts[i]; });
-        else if (search) {
-          var q = search.toLowerCase();
-          displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
-        }
-        currentPage = 1;
-        container.style.display = '';
-        container.innerHTML = '';
-        if (loadingHint) loadingHint.style.display = 'none';
-        updateFeaturedVisibility();
-        renderPage();
-      }, 30);
+      displayedPosts = [];
+      if (tag && window.__TI__ && window.__TI__[tag]) displayedPosts = window.__TI__[tag].map(function(i) { return allPosts[i]; });
+      else if (year && window.__YI__ && window.__YI__[year]) displayedPosts = window.__YI__[year].map(function(i) { return allPosts[i]; });
+      else if (search) {
+        var q = search.toLowerCase();
+        displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
+      }
+      currentPage = 1;
+      container.style.display = '';
+      container.innerHTML = '';
+      if (loadingHint) loadingHint.style.display = 'none';
+      updateFeaturedVisibility();
+      renderPage();
       return;
     }
 
@@ -319,8 +318,9 @@
     var start = (currentPage - 1) * PAGE_SIZE;
     var end = Math.min(start + PAGE_SIZE, total);
     for (var i = start; i < end; i++) container.appendChild(createCard(displayedPosts[i]));
-    renderPageButtons(paginationEl, total, currentPage);
     updateFeaturedVisibility();
+    var _pe = paginationEl, _t = total, _c = currentPage;
+    setTimeout(function() { renderPageButtons(_pe, _t, _c); }, 0);
   }
 
   function renderPageButtons(el, total, current) {
