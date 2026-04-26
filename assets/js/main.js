@@ -1,5 +1,5 @@
 /**
- * 航通社极简 JS v6.4.1
+ * 航通社极简 JS v6.5.0
  * 三态主题 / 年份存档 / Featured轮播 / 翻页 / 搜索
  */
 (function() {
@@ -248,7 +248,20 @@
     });
   }
 
-  /* ===== 翻页 + 预建索引过滤 ===== */
+  /* ===== 异步加载文章数据 + 翻页/筛选 ===== */
+  function loadPostsData() {
+    var url = window.__POSTS_DATA_URL__;
+    if (!url) return; // 非首页，不需要加载
+    var s = document.createElement('script');
+    s.src = url;
+    s.onload = function() { initPagination(); };
+    s.onerror = function() {
+      var l = document.getElementById('loadingHint');
+      if (l) { l.innerHTML = '<span>数据加载失败，<a href="' + location.pathname + '" style="color:var(--accent)">刷新重试</a></span>'; }
+    };
+    document.head.appendChild(s);
+  }
+
   function initPagination() {
     allPosts = window.__POSTS__ || [];
     var container = document.getElementById('postsContainer');
@@ -440,6 +453,6 @@
     initExternalLinks();
     initCommentCount();
     initResponsiveScale();
-    initPagination();
+    loadPostsData();
   });
 })();
