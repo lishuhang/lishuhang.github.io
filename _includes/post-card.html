@@ -7,7 +7,7 @@
   <a href="{{ post.url | relative_url }}" class="post-card-link">
     {% if post.image %}
     <div class="post-card-thumb">
-      <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=260&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
+      <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=260&output=jpg&q=80&fit=cover" data-original="{{ post.image | absolute_url }}" alt="{{ post.title }}" loading="lazy">
     </div>
     {% endif %}
     <div class="post-card-body">

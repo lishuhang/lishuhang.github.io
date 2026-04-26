@@ -21,9 +21,10 @@
     el.dataset.tags = post.g || '';
     el.dataset.title = (post.t || '').toLowerCase();
     el.dataset.excerpt = (post.e || '').toLowerCase();
-    var imgSrc = post.i ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover' : '';
+    var hasImg = !!post.i;
+    var imgSrc = hasImg ? 'https://images.weserv.nl/?url=' + encodeURIComponent(post.i) + '&w=400&h=260&output=jpg&q=80&fit=cover' : '';
     var h = '<a href="' + post.u + '" class="post-card-link">';
-    if (imgSrc) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
+    if (hasImg) h += '<div class="post-card-thumb"><img src="' + imgSrc + '" data-original="' + esc(post.i) + '" alt="' + esc(post.t) + '" loading="lazy"></div>';
     h += '<div class="post-card-body"><div class="post-card-meta"><span class="post-card-date">' + esc(post.d) + '</span>';
     if (post.g) post.g.split(',').slice(0, 3).forEach(function(t) { t = t.trim(); if (t) h += '<span class="post-tag">#' + esc(t) + '</span>'; });
     h += '</div><h2 class="post-card-title">' + esc(post.t) + '</h2>';
@@ -64,9 +65,9 @@
     var el = document.getElementById('calendarWidget');
     if (!el || !window.__YD__) return;
     var now = new Date();
-    var state = { base: Math.floor(now.getFullYear() / 12) * 12 };
     var params = new URLSearchParams(window.location.search);
-    if (params.get('year')) state.base = Math.floor(parseInt(params.get('year')) / 12) * 12;
+    var selectedYear = params.get('year') ? parseInt(params.get('year')) : null;
+    var state = { base: selectedYear ? Math.floor(selectedYear / 12) * 12 : Math.floor(now.getFullYear() / 12) * 12 };
 
     function render() {
       var h = '<div class="cal-header"><button class="cal-nav" data-a="prev">&lsaquo;</button><span class="cal-title">' + state.base + ' - ' + (state.base + 11) + '</span><button class="cal-nav" data-a="next">&rsaquo;</button></div><div class="cal-grid cal-ys">';
@@ -74,11 +75,16 @@
         if (y < 2006) continue;
         var c = 'cal-yr';
         if (y === now.getFullYear()) c += ' cal-cur';
+        if (y === selectedYear) c += ' cal-sel';
         var count = window.__YD__[y] || 0;
         h += '<span class="' + c + '" data-y="' + y + '">' + y + '<span class="cal-yr-count">' + count + ' 篇</span></span>';
       }
       h += '</div>';
       el.innerHTML = h;
+      if (selectedYear) {
+        var sel = el.querySelector('.cal-sel');
+        if (sel) sel.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      }
     }
 
     el.addEventListener('click', function(e) {
@@ -345,17 +351,21 @@
     var toggle = document.getElementById('originalImageToggle');
     if (!toggle) return;
     if (localStorage.getItem('useOriginalImage') === 'true') toggle.checked = true;
+    function applyImg(img, orig) {
+      var raw = img.getAttribute('data-original');
+      if (!raw) return;
+      img.src = orig ? raw : 'https://images.weserv.nl/?url=' + encodeURIComponent(raw) + '&output=jpg&q=80';
+    }
     function process() {
-      var article = document.querySelector('.article-content');
-      var featImg = document.querySelector('.article-featured-image img');
       var orig = toggle.checked;
+      var article = document.querySelector('.article-content');
       if (article) article.querySelectorAll('img').forEach(function(img) {
-        var src = img.getAttribute('data-original') || img.src;
-        if (!img.getAttribute('data-original')) img.setAttribute('data-original', src);
-        if (orig) img.src = src;
-        else if (!img.src.includes('weserv.nl')) img.src = 'https://images.weserv.nl/?url=' + encodeURIComponent(src) + '&output=jpg&q=80';
+        if (!img.getAttribute('data-original')) img.setAttribute('data-original', img.src);
+        applyImg(img, orig);
       });
-      if (featImg) { var o = featImg.getAttribute('data-original'); if (o) featImg.src = orig ? o : 'https://images.weserv.nl/?url=' + encodeURIComponent(o) + '&output=jpg&q=80'; }
+      var featImg = document.querySelector('.article-featured-image img');
+      if (featImg) applyImg(featImg, orig);
+      document.querySelectorAll('.post-card-thumb img').forEach(function(img) { applyImg(img, orig); });
     }
     process();
     toggle.addEventListener('change', function() { localStorage.setItem('useOriginalImage', toggle.checked); process(); });
