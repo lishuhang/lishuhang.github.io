@@ -3,7 +3,7 @@ layout: post
 title: "有图也无真相的时代，终于来了"
 date: 2026-04-23
 categories: 文章
-tags: [科技]
+tags: [AI, featured]
 image: https://lishuhang.me/img/2026/04/23/you-tu-ye-wu-zhen-xiang/01.png
 ---
 

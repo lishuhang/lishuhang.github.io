@@ -3,7 +3,7 @@ layout: post
 title: "最“寡头垄断”的一届奥斯卡是怎样炼成的"
 date: 2026-03-17
 categories: 文章
-tags: [科技]
+tags: [传媒, featured]
 image: https://lishuhang.me/img/2026/03/17/zui-gua-tou-long-duan-de/01.png
 ---
 

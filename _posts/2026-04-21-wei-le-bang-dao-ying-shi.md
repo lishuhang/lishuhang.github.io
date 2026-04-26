@@ -3,7 +3,7 @@ layout: post
 title: "为了帮到影视艺考生，我们向AI张雪峰求助"
 date: 2026-04-21
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: https://lishuhang.me/img/2026/04/21/wei-le-bang-dao-ying-shi/01.png
 ---
 

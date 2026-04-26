@@ -3,7 +3,7 @@ layout: post
 title: "中传动手砍专业了，惊醒所有文科生"
 date: 2026-03-10
 categories: 文章
-tags: [科技]
+tags: [传媒, featured]
 image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.png
 ---
 

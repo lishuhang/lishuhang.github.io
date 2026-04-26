@@ -3,7 +3,7 @@ layout: post
 title: "Sora关停之时，中国霸榜之日"
 date: 2026-03-25
 categories: 文章
-tags: [科技]
+tags: [传媒, featured]
 image: https://lishuhang.me/img/2026/03/25/sora-guan-ting-zhi-shi-zhong/01.png
 ---
 
