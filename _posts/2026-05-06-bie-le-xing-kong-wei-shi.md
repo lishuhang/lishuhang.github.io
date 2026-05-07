@@ -3,7 +3,7 @@ layout: post
 title: "别了，星空卫视，和80后90后一去不返的青春"
 date: 2026-05-06
 categories: 文章
-tags: [科技]
+tags: [传媒, featured]
 image: https://lishuhang.me/img/2026/05/06/bie-le-xing-kong-wei-shi/01.png
 ---
 
