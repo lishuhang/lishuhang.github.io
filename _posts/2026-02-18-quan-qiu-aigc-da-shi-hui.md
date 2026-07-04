@@ -4,7 +4,7 @@ title: "全球AIGC大事回顾（2026年1月）"
 date: 2026-02-18
 categories: 文章
 tags: [AI]
-image: /img/2026/02/18/quan-qiu-aigc-da-shi-hui/01.png
+image: /img/2026/02/18/quan-qiu-aigc-da-shi-hui/01.jpg
 ---
 
 *H200、Claude Code、Grok脱衣、内存危机、国产大模型IPO*

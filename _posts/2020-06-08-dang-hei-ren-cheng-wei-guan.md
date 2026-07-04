@@ -3,7 +3,7 @@ layout: post
 title:  当黑人成为管理员
 author: james
 categories: [ article ]
-image: "/img/2020/06/0608-1.png"
+image: "/img/2020/06/0608-1.jpg"
 featured: true
 hidden: false
 ---

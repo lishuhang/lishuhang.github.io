@@ -4,12 +4,12 @@ title: "李佳琦和薇娅会不会倒掉？"
 date: 2021-11-14
 categories: 文章
 tags: [科技]
-image: /img/2021/11/14/li-jia-qi-he-wei-ya/01.png
+image: /img/2021/11/14/li-jia-qi-he-wei-ya/01.jpg
 ---
 
 关键在于，谁来提供有效的维权渠道，以及重建几近被摧毁的评价机制。
 
-![](/img/2021/11/14/li-jia-qi-he-wei-ya/01.png)
+![](/img/2021/11/14/li-jia-qi-he-wei-ya/01.jpg)
 
 文 / 书航 2021.11.14
 

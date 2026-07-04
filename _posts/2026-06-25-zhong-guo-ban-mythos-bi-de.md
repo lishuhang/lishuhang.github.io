@@ -4,7 +4,7 @@ title: "“中国版Mythos”：比得上吗，来得及吗？"
 date: 2026-06-25
 categories: AI
 tags: [AI]
-image: /img/2026/06/25/zhong-guo-ban-mythos-bi-de/01.png
+image: /img/2026/06/25/zhong-guo-ban-mythos-bi-de/01.jpg
 ---
 
 智能体对所有事情进行了无差别的加速，包括网络攻击。

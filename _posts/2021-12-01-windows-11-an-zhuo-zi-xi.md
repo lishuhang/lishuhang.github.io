@@ -11,13 +11,13 @@ image: /img/2021/12/01/windows-11-an-zhuo-zi-xi/01.png
 
 ## 安装过程极其复杂
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/02.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/02.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/03.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/03.jpg)
 
 ![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/04.png)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/05.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/05.jpg)
 
 ## 应用适配非常“拉胯”
 
@@ -31,11 +31,11 @@ image: /img/2021/12/01/windows-11-an-zhuo-zi-xi/01.png
 
 应用宝：APK 下载后不知道存在哪里，也不能用文件关联打开，所以没有用处。
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/08.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/08.jpg)
 
 ES 文件管理器：可以使用非 Root 功能。
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/09.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/09.jpg)
 
 微软亲儿子“你的手机助手”：提示“设备不支持运行所需的移动服务”。
 
@@ -43,9 +43,9 @@ ES 文件管理器：可以使用非 Root 功能。
 
 抖音：强退 4-5 次以后才能进入，偶尔可以显示视频，偶尔黑屏。
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/11.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/11.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/12.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/12.jpg)
 
 微信：视账号不同，有的可以正常进入，有的停留在“微信安全”验证界面不动。由于有封号的风险，所以每个负责任的教程都会让你谨慎使用微信。
 
@@ -63,15 +63,15 @@ ES 文件管理器：可以使用非 Root 功能。
 
 ![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/13.png)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/14.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/14.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/15.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/15.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/16.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/16.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/17.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/17.jpg)
 
-![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/18.png)
+![](/img/2021/12/01/windows-11-an-zhuo-zi-xi/18.jpg)
 
 ## 结论
 

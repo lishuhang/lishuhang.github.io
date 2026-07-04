@@ -4,7 +4,7 @@ title: "AI时代，投60个简历难中1个，怎么找实习机会？"
 date: 2026-06-02
 categories: 随笔
 tags: [随笔]
-image: /img/2026/06/02/ai-shi-dai-tou-60-ge/01.png
+image: /img/2026/06/02/ai-shi-dai-tou-60-ge/01.jpg
 ---
 
 *避开大公司，针对性投递，教老板用AI*
@@ -59,16 +59,16 @@ image: /img/2026/06/02/ai-shi-dai-tou-60-ge/01.png
 
 ![配图2](/img/2026/06/02/ai-shi-dai-tou-60-ge/02.png)
 
-![配图3](/img/2026/06/02/ai-shi-dai-tou-60-ge/03.png)
+![配图3](/img/2026/06/02/ai-shi-dai-tou-60-ge/03.jpg)
 
-![配图4](/img/2026/06/02/ai-shi-dai-tou-60-ge/04.png)
+![配图4](/img/2026/06/02/ai-shi-dai-tou-60-ge/04.jpg)
 
-![配图5](/img/2026/06/02/ai-shi-dai-tou-60-ge/05.png)
+![配图5](/img/2026/06/02/ai-shi-dai-tou-60-ge/05.jpg)
 
-![配图6](/img/2026/06/02/ai-shi-dai-tou-60-ge/06.png)
+![配图6](/img/2026/06/02/ai-shi-dai-tou-60-ge/06.jpg)
 
-![配图7](/img/2026/06/02/ai-shi-dai-tou-60-ge/07.png)
+![配图7](/img/2026/06/02/ai-shi-dai-tou-60-ge/07.jpg)
 
-![配图8](/img/2026/06/02/ai-shi-dai-tou-60-ge/08.png)
+![配图8](/img/2026/06/02/ai-shi-dai-tou-60-ge/08.jpg)
 
-![配图9](/img/2026/06/02/ai-shi-dai-tou-60-ge/09.png)
+![配图9](/img/2026/06/02/ai-shi-dai-tou-60-ge/09.jpg)

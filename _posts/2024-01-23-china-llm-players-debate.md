@@ -3,7 +3,7 @@ layout: post
 title:  李彦宏VS王小川，傅盛VS朱啸虎……国内大模型大佬论战，谁赢了？
 author: james
 categories: [ article ]
-image: "/img/2024/01/0123-00.png"
+image: "/img/2024/01/0123-00.jpg"
 featured: true
 hidden: false
 ---
@@ -56,7 +56,7 @@ hidden: false
 
 > “什么样的平行宇宙里，才能做到让一个脱离一线15年的人，去怼一个脱离一线1.5年的人。”
 
-![](/img/2024/01/0123-02.png)
+![](/img/2024/01/0123-02.jpg)
 
 眼看大家吵的有点上头，旷视科技联合创始人印奇表示，未来得看一家公司，无论大小，先把性能对标GPT-3.5的大模型真的做出来，这是所有事情的起点。
 

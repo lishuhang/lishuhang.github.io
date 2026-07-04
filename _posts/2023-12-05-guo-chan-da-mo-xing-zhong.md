@@ -4,12 +4,12 @@ title: "国产大模型，终于敢跟用户要钱了"
 date: 2023-12-05
 categories: 文章
 tags: [科技]
-image: /img/2023/12/05/guo-chan-da-mo-xing-zhong/01.png
+image: /img/2023/12/05/guo-chan-da-mo-xing-zhong/01.jpg
 ---
 
 这是国产大模型最勇敢的瞬间。
 
-![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/01.png)
+![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/01.jpg)
 
 文 / 书航 2023.11.16
 
@@ -23,7 +23,7 @@ image: /img/2023/12/05/guo-chan-da-mo-xing-zhong/01.png
 
 又过了一个多月。11月初，我们听到了百度文心一言对C端用户推出“专业版”的消息。而且还不便宜：定价为59.9元/月，连续包月优惠价49.9元/月，再有就是跟文心一格捆绑的套餐。
 
-![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/02.png)
+![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/02.jpg)
 
 现在，国产大模型终于敢在C端伸手要钱了。像360就用大模型为公司创收2000万，虽然和主业相比只是个零头，但不少从业者表示，“感觉业内不再走O2O烧钱换市场的老路了。”那么国产大模型下的做小模型公司如“龙先生”们，会因为这个消息，而对做AIGC的C端业务增强一点信心吗？
 
@@ -55,7 +55,7 @@ image: /img/2023/12/05/guo-chan-da-mo-xing-zhong/01.png
 
 API调用是大模型开发者在B端和G端最主要的一种商业模式，基于token为计价方式，将大模型的输出接入自己的工作环境。截止2023年10月初，部分主要大模型官网显示的API定价如下所示（单位：元/千token）：
 
-![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/03.png)
+![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/03.jpg)
 
 ![](/img/2023/12/05/guo-chan-da-mo-xing-zhong/04.png)
 

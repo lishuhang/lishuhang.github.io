@@ -117,49 +117,49 @@ AI 技术和算力的普及，让事情迎来了转机。
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/08.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/09.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/09.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/10.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/10.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/11.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/12.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/12.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/13.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/13.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/14.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/14.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/15.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/15.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/16.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/17.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/17.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/18.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/18.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/19.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/20.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/20.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/21.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/21.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/22.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/23.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/23.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/24.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/24.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/25.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/26.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/26.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/27.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/27.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/28.png)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/29.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/29.jpg)
 
-![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/30.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/30.jpg)
 
 ![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/31.png)
 

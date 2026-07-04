@@ -3,7 +3,7 @@ layout: post
 title:  事实核查：东京残奥会中国游泳选手要重赛，到底发生了什么？
 author: james
 categories: [ article ]
-image: "/img/2021/08/0831-00.png"
+image: "/img/2021/08/0831-00.jpg"
 featured: true
 hidden: false
 ---

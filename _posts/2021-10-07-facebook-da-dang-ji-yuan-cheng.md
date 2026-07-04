@@ -4,10 +4,10 @@ title: "Facebook 大宕机：远程工作的一曲悲歌"
 date: 2021-10-07
 categories: 文章
 tags: [科技]
-image: /img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.png
+image: /img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.jpg
 ---
 
-![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.png)
+![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.jpg)
 
 > “由于系统抖动原因，今天14点左右，部分微信用户遇到了消息收取延迟情况，现在已经修复完成。”
 
@@ -17,9 +17,9 @@ image: /img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.png
 
 另一说是有 15 亿份近期的 Facebook 用户个人资料流出，有人说黑市每 100 万个用户资料开价 5000 美元。6 个小时同样也许可以用来补救或者掩盖什么。
 
-![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/02.png)
+![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/02.jpg)
 
-![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/03.png)
+![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/03.jpg)
 
 ## 怎么会这么严重？
 
@@ -35,7 +35,7 @@ image: /img/2021/10/07/facebook-da-dang-ji-yuan-cheng/01.png
 
 > “在过去的一年里，我们了解到，员工在任何地方都能完成良好的工作。我更乐观地认为，远程工作有可能大规模进行，尤其是在远程视频和虚拟现实不断改进的情况下。”
 
-![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/04.png)
+![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/04.jpg)
 
 ![](/img/2021/10/07/facebook-da-dang-ji-yuan-cheng/05.jpg)
 

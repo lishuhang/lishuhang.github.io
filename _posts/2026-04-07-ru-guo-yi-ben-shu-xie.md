@@ -47,6 +47,6 @@ image: /img/2026/04/07/ru-guo-yi-ben-shu-xie/01.jpg
 
 🔈
 
-![配图2](/img/2026/04/07/ru-guo-yi-ben-shu-xie/02.png)
+![配图2](/img/2026/04/07/ru-guo-yi-ben-shu-xie/02.jpg)
 
-![配图3](/img/2026/04/07/ru-guo-yi-ben-shu-xie/03.png)
+![配图3](/img/2026/04/07/ru-guo-yi-ben-shu-xie/03.jpg)

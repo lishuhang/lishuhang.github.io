@@ -4,12 +4,12 @@ title: "短评 _ 《完蛋！》抓住了玩家哪些痛点？"
 date: 2023-11-28
 categories: 文章
 tags: [科技]
-image: /img/2023/11/28/duan-ping-_-wan-dan-zhua/01.png
+image: /img/2023/11/28/duan-ping-_-wan-dan-zhua/01.jpg
 ---
 
 官方顺势而为，没想讨好所有人
 
-![](/img/2023/11/28/duan-ping-_-wan-dan-zhua/01.png)
+![](/img/2023/11/28/duan-ping-_-wan-dan-zhua/01.jpg)
 
 文 / 书航 2023.11.8
 

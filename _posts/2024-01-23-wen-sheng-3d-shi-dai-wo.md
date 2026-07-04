@@ -4,12 +4,12 @@ title: "文生3D时代，我们需要下一个抖音 _ 专访VAST宋亚宸"
 date: 2024-01-23
 categories: 文章
 tags: [科技]
-image: /img/2024/01/23/wen-sheng-3d-shi-dai-wo/01.png
+image: /img/2024/01/23/wen-sheng-3d-shi-dai-wo/01.jpg
 ---
 
 所有人在一同探索“下一个抖音”里面将会承载什么内容。
 
-![](/img/2024/01/23/wen-sheng-3d-shi-dai-wo/01.png)
+![](/img/2024/01/23/wen-sheng-3d-shi-dai-wo/01.jpg)
 
 文/书航 2024.1.7
 

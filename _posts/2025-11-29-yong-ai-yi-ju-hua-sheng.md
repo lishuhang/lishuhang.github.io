@@ -4,12 +4,12 @@ title: "用 AI 一句话生成应用：理想丰满，现实依然骨感"
 date: 2025-11-29
 categories: 文章
 tags: [AI, featured]
-image: /img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.png
+image: /img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.jpg
 ---
 
 这件事重度依赖基底模型的智商
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.jpg)
 
 文 / 书航 2025.11.29
 
@@ -37,9 +37,9 @@ image: /img/2025/11/29/yong-ai-yi-ju-hua-sheng/01.png
 
 ![图片](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/02.png)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/03.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/03.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/04.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/04.jpg)
 
 看到很多“只需一句话”就能搞定的案例被疯传，它降低的不是技术门槛，而是心理门槛。在很多垂直行业，缺乏 AI 体验的专家们往往掌握着极深的专精知识。过去他们被代码拦在门外，即使实际上真的很简单，要想突破自己也不容易。
 
@@ -59,21 +59,21 @@ Gemini 3 的一些 WebApp 单页案例我已经看到，确实让人眼前一亮
 
 但是我真去体验了蚂蚁的新产品“灵光”，因为它们在办一句话生成 AI 应用的大赛。灵光将这种 WebApp 称为“闪应用”。
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/06.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/06.jpg)
 
 蚂蚁的前端和工程能力毋庸置疑，我看到推理过程被优雅地包裹在一个框里面，思维链既不冗长又可以提示关键进度。遗憾的是，决定成品质量的似乎依然是模型本身的智商。
 
 我尝试制作的闪应用是一个“可以生成闪应用提示词的闪应用”，也就是“元应用”（meta-app）。我希望用一个游戏化的方式将它包裹起来，一开始规划的是赌场摇骰子，生成一张闪卡，上面写着提示词，点一下一键复制可以贴到灵光里面生成新的闪应用。
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/07.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/07.jpg)
 
 为了确保稳妥，我让文本能力本身就很强的 Gemini 3 读取我的诉求并优化了提示词，对方方面面都做了规定。
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/08.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/08.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/09.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/09.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/10.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/10.jpg)
 
 初始版本，点击骰子本身无反应，下面六个按钮才有反应。
 
@@ -89,31 +89,31 @@ Gemini 3 的一些 WebApp 单页案例我已经看到，确实让人眼前一亮
 
 这个聊天记录保留下来了，大家可以鉴赏：
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/11.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/11.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/12.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/12.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/13.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/13.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/14.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/14.jpg)
 
 下面开始崩了：
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/15.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/15.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/16.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/16.jpg)
 
 我返回上一次的指令直接修改，结果完全崩坏了：
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/17.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/17.jpg)
 
 最后我让它只实现核心功能——优化提示词，并且改为输入框输入诉求来优化提示词，总算达到了目的，但是这东西也过于简单了。
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/18.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/18.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/19.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/19.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/20.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/20.jpg)
 
 实际上我们在“闪应用”大赛里面看到的也是如此，卡路里计算器，飞机大战这些，都是已经非常成熟，但是未免是“为了做（参赛）而做”的东西，受能力所限，距离实用会有点远。
 
@@ -123,21 +123,21 @@ Gemini 3 的一些 WebApp 单页案例我已经看到，确实让人眼前一亮
 
 如下：
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/21.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/21.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/22.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/22.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/23.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/23.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/24.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/24.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/25.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/25.jpg)
 
 截图过程中发现一些Bug，但根据它的表现，完全能修。
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/26.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/26.jpg)
 
-![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/27.png)
+![](/img/2025/11/29/yong-ai-yi-ju-hua-sheng/27.jpg)
 
 稍后我将会把它部署在我的个人网站，方便上不去 Gemini 的同学体验。（可等待评论区置顶评论或在官网 https://lishuhang.me 查看本文）
 

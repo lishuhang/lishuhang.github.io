@@ -4,7 +4,7 @@ title: "中传动手砍专业了，惊醒所有文科生"
 date: 2026-03-10
 categories: 文章
 tags: [传媒, featured]
-image: /img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.png
+image: /img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.jpg
 ---
 
 *艺考黄金时代，终于AI视频元年*
@@ -100,7 +100,7 @@ image: /img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.png
 
 根据前述的红星新闻报道，视觉传达设计所属的广告学院称，目前只在海南办学地点有中外合作办学，在北京办学地点已经没有了，并确认“以后也不招了”。
 
-![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/03.png)
+![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/03.jpg)
 
 动画与数字艺术学院介绍，漫画不再是单独的专业，而是“动画（漫画方向）”，并入动画专业，“它最早没有独立出来的时候，就是动画下面的一个方向，相当于还是回归了方向。”新媒体艺术则被并入数字媒体艺术专业，不区分方向。动画（游戏艺术方向）并未停招，只是今年未进行艺考。至于中传招生处工作人员称，对于是停招还是撤销“没法保证，这几年的招生每年都有一些变化”。
 

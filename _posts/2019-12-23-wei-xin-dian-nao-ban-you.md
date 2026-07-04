@@ -27,7 +27,7 @@ image: /img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 ![](/img/2019/12/23/wei-xin-dian-nao-ban-you/05.png)
 
-![](/img/2019/12/23/wei-xin-dian-nao-ban-you/06.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/06.jpg)
 
 ![](/img/2019/12/23/wei-xin-dian-nao-ban-you/07.png)
 

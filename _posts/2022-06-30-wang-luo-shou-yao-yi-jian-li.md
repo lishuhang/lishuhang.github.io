@@ -3,7 +3,7 @@ layout: post
 title:  网络售药意见利好下，传统药企想要「更懂用户」
 author: james
 categories: [ article ]
-image: "/img/2022/06/0630-00.png"
+image: "/img/2022/06/0630-00.jpg"
 featured: true
 hidden: false
 ---

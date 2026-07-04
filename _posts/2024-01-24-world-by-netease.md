@@ -3,7 +3,7 @@ layout: post
 title:  游戏玩家讨厌AI立绘和配音，但《世界之外》成了例外
 author: james
 categories: [ article ]
-image: "/img/2024/01/0124-00.png"
+image: "/img/2024/01/0124-00.jpg"
 featured: true
 hidden: false
 ---

@@ -19,7 +19,7 @@ image: /img/2023/12/15/chu-hai-jie-tiktok-chu-hai/01.jpg
 
 高维那在国内音乐、影视娱乐行业拥有近31年的从业经验，之前是经纪公司“觉醒东方”的合伙人。2019年，在国内偶像经济最高点的时候，她“因祸得福”的移居美国，创办“森林梦工厂”表演学校。2021年至今，以“Forest Dream”为名经营TikTok MCN业务，现在她则是最近很火的欧美短剧的制片公司之一。
 
-![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/02.png)
+![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/02.jpg)
 
 高维那（左)
 
@@ -43,7 +43,7 @@ image: /img/2023/12/15/chu-hai-jie-tiktok-chu-hai/01.jpg
 
 高维那的Forest Dream公司位于加州华人中产云集的尔湾（Irvine）区域。这里就像是在黄石公园密林深处的一座小木屋一样，非常典型的美国家庭装扮。
 
-![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/03.png)
+![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/03.jpg)
 
 Forest Dream办公室
 
@@ -219,7 +219,7 @@ Forest Dream的一次主播培训
 
 在她的目标当中，电商业务需要从年度创造50万+美金的收入，过渡到每个月都产生50万+的收入。娱乐达人直播的收益从现在的月礼物变现10万+美金提升到30万+美金。筹拍的两部短剧在圣诞节上线之后再加上此后将会陆续投入拍摄的短剧，预计年收益则有可能达到300万美元以上。至于新的 TikTok 团播业务，也定下了跟娱乐达人一样，月收益30万+的目标。
 
-![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/09.png)
+![](/img/2023/12/15/chu-hai-jie-tiktok-chu-hai/09.jpg)
 
 考虑到公司的发展速度，这个初生牛犊迅速膨胀，并且成为当地演艺业界不可忽视的存在。
 

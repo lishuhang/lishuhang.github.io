@@ -9,7 +9,7 @@ image: /img/2020/07/07/cnbeta-li-nian-gao-kao-ji/01.png
 
 ![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/01.png)
 
-![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/02.png)
+![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/02.jpg)
 
 ![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/03.png)
 
@@ -31,7 +31,7 @@ image: /img/2020/07/07/cnbeta-li-nian-gao-kao-ji/01.png
 
 我们希望你乐观且独立地活着。
 
-![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/05.png)
+![](/img/2020/07/07/cnbeta-li-nian-gao-kao-ji/05.jpg)
 
 自信是处理一切问题的基础，自信不直接带来解药，但是没有了自信，即使有能力去做的事也不见得会做好。跟随你们人生路线的不同，未来所能遇到的考验也会多种多样，到时候名为命运的“考官”可不会给你长达几个月，三年，甚至十年的时间去做学习和复习，也不会给你充足的反应余地。人生路上会有很多很重大的考验，而高考只不过是一场预演。
 

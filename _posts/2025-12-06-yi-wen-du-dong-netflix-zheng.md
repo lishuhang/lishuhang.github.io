@@ -4,7 +4,7 @@ title: "一文读懂：Netflix正式收购华纳兄弟探索"
 date: 2025-12-06
 categories: 文章
 tags: [传媒]
-image: /img/2025/12/06/yi-wen-du-dong-netflix-zheng/01.png
+image: /img/2025/12/06/yi-wen-du-dong-netflix-zheng/01.jpg
 ---
 
 *秦始皇吞并六国？蜜雪冰城收购星巴克？27岁小伙暴打101岁老人？*

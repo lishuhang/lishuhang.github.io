@@ -4,12 +4,12 @@ title: "摄像眼镜：7 年之后又 7 年 _ 航通社的朋友们"
 date: 2019-09-17
 categories: 文章
 tags: [科技]
-image: /img/2019/09/17/she-xiang-yan-jing-7-nian/01.png
+image: /img/2019/09/17/she-xiang-yan-jing-7-nian/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/09/17/she-xiang-yan-jing-7-nian/01.png)
+![](/img/2019/09/17/she-xiang-yan-jing-7-nian/01.jpg)
 
 本文是航通社增值会员通讯服务“航通社的朋友们”专享内容，向公众号读者提供全文试读。“航通社的朋友们”把从海量内容中人工精选的热点话题，和来自航通社的独家观点，一同推送给付费读者。
 

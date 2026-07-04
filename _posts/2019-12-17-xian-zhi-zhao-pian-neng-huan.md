@@ -47,7 +47,7 @@ image: /img/2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png
 
 ![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/04.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/05.png)
+![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/05.jpg)
 
 ![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/06.png)
 

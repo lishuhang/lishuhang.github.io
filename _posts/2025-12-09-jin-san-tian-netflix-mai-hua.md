@@ -83,7 +83,7 @@ Netflix 的方案中包含了大量 Netflix 自身的股票，让交易价值受
 
 埃里森在接受 CNBC 采访时辩称，Netflix 收购 WBD 将造就一个拥有 4 亿订阅用户的超级巨头，这是“反竞争”的；而派拉蒙与 WBD 的合并合计约 2 亿用户，则是“老四和老五”的抱团取暖，更能抗衡 Netflix 和迪士尼。
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/05.png)
+![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/05.jpg)
 
 在政坛，民主党籍参议员伊丽莎白·沃伦（Elizabeth Warren）虽然批评派拉蒙的交易在垄断级别上也是“五级火警”，但她对 Netflix 交易的定性更为严厉，是“反垄断噩梦”。
 

@@ -4,10 +4,10 @@ title: "ChatGPT没有做的AI搜索，是不是下一个战场"
 date: 2024-05-29
 categories: 文章
 tags: [科技]
-image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
+image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.jpg
 ---
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.jpg)
 
 文 / 书航 2024.5.14
 
@@ -45,7 +45,7 @@ image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 这是视智未来使用ChatGPT Plus早就有的联网功能，输入的提示词以及获得的结果页面：
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/06.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/06.jpg)
 
 ——不能说非常相似，就是一模一样嘛！
 
@@ -67,7 +67,7 @@ image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 结果是，同一厂家的大模型联网结果和AI搜索结果，很大程度上是可以相互替代的，尽管每次生成的结果都不完全相同。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/08.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/08.jpg)
 
 ![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/09.png)
 
@@ -75,7 +75,7 @@ image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 秘塔的拳头产品“写作猫”还开辟了基于搜索的“事实验证”功能，在一篇生成的或人类写作的文章中，挑出可能有事实错误的地方，并提供网上相关信息的链接。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/10.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/10.jpg)
 
 当然，因为也不能100%依赖AI的判断，这个功能将报警阈值调得比较低，有时会有误报，但“宁可杀错，不可放过”，主要是方便作者人工二次检查。
 
@@ -119,25 +119,25 @@ image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 而早在文心一言上线之前，百度已经推出了名为“AI搜索智能增强”的能力，现在这一功能已经在越来越多的不同关键字的搜索结果页面上显示。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/13.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/13.jpg)
 
 百度主打一个够用就行，倒也没完全追求一定要用大模型来生成。它始终没有将文心一言跟搜索结果页整合，而是停留在“简单搜索”等外围尝试。
 
 另一种展示方式是类似于微软必应集成的Copilot。在用户没有主动调用Copilot时，输入关键词的搜索结果将显示在页面的左侧，而Copilot生成的内容则显示在右侧。360搜索的展示方式与必应相同。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/14.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/14.jpg)
 
 与之相比，并不是由“传统”搜索引擎做的AI搜索，则会使用一种重新设计过的，专门的三栏式AI搜索界面。这种设计的开创者是AI领域的“当红炸子鸡”Perplexity，这个名称在英语中意为“困惑”。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/15.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/15.jpg)
 
 Perplexity的创始人Aravind Srinivas对自己公司开创的这种新型搜索界面非常敏感，他甚至在X（Twitter）上发文称Meta AI的首页设计模仿了他们，引发了一场小规模的争论。
 
 在国内，采用这种界面的包括昆仑万维的天工和秘塔等。
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/16.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/16.jpg)
 
-![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/17.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/17.jpg)
 
 风头正劲的Arc浏览器的iOS版本，对AI搜索采用了一种更简洁明了的“变体”界面，隐藏了其它竞品中一些可能干扰用户的可选项。
 

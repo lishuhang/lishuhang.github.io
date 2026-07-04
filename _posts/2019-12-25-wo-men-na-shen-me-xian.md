@@ -107,7 +107,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 但即便如此，用语音交互从效率讲，或者是从专注度、或者办公室的安静需求等诸多方面，仍然不能代替行之有效的屏幕交互。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/12.png)
+![](/img/2019/12/25/wo-men-na-shen-me-xian/12.jpg)
 
 啊，我们终于说到了 AI。
 

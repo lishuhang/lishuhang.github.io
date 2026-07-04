@@ -3,7 +3,7 @@ layout: post
 title:  星星充电支付宝小程序如何实现 3 个月 9 倍交易增长？
 author: james
 categories: [ article ]
-image: "/img/2022/07/0724-00.png"
+image: "/img/2022/07/0724-00.jpg"
 featured: true
 hidden: false
 ---

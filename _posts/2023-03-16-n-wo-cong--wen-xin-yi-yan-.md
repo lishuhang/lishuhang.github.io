@@ -3,7 +3,7 @@ layout: post
 title:  嗯，我从「文心一言」发布会回来了
 author: james
 categories: [ article ]
-image: "/img/2023/03/0316-00.png"
+image: "/img/2023/03/0316-00.jpg"
 featured: true
 hidden: false
 ---

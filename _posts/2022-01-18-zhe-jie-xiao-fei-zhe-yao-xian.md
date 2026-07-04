@@ -3,7 +3,7 @@ layout: post
 title:  这届消费者，要先学知识再下单
 author: james
 categories: [ article ]
-image: "/img/2022/01/0118-00.png"
+image: "/img/2022/01/0118-00.jpg"
 featured: true
 hidden: false
 ---

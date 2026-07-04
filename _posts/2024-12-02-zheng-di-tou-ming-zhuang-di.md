@@ -71,11 +71,11 @@ SensorTower估计X平台上前100大广告商的总支出，2024年上半年与2
 
 Bluesky 的总用户数从 10 月底的约 1300 万增加到选后的 1500 万。不过更值得注意的是 Meta 的 Threads，仅 11 月份就有超过 1500 万注册用户，并且连续三个月每天有超过 100 万注册用户，也就是用户增幅比 Bluesky 快十几倍。
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/04.png)
+![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/04.jpg)
 
 根据 SimilarWeb 发布的数据，大选后超过 11.5 万用户离开了 X，这是埃隆·马斯克接管后最多的一次。但在特朗普胜选后，马斯克宣布X平台使用量“创下了历史新高”。
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/05.png)
+![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/05.jpg)
 
 数字发生冲突的原因在于用户可能重复注册多个平台，而同时关注多个功能、界面类似的微博客平台，也会造成用户的疲倦。
 

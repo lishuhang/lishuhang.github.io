@@ -47,7 +47,7 @@ https://mp.weixin.qq.com/s/yyZ95DFWAdL9wbvL44mbeg
 
 目前，有Wikidata、WordNet等一些行业先驱制作的知识库系统，企业也有自己做一些知识图谱，但要么不开放，要么不够被全人类认可，要么太过粗浅，“大而不强”。
 
-![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/03.png)
+![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/03.jpg)
 
 孙茂松认为，NLP符合人类逻辑的关键是让机器拥有所有人都懂得，且存在全球一致共识的“常识”，为此建立的知识库更恰当的应该被称作是“常识库”。
 
