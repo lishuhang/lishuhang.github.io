@@ -127,9 +127,7 @@ image_proxy: "https://images.weserv.nl/?url="
 # Format: range = [start_YYYYMM, end_YYYYMM)
 #   null start = -infinity, null end = +infinity
 image_prefixes:
-  - range: [null, "2024-01"]        # before 2024-01 → prefix A
-    prefix: "https://lishuhang.me"
-  - range: ["2024-01", "2026-07"]   # 2024-01 to 2026-07 → prefix B
-    prefix: "https://lishuhang.me"
-  - range: ["2026-07", null]        # 2026-07 onwards → prefix C (default: same as A/B)
+  # 当前所有图片都在 lishuhang.me/img (即 lishuhang/img 仓库的 GitHub Pages)
+  # 日后迁移到新 repo 时，在此添加新的 date range 即可，无需改文章
+  - range: [null, null]
     prefix: "https://lishuhang.me"
