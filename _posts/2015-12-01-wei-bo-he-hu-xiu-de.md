@@ -4,7 +4,7 @@ title: "微博和虎嗅的纠纷再次表明，在中国最缺的就是安全感
 date: 2015-12-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/12/01/wei-bo-he-hu-xiu-de/01.jpg
+image: /img/2015/12/01/wei-bo-he-hu-xiu-de/01.jpg
 ---
 
 距离新浪微博封杀虎嗅已经过去几天时间。在这件事发生之前的几天，其实还有一些账号或明或暗的在新浪微博消失。这些账号消失的原因各不相同，然而新浪提供的理由全都是违反相关法律法规。

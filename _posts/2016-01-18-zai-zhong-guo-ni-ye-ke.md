@@ -63,4 +63,4 @@ source: "https://zhuanlan.zhihu.com/p/20508921"
 
 首发于[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/299352)
 
-![](https://lishuhang.me/img/2016/01/18/zai-zhong-guo-ni-ye-ke/01.jpg)
+![](/img/2016/01/18/zai-zhong-guo-ni-ye-ke/01.jpg)

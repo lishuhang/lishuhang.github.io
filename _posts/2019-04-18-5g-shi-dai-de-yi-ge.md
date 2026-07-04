@@ -4,14 +4,14 @@ title: "5G 时代的一个杀手级应用，可能是……"
 date: 2019-04-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/04/18/5g-shi-dai-de-yi-ge/01.jpg
+image: /img/2019/04/18/5g-shi-dai-de-yi-ge/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/04/18/5g-shi-dai-de-yi-ge/01.jpg)
+![](/img/2019/04/18/5g-shi-dai-de-yi-ge/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/04/18/5g-shi-dai-de-yi-ge/02.jpg)
+![](/img/2019/04/18/5g-shi-dai-de-yi-ge/02.jpg)
 
 书航 4 月 18 日发于北京
 
@@ -121,7 +121,7 @@ image: https://lishuhang.me/img/2019/04/18/5g-shi-dai-de-yi-ge/01.jpg
 
 [5] https://cn.technode.com/post/2014-04-01/marvell-weili-dai/
 
-![](https://lishuhang.me/img/2019/04/18/5g-shi-dai-de-yi-ge/03.jpg)
+![](/img/2019/04/18/5g-shi-dai-de-yi-ge/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

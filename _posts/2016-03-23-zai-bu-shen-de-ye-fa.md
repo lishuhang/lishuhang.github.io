@@ -4,7 +4,7 @@ title: "在不深的夜发chī"
 date: 2016-03-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/23/zai-bu-shen-de-ye-fa/01.jpg
+image: /img/2016/03/23/zai-bu-shen-de-ye-fa/01.jpg
 ---
 
 此处应有掌声

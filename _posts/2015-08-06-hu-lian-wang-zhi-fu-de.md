@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20147784"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-05/prove-yourself/)
 
-![](https://lishuhang.me/img/2015/08/06/hu-lian-wang-zhi-fu-de/01.jpg)
+![](/img/2015/08/06/hu-lian-wang-zhi-fu-de/01.jpg)

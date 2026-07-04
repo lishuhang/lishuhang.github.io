@@ -4,10 +4,10 @@ title: "提升你的“含航率”！"
 date: 2019-01-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/01.jpg
+image: /img/2019/01/31/ti-sheng-ni-de-han-hang/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/01.jpg)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/01.jpg)
 
 来，我们一起学习一个新词：“含航率”。
 
@@ -15,7 +15,7 @@ image: https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/01.jpg
 
 比如你有 1000 个好友，同时像这张截图一样，有 229 个好友关注，那么你的“含航率”就是 22.9% 。
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/02.png)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/02.png)
 
 如果你能让你的朋友一起来订阅航通社（微信号：lifeissohappy），你的“含航率”就随之升高了。
 
@@ -93,7 +93,7 @@ https://mp.weixin.qq.com/s/53_PWu5DLCt0OQjgBICbjA
 
 要想持续关注，就赶紧长按（扫）下面这个二维码来关注航通社吧！👇
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/03.png)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/03.png)
 
 2 一起读一些有意思，有深度的文章
 
@@ -101,7 +101,7 @@ https://mp.weixin.qq.com/s/53_PWu5DLCt0OQjgBICbjA
 
 比如这样：
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/04.png)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/04.png)
 
 书摘（1 月 4 日）
 
@@ -113,7 +113,7 @@ https://mp.weixin.qq.com/s/K9vVakArPGsfU6XA6tBauw
 
 在“航通社的朋友们”读者群里，你将和航通社作者直接对话，并参与每天热门话题的讨论；你也有机会参与我们的小调查，向我们提出你的宝贵意见，或者被写入航通社发布的文章里。🤭
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/05.png)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/05.png)
 
 洗稿这件小事
 
@@ -121,7 +121,7 @@ https://www.jiemian.com/article/2792236.html
 
 在关注了航通社（微信号：lifeissohappy）以后，可以长按下面的二维码，请助理同学拉你进群哦✌
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/06.png)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/06.png)
 
 怎样？
 
@@ -129,7 +129,7 @@ https://www.jiemian.com/article/2792236.html
 
 提升“含航率”就趁现在！
 
-![](https://lishuhang.me/img/2019/01/31/ti-sheng-ni-de-han-hang/07.jpg)
+![](/img/2019/01/31/ti-sheng-ni-de-han-hang/07.jpg)
 
 点这个 ❄好看 可以更快速的
 

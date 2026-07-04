@@ -4,7 +4,7 @@ title: "别跑呀！虽然封面雷同，毕竟文章是不一样的嘛"
 date: 2016-03-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/22/bie-pao-ya-sui-ran-feng/01.jpg
+image: /img/2016/03/22/bie-pao-ya-sui-ran-feng/01.jpg
 ---
 
 今天早上，一篇《 **小的是美好的** 》一气呵成：

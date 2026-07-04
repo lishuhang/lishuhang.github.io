@@ -4,7 +4,7 @@ title: "这是微信的微博"
 date: 2018-01-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/29/zhe-shi-wei-xin-de-wei/01.jpg
+image: /img/2018/01/29/zhe-shi-wei-xin-de-wei/01.jpg
 ---
 
 文 | 书航

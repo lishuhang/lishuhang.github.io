@@ -4,7 +4,7 @@ title: "为风口浪尖的联想说几句话"
 date: 2019-05-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/05/19/wei-feng-kou-lang-jian-de/01.png
+image: /img/2019/05/19/wei-feng-kou-lang-jian-de/01.png
 ---
 
 ——你应该知道的历史、现在和未来——
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2019/05/19/wei-feng-kou-lang-jian-de/01.png
 
 原创文章未经授权禁止转载
 
-![](https://lishuhang.me/img/2019/05/19/wei-feng-kou-lang-jian-de/01.png)
+![](/img/2019/05/19/wei-feng-kou-lang-jian-de/01.png)
 
 书航 5 月 19 日发于北京
 
@@ -191,7 +191,7 @@ image: https://lishuhang.me/img/2019/05/19/wei-feng-kou-lang-jian-de/01.png
 
 [13] https://mp.weixin.qq.com/s/FrnmiCWk91Ys4uFlCqkCdA
 
-![](https://lishuhang.me/img/2019/05/19/wei-feng-kou-lang-jian-de/02.jpg)
+![](/img/2019/05/19/wei-feng-kou-lang-jian-de/02.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

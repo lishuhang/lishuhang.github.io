@@ -4,7 +4,7 @@ title: "交出你的“整条命”"
 date: 2017-12-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/20/jiao-chu-ni-de-zheng-tiao/01.jpg
+image: /img/2017/12/20/jiao-chu-ni-de-zheng-tiao/01.jpg
 ---
 
 文|书航

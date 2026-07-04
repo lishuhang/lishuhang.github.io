@@ -4,7 +4,7 @@ title: "云端智度周强：融合云是云服务行业的未来形态"
 date: 2017-09-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/29/yun-duan-zhi-du-zhou-qiang/01.jpg
+image: /img/2017/09/29/yun-duan-zhi-du-zhou-qiang/01.jpg
 ---
 
 8 月底，全网资源调度平台“云端智度”发布了新的融合云战略，并宣布完成了 3200 万 A 轮融资 。云端智度成立于 2016 年，已经与 20 多家 CDN 厂商完成双向对接，为百度、腾讯、芒果等近 80 家客户提供服务。

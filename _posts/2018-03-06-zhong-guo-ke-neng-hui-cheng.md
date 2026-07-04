@@ -4,7 +4,7 @@ title: "中国可能会成为全球上网最便宜的地方"
 date: 2018-03-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.jpg
+image: /img/2018/03/06/zhong-guo-ke-neng-hui-cheng/01.jpg
 ---
 
 文 / 书航

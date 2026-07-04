@@ -89,4 +89,4 @@ cnBeta 编辑团队
 
 2015：[大学的用处](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/400431.htm)
 
-*图片/Wikipedia![](https://lishuhang.me/img/2016/06/06/cnbeta-2016-nian-gao-kao-ji/01.png)*
+*图片/Wikipedia![](/img/2016/06/06/cnbeta-2016-nian-gao-kao-ji/01.png)*

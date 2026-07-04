@@ -4,7 +4,7 @@ title: "把偶像当作自己，这样的粉丝到底有多特别？"
 date: 2018-07-09
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
+image: /img/2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

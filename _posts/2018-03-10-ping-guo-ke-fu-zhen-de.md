@@ -4,7 +4,7 @@ title: "苹果客服真的能拿你的 iCloud 信息敲诈你吗？"
 date: 2018-03-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
+image: /img/2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 ---
 
 **👆点击名字订阅【航通社】公众号**

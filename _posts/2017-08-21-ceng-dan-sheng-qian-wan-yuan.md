@@ -4,7 +4,7 @@ title: "曾诞生千万元级别融资  TIM入场令在线文档格局生变"
 date: 2017-08-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/21/ceng-dan-sheng-qian-wan-yuan/01.jpg
+image: /img/2017/08/21/ceng-dan-sheng-qian-wan-yuan/01.jpg
 ---
 
 今年年初开始，腾讯 QQ 将此前的办公专版 TM 改名为 TIM，并取代了“QQ 轻聊版”的位置，这意味着 QQ 团队也加入了由 Slack、钉钉、明道、企业微信等组成的协同办公应用战局之中。

@@ -4,10 +4,10 @@ title: "阿里本地生活板块如何“全面加入”天猫双 11？"
 date: 2018-10-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg
+image: /img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg)
+![](/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -37,7 +37,7 @@ image: https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg
 
 众多商超便利、鲜花水果等商家将作为新零售版块，通过饿了么首次参与天猫双 11。与此同时，饿了么的蜂鸟配送体系也将更全面地服务于天猫、淘宝、盒马、大润发、阿里健康和零售通等业务。特别是通过蜂鸟赋予的配送能力，加入零售通的 100 万家夫妻老婆店和 1000 家“天猫小店”，也能同步参与双 11 。
 
-![](https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/02.jpg)
+![](/img/2018/10/20/a-li-ben-di-sheng-huo/02.jpg)
 
 ## 本地生活板块将不会计入双 11 总营收
 
@@ -45,7 +45,7 @@ image: https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg
 
 回望去年双 11 指挥中心，各种数字不断刷新的经历令人心跳加速：3 分 01 秒超 100 亿元，40 分 12 秒突破 500 亿元，7 小时 22 分达 2015 年全天的 912 亿元，9 小时 04 秒超 1000 亿元，13 小时 09 分 49 秒达 2016 年全天的 1207 亿元。
 
-![](https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/03.jpg)
+![](/img/2018/10/20/a-li-ben-di-sheng-huo/03.jpg)
 
 历年天猫双11交易额（整理：电商报）
 
@@ -85,6 +85,6 @@ image: https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/01.jpg
 
 作为首届进口博览会第一合作伙伴，天猫国际已确定邀约麦德龙、MTG 等 200 多家世界顶级品牌商家参展，这也是双 11 线上线下流量曝光计划的其中一部分。另外，今年双 11 电视晚会（“猫晚”）将和去年一样，选在上海梅赛德斯奔驰文化中心举办。
 
-![](https://lishuhang.me/img/2018/10/20/a-li-ben-di-sheng-huo/04.gif)
+![](/img/2018/10/20/a-li-ben-di-sheng-huo/04.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

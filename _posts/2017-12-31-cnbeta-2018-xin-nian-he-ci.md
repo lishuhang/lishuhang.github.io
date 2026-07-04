@@ -4,12 +4,12 @@ title: "cnBeta 2018 新年贺词"
 date: 2017-12-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/31/cnbeta-2018-xin-nian-he-ci/01.png
+image: /img/2017/12/31/cnbeta-2018-xin-nian-he-ci/01.png
 ---
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJk0SJCINiaHpkaUtg0cQUsfNxicvO9N5aHKZbVzhRwKV5eafT9WfmhacEaibLP2JicZ30uLPqfNMXJog/?wx_fmt=jpeg)
 
-![](https://lishuhang.me/img/2017/12/31/cnbeta-2018-xin-nian-he-ci/01.png)
+![](/img/2017/12/31/cnbeta-2018-xin-nian-he-ci/01.png)
 
 各位亲爱的访客朋友：新年好！
 
@@ -93,4 +93,4 @@ cnBeta.COM 全体成员
 
 [15]http://mp.weixin.qq.com/s/vDFvmxMO24JsFKcGjo2Vpg
 
-![](https://lishuhang.me/img/2017/12/31/cnbeta-2018-xin-nian-he-ci/02.jpg)
+![](/img/2017/12/31/cnbeta-2018-xin-nian-he-ci/02.jpg)

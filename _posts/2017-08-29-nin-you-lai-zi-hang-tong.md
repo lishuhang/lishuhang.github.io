@@ -4,7 +4,7 @@ title: "您有来自航通社的优惠券，请查收！"
 date: 2017-08-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/29/nin-you-lai-zi-hang-tong/01.jpg
+image: /img/2017/08/29/nin-you-lai-zi-hang-tong/01.jpg
 ---
 
 以下都是一些公开的优惠活动，其中很多也是我自己常用的应用，如果你或你的朋友因为我的介绍新注册了这些服务，你和我都可以得到一些奖励。

@@ -4,7 +4,7 @@ title: "“手民之误”和一次错误的推送"
 date: 2018-06-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/06/06/shou-min-zhi-wu-he-yi/01.jpg
+image: /img/2018/06/06/shou-min-zhi-wu-he-yi/01.jpg
 ---
 
 👆点上面**航通社**订阅

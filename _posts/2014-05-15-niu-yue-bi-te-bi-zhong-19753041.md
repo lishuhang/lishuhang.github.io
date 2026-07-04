@@ -17,25 +17,25 @@ source: "https://zhuanlan.zhihu.com/p/19753041"
 
 自那以后有一些东西陆续的放到这个比特币中心来展出，我们看到的就是2台正在运行的矿机，但是目前只是做展示作用，并没有真正地运转。我们还看到了可以实际操作的比特币ATM机，但是因为没有连接到网络，所以暂时也是演示用途，不过詹姆斯告诉我们说，像这样的一台ATM机实际上可以部署到世界上任何地方，即使这个地方的人们之前从来没有听说过比特币这个词。
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/01.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/01.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/02.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/02.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/03.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/03.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/04.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/04.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/05.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/05.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/06.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/06.jpg)
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/07.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/07.jpg)
 
 大厅的装修非常简单，有一些纸板上面刻着世界各国某些货币的剪影，我们看到了熟悉的主席头像亲切地注视着整个屋子。詹姆斯尽管没有什么可招待的，也带着我们热情地参观，并且盛情的邀请我们[参加几天后举行的聚会](https://link.zhihu.com/?target=http%3A//www.meetup.com/BitcoinCenterNYC/events/182855012/)；可惜当天已经是我们在纽约行程的最后一天了。
 
 在前面的接待桌上，摆放着一堆介绍比特币的杂志《y Bitcoin》，看杂志的样子似乎是打算每个季度出一期，不过我们拿到的显然是创刊号，因为上面最靠前的一篇文章是向人们介绍什么是比特币的。很显然，也就至多二百多人控制着被认为是世界金融未来的中心，但说世界金融现在的中心也掌握在几百个人手里，似乎也不算错吧？
 
-![](https://lishuhang.me/img/2014/05/15/niu-yue-bi-te-bi-zhong/08.jpg)
+![](/img/2014/05/15/niu-yue-bi-te-bi-zhong/08.jpg)
 
 临走之前我们还注意到桌子上摆放着黑色的T恤，是需要拿比特币付款的。我们没有“现金”，詹姆斯豪爽地送了我们一人一件。尽管比特币现在有几个最大的交易市场是在中国，但是想要健康的发展，比特币肯定是不仅希望中国成为一个投资和注入资本的市场这么简单。他们更希望的是能够在中国的方方面面得到真正的应用，让他成为在中国市场的可以流通的一种货币。对这一点，詹姆斯也同样充满了期望，他希望自己所在的比特币中心，能够作为中外之间对加密货币沟通的媒介和桥梁，并且希望和中国的同业者有更多的交流。
 

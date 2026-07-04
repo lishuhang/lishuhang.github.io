@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20084555"
 
 *//今天家里停电，专栏是在手机上写的。。。*
 
-![](https://lishuhang.me/img/2015/06/24/yong-600-zi-duan-wen-gao/01.jpg)
+![](/img/2015/06/24/yong-600-zi-duan-wen-gao/01.jpg)

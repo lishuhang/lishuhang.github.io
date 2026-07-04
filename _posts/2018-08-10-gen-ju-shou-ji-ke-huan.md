@@ -4,7 +4,7 @@ title: "“根据手机壳换颜色”？真的有人为此申请了专利"
 date: 2018-08-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/10/gen-ju-shou-ji-ke-huan/01.jpg
+image: /img/2018/08/10/gen-ju-shou-ji-ke-huan/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

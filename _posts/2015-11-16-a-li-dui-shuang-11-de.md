@@ -45,4 +45,4 @@ source: "https://zhuanlan.zhihu.com/p/20335917"
 
 [新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-11-16/pid_8496130.htm)（独家供稿请勿转载）
 
-![](https://lishuhang.me/img/2015/11/16/a-li-dui-shuang-11-de/01.jpg)
+![](/img/2015/11/16/a-li-dui-shuang-11-de/01.jpg)

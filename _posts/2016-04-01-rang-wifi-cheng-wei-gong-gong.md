@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/20698907"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-01/why-travel-without-wifi/)
 
-![](https://lishuhang.me/img/2016/04/01/rang-wifi-cheng-wei-gong-gong/01.jpg)
+![](/img/2016/04/01/rang-wifi-cheng-wei-gong-gong/01.jpg)

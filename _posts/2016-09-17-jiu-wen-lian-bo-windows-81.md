@@ -4,7 +4,7 @@ title: "旧闻联播：Windows 8.1 在中国"
 date: 2016-09-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/09/17/jiu-wen-lian-bo-windows-81/01.jpg
+image: /img/2016/09/17/jiu-wen-lian-bo-windows-81/01.jpg
 ---
 
 这是 2013 年 11 月 6 日给 TechCrunch 美国主站写的稿子，但是并没有刊发。整理文稿的时候翻出来了，给大家看看。现在回顾当年的新闻，会读出一些当年没有的味道。

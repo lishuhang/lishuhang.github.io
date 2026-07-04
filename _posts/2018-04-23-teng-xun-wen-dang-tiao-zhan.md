@@ -4,7 +4,7 @@ title: "腾讯文档挑战 Office 365，微软将如何作答？"
 date: 2018-04-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/23/teng-xun-wen-dang-tiao-zhan/01.jpg
+image: /img/2018/04/23/teng-xun-wen-dang-tiao-zhan/01.jpg
 ---
 
 本文首发于百家号，原创文章未经授权请勿转载

@@ -4,7 +4,7 @@ title: "联想到底算“哪国”的？"
 date: 2019-05-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
+image: /img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
 ---
 
 ——你应该知道的历史、现在和未来——
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
 
 原创文章未经授权禁止转载
 
-![](https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png)
+![](/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png)
 
 书航 5 月 24 日发于北京
 
@@ -71,7 +71,7 @@ image: https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
 
 联想将全球分为五大战略地区。财报显示，每个战略地区对集团收入的贡献比例几乎均在 20% 上下浮动，公司业务全球分布较为平衡。
 
-![](https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/02.jpg)
+![](/img/2019/05/25/lian-xiang-dao-di-suan-na/02.jpg)
 
 所谓“美帝良心”是否绝对依赖北美市场呢？数据可以说明问题。
 
@@ -79,7 +79,7 @@ image: https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
 
 比较北美或整个美洲市场对各 PC 厂商收入的贡献比例，可以看到包括联想在内，各家占比都很相近。
 
-![](https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/03.png)
+![](/img/2019/05/25/lian-xiang-dao-di-suan-na/03.png)
 
 （3）跨地区、跨市场形成风险对冲
 
@@ -253,7 +253,7 @@ image: https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/01.png
 
 [20] https://tech.sina.com.cn/t/2019-05-21/doc-ihvhiews3551652.shtml
 
-![](https://lishuhang.me/img/2019/05/25/lian-xiang-dao-di-suan-na/04.jpg)
+![](/img/2019/05/25/lian-xiang-dao-di-suan-na/04.jpg)
 
 寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

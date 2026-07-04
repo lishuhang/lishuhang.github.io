@@ -21,6 +21,6 @@ source: "https://zhuanlan.zhihu.com/p/20269026"
 
 微软仍在不停改进Windows 10操作系统的图标，在最新的10565编译版本中，我们终于在设备管理器中看到了与系统相处得更加和谐的图标样式。
 
-![](https://lishuhang.me/img/2015/10/13/kuai-jiao-wo-yu-yan-di/01.jpg)
+![](/img/2015/10/13/kuai-jiao-wo-yu-yan-di/01.jpg)
 
 这已经是第二季了，第一季：[快叫我预言帝 - Life Is So Happy - 知乎专栏](http://zhuanlan.zhihu.com/lishuhang/19718901)

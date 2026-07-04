@@ -4,7 +4,7 @@ title: "把中超卖到海外，乐视想证明体育节目不是只有奥运会
 date: 2016-02-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/02/28/ba-zhong-chao-mai-dao-hai/01.jpg
+image: /img/2016/02/28/ba-zhong-chao-mai-dao-hai/01.jpg
 ---
 
 本周乐视体育与体奥动力在京宣布建立战略合作，体奥动力参与到乐视体育的 B 轮融资。与之对应的是，乐视将获得 2016/2017 两个赛季中超联赛在中国大陆、港澳台、美国、印度、新加坡、泰国、东南亚、加拿大等国家和地区的独家新媒体转播权。

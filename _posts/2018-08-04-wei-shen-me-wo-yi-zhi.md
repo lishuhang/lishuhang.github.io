@@ -4,7 +4,7 @@ title: "为什么我一直希望谷歌核心业务回到中国"
 date: 2018-08-04
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/04/wei-shen-me-wo-yi-zhi/01.jpg
+image: /img/2018/08/04/wei-shen-me-wo-yi-zhi/01.jpg
 ---
 
 点第一个**航通社**可以👍**喜欢作者**

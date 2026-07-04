@@ -13,9 +13,9 @@ source: "https://zhuanlan.zhihu.com/p/19978839"
 
 使用第三方手机客户端和用插件的同学们率先崩溃。因为他们的界面都变成了这样：
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/01.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/01.jpg)
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/02.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/02.jpg)
 
 和数字验证码相比，图片验证码是一类对人类而言更难的验证码。这种“在多种图片中合并同类项”的查找方法本身没有问题，但最大的问题在于，其分类标准是由机器学习来确定的，因此总会出现人的判断和机器分类不符的情况。明明我觉得这张图对，但机器说不对，这样会让人感觉很不舒服。
 
@@ -27,17 +27,17 @@ source: "https://zhuanlan.zhihu.com/p/19978839"
 
 此前，国内著名漏洞检测平台乌云网曾经认为 12306 数字验证码太容易被破解，官方如下回应：
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/03.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/03.jpg)
 
 结果，一年多以后 12306 还是选择了“用户不好认”的验证码形式。但这是不是意味着“机器不好认”了呢？新验证码发布不到 24 小时，已经有抢票插件宣布兼容：
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/04.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/04.jpg)
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/05.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/05.jpg)
 
 而网上也出现了 [机器破解的原型方案](http://www.zhihu.com/question/28795373/answer/42181689) 。该方案通过百度和谷歌“以图搜图”的公用 API，将小图片转换成了符合图意的文本关键字。这样一来，只要检查关键字中有没有符合问题中字符的就 OK。
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/06.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/06.jpg)
 
 其实“以图搜图”已经是和输入关键字，或者念出语音搜索一样简单和普通的搜索手段，并非什么高科技的方式。所以正如上面说的，图片验证码和加了很多波浪纹干扰的数字验证码对机器而言并没有太大的难度差异。
 
@@ -51,6 +51,6 @@ source: "https://zhuanlan.zhihu.com/p/19978839"
 
 也许 12306 网站的特殊性导致怎么验证都有难处，我觉得另一个同属于公共服务网站的验证码，做得就相当绝妙。看下图你就知道了：
 
-![](https://lishuhang.me/img/2015/03/17/xiao-hun-de-12306-yan-zheng/07.jpg)
+![](/img/2015/03/17/xiao-hun-de-12306-yan-zheng/07.jpg)
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-03-17/zaobao0317/)

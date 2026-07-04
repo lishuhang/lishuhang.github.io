@@ -4,7 +4,7 @@ title: "为什么中国科技公司都要去外媒“刷脸”？"
 date: 2016-11-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
+image: /img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 ---
 
 今天（7日）上午，陷入资金紧张疑问之中的乐视，在微博上跟小米发起争吵，这成为我的好友重点关注的消息。但说实在的，在圈外这条新闻充其量只能稍微波及一些买入乐视股票的股民，其他方面的影响实在有限。为了写稿，我打开央视网的节目回放页面，今天（7日）的新闻当中，与科技企业真正相关的新闻只有一条，那就是三星准备在美国召回洗衣机一事。
@@ -29,7 +29,7 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 彭博的《彭博科技（Bloomberg Technology）》和CNBC的《硅谷传声筒（Squawk Alley）》都是各自频道时长达一小时的重点节目。在这些节目中，都有很大篇幅介绍国内公司进展。BAT三巨头和滴滴、大疆等公司都是常客。甚至，**在国内因为搜索推广问题有点焦头烂额的百度，在国外的声誉比国内正面的多。**外媒主要关注百度在人工智能和无人汽车的探索，百度在上海一家肯德基餐厅的点餐机器人前阵子也上了BBC新闻节目。
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/02.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/02.png)
 
 同样在上个月，乐视宣布进军美国市场并推出手机等产品。一众美国科技媒体开始科普“乐视是什么”。在彭博的节目中，**现场记者把“LeEco”发音读错了，读成“Lee-Co”**。但这完全不影响他们试图去了解这个之前悄无声息的中国企业。一位女记者列出了乐视涉足的领域——电视机、手机、汽车、自行车、影视剧制作、租车服务。说到同时做电视机和手机的时候，**记者将乐视比喻为“中国的三星”。**
 
@@ -39,11 +39,11 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 与彭博和CNBC对标的国内媒体，可以说是央视财经频道和上海第一财经。查询两台在那几天的节目录像，我并没发现相当于其海外同行的分析报道篇幅。乐视被国外财经媒体高度关注，其中一个原因是挖走了前三星销售负责人与前高通高级副总裁，但这则新闻在国内媒体的反响并不如国外那么大。
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/03.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/03.png)
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/04.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/04.png)
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/05.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/05.png)
 
 在CNTV中国网络电视台，可以看到全国省级卫视频道节目的回放。搜索显示，就算把所有电视台加在一起，针对国内科技公司的报道也少得可怜。以下搜索结果当中，考虑到关键字匹配可能不准，实际结果数还可能比显示的更少。
 
@@ -57,7 +57,7 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 **1）厂商“喂料”的安全播报**
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/06.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/06.png)
 
 如果说金山安全高级专家李铁军是在国内电视屏幕上出现最多的中国安全从业者，这应该是不夸张的。他不仅仅是金山以及猎豹系安全软件的代言人，同时也是众多媒体无需怎么动脑，就可以直接想到的安全相关的媒体顾问。金山、360等现在流行的安全软件，还有之前火爆过的瑞星、江民，都曾经派出安全专家进驻电视台的新闻节目，为大家讲解有关病毒，木马，手机恶意软件的防范知识。
 
@@ -67,7 +67,7 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 随着大数据在行业内的应用，越来越多的流行应用开发商拥有了全国范围内某一个细分行业的用户数据，这些数据被打包制作成行业报告，推送给各路媒体。我经常参加这些数据报告的发布会。之前科技公司对媒体举办发布会，通常是宣布新产品的更新，而这种信息仅仅会在科技专业媒体上有所曝光，对大众媒体来说，基本找不到能够报道的点。
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/07.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/07.png)
 
 而被打包成行业报告之后，互联网公司则可以润物细无声地自我宣传，使得大众媒体也可以分一杯羹。比如说，最近与交通出行相关的报告频繁出现，这主要源于高德地图和百度地图两大冤家之间的长期争斗。十一黄金周期间，他们发布了各自的全国假日出行预报，这已经说不清是他们第几次发布报告了。
 
@@ -75,7 +75,7 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 **3）“大众创业、万众创新”的宣传典型**
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/08.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/08.png)
 
 前两天，最新国内手机出货量数据显示，步步高旗下的两个姐妹品牌oppo和vivo成为了国内手机销量冠军。对于经常被小米和华为占领版面的科技从业者来说，这是比较重要的一条消息。不过，在央视网内搜索oppo相关新闻却没有任何结果。考虑到oppo的中文名被一些媒体翻译为“欧珀”，我又用这个作为关键字进行查找，结果发现了非常有趣的结果。其中一条新闻说的是《上海消保委起诉三星和欧珀预装流氓软件偷跑流量》，而它旁边的一条则是《广东新闻联播》的头条消息：《广东欧珀：创新促进转型
 企业“破茧成蝶”》。
@@ -88,7 +88,7 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 > “我国业界推出全球运行速度最快的智能手机小米手机3。这款手机采用了全球性能最强的四核智能手机芯片，主要配置上都采用了全球性能领先的硬件。”
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/09.png)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/09.png)
 
 这条长度仅13秒的简讯，曾经成为当晚科技从业者晚餐最好的佐料。
 
@@ -112,4 +112,4 @@ image: https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/01.png
 
 新浪专栏（独家）
 
-![](https://lishuhang.me/img/2016/11/10/wei-shen-me-zhong-guo-ke/10.jpg)
+![](/img/2016/11/10/wei-shen-me-zhong-guo-ke/10.jpg)

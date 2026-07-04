@@ -4,7 +4,7 @@ title: "你不过白色情人节？那这篇就是写给你看的。"
 date: 2016-03-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/14/ni-bu-guo-bai-se-qing/01.jpg
+image: /img/2016/03/14/ni-bu-guo-bai-se-qing/01.jpg
 ---
 
 全国的肯德基播放的歌单都是一样的。在循环播放的歌曲里面，这首歌一下子就用它的旋律抓住了我，感觉就像是之前听什么人彩铃是蔡依林《日不落》时候的那种感觉一样。

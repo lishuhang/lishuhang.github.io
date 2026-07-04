@@ -4,7 +4,7 @@ title: "《人民日报》官方Twitter“定调”？别拿鸡毛当令箭"
 date: 2018-08-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
+image: /img/2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 ---
 
 点第一个**航通社**可以👍**喜欢作者**

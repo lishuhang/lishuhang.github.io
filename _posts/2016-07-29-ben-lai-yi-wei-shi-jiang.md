@@ -4,7 +4,7 @@ title: "本来以为是讲座，结果听了一场 Live"
 date: 2016-07-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/29/ben-lai-yi-wei-shi-jiang/01.jpg
+image: /img/2016/07/29/ben-lai-yi-wei-shi-jiang/01.jpg
 ---
 
 这个夏天，苹果联合其收购的 Beats 耳机，在国内部分城市邀请独立乐队，为大家讲解如何使用苹果系列产品（主要是 Logic Pro）与自己的音乐旅程相结合，顺便给大家带来一些自己的歌曲——本来我以为应该是这样的。

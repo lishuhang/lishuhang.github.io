@@ -4,7 +4,7 @@ title: "锤子的“电脑”，也没你们说的那么一无是处吧"
 date: 2018-05-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/16/chui-zi-de-dian-nao-ye/01.jpg
+image: /img/2018/05/16/chui-zi-de-dian-nao-ye/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**

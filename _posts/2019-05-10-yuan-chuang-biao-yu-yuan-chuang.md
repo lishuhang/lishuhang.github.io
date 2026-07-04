@@ -4,14 +4,14 @@ title: "“原创标”与原创"
 date: 2019-05-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jpg
+image: /img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/02.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/02.jpg)
 
 书航 5 月 10 日发于北京
 
@@ -25,17 +25,17 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 腾讯的官方微信公众号“腾讯” 5 月 9 号发了一篇推送，题目叫《腾讯有个技术军团，“疯起来”连自己都打》[1] 。在题目前面手动放上去了大大的【原创】二字，文章开头还有个手写字体的“原创”镇楼。但唯独没有打上微信系统自带的原创标记。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/03.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/03.jpg)
 
 这是因为“腾讯”公众号的原创声明功能被微信平台“没收”了。
 
 7 日“腾讯”的推送中有一篇文章《微信钱包-零钱没有余额怎么办？》[2] ，全文只有一句话：“那就努力工作赚钱吧。”其余部分复制这句话一直满300字，并刷成了白色，好让读者看不出来。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/04.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/04.jpg)
 
 后来，该文被“热心”读者举报，被微信公众平台判定为滥用原创，所以“腾讯”的原创标就没了。由此看来，再看“疯起来连自己都打”的题目，不禁让人会心一笑。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/05.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/05.jpg)
 
 虽然微信秉公执法，铁面无私，但“腾讯”这个号的文章在失去“原创”标记的这段日子里，恐怕还是不太会被什么人抢注标记的。因为它的知名度已经很高，也有“热心”网友一直帮着它查找可能有什么人盗用了文章，所以万里有一发生侵权，也会第一时间得到响应。
 
@@ -77,7 +77,7 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 现在回头再找这条消息，因年代久远，并不可考。不过一个类似的声明却十分常见：“本文由XXX原创整理”。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/06.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/06.jpg)
 
 ——对了，就是这样：内容不知道是谁的，反正整理内容的过程是“原创”的。
 
@@ -89,7 +89,7 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 最后，微信公众平台的官号“微信派”在“腾讯”被处理后自己说了，“标记为‘引用’的内容，在声明原创时，不计入原创审核，只要引用外的部分符合原创标准即可。” [3]
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/07.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/07.jpg)
 
 ——这句话基本等于为大段摘录他人语句，自己写 300 字总结的“原创标”开了绿灯。也许“微信派”自己都觉得不妥，所以现在你再去看同一篇推送，已经改成了：“顺便科普下，使用官方引用格式后，可以适当降低被投诉侵权的风险。” [4]
 
@@ -113,7 +113,7 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 让整个局面更复杂的，是编译网站之间的互相打架。2011 年 5 月，关注谷歌新闻的博客“谷奥”刊登了《传 Google 将以 490 万美元收购 Modu 持有的专利》一文，同一天晚上新浪科技发布《谷歌490万美元收购以色列手机制造商Modu专利》。两篇文章都只有几百字，阐述的事实基本近似。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/08.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/08.jpg)
 
 6月初，谷奥发微博指责新浪科技抄袭，按新浪科技官方公布的澄清声明原文：[7]
 
@@ -139,7 +139,7 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 但要说所有平台当中是谁先开了“首发”的这个头，那还得说是微信。2017 年 5 月 11 日，微信公众平台公布一个“小调整”：公众号未获得“开白”授权转载，不能再显示全文。读者要看全文，必须跳转到原公众号。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/09.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/09.jpg)
 
 当年 3 月，微信有另一项调整：如果有人抢先发布了你的文章，此前是他必须打原创标，你才不能标记原创；此后是即使他没有打标，你也不能标记。——由此可见，没有原创标的“腾讯”暂时不会有文章被别人抢走的担心。
 
@@ -171,7 +171,7 @@ image: https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/01.jp
 
 2018 年 8 月，虎嗅发文控诉 [11] 仅 8 月半个月内，就有站内 4 篇原创文章无法打原创标，但它们遇到的问题更为奇葩：该文先被腾讯新闻 App 转载，然后微信公众平台的系统，又根据腾讯新闻 App 的链接，认定该文属于“时事新闻”，不可标原创。
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/10.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/10.jpg)
 
 平台政策对此现象的具体表述为：
 
@@ -221,7 +221,7 @@ Steem 公司于去年底裁员 70%，并将亏损归因于币圈波动。
 
 [11] https://mp.weixin.qq.com/s/U7HFq9DzTx-7P0i5k3yyWw
 
-![](https://lishuhang.me/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/11.jpg)
+![](/img/2019/05/10/yuan-chuang-biao-yu-yuan-chuang/11.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

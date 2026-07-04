@@ -4,7 +4,7 @@ title: "花多少钱都买不到优质服务，是中国人的悲哀"
 date: 2017-09-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/21/hua-duo-shao-qian-dou-mai/01.jpg
+image: /img/2017/09/21/hua-duo-shao-qian-dou-mai/01.jpg
 ---
 
 花钱买不到相应水平的产品和服务，就算多有钱也买不到，不得不说是当今中国人的一大悲哀。

@@ -31,4 +31,4 @@ source: "https://zhuanlan.zhihu.com/p/20625618"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-07/all-wifi-are-fxxxing-unsafe/)
 
-![](https://lishuhang.me/img/2016/03/07/di-qiu-zhi-da-jing-rong/01.jpg)
+![](/img/2016/03/07/di-qiu-zhi-da-jing-rong/01.jpg)

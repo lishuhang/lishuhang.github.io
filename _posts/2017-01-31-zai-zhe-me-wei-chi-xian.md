@@ -4,7 +4,7 @@ title: "再这么维持现状下去，世俗的仇恨也会变成“世仇”"
 date: 2017-01-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/31/zai-zhe-me-wei-chi-xian/01.png
+image: /img/2017/01/31/zai-zhe-me-wei-chi-xian/01.png
 ---
 
 表面上看来，我这个反对接收难民，挺川普的人是知乎、微博等国内互联网上“政治正确”的一部分，应该是个挺好的事儿。实际上我一点也没有为此感到高兴。

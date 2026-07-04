@@ -4,7 +4,7 @@ title: "去小米之家观摩黑科技 MIX 有感"
 date: 2016-10-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/10/31/qu-xiao-mi-zhi-jia-guan/01.jpg
+image: /img/2016/10/31/qu-xiao-mi-zhi-jia-guan/01.jpg
 ---
 
 动点科技 http://t.cn/RVQbKfj

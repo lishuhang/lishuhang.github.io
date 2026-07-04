@@ -4,7 +4,7 @@ title: "霍金“死了”"
 date: 2018-03-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/14/huo-jin-si-le/01.jpg
+image: /img/2018/03/14/huo-jin-si-le/01.jpg
 ---
 
 **👆点击名字订阅【航通社】公众号**

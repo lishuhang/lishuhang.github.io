@@ -4,7 +4,7 @@ title: "不低俗，毋宁死？"
 date: 2018-03-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/11/bu-di-su-wu-ning-si/01.jpg
+image: /img/2018/03/11/bu-di-su-wu-ning-si/01.jpg
 ---
 
 文 / 书航

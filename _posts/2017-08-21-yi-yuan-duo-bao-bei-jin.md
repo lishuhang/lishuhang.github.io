@@ -4,7 +4,7 @@ title: "“一元夺宝”被禁，“一元众筹”性质存疑"
 date: 2017-08-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.jpg
+image: /img/2017/08/21/yi-yuan-duo-bao-bei-jin/01.jpg
 ---
 
 文|书航

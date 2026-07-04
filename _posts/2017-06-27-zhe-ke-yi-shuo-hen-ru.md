@@ -4,7 +4,7 @@ title: "这可以说很辱科技媒体了"
 date: 2017-06-27
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/27/zhe-ke-yi-shuo-hen-ru/01.jpg
+image: /img/2017/06/27/zhe-ke-yi-shuo-hen-ru/01.jpg
 ---
 
 小米昨天 发声明 回应 北京电视台《消费观察》栏目对小米 6 手机的批评 ，其中一句话我要在这里划个重点：

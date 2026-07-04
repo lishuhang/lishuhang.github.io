@@ -4,10 +4,10 @@ title: "三问“这块屏幕”：知识产权、课堂隐私和基层教师前
 date: 2018-12-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/12/14/san-wen-zhe-kuai-ping-mu/01.jpg
+image: /img/2018/12/14/san-wen-zhe-kuai-ping-mu/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/12/14/san-wen-zhe-kuai-ping-mu/01.jpg)
+![](/img/2018/12/14/san-wen-zhe-kuai-ping-mu/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@航通社
 
@@ -109,6 +109,6 @@ image: https://lishuhang.me/img/2018/12/14/san-wen-zhe-kuai-ping-mu/01.jpg
 
 2018.12.14
 
-![](https://lishuhang.me/img/2018/12/14/san-wen-zhe-kuai-ping-mu/02.jpg)
+![](/img/2018/12/14/san-wen-zhe-kuai-ping-mu/02.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

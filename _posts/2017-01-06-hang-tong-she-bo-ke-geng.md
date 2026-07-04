@@ -4,7 +4,7 @@ title: "航通社播客更新：2017.1.5"
 date: 2017-01-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/06/hang-tong-she-bo-ke-geng/01.jpg
+image: /img/2017/01/06/hang-tong-she-bo-ke-geng/01.jpg
 ---
 
 ep002-170105-王俊煜说技术是有价值观的，那么他的价值观是什么？

@@ -31,4 +31,4 @@ source: "https://zhuanlan.zhihu.com/p/20185315"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/08/27/yong-ji-qi-ren-shi-de/01.jpg)
+![](/img/2015/08/27/yong-ji-qi-ren-shi-de/01.jpg)

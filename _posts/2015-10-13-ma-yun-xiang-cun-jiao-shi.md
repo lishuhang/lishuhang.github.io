@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/20258760"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-09/mayun-rural-teacher-speech-3/)
 
-![](https://lishuhang.me/img/2015/10/13/ma-yun-xiang-cun-jiao-shi/01.jpg)
+![](/img/2015/10/13/ma-yun-xiang-cun-jiao-shi/01.jpg)

@@ -4,16 +4,16 @@ title: "你命由天不由你 _ 航通社的朋友们"
 date: 2019-09-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/09/29/ni-ming-you-tian-bu-you/01.png
+image: /img/2019/09/29/ni-ming-you-tian-bu-you/01.png
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/09/29/ni-ming-you-tian-bu-you/01.png)
+![](/img/2019/09/29/ni-ming-you-tian-bu-you/01.png)
 
 本文是航通社增值会员通讯服务“航通社的朋友们”专享内容，向公众号读者提供全文试读。“航通社的朋友们”把从海量内容中人工精选的热点话题，和来自航通社的独家观点，一同推送给付费读者。
 
-![](https://lishuhang.me/img/2019/09/29/ni-ming-you-tian-bu-you/02.png)
+![](/img/2019/09/29/ni-ming-you-tian-bu-you/02.png)
 
 书航 9 月 23 日发于北京
 
@@ -97,6 +97,6 @@ https://new.qq.com/omn/20190408/20190408A0IEBN.html
 
 大家在现实当中早已学会了“要么忍要么滚”的真谛。然而在各种各样的电影当中，在我们偶尔能够脱离现实，进入想象空间的那两个小时，我们仍然对那里面的人物能够突破这一定律抱有幻想。因此每一次，我们都还是心甘情愿的走进电影院，要看的，可不就是这短暂的梦吗。
 
-![](https://lishuhang.me/img/2019/09/29/ni-ming-you-tian-bu-you/03.png)
+![](/img/2019/09/29/ni-ming-you-tian-bu-you/03.png)
 
-![](https://lishuhang.me/img/2019/09/29/ni-ming-you-tian-bu-you/04.png)
+![](/img/2019/09/29/ni-ming-you-tian-bu-you/04.png)

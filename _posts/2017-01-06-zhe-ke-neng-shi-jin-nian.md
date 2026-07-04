@@ -4,7 +4,7 @@ title: "这可能是今年最悲催的创业公司"
 date: 2017-01-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/06/zhe-ke-neng-shi-jin-nian/01.jpg
+image: /img/2017/01/06/zhe-ke-neng-shi-jin-nian/01.jpg
 ---
 
 一家名为 7 号电单车的共享电单车公司，在深圳的街头投放了一批电动自行车，却没有料到深圳从 2017 年 1 月 1 日开始在城市所有主干道都限行电动自行车，因此这些车刚刚投放街头，马上就变成了违法产品。

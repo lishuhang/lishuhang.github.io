@@ -4,12 +4,12 @@ title: "京东＋杨笠，抵制不过两星期"
 date: 2024-10-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/01.png
+image: /img/2024/10/21/jing-dong-yang-li-di-zhi/01.png
 ---
 
 “时间永是流驶，街市依旧太平。”
 
-![](https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/01.png)
+![](/img/2024/10/21/jing-dong-yang-li-di-zhi/01.png)
 
 文 / 书航 2024.10.21
 
@@ -61,7 +61,7 @@ image: https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/01.png
 
 这次和之前很多次一样，不少退款、退订、解绑的截图充斥着讨论区，有人说自己的亲戚把购买京东E卡的100多万采购预算改为购买线下超市的购物卡。不过如果过分看重这些晒出来的截图，可能会高估这些自发行为的实际影响力，特别是长期影响力。
 
-![](https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/02.png)
+![](/img/2024/10/21/jing-dong-yang-li-di-zhi/02.png)
 
 回顾过去的多个公众抵制事件，几乎都未显现长期效果。从《黑神话：悟空》的女性抵制，到“胖猫”事件中的商家发空包问题，抵制都未能对这些企业形成实质性威胁。
 
@@ -87,7 +87,7 @@ image: https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/01.png
 
 2008年，加拿大音乐家戴夫·卡罗尔（Dave Carroll）乘坐美联航时，发现他的价值3500美元的泰勒吉他被行李托运时损坏。长达9个月的交涉仍未能获得赔偿或修复，无奈之下卡罗尔决定以音乐表达他的愤怒，创作了《United Breaks Guitars》（《美联航弄坏了我的吉他》）歌曲，并将音乐视频发布在YouTube上。
 
-![](https://lishuhang.me/img/2024/10/21/jing-dong-yang-li-di-zhi/03.png)
+![](/img/2024/10/21/jing-dong-yang-li-di-zhi/03.png)
 
 视频发布后迅速走红，短短几天内点击量超过百万。美联航最终提供了1200美元的补偿，但由于卡罗尔已通过这次事件获得了大量关注，他拒绝了这笔赔偿，并将其捐给了慈善机构。据估计，这起事件导致美联航的市值在短期内损失了1.8亿美元。
 

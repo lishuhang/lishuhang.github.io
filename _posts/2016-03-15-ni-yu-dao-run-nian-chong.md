@@ -59,4 +59,4 @@ source: "https://zhuanlan.zhihu.com/p/20643729"
 
 [新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-03-15/pid_8504514.htm)
 
-![](https://lishuhang.me/img/2016/03/15/ni-yu-dao-run-nian-chong/01.jpg)
+![](/img/2016/03/15/ni-yu-dao-run-nian-chong/01.jpg)

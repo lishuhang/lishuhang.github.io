@@ -4,7 +4,7 @@ title: "2017双11观察：混乱和疲倦并存 农村要包围城市"
 date: 2017-11-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
+image: /img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 ---
 
 文 | 书航
@@ -15,7 +15,7 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 
 在上海的天猫双11媒体中心，我感受到震撼人心的繁荣景象；从朋友圈和知乎、微博里，我却能发现众多的吐槽、质疑和混乱。这就是双11——场外质疑“还能不能办下去”，而台上是一片“明天会更好”。
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/02.png)
+![](/img/2017/11/13/2017-shuang-11-guan-cha-hun/02.png)
 
 **谁先到1000亿？**
 
@@ -31,7 +31,7 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 
 在场的很多记者认为二者是半斤八两，双11期间让自己平台的商家囤货，让数据变好看一点，都是在意料之中的。同为在美国上市的企业，如今的投资者正用越发严格的眼光审视阿里和京东这两只巨无霸——很多没挤上车的投资者其实也暗地希望发生点什么黑天鹅事件，好让他们有机会买入这两家的股票。
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/03.png)
+![](/img/2017/11/13/2017-shuang-11-guan-cha-hun/03.png)
 
 **优惠体系如高数般复杂**
 
@@ -49,7 +49,7 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 
 另一方面，通过“变态”规则来干扰消费者的空间也在不断压缩。多年连续参加双11的消费者会对薅得越来越困难的羊毛产生审美疲劳，索性就不怎么买了。另一些人平时就不怎么仔细阅读条款小字，比如领了几百上千元的券，11号当天才发现这不能用那不能用，还得有一堆附加条件，这种“上当受骗”的感觉会更加明显。
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/04.png)
+![](/img/2017/11/13/2017-shuang-11-guan-cha-hun/04.png)
 
 **希望在城市之外**
 
@@ -75,4 +75,4 @@ image: https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/01.jpg
 
 -END-
 
-![](https://lishuhang.me/img/2017/11/13/2017-shuang-11-guan-cha-hun/05.jpg)
+![](/img/2017/11/13/2017-shuang-11-guan-cha-hun/05.jpg)

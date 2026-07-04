@@ -73,4 +73,4 @@ source: "https://zhuanlan.zhihu.com/p/20182316"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-19/media-salon-2/)
 
-![](https://lishuhang.me/img/2015/08/25/mei-ti-ren-gei-mei-ti/01.jpg)
+![](/img/2015/08/25/mei-ti-ren-gei-mei-ti/01.jpg)

@@ -4,7 +4,7 @@ title: "如今的自媒体圈可以说是刺刀见红了"
 date: 2017-06-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/21/ru-jin-de-zi-mei-ti/01.jpg
+image: /img/2017/06/21/ru-jin-de-zi-mei-ti/01.jpg
 ---
 
 **注：随本文同时发布的两篇文章截止发稿时又被另一拨人抢发了，我实在管不过来了。这次就先推出去，看看实际效果如何。然后我再申诉一次。**

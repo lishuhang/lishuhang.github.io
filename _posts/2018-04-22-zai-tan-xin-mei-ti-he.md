@@ -4,7 +4,7 @@ title: "再谈新媒体和记者的前途"
 date: 2018-04-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/22/zai-tan-xin-mei-ti-he/01.jpg
+image: /img/2018/04/22/zai-tan-xin-mei-ti-he/01.jpg
 ---
 
 本文 2017.11.6 首发于动点科技，原创文章未经授权请勿转载

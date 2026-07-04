@@ -4,7 +4,7 @@ title: "“智能家居”并不能节省我们用于家务劳动的时间"
 date: 2017-10-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/31/zhi-neng-jia-ju-bing-bu/01.jpg
+image: /img/2017/10/31/zhi-neng-jia-ju-bing-bu/01.jpg
 ---
 
 文 | 书航

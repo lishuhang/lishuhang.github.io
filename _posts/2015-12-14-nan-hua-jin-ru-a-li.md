@@ -51,4 +51,4 @@ source: "https://zhuanlan.zhihu.com/p/20415541"
 
 [虎嗅](https://link.zhihu.com/?target=http%3A//www.huxiu.com/article/134147/1.html)
 
-![](https://lishuhang.me/img/2015/12/14/nan-hua-jin-ru-a-li/01.jpg)
+![](/img/2015/12/14/nan-hua-jin-ru-a-li/01.jpg)

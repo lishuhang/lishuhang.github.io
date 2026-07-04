@@ -4,7 +4,7 @@ title: "飞回重庆之后，我的行李箱不见了"
 date: 2016-05-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/05/22/fei-hui-chong-qing-zhi-hou/01.jpg
+image: /img/2016/05/22/fei-hui-chong-qing-zhi-hou/01.jpg
 ---
 
 就在刚才，我经历了可能是很多人这辈子坐飞机都不会遇到的特殊情况。

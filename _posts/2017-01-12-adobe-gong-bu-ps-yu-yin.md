@@ -4,7 +4,7 @@ title: "Adobe 公布 PS 语音助手，将来可以动动嘴就把图 P 了"
 date: 2017-01-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/12/adobe-gong-bu-ps-yu-yin/01.jpg
+image: /img/2017/01/12/adobe-gong-bu-ps-yu-yin/01.jpg
 ---
 
 今天 Adobe 研究院上传了一段视频 ，显示了在 iPad 版本的 Photoshop 当中，一位并不会电脑图形操作的老人如何使用语音命令来使得系统自动帮他剪裁图片。

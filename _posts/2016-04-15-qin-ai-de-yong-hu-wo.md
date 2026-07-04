@@ -9,13 +9,13 @@ source: "https://zhuanlan.zhihu.com/p/20755863"
 
 **两种赞助**
 
-![](https://lishuhang.me/img/2016/04/15/qin-ai-de-yong-hu-wo/01.jpg)
+![](/img/2016/04/15/qin-ai-de-yong-hu-wo/01.jpg)
 
 这是日本电视新闻前面出现的赞助商名单。中国的新闻一直没有出现在片头里的厂商赞助（贴片广告除外），因为总觉得厂家赞助报道新闻怪怪的。不过，日本和韩国的电视新闻赞助商，只是单纯的给钱放贴片广告而已，有可能刚赞助完，顺手就来一条公司的大负面新闻。就这么任性。
 
 现在，尽管中国的新闻很少有这类赞助商（2000年代初《新闻联播》片尾短暂出现过中国人寿的广告，后来就绝迹了），但广告做的越来越软，直接进入新闻当中。
 
-![](https://lishuhang.me/img/2016/04/15/qin-ai-de-yong-hu-wo/02.jpg)
+![](/img/2016/04/15/qin-ai-de-yong-hu-wo/02.jpg)
 
 在网站端，你总能看到和竞价排名类似的各种并非新闻的“业界资讯”，夹杂在常见的信息流当中。对ABP来说，这不是广告，而广告主和网站以及用户，也可以就此达成生命的大和谐。
 
@@ -47,9 +47,9 @@ source: "https://zhuanlan.zhihu.com/p/20755863"
 
 请看下图提供的最新数据：
 
-![](https://lishuhang.me/img/2016/04/15/qin-ai-de-yong-hu-wo/03.jpg)
+![](/img/2016/04/15/qin-ai-de-yong-hu-wo/03.jpg)
 
-![](https://lishuhang.me/img/2016/04/15/qin-ai-de-yong-hu-wo/04.jpg)
+![](/img/2016/04/15/qin-ai-de-yong-hu-wo/04.jpg)
 
 [艾瑞：2016年3月14日-3月20日垂直IT网站行业数据](https://link.zhihu.com/?target=http%3A//report.iresearch.cn/content/2016/04/260071.shtml)
 
@@ -101,4 +101,4 @@ ABP自然也不是天生是各大网站的敌人。CB多次报道过ABP和浏览
 
 > 他可能有过许多敌人，但未必有一个**私敌**。
 
-![](https://lishuhang.me/img/2016/04/15/qin-ai-de-yong-hu-wo/05.jpg)
+![](/img/2016/04/15/qin-ai-de-yong-hu-wo/05.jpg)

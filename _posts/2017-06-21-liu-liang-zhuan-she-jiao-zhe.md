@@ -4,7 +4,7 @@ title: "流量转社交这条路，百度没走通，那今日头条呢？"
 date: 2017-06-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/21/liu-liang-zhuan-she-jiao-zhe/01.jpg
+image: /img/2017/06/21/liu-liang-zhuan-she-jiao-zhe/01.jpg
 ---
 
 再不努力，中国互联网的流量都要被腾讯吸没了。

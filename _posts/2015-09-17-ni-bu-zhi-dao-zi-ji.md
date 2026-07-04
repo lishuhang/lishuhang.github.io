@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/20221543"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/09/17/ni-bu-zhi-dao-zi-ji/01.jpg)
+![](/img/2015/09/17/ni-bu-zhi-dao-zi-ji/01.jpg)

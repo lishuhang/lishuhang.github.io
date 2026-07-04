@@ -4,10 +4,10 @@ title: "害子弹短信下架的资讯流，怎一个“鸡肋”了得"
 date: 2018-10-09
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/10/09/hai-zi-dan-duan-xin-xia/01.jpg
+image: /img/2018/10/09/hai-zi-dan-duan-xin-xia/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/10/09/hai-zi-dan-duan-xin-xia/01.jpg)
+![](/img/2018/10/09/hai-zi-dan-duan-xin-xia/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -135,6 +135,6 @@ image: https://lishuhang.me/img/2018/10/09/hai-zi-dan-duan-xin-xia/01.jpg
 
 2018.10.9
 
-![](https://lishuhang.me/img/2018/10/09/hai-zi-dan-duan-xin-xia/02.gif)
+![](/img/2018/10/09/hai-zi-dan-duan-xin-xia/02.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

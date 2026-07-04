@@ -4,26 +4,26 @@ title: "openEuler系操作系统5年累计装机量突破1000万"
 date: 2024-11-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/01.png
+image: /img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/01.png
 ---
 
 11月15日，以“以智能，致世界”为主题的操作系统大会2024在北京中关村国际创新中心召开，本次大会由openEuler社区、全球计算联盟共同主办，旨在汇聚全球产业界力量，推动基础软件根技术持续创新，共建全球开源新生态。
 
 openEuler开源五年，在商业、技术及生态上全面发展，2024年openEuler系操作系统新增装机量超过500万套，五年累计装机量突破1000万套，已广泛应用于互联网、金融、运营商等各行业核心应用场景，实现规模商业落地。在引领产业技术创新方面， openEuler社区发起的原创子项目累计超过500个，覆盖了系统内核到AI使能全场景。在繁荣产业生态方面，openEuler坚持开放共赢的协同合作，汇聚从处理器到行业应用及云服务等超过1800家全产业链伙伴。发展至今，openEuler为千行万业数智化提供坚实可靠的基础软件底座，是中国行业数智化的中流砥柱。
 
-![](https://lishuhang.me/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/02.png)
+![](/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/02.png)
 
 中国工程院院士倪光南指出，openEuler社区立足中国，走向全球，他鼓励产业界以openEuler为典范，积极拥抱开源，为全球贡献世界一流的服务器操作系统，让中国成为全球开源体系中的重要力量。
 
-![](https://lishuhang.me/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/03.png)
+![](/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/03.png)
 
 华为公司战略部部长盖刚表示，过去5年，华为与客户和伙伴一起，见证了中国开源开放计算产业的高速发展，共筑中国坚实的算力底座，为世界提供新的选择。华为一直坚持以开放合作的精神，与客户和伙伴构建开放的计算生态体系，共同推动各行业数智化转型发展。未来，华为会继续坚定投入openEuler社区，持续技术创新，夯实安全架构，加速全球合作，以实际行动支持社区及操作系统产业健康、高速发展。
 
-![](https://lishuhang.me/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/04.png)
+![](/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/04.png)
 
 开放原子开源基金会理事长程晓明表示，以开源开放的模式促进操作系统生态共建已经成为产业共识，openEuler作为开放原子重点打造的明星项目，已经取得了喜人的成果，未来，开放原子将继续鼓励更多的国际交流，探索开源项目在海外的发展机遇，助力openEuler走向全球。
 
-![](https://lishuhang.me/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/05.png)
+![](/img/2024/11/16/openeuler-xi-cao-zuo-xi-tong/05.png)
 
 openEuler委员会主席江大勇表示，openEuler从企业主导发展到社区共建，从跨越生态拐点到市场份额领先，不断加速前行。未来，openEuler将沿着智能化、可持续和全球化三个方向努力，以智能、致世界，共建数智基础设施最佳开源操作系统。
 

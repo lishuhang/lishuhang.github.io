@@ -4,7 +4,7 @@ title: "怀念大娘"
 date: 2016-04-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/02/huai-nian-da-niang/01.png
+image: /img/2016/04/02/huai-nian-da-niang/01.png
 ---
 
 今天早上爸妈告诉我一个悲痛的消息，这么多年来每年给我做一副眼镜的大娘，因为一场突然的车祸离开了人世。

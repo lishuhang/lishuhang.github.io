@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20087588"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-26/uber-shenzhou/)
 
-![](https://lishuhang.me/img/2015/06/26/bie-zi-zuo-duo-qing-shen/01.jpg)
+![](/img/2015/06/26/bie-zi-zuo-duo-qing-shen/01.jpg)

@@ -4,7 +4,7 @@ title: "这次，抖音是不是被微信“系统抖动”了？ ​"
 date: 2018-03-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.jpg
+image: /img/2018/03/29/zhe-ci-dou-yin-shi-bu/01.jpg
 ---
 
 点上面的蓝字 **👆****航通社**订阅我们

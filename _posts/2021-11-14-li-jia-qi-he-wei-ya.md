@@ -4,12 +4,12 @@ title: "李佳琦和薇娅会不会倒掉？"
 date: 2021-11-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2021/11/14/li-jia-qi-he-wei-ya/01.png
+image: /img/2021/11/14/li-jia-qi-he-wei-ya/01.png
 ---
 
 关键在于，谁来提供有效的维权渠道，以及重建几近被摧毁的评价机制。
 
-![](https://lishuhang.me/img/2021/11/14/li-jia-qi-he-wei-ya/01.png)
+![](/img/2021/11/14/li-jia-qi-he-wei-ya/01.png)
 
 文 / 书航 2021.11.14
 
@@ -51,11 +51,11 @@ image: https://lishuhang.me/img/2021/11/14/li-jia-qi-he-wei-ya/01.png
 
 在头部主播出现之前，存在一个“不可能三角”：①正品 / 优质 - ②低价 - ③商家支持。①+②=窜货；②+③=电商专供；①+③=高价。
 
-![](https://lishuhang.me/img/2021/11/14/li-jia-qi-he-wei-ya/02.png)
+![](/img/2021/11/14/li-jia-qi-he-wei-ya/02.png)
 
 大型电商平台是不会舍弃③商家支持的，所以此前会倒向“电商专供”或“高价”，以朝①暮②的方式牺牲消费者利益。李 / 薇的出现让商家不得不“含泪支持”，所以站到了“不可能三角”的中间。
 
-![](https://lishuhang.me/img/2021/11/14/li-jia-qi-he-wei-ya/03.png)
+![](/img/2021/11/14/li-jia-qi-he-wei-ya/03.png)
 
 头部主播表面上体现出的是带货速度最快，但实际上这是以“全网最低价”且不牺牲品质的承诺作为代价。即使品牌自播而不是找头部主播，价格也不得不更有竞争力，否则意义不大。
 

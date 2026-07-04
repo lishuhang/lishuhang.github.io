@@ -4,7 +4,7 @@ title: "又到一年 9/11"
 date: 2017-09-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-911/01.jpg
+image: /img/2017/09/13/you-dao-yi-nian-911/01.jpg
 ---
 
 新媒体管家

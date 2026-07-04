@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20193833"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/09/01/zhe-ban-nian-xiang-gang-ren/01.jpg)
+![](/img/2015/09/01/zhe-ban-nian-xiang-gang-ren/01.jpg)

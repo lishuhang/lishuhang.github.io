@@ -4,7 +4,7 @@ title: "无人货架下半场：是跑马圈地抢点位，还是精耕细作小
 date: 2018-01-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/16/wu-ren-huo-jia-xia-ban/01.jpg
+image: /img/2018/01/16/wu-ren-huo-jia-xia-ban/01.jpg
 ---
 
 文|书航

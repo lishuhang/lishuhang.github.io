@@ -47,4 +47,4 @@ source: "https://zhuanlan.zhihu.com/p/20093840"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-01/zaobao0701/)
 
-![](https://lishuhang.me/img/2015/07/01/di-jia-yi-wei-zhe-shen/01.jpg)
+![](/img/2015/07/01/di-jia-yi-wei-zhe-shen/01.jpg)

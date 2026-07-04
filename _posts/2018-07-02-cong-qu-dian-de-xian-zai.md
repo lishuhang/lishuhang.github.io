@@ -4,7 +4,7 @@ title: "从趣店的现在，看拼多多的将来"
 date: 2018-07-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/02/cong-qu-dian-de-xian-zai/01.jpg
+image: /img/2018/07/02/cong-qu-dian-de-xian-zai/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

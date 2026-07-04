@@ -4,7 +4,7 @@ title: "Windows 10 强制自动更新何时休？"
 date: 2018-03-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/01.png
+image: /img/2018/03/26/windows-10-qiang-zhi-zi-dong/01.png
 ---
 
 *点击****【航通社】👆****订阅**公众号*
@@ -29,7 +29,7 @@ image: https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/01.png
 
 结果，大家坚韧不拔地投诉了这么多年，就算石头也应该开窍了。问题就出在微软的强制更新上。就算是自己觉得再好的东西，只要是强制喂给别人的，那么大家反感也就不要觉得奇怪。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/02.png)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/02.png)
 
 **血泪**
 
@@ -47,7 +47,7 @@ image: https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/01.png
 
 不管在进行多么重要任务的机器，都有可能惨遭自动更新的黑手，说给你重启就重启，长时间跑出来的数据和还没有保存的文档都毁于一旦。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/03.png)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/03.png)
 
 **偏听**
 
@@ -67,7 +67,7 @@ Windows 10 已经发布三周年了，为什么在这个时间点，微软终于
 
 因此那些“自动更新的受害者”的叙述，只能通过媒体偶尔披露出来，相对的，官方的反馈渠道里更多人不认为频繁的自动更新是一个缺陷，连带着微软的开发人员也会这么认为。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/04.png)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/04.png)
 
 ## 苦衷
 
@@ -91,7 +91,7 @@ Windows 10 已经发布三周年了，为什么在这个时间点，微软终于
 
 自动更新以及被另一些用户反感的用户账户控制（UAC）是微软绝对不可能放弃的，这正式为沉默的大多数“嫌麻烦”的用户负责。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/05.png)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/05.png)
 
 ## 出路
 
@@ -111,7 +111,7 @@ Windows 10 已经发布三周年了，为什么在这个时间点，微软终于
 
 然而微软将会在升级界面对用户明确说明：“Windows 是一项服务”，而不是你花了几百元钱买回来就高枕无忧的“产品”。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/06.jpg)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/06.jpg)
 
 同样，CNET 记者曾代表所有受害用户，对微软愤怒的质问。 微软在回复当中指出 ——自动升级是一项“功能”（feature），而不是一个“缺陷”（bug）。
 
@@ -121,7 +121,7 @@ Windows 10 已经发布三周年了，为什么在这个时间点，微软终于
 
 我想，在一切因素的综合作用最终对整个 Windows 系统的市场份额，以及销量产生重大影响之前，对于有关自动更新的这一切，我们什么都做不了。
 
-![](https://lishuhang.me/img/2018/03/26/windows-10-qiang-zhi-zi-dong/07.jpg)
+![](/img/2018/03/26/windows-10-qiang-zhi-zi-dong/07.jpg)
 
 如果 1803 这次更新能不毁掉我们重要的文档，已经算是一种莫大的恩惠。
 

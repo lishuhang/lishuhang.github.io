@@ -4,7 +4,7 @@ title: "多线作战的美团，正被饿了么和口碑瞄准大本营"
 date: 2018-07-04
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
+image: /img/2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

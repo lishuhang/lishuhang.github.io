@@ -4,7 +4,7 @@ title: "AI 修复老视频的“魔爪”，终于伸向了动画片"
 date: 2021-11-04
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg
+image: /img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg
 ---
 
 这一修复工具还同时免费向公众开放，而且效果超出预期。
@@ -15,7 +15,7 @@ image: https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg
 
 2021年 第29期
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg)
 
 文 / 书航 2021.11.4
 
@@ -27,7 +27,7 @@ image: https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg
 
 直到 10 月 20 日，字节跳动的西瓜视频及火山引擎，联合央视动漫集团、上海美术电影制片厂共同启动“百部经典中视频修复计划”，未来一年将修复 100 部经典动画，唤起不止一代人的童年共同记忆。目前，《哪吒传奇》《葫芦兄弟》《黑猫警长》等六部经典动画作品 4K 修复版已经上线。
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/02.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/02.jpg)
 
 会上还宣布开放入口，为普通用户免费提供 AI 修复支持。目前这一功能已经在西瓜视频创作后台向全体用户开放，普通用户每天可上传 5 段、每段不超过 30 分钟的低清晰度视频，在云端进行高清修复。
 
@@ -47,9 +47,9 @@ image: https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/01.jpg
 
 但当时的技术仍以人工逐帧修复为主，“每一格上面都有很多的问题，比如卷曲、掉色、闪烁；每一幅的画面上都有大量的脏点、油污、划痕。这些修复的难度就非常大，大到什么程度？修复师一天可能只能修 1 秒。”
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/03.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/03.jpg)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/04.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/04.jpg)
 
 2014 年上海国际电影节首创“4K 修复”单元，随后中国电影资料馆、中影数字基地等专业机构陆续发起 4K 修复计划，意味着 4K 分辨率成为当今影片修复的普遍标准，也意味着以传统逐帧修复方法计算，工作量至少变成了原来的 4 倍。
 
@@ -73,7 +73,7 @@ AI 技术和算力的普及，让事情迎来了转机。
 
 去年，旅居纽约的独立艺术家“大谷”发布了他利用开源模型高清修复的 100 年前老北京市井生活录像片段，引发网络热议。他的补帧、色彩转换、分辨率扩增环节均采用网上已有的开源模型在本机运行完成。
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/05.gif)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/05.gif)
 
 甚至于“因为分辨率扩增技术比较消耗硬盘和显卡，所以他只在一些关键的地方，比如视频的封面使用了这项技术，但最后取得的效果也不错。”
 
@@ -111,57 +111,57 @@ AI 技术和算力的普及，让事情迎来了转机。
 
 在《葫芦兄弟》中，算法对前景的葫芦娃剪纸区域提升清晰度，对背景的水墨画区域保持朦胧感。这种对内容的自适应处理，根据不同区域分片处理，很好地保持了原有画风。
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/06.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/06.jpg)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/07.gif)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/07.gif)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/08.jpg)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/08.jpg)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/09.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/09.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/10.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/10.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/11.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/11.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/12.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/12.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/13.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/13.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/14.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/14.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/15.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/15.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/16.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/16.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/17.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/17.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/18.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/18.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/19.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/19.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/20.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/20.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/21.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/21.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/22.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/22.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/23.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/23.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/24.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/24.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/25.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/25.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/26.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/26.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/27.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/27.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/28.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/28.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/29.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/29.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/30.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/30.png)
 
-![](https://lishuhang.me/img/2021/11/04/ai-xiu-fu-lao-shi-pin/31.png)
+![](/img/2021/11/04/ai-xiu-fu-lao-shi-pin/31.png)
 
 ## 修复动画片，也修复你父母的婚礼录像
 

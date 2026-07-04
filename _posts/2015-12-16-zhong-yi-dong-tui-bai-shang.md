@@ -67,4 +67,4 @@ source: "https://zhuanlan.zhihu.com/p/20421710"
 
 [虎嗅网](https://link.zhihu.com/?target=http%3A//www.huxiu.com/article/134356/1.html)
 
-![](https://lishuhang.me/img/2015/12/16/zhong-yi-dong-tui-bai-shang/01.jpg)
+![](/img/2015/12/16/zhong-yi-dong-tui-bai-shang/01.jpg)

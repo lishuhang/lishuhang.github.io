@@ -4,7 +4,7 @@ title: "这并不是一个香港版的“罗尔事件”"
 date: 2017-04-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/25/zhe-bing-bu-shi-yi-ge/01.jpg
+image: /img/2017/04/25/zhe-bing-bu-shi-yi-ge/01.jpg
 ---
 
 这几天，在香港发生了这么一件事。和 搞得沸沸扬扬的罗尔事件 相比，这件事同样是向全社会呼吁奉献爱心，却拥有一个迥然不同的结局。

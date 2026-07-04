@@ -4,7 +4,7 @@ title: "曾是开源“最大的敌人”，现在要买GitHub，微软是怎么
 date: 2018-06-04
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/06/04/ceng-shi-kai-yuan-zui-da/01.jpg
+image: /img/2018/06/04/ceng-shi-kai-yuan-zui-da/01.jpg
 ---
 
 👆点上面**航通社**订阅

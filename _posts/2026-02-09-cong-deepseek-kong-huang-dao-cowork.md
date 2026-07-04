@@ -4,7 +4,7 @@ title: "从DeepSeek恐慌到Cowork恐慌"
 date: 2026-02-09
 categories: 文章
 tags: [AI]
-image: https://lishuhang.me/img/2026/02/09/cong-deepseek-kong-huang-dao-cowork/01.png
+image: /img/2026/02/09/cong-deepseek-kong-huang-dao-cowork/01.png
 ---
 
 *Cowork恐慌可能比DeepSeek恐慌更为持久*
@@ -63,7 +63,7 @@ PricingSaaS 500指数跟踪1800多个价格变动。它指出，2025年排名前
 
 Salesforce是吃了苦头才明白这一点的，他们以每段对话2美元的价格推出了Agentforce，支持团队计算了5个智能体每月实际成本是2万+美元，几个月内不得不转用点数计费。越是撑不住算力成本的公司，计费尺度越小：N8N按每次运行工作流收费，50步与2步相同价格。但是Zapier按任务收费，每一步都计费一次。
 
-![](https://lishuhang.me/img/2026/02/09/cong-deepseek-kong-huang-dao-cowork/02.png)
+![](/img/2026/02/09/cong-deepseek-kong-huang-dao-cowork/02.png)
 
 最终结果，采用基础月费+超额买点卡的混合模式，效果最佳。此类产品报告最高中位增长率为21%，表现优于纯订阅和纯基于使用量的产品。46%的SaaS公司结合订阅与可变收费，59%的人预计基于使用量的定价将在2026年实现收入份额增长，高于2023年的18%。
 

@@ -4,7 +4,7 @@ title: "三星做电视广告宣传自家手机电池安全"
 date: 2017-02-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/20/san-xing-zuo-dian-shi-guang/01.png
+image: /img/2017/02/20/san-xing-zuo-dian-shi-guang/01.png
 ---
 
 近日，三星在香港 TVB 播出一段 30 秒的电视广告，宣传自家的电池是安全的，请用户放心购买。广告词如下：

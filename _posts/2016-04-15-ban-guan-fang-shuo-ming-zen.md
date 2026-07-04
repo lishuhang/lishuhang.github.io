@@ -4,7 +4,7 @@ title: "半官方说明：怎样优雅的去掉 cnBeta 的广告"
 date: 2016-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/15/ban-guan-fang-shuo-ming-zen/01.jpg
+image: /img/2016/04/15/ban-guan-fang-shuo-ming-zen/01.jpg
 ---
 
 因为我是官方人士所以是半官方。因为我的言论不代表 cnBeta 所以不是全官方。

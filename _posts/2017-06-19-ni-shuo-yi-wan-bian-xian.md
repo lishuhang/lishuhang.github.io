@@ -4,7 +4,7 @@ title: "你说一万遍，现在的 iPad 也不是生产力工具"
 date: 2017-06-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/19/ni-shuo-yi-wan-bian-xian/01.jpg
+image: /img/2017/06/19/ni-shuo-yi-wan-bian-xian/01.jpg
 ---
 
 早前苹果发布了用在iPad上的iOS 11的预览。常看我文章的人都应该读出我毫不掩饰的失望：尽管新一代的iPad Pro硬件实现以同样尺寸的机身装下更大的屏幕，但是我最喜爱的iPad mini却步入了停产的深渊，苹果根本听不到我对小东西的喜爱之情。

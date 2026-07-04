@@ -11,15 +11,15 @@ source: "https://zhuanlan.zhihu.com/p/19867749"
 
 事情还得从我在天猫买完东西以后显示的收货地点说起。因为是国庆以前的那个周日，公司前台休息，可能无法接到快件。但我看到一个全新的选项是“菜鸟驿站代收服务”，一下子被吊起了好奇心。
 
-![](https://lishuhang.me/img/2014/10/13/cai-niao-wang-luo-de-huo/01.jpg)
+![](/img/2014/10/13/cai-niao-wang-luo-de-huo/01.jpg)
 
 根据[说明](https://link.zhihu.com/?target=http%3A//www.tmall.com/go/act/other/cainiaohelp.php%3F)，货物被送到自提点后，自提点的店主会电话通知买家，买家需要在收到通知后5天内前往取货，否则货物将被退回。目前使用代收货服务是免费的。
 
-![](https://lishuhang.me/img/2014/10/13/cai-niao-wang-luo-de-huo/02.jpg)
+![](/img/2014/10/13/cai-niao-wang-luo-de-huo/02.jpg)
 
 点开地图，首先显示根据你选择的收货地址计算最近的点，有杂货店、理发店等都承担了这个自提业务，并有地址和电话的记载。但是在地图上除此之外也看不出什么端详，因为我似乎也没有特别出去单位附近瞎转悠，所以不熟悉地形。没关系，既然这个能选我就选了。
 
-![](https://lishuhang.me/img/2014/10/13/cai-niao-wang-luo-de-huo/03.jpg)
+![](/img/2014/10/13/cai-niao-wang-luo-de-huo/03.jpg)
 
 我又看了一下关于自提点的说明，所有的操作都是在淘宝（天猫）内部完成的，并没有跳出购物车环节，而所签署的[代收货品的协议](https://link.zhihu.com/?target=http%3A//form.taobao.com/script/fullview.htm%3Fspm%3D0.0.0.0.ykV7cb%26id%3D387)的对方也是跟菜鸟网络。看起来似乎都是跟阿里有关的。如果我发现商品在自提点出了问题，而不是在快递处出了问题。我需要直接找淘宝来投诉。看起来一切正常，就是多了一道手续而已。
 

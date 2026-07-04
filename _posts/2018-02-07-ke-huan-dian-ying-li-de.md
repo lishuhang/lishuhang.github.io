@@ -4,7 +4,7 @@ title: "科幻电影里的黑科技下了凡，它总得带点“土味”"
 date: 2018-02-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/07/ke-huan-dian-ying-li-de/01.jpg
+image: /img/2018/02/07/ke-huan-dian-ying-li-de/01.jpg
 ---
 
 文 | 书航

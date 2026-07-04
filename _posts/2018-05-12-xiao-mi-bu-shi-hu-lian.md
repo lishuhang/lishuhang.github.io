@@ -4,7 +4,7 @@ title: "小米不是“互联网公司”"
 date: 2018-05-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/12/xiao-mi-bu-shi-hu-lian/01.jpg
+image: /img/2018/05/12/xiao-mi-bu-shi-hu-lian/01.jpg
 ---
 
 👆 点上面的 **航通社** 订阅我们

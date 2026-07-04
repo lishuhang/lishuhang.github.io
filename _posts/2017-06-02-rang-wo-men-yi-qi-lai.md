@@ -4,7 +4,7 @@ title: "让我们一起来共享屏幕吧"
 date: 2017-06-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/02/rang-wo-men-yi-qi-lai/01.jpg
+image: /img/2017/06/02/rang-wo-men-yi-qi-lai/01.jpg
 ---
 
 共享单车、充电宝、篮球等等分时租赁业务异常火爆，很多人都在猜测这波所谓共享经济的下一个对象是什么。

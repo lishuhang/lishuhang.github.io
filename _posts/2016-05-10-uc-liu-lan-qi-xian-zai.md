@@ -21,4 +21,4 @@ UC还计划像扶植淘宝中小原创品牌一样，扶植一些自媒体作者
 
 [cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/500045.htm)
 
-![](https://lishuhang.me/img/2016/05/10/uc-liu-lan-qi-xian-zai/01.jpg)
+![](/img/2016/05/10/uc-liu-lan-qi-xian-zai/01.jpg)

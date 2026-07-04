@@ -4,7 +4,7 @@ title: "始作俑者，大多无后"
 date: 2017-09-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.jpg
+image: /img/2017/09/18/shi-zuo-yong-zhe-da-duo/01.jpg
 ---
 
 文|书航

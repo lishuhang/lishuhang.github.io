@@ -4,7 +4,7 @@ title: "从茅侃侃处展开的一条道德斜坡"
 date: 2018-01-27
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/27/cong-mao-kan-kan-chu-zhan/01.jpg
+image: /img/2018/01/27/cong-mao-kan-kan-chu-zhan/01.jpg
 ---
 
 文 | 书航

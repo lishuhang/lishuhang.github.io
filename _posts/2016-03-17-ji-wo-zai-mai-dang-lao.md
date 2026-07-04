@@ -4,7 +4,7 @@ title: "记我在麦当劳“要饭”的经历"
 date: 2016-03-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/17/ji-wo-zai-mai-dang-lao/01.jpg
+image: /img/2016/03/17/ji-wo-zai-mai-dang-lao/01.jpg
 ---
 
 大家一看就知道这属于标题党。实际上，麦当劳在3月16号推出新的米饭品种，我去尝了一下。

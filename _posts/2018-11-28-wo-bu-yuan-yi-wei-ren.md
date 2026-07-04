@@ -4,10 +4,10 @@ title: "我不愿意为人类进步做贡献"
 date: 2018-11-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/11/28/wo-bu-yuan-yi-wei-ren/01.png
+image: /img/2018/11/28/wo-bu-yuan-yi-wei-ren/01.png
 ---
 
-![](https://lishuhang.me/img/2018/11/28/wo-bu-yuan-yi-wei-ren/01.png)
+![](/img/2018/11/28/wo-bu-yuan-yi-wei-ren/01.png)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -99,6 +99,6 @@ image: https://lishuhang.me/img/2018/11/28/wo-bu-yuan-yi-wei-ren/01.png
 
 网络能帮穷人拓宽眼界，改变命运吗http://tech.163.com/15/0529/08/AQP5G3QV000948V8.html
 
-![](https://lishuhang.me/img/2018/11/28/wo-bu-yuan-yi-wei-ren/02.gif)
+![](/img/2018/11/28/wo-bu-yuan-yi-wei-ren/02.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

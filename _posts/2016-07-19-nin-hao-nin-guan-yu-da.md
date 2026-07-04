@@ -4,7 +4,7 @@ title: "您好，您关于答案被折叠的答案被折叠"
 date: 2016-07-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/19/nin-hao-nin-guan-yu-da/01.jpg
+image: /img/2016/07/19/nin-hao-nin-guan-yu-da/01.jpg
 ---
 
 **如何看待赵薇新电影《没有别的爱》使用台湾艺人戴立忍？**

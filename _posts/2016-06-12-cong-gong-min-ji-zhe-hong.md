@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/21334782"
 
 “公视”是台湾唯一的公营媒体，其公民新闻平台PeoPo在2007年4月30日成立，主要目的也是全世界公营媒体共同的初衷——做商业媒体不感兴趣的报道，为弱势群体，少数族裔，原住民等利益发声，希望争取社会关注。2015年2月，全球公营媒体联盟（Public Media Alliance）专门报道了PeoPo服务台湾社会的成功经验。
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/01.jpg)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/01.jpg)
 
 
 
@@ -59,7 +59,7 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 因为现在上网便利，移动互联网使用方便，覆盖面广，“公民记者”们才有生存土壤。其实，早在十多年前，这一概念就在台湾生根，并萌发出小小新芽，只是因为当时环境尚不成熟而夭折了。
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/02.jpg)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/02.jpg)
 
 
 
@@ -109,7 +109,7 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 《明日报》的失败，在于夸大了那个年代的台湾互联网增长潜力，出发时机太晚只赶上了互联网泡沫的破灭，人力成本过高导致烧钱速度惊人。
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/03.jpg)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/03.jpg)
 
 
 
@@ -143,7 +143,7 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 转眼到现在，台湾又发生了巨大变化。Facebook、Twitter、微博以及（意外的在台湾很红的）Plurk等社交网络让台湾本土的社群发展缓慢，随着中国大陆互联网产业快速崛起，台湾地小人少市场不够的弊病显现出来，为数不多的互联网创业者只能被迫选择外向型创业，向硅谷、外滩或者中关村进军。
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/04.jpg)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/04.jpg)
 
 
 
@@ -165,7 +165,7 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 **在读者喜好方面**，“内容农场”与“流量工厂”纷纷通过关键字分析产生大量虚假文章创造流量，骗取搜索引擎的广告分成。台湾的内容农场Giga circle，以类似传销的形式吸引下线转发文章促进点击，每月从Google Adsense赚到800万元新台币，但只需要区区2名员工分走。这是大媒体都不得不正视的巨大力量。
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/05.jpg)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/05.jpg)
 
 
 
@@ -181,4 +181,4 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 [网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0612/07/BPBHBFVG00097U7R.html%23post_comment_area)
 
-![](https://lishuhang.me/img/2016/06/12/cong-gong-min-ji-zhe-hong/06.png)
+![](/img/2016/06/12/cong-gong-min-ji-zhe-hong/06.png)

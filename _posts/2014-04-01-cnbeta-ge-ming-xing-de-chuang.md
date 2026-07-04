@@ -13,7 +13,7 @@ source: "https://zhuanlan.zhihu.com/p/19715972"
 
 [据美国康奈尔大学费尼安教授的不完全统计](https://link.zhihu.com/?target=http%3A//wiki.answers.com/Q/What_is_the_average_number_of_mouse_clicks_a_person_does_on_a_computer%3F%23slide%3D2)，一个普通人平均每天会产生427.2次的点击鼠标的动作。而日本科学家在[《Convert Anything to Calories》](https://link.zhihu.com/?target=http%3A//en.rocketnews24.com/2013/03/11/how-many-calories-are-burned-with-the-click-of-a-mouse/)一书中推算，每单击一次鼠标人体会消耗大约1.42卡路里。[全世界有大约24亿网民](https://link.zhihu.com/?target=http%3A//www.internetworldstats.com/stats.htm)，他们做的一次点击就消耗了34.08亿卡的热量，而这反映在食物上，就等于我们每天要为点击1次鼠标多吃相当于2938吨煮熟的白米饭内含的热量。如果按照每200g一碗米饭，装在直径10厘米的碗中排起来，可以绕地球……1/10圈。
 
-![](https://lishuhang.me/img/2014/04/01/cnbeta-ge-ming-xing-de-chuang/01.jpg)
+![](/img/2014/04/01/cnbeta-ge-ming-xing-de-chuang/01.jpg)
 
 “天王盖地虎，某某双-5”，你们还记得这个耳熟能详的儿歌吗？这是我们的访客朋友们给于某家公司或某个人以他们平生最高的礼赞。我们深刻地理解访客朋友们对“为毛一定要点两下”这个问题的关切，并迫切地希望改善大家的手腕健康程度和减少鼠标的磨损，更重要的是，不要让大家浪费可以绕地球1/10圈的白米饭。
 
@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19715972"
 
 而且还不止如此！不管你的手指是戳在鸭梨公司最近推出的再一次改变世界的pɐd!上，还是戳在粗粮公司即将发生的“美好的事情”平板上，还是戳在巨硬公司最近推出的高贵冷艳上档次的Platform平板电脑上操作的话，那么有可能点不准一个小小的-5星星，为了解决这个问题，我们把-10按钮复制了整整五遍！等于-10在屏幕上的面积扩大到之前的五倍！这将会极大地方便操作，轻轻点一点，快乐一整天。妈妈再也不用担心我打错分了。
 
-![](https://lishuhang.me/img/2014/04/01/cnbeta-ge-ming-xing-de-chuang/02.jpg)
+![](/img/2014/04/01/cnbeta-ge-ming-xing-de-chuang/02.jpg)
 
 点两下变成点一下，这是鼠标减小移动的一小步，却是人类迈出的一大步。你可以用自己的行动，去拯救一次无望的点击，省下嘴角的一粒白米饭，献给世界某个角落忍饥挨饿的贫苦人民。这就是坐在电脑前加班的程序狗，产品狗，前端狗，销售狗们的怒吼：就算是我们，也可以改变这个世界！
 

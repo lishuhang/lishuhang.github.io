@@ -4,7 +4,7 @@ title: "便宜，够用，能升级，你想要的微软这次都会给你"
 date: 2017-05-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/05/02/pian-yi-gou-yong-neng-sheng/01.jpg
+image: /img/2017/05/02/pian-yi-gou-yong-neng-sheng/01.jpg
 ---
 
 北京时间今夜微软将在纽约召开面向教育市场的新品发布会，网上已经提前泄露了主角——一款（可能是低价的）面向教育市场的笔记本电脑。时尚外观，相对偏低的配置，还有一个首次亮相的 Windows 10 S 系统——也即此前所说的 Windows 10 Cloud。以下是在发布会开始之前的一个前瞻。
@@ -57,4 +57,4 @@ image: https://lishuhang.me/img/2017/05/02/pian-yi-gou-yong-neng-sheng/01.jpg
 
 本文写在发布会前几小时，我们（*微信搜索：航通社*）希望最终产品定价是和Chromebook主力机型处于同一水平。鉴于它能升级为全功能PC（相当于当年的上网本），价格稍高点也可以接受；但如果定价和普通x86笔记本拉不开距离，这一盘好棋就下糟了。
 
-![](https://lishuhang.me/img/2017/05/02/pian-yi-gou-yong-neng-sheng/02.jpg)
+![](/img/2017/05/02/pian-yi-gou-yong-neng-sheng/02.jpg)

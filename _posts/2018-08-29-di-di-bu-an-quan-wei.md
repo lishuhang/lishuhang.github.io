@@ -4,7 +4,7 @@ title: "滴滴不安全，为啥还要坐？"
 date: 2018-08-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/29/di-di-bu-an-quan-wei/01.jpg
+image: /img/2018/08/29/di-di-bu-an-quan-wei/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。**航通社** 微信：**lifeissohappy** 微博：**@lishuhang**
@@ -43,7 +43,7 @@ image: https://lishuhang.me/img/2018/08/29/di-di-bu-an-quan-wei/01.jpg
 
 受害者从乐清飞虹南路上车，目的地是永嘉上塘。我们把这个起点和终点放到地图上去查询，你会发现，如果开车走公路大概一个小时的车程，转乘公交车需要三个多小时。地铁……地铁是什么？可以吃吗？
 
-![](https://lishuhang.me/img/2018/08/29/di-di-bu-an-quan-wei/02.jpg)
+![](/img/2018/08/29/di-di-bu-an-quan-wei/02.jpg)
 
 你也许会说有大巴。是的，不过**在城乡结合部的公交大巴车，没有大城市人们想象的那么安全和舒适**。
 
@@ -157,6 +157,6 @@ image: https://lishuhang.me/img/2018/08/29/di-di-bu-an-quan-wei/01.jpg
 
 2018.8.29
 
-![](https://lishuhang.me/img/2018/08/29/di-di-bu-an-quan-wei/03.gif)
+![](/img/2018/08/29/di-di-bu-an-quan-wei/03.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

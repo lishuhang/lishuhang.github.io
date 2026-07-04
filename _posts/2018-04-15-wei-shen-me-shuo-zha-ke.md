@@ -4,7 +4,7 @@ title: "为什么说扎克伯格的听证会“首秀合格”？"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/wei-shen-me-shuo-zha-ke/01.jpg
+image: /img/2018/04/15/wei-shen-me-shuo-zha-ke/01.jpg
 ---
 
 本文首发于百家号，原创文章未经授权请勿转载

@@ -4,7 +4,7 @@ title: "公众号“大战”视觉中国：创作者为何要为难创作者"
 date: 2018-07-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
+image: /img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 ---
 
 👆点航通社订阅 然后置顶公众号
@@ -55,15 +55,15 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 （http://edu.cnr.cn/list/20170725/t20170725_523866619.shtml ）
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png)
 
 使用百度“以图搜图”功能，并不能确认该图片的合理归属：
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/02.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/02.png)
 
 换用搜狗——我们要表扬一下搜狗，它直接说这张图片的标题就是“视觉中国”——而不是“假期生活”之类的——因为这是一个没有标题的漫画，搜索引擎不能解读漫画的含义。这个警告对于已经见证了视觉中国威力的人们而言，似乎已经够用了。
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/03.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/03.png)
 
 根据视觉中国投资者关系页面公告，视觉中国已经先后和百度、360、搜狗、阿里大文娱（持有神马搜索）签署合作协议，而这些大同小异的协议中，都允许搜索引擎收录视觉中国的全量版权图片，并设立视觉中国图片专区。
 
@@ -75,19 +75,19 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 恰好，视觉中国官网提供“以图搜图”功能。我们还是用上面这张图做测试：
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/04.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/04.png)
 
 打马赛克打到手抽筋的航通社，并没有在70条相似图片结果中找到一模一样的原图。
 
 这并不意味着“以图搜图”功能毫无用处。航通社根据一份法院判决书中提到的图片信息，在GettyImages网站检索到相关图片（带有水印），通过搜索引擎的“以图搜图”功能，找到无水印的图片，再将这些图片放到视觉中国“以图搜图”查找，均可以发现完全准确的原图。
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/05.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/05.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/06.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/06.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/07.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/07.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/08.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/08.png)
 
 然而，搜索结果准确也许仅仅因为这些图片被流传得太广泛，以至于机器学习的效果更好。如果采用普通用户不掌握的其他辅助检测手段，查出侵权行为，道理也在视觉中国一方。
 
@@ -109,29 +109,29 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 （https://www.weibo.com/1757467333/BDfkTzoji ）
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/09.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/09.png)
 
 而这个微博账号直到2017年底之前的更新内容，虽然对大大小小的侵权方给出了一个警告或者通知的期限，但是他们警告的手法十分恶劣，语气严厉，而且基本不给思考机会。感觉就是将每一个盗取他们图片的人，都像是杀父之仇，夺妻之恨的那种不共戴天的仇人一样看待。
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/10.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/10.png)
 
 对小得听都没听说过的个体户，金刚怒目，毫不留情：
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/11.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/11.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/12.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/12.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/13.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/13.png)
 
 对大公司，该版权维护账号则开启了相对“更轻松”一点的嘲讽模式，大公司也是视觉中国“重点盯防”的对象。
 
 个中缘由，自然是因为大型企业，特别是上市公司，容易将司法诉讼列为经营风险，甚至公司污点，而一般民众或利益相关方考察一家之前不了解的公司时，会将任何性质的司法诉讼统一看待，不会分这是什么性质的诉讼。由此，大型企业有理由花钱息事宁人，力求避免任何形式的诉讼存档备案。
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/14.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/14.png)
 
 像是这个微博提到的农行的案例，在新媒体运营人员注意到情况并私下联系时，版权维护账号的回应可以说底气十足：
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/15.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/15.png)
 
 翻翻判决书，视觉中国要求赔偿12万元，法院最终认定赔偿2万元。不过，视觉中国打得起官司且一般都能胜诉（同时让对方支付诉讼费），如果可以的话，近千张图片就可以被他们转换为近千次的司法判决记录。所以大家觉得农行会怎样选择呢？
 
@@ -207,7 +207,7 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 “作品上传至视觉觅社区或者500px社区时，建议加盖‘时间戳’。时间戳相当于给图片的公开发表做了一次‘公证’，也是整个证据链中作为重要证据之一”；“凡在今日参与大赛，并将500px个人主页链接发在评论区的小伙伴，都将获得500px免费赠送的时间戳一枚。”
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/16.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/16.png)
 
 根据官方介绍，“时间戳”是能比简单上传图片更进一步地保护作者权益的增值服务，是向摄影师收费的，每张收费10元。
 
@@ -221,9 +221,9 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 （http://admin.visualchina.com/cms/upload_files/other/1_20180425160421_olhzu.pdf ）
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/17.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/17.png)
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/18.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/18.png)
 
 4 | 结论
 
@@ -267,6 +267,6 @@ image: https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 
 - 在IP改编中，抄袭作品的风头为何往往盖过了原著
 
-![](https://lishuhang.me/img/2018/07/13/gong-zhong-hao-da-zhan-shi/19.png)
+![](/img/2018/07/13/gong-zhong-hao-da-zhan-shi/19.png)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”。转载时请保留版权信息。

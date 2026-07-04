@@ -4,7 +4,7 @@ title: "我都没想到，这个3月我会住在这座城市。"
 date: 2016-03-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/07/wo-dou-mei-xiang-dao-zhe/01.jpg
+image: /img/2016/03/07/wo-dou-mei-xiang-dao-zhe/01.jpg
 ---
 
 刚刚过去的周日早上9点钟，我登上从北京起飞的飞机，两个半小时之后来到了一个只需要穿半袖就够了的城市，遇上了这个城市在全年阴天当中少见的晴天，但是这几天以来的空气质量都在优或良，不用担心阴天会有霾。

@@ -111,4 +111,4 @@ source: "https://zhuanlan.zhihu.com/p/20704619"
 
 [网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0404/09/BJQ2AQB4000915BF.html)
 
-![](https://lishuhang.me/img/2016/04/06/dao-di-shen-me-cai-shi/01.jpg)
+![](/img/2016/04/06/dao-di-shen-me-cai-shi/01.jpg)

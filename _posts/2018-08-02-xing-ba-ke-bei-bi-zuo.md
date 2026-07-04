@@ -4,7 +4,7 @@ title: "星巴克被逼做外卖：“第三空间”就快没人捧场了"
 date: 2018-08-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/02/xing-ba-ke-bei-bi-zuo/01.jpg
+image: /img/2018/08/02/xing-ba-ke-bei-bi-zuo/01.jpg
 ---
 
 点第一个**航通社**可以👍**喜欢作者**

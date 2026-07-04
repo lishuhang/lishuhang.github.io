@@ -4,7 +4,7 @@ title: "公众号推荐：走着走着就到了|广告"
 date: 2016-09-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/09/17/gong-zhong-hao-tui-jian-zou/01.jpg
+image: /img/2016/09/17/gong-zhong-hao-tui-jian-zou/01.jpg
 ---
 
 我的女友很早就注册了微信公众平台，但是一直没有真正的开始写作。在我们相识并且共同经历了一系列旅行之后，她决定重新捡起这个公众号，记录下她自己和我们俩一同旅行的点点滴滴。

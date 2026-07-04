@@ -4,7 +4,7 @@ title: "对《城市民族工作条例》修订给出你的意见和建议"
 date: 2016-07-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/05/dui-cheng-shi-min-zu-gong/01.jpg
+image: /img/2016/07/05/dui-cheng-shi-min-zu-gong/01.jpg
 ---
 
 在 我最担心的事情终于发生了，可没想到是以这种方式…… 当中提到：

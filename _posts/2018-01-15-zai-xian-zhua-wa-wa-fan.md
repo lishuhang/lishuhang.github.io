@@ -4,7 +4,7 @@ title: "在线抓娃娃：繁荣过后会怎样？"
 date: 2018-01-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/15/zai-xian-zhua-wa-wa-fan/01.jpg
+image: /img/2018/01/15/zai-xian-zhua-wa-wa-fan/01.jpg
 ---
 
 文|书航

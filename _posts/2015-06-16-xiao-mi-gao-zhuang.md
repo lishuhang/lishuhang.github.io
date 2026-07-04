@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/20073281"
 
 *[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-16/zaobao0616/)*
 
-![](https://lishuhang.me/img/2015/06/16/xiao-mi-gao-zhuang/01.jpg)
+![](/img/2015/06/16/xiao-mi-gao-zhuang/01.jpg)

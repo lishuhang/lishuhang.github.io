@@ -4,7 +4,7 @@ title: "谷歌与微软分别宣布在物联网领域的关键进展"
 date: 2016-12-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/14/gu-ge-yu-wei-ruan-fen/01.jpg
+image: /img/2016/12/14/gu-ge-yu-wei-ruan-fen/01.jpg
 ---
 
 谷歌宣布 推出了一个新的 Android 分支 ：Android things，这是专用于智能设备和物联网，以及为谷歌自身的 Google Home 等设备服务的 Android 系统解决方案，现在推出了首个开发者预览版。

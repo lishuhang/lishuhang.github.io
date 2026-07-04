@@ -4,7 +4,7 @@ title: "“全能车”和“珊瑚虫”"
 date: 2017-07-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/07/13/quan-neng-che-he-shan-hu/01.jpg
+image: /img/2017/07/13/quan-neng-che-he-shan-hu/01.jpg
 ---
 
 2007 年夏天，北京理工大学计算中心一位名为陈寿福的教师被羁押。2008 年 3 月 20 日，陈寿福因侵犯著作权罪被深圳南山区法院判处有期徒刑三年，并处罚金人民币 120 万元。

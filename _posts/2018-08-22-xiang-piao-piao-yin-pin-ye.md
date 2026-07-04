@@ -4,7 +4,7 @@ title: "香飘飘：饮品业的诺基亚？"
 date: 2018-08-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/01.jpg
+image: /img/2018/08/22/xiang-piao-piao-yin-pin-ye/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
@@ -65,7 +65,7 @@ image: https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/01.jpg
 
 **而现场手冲的奶茶饮品店，则是碎片化状态，就像“安卓”。**除了已经获得融资，高调示人的喜茶、奈雪的茶等大牌，还有茶颜悦色、蜜雪冰城等区域品牌，以及遍布三四线小城的山寨夫妻店。主攻咖啡的瑞幸等牌子，也随时想着在奶茶这边“插一脚”。
 
-![](https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/02.jpg)
+![](/img/2018/08/22/xiang-piao-piao-yin-pin-ye/02.jpg)
 
 （图 / 航通社）
 
@@ -129,7 +129,7 @@ image: https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/01.jpg
 
 我之前去香港的时候，正好就慕名去过重庆大厦的兰芳园分店，给我留下了非常好的印象。而在店门口醒目的位置，就摆放着与香飘飘的合作产品，提醒像我们这样的大陆游客。
 
-![](https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/03.jpg)
+![](/img/2018/08/22/xiang-piao-piao-yin-pin-ye/03.jpg)
 
 （图 / 航通社）
 
@@ -153,6 +153,6 @@ image: https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/01.jpg
 
 2018.8.22
 
-![](https://lishuhang.me/img/2018/08/22/xiang-piao-piao-yin-pin-ye/04.gif)
+![](/img/2018/08/22/xiang-piao-piao-yin-pin-ye/04.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

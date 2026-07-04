@@ -4,14 +4,14 @@ title: "荣耀“智慧屏”的孙猴子，跳不出“电视机”的手掌心
 date: 2019-07-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
+image: /img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 3800 字
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg)
 
 书航 7 月 15 日发于北京
 
@@ -45,13 +45,13 @@ image: https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 
 20 世纪 80 年代，英国、日本等国推出图文电视服务，在电视节目停播的深夜时段轮播新闻、股票、天气等图文信息，有接收器的用户也可在任意时段，按遥控器自行查阅特定页面，形成了“电视上网”的雏形。
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/02.jpg)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/02.jpg)
 
 图 / Giphy
 
 90 年代末，图文电视服务进入中国，央视批准一些第三方厂家开发图文电视接收卡及机顶盒等设备，在国内主要用于查询股票信息。尽管当时这一服务很快就要退出历史舞台，但因为 90 年代后期 PC 购机及上网费用高昂，网速缓慢，图文电视作为过渡产品，仍不失为炒股人士的一个选择。
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/03.jpg)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/03.jpg)
 
 1999 年福建日立“天眼”彩电，支持图文电视。图 / Bilibili
 
@@ -63,7 +63,7 @@ image: https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 
 2003 年，央视推出中央数字电视服务，上线多个数字付费频道。同时，全国各地的广电网络都推出了基于数字电视机顶盒的信息查询服务，包括股票信息，新闻和天气查询，也包括菜市场菜价等等。不过这一服务的使用概率之低，已经到了可以忽略不计的程度——很多省市的图文信息服务，更新已经停留在了好几年前。
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/04.jpg)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/04.jpg)
 
 深圳有线数字电视的图文资讯页。图 / bbs.szhome.com
 
@@ -123,10 +123,10 @@ image: https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 
 [4] https://mp.weixin.qq.com/s/zsO0AgbjfgYJa0ffLBNS4g
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/05.png)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/05.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/15/rong-yao-zhi-hui-ping-de/06.png)
+![](/img/2019/07/15/rong-yao-zhi-hui-ping-de/06.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【368J6ZI8】获取授权

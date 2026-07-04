@@ -4,7 +4,7 @@ title: "国行 iPhone 7 Plus 裂成“曲面屏”？你™瞎编的吧？"
 date: 2016-10-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/10/12/guo-xing-iphone-7-plus-lie/01.png
+image: /img/2016/10/12/guo-xing-iphone-7-plus-lie/01.png
 ---
 
 *本文中所有链接都点不了，但是你点击***阅读原文***就能点了，嗯。*

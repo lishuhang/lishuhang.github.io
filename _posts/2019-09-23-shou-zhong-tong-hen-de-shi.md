@@ -4,12 +4,12 @@ title: "受众痛恨的视频广告，还有投放的必要吗？_ 重温"
 date: 2019-09-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png
+image: /img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png
 ---
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png)
+![](/img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png)
 
 本文基于 2013 年 12 月 30 日首发于网易科技的稿件修改和增补。
 
@@ -73,7 +73,7 @@ image: https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png
 
 说起来，2003 年春晚有个相声叫《说广告》，当时说“北国夜总会”的神植入只觉得好笑，现在听起来，却成了精准的预言。
 
-![](https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/02.png)
+![](/img/2019/09/23/shou-zhong-tong-hen-de-shi/02.png)
 
 当时的弹幕网站模式在今天看起来也是挺神奇的。Acfun 和 Bilibili 使用自己写的播放器来远程读取优酷、新浪视频等存储的资源，却去掉广告或甚至还插上了自己的广告。
 
@@ -99,8 +99,8 @@ image: https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/01.png
 
 但说实在的，广告暂且还没变得那么精准和智能，厂家也还没学会 AI 读心术，我们的生活也还没被完全控制，这还是相当让人欣慰的。
 
-![](https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/03.png)
+![](/img/2019/09/23/shou-zhong-tong-hen-de-shi/03.png)
 
-![](https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/04.png)
+![](/img/2019/09/23/shou-zhong-tong-hen-de-shi/04.png)
 
-![](https://lishuhang.me/img/2019/09/23/shou-zhong-tong-hen-de-shi/05.png)
+![](/img/2019/09/23/shou-zhong-tong-hen-de-shi/05.png)

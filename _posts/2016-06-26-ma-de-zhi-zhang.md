@@ -4,7 +4,7 @@ title: "妈的智障"
 date: 2016-06-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/06/26/ma-de-zhi-zhang/01.jpg
+image: /img/2016/06/26/ma-de-zhi-zhang/01.jpg
 ---
 
 只相隔1天就发布一个新的Build是个什么精神病？

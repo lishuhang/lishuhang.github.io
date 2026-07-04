@@ -4,7 +4,7 @@ title: "“航通社”播客开通了"
 date: 2016-12-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/19/hang-tong-she-bo-ke-kai/01.jpg
+image: /img/2016/12/19/hang-tong-she-bo-ke-kai/01.jpg
 ---
 
 一般来说，当每周的深度文章全面上线以后，播客就会同时上传，链接我会添加到专栏正文之后。

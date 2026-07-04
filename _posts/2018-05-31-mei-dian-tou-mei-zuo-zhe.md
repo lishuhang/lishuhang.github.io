@@ -4,7 +4,7 @@ title: "没电头，没作者，低级错误：“新华网批腾讯”为何如
 date: 2018-05-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/31/mei-dian-tou-mei-zuo-zhe/01.jpg
+image: /img/2018/05/31/mei-dian-tou-mei-zuo-zhe/01.jpg
 ---
 
 👆点上面**航通社**订阅

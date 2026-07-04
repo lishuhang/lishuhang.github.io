@@ -4,12 +4,12 @@ title: "将学生习作改编推广，我们增强了产品与价值的连接 _ 
 date: 2024-03-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/03/25/jiang-xue-sheng-xi-zuo-gai/01.jpg
+image: /img/2024/03/25/jiang-xue-sheng-xi-zuo-gai/01.jpg
 ---
 
 在转换为小程序版本时，你们对这款原本在Steam上架的游戏进行了怎样的修改？
 
-![](https://lishuhang.me/img/2024/03/25/jiang-xue-sheng-xi-zuo-gai/01.jpg)
+![](/img/2024/03/25/jiang-xue-sheng-xi-zuo-gai/01.jpg)
 
 文 / 书航 2024.1.26
 

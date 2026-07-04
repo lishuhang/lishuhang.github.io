@@ -4,14 +4,14 @@ title: "_外卖要收配送费，为啥还比堂食贵"
 date: 2019-07-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/25/_-wai-mai-yao-shou-pei/01.jpg
+image: /img/2019/07/25/_-wai-mai-yao-shou-pei/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 2200 字
 
-![](https://lishuhang.me/img/2019/07/25/_-wai-mai-yao-shou-pei/01.jpg)
+![](/img/2019/07/25/_-wai-mai-yao-shou-pei/01.jpg)
 
 书航 7 月 25 日发于北京
 
@@ -85,10 +85,10 @@ image: https://lishuhang.me/img/2019/07/25/_-wai-mai-yao-shou-pei/01.jpg
 
 [2] https://www.cnbeta.com/articles/tech/871287.htm
 
-![](https://lishuhang.me/img/2019/07/25/_-wai-mai-yao-shou-pei/02.png)
+![](/img/2019/07/25/_-wai-mai-yao-shou-pei/02.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/25/_-wai-mai-yao-shou-pei/03.png)
+![](/img/2019/07/25/_-wai-mai-yao-shou-pei/03.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【6D19BNB8】获取授权

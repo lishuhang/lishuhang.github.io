@@ -4,10 +4,10 @@ title: "ChinaBang 2014 _ 紫辉创投郑刚：锤子一定能成功"
 date: 2023-01-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2023/01/08/chinabang-2014-_-zi-hui-chuang/01.jpg
+image: /img/2023/01/08/chinabang-2014-_-zi-hui-chuang/01.jpg
 ---
 
-![](https://lishuhang.me/img/2023/01/08/chinabang-2014-_-zi-hui-chuang/01.jpg)
+![](/img/2023/01/08/chinabang-2014-_-zi-hui-chuang/01.jpg)
 
 文/书航 2014.4.3
 

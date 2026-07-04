@@ -4,10 +4,10 @@ title: "UBER “半价出租车”：司机割肉还是平台买单？_ 重温"
 date: 2019-09-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/09/18/uber-ban-jia-chu-zu-che/01.jpg
+image: /img/2019/09/18/uber-ban-jia-chu-zu-che/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/09/18/uber-ban-jia-chu-zu-che/01.jpg)
+![](/img/2019/09/18/uber-ban-jia-chu-zu-che/01.jpg)
 
 本文于 2014 年 1 月 11 日首发于动点科技
 
@@ -91,8 +91,8 @@ Uber 的创始人之前曾经透露过，希望将这项服务发展成一个通
 
 其他的服务在实现支配地位后基本可以随意加价，虽然有可能让用户感到不舒服，至少不会叫人担心出人命。这才是告别补贴，回归到正常商业模式的常规操作。打车这件事，实在是太特殊了。
 
-![](https://lishuhang.me/img/2019/09/18/uber-ban-jia-chu-zu-che/02.png)
+![](/img/2019/09/18/uber-ban-jia-chu-zu-che/02.png)
 
-![](https://lishuhang.me/img/2019/09/18/uber-ban-jia-chu-zu-che/03.png)
+![](/img/2019/09/18/uber-ban-jia-chu-zu-che/03.png)
 
-![](https://lishuhang.me/img/2019/09/18/uber-ban-jia-chu-zu-che/04.png)
+![](/img/2019/09/18/uber-ban-jia-chu-zu-che/04.png)

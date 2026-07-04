@@ -4,16 +4,16 @@ title: "创业者心态不再，996 余波难平"
 date: 2019-04-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/01.jpg
+image: /img/2019/04/16/chuang-ye-zhe-xin-tai-bu/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/01.jpg)
+![](/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载
 
 航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/02.jpg)
+![](/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/02.jpg)
 
 书航 4 月 16 日发于北京
 
@@ -171,7 +171,7 @@ image: https://lishuhang.me/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/01.jpg
 
 [11] https://www.zhihu.com/question/317847010/answer/635175827
 
-![](https://lishuhang.me/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/03.jpg)
+![](/img/2019/04/16/chuang-ye-zhe-xin-tai-bu/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

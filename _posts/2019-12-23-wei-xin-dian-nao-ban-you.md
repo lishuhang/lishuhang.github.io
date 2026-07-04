@@ -4,12 +4,12 @@ title: "微信电脑版有多难用，你们真的没感觉吗"
 date: 2019-12-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
+image: /img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 ---
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/02.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/02.png)
 
 朋友圈发表情，不是。
 
@@ -21,17 +21,17 @@ image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 甚至夜间模式，也不是。
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/03.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/03.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/04.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/04.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/05.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/05.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/06.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/06.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/07.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/07.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/08.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/08.png)
 
 使用“腾讯电脑管家”备份、
 
@@ -39,7 +39,7 @@ image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 在同一个无线网络内扫码两台手机互传等。
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/09.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/09.png)
 
 有非常多的带消息、私信功能的应用，都支持全平台同步消息，而且也没出过大型的信息泄露事故；
 
@@ -47,13 +47,13 @@ image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 > “我用 PC 微信是因为我用不了手机，所以你让我扫码认证个鬼啊！”
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/10.jpg)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/10.jpg)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/11.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/11.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/12.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/12.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/13.jpg)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/13.jpg)
 
 看不了朋友圈、
 
@@ -75,11 +75,11 @@ image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 > “我微信查个账都要不断滑动，难道和 PC 和鼠标有仇么？”
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/14.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/14.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/15.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/15.png)
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/16.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/16.png)
 
 如果微信不是在腾讯的生态体系内，或者是微信支付、小程序、小游戏等等如果不是在微信的体系之内，是不是注定就做不到现在这么大？
 
@@ -89,7 +89,7 @@ image: https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/01.png
 
 如果未来 10-20 年大家还是用手机、笔记本、平板这样带触屏的联网设备，那微信会被其它什么东西替代吗？如果改用了其它设备呢？
 
-![](https://lishuhang.me/img/2019/12/23/wei-xin-dian-nao-ban-you/17.png)
+![](/img/2019/12/23/wei-xin-dian-nao-ban-you/17.png)
 
 航通社现已入驻虎嗅、钛媒体、36kr、界面、新浪科技、知乎、头条号、百家号等几乎所有媒体平台。
 

@@ -4,7 +4,7 @@ title: "社交网络替代视频网站，而视频网站更像电视台了"
 date: 2017-02-27
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/27/she-jiao-wang-luo-ti-dai/01.jpg
+image: /img/2017/02/27/she-jiao-wang-luo-ti-dai/01.jpg
 ---
 
 所有社交媒体对视频，特别是移动端视频的重视都上升到了前所未有的高度。同时，针对电视屏幕等传统观影位置的优化也在进行。另一个趋势则是这些社交网站各自提升了站内上传视频的权重，而冷落了 YouTube、优酷土豆这样的第三方视频网站。

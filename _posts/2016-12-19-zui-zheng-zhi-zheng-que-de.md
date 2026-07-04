@@ -4,7 +4,7 @@ title: "最政治正确的硅谷发出“多样性报告”，结果还是被骂
 date: 2016-12-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/19/zui-zheng-zhi-zheng-que-de/01.jpg
+image: /img/2016/12/19/zui-zheng-zhi-zheng-que-de/01.jpg
 ---
 
 媒体主要分析了谷歌、Facebook、雅虎、微软、Airbnb 和苹果这六家公司 2015 年的“多样性报告”数据。他们的主要批评包括：

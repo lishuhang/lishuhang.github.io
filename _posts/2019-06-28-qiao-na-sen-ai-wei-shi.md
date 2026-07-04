@@ -4,14 +4,14 @@ title: "乔纳森·艾维是时候离开苹果了"
 date: 2019-06-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
+image: /img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 2200 字
 
-![](https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg)
+![](/img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg)
 
 书航 6 月 28 日发于北京
 
@@ -53,7 +53,7 @@ image: https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 
 即便如此，苹果也由于长期的历史积累，至今仍存在不同地方设计风格不统一的问题。例如，在最新测试版 macOS Catalina 中，窗口样式出现了几种外观同时并存的局面，甚至有些还继承自 2011 年的 OS X Lion。[3]
 
-![](https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/02.jpg)
+![](/img/2019/06/28/qiao-na-sen-ai-wei-shi/02.jpg)
 
 人们经常以外观风格的不统一来嘲笑微软的 Windows 10，但是这是任何一个有年头的操作系统都绕不过去的问题。苹果经常被粉丝夸赞为在界面设计的细节上优于对手，那么这样的问题就更加刺眼。如果今后的系统继续小修小补，部分追求完美的用户也会逐步降低忍耐度。
 
@@ -83,6 +83,6 @@ image: https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 
 [4] https://www.theverge.com/2015/9/17/9345299/jony-ive-apple-store-belgium
 
-![](https://lishuhang.me/img/2019/06/28/qiao-na-sen-ai-wei-shi/03.png)
+![](/img/2019/06/28/qiao-na-sen-ai-wei-shi/03.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

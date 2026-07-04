@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20451381"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-28/vr-competition/)
 
-![](https://lishuhang.me/img/2015/12/28/xu-ni-xian-shi-xing-ye/01.jpg)
+![](/img/2015/12/28/xu-ni-xian-shi-xing-ye/01.jpg)

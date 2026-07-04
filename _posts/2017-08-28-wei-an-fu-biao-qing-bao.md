@@ -4,7 +4,7 @@ title: "“慰安妇表情包”作者承受的公关灾难，规模可能超出
 date: 2017-08-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/28/wei-an-fu-biao-qing-bao/01.jpg
+image: /img/2017/08/28/wei-an-fu-biao-qing-bao/01.jpg
 ---
 
 文|书航

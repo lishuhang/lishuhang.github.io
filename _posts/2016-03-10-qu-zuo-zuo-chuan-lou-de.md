@@ -4,7 +4,7 @@ title: "“去坐坐穿楼的轻轨，坐一次索道，到朝天门看夜景，
 date: 2016-03-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/03/10/qu-zuo-zuo-chuan-lou-de/01.jpg
+image: /img/2016/03/10/qu-zuo-zuo-chuan-lou-de/01.jpg
 ---
 
 ……坐游船，吃顿火锅，还有空的话到磁器口买点特产带回家。”这是这个公众号的一个读者给我的留言。虽然我打开时有点晚了，已经不能直接回复，但还是要说一句：

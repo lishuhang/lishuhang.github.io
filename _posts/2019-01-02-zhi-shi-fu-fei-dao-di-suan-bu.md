@@ -3,7 +3,7 @@ layout: post
 title:  “知识付费”到底算不算是年轻人的“权健”
 author: james
 categories: [ article ]
-image: "https://lishuhang.me/img/2019/01/0102-1.jpg"
+image: "/img/2019/01/0102-1.jpg"
 featured: true
 hidden: false
 ---
@@ -98,9 +98,9 @@ hidden: false
 
 换句话说，这些人发展到**做社群，搞类似“精神控制”一样的价值观统一**，几乎是必然的。而科学精神归根结底，还是要不断怀疑，要“自由之精神，独立之思想”，而不是盲目追随。
 
-![](https://lishuhang.me/img/2019/01/0102-2.jpg)
+![](/img/2019/01/0102-2.jpg)
 
-![](https://lishuhang.me/img/2019/01/0102-3.jpg)
+![](/img/2019/01/0102-3.jpg)
 
 （ [https://www.zhihu.com/question/307567200/answer/564164627](https://www.zhihu.com/question/307567200/answer/564164627) ）
 

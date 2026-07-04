@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/20126092"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-23/airplane/)
 
-![](https://lishuhang.me/img/2015/07/23/quan-shi-jie-dou-zai-wei/01.jpg)
+![](/img/2015/07/23/quan-shi-jie-dou-zai-wei/01.jpg)
 
 //应该还算是在“今天”发布的……早上发完忘记贴过来了

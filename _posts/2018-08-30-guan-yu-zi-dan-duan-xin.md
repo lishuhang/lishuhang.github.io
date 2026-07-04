@@ -4,7 +4,7 @@ title: "关于子弹短信，目前谁都没告诉你的几件事"
 date: 2018-08-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
+image: /img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 ---
 
 如果不是因为子弹短信上线7天就宣布获得了1.5亿元的融资和6亿元估值，相信大多数人早就没了兴趣去体验，因为微信消息可能早就把大家烦死了，那么多工作群可不是想退就退的。
@@ -33,7 +33,7 @@ image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 
 只不过，在按住说话的时候，录音界面1秒钟就会消失，并提示你因为没有权限而录音失败。
 
-![](https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/02.jpg)
+![](/img/2018/08/30/guan-yu-zi-dan-duan-xin/02.jpg)
 
 而且，在跨平台的**子弹短信网页版**（ im . zidanduanxin . com ），也可以用手机号和密码，在完全不需要手机收短信验证码和扫一扫的前提下登录。
 
@@ -67,7 +67,7 @@ image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 
 “**我叫付婷婷，师傅的父。**”
 
-![](https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/03.jpg)
+![](/img/2018/08/30/guan-yu-zi-dan-duan-xin/03.jpg)
 
 正确的名字应该是“傅婷婷”，识别结果没一个字是写对的。我看到这个句子的时候，真的笑出了腹肌。
 
@@ -105,7 +105,7 @@ image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 
 在资讯流中打开一条新闻，点击右上角“分享”，你所得到的将会是一个气泡，当中有一个正方形的预览缩略图——由于软件设计原因，缩略图永远是一个占位图标——还有文章的标题以及网址，气泡的布局跟微信的很类似。
 
-![](https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/04.jpg)
+![](/img/2018/08/30/guan-yu-zi-dan-duan-xin/04.jpg)
 
 锤子暂时没有提供类似“文件传输助手”一样给自己发消息的功能。但是你可以先将外部浏览器的网址复制下来，粘贴到聊天界面当中。点击这个文本链接，在打开的页面右上角点击分享，效果跟从资讯流中分享的气泡是一样的。只不过你之前所贴的那个链接暂时还不能撤回。
 
@@ -127,7 +127,7 @@ image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 
 还有什么亮点？差不多没了。除了聊天对话框中准备了一些特殊的表情。
 
-![](https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/05.png)
+![](/img/2018/08/30/guan-yu-zi-dan-duan-xin/05.png)
 
 还需要提到的是在“子弹群”当中，吸取了微信群的教训和Telegram的经验，即使是你在中途加入群，也能看到在你入群之前大家发的消息和链接。相信后续版本有足够空间对群体验做优化，毕竟微信群的很多体验已经被大家抱怨了好久。
 
@@ -145,7 +145,7 @@ image: https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 
 假设阿里能拥有一个自己的通用社交产品，那么比如说，嵌入大鱼号起到的效果当然要好很多，最起码会有更强大的粘性。再说，子弹短信做得再差，能比得上“来往”那么差吗？所以也自然是“输得起”的。
 
-![](https://lishuhang.me/img/2018/08/30/guan-yu-zi-dan-duan-xin/06.gif)
+![](/img/2018/08/30/guan-yu-zi-dan-duan-xin/06.gif)
 
 2018.8.30
 

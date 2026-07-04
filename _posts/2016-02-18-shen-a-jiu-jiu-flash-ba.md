@@ -4,7 +4,7 @@ title: "神啊，救救 Flash 吧"
 date: 2016-02-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/02/18/shen-a-jiu-jiu-flash-ba/01.jpg
+image: /img/2016/02/18/shen-a-jiu-jiu-flash-ba/01.jpg
 ---
 
 情人节放《神啊，救救我吧》这首歌老应景了。本来我还想多写点东西，但因为在家休息几天完全颠倒了我在北京养成的时差，结果一直休息到周三还没有恢复正常的工作节奏，只是开启了做饭的计划而已，而收拾厨房也是杀时间的绝佳手段，没什么感觉呢，这时间嗖的一下就过去了。

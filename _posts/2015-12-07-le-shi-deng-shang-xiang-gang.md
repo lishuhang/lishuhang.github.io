@@ -4,7 +4,7 @@ title: "乐视登上香港的《焦点访谈》"
 date: 2015-12-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/12/07/le-shi-deng-shang-xiang-gang/01.jpg
+image: /img/2015/12/07/le-shi-deng-shang-xiang-gang/01.jpg
 ---
 
 上周，香港无线电视翡翠台的 《新闻透视》栏目播出一期新的节目 ，主要探讨了包括乐视电视在内的，可能会颠覆香港现有电视行业生态的一些网络电视节目的运营情况。

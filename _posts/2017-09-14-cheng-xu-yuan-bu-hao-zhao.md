@@ -4,7 +4,7 @@ title: "“程序员不好找对象”到底该怎么破"
 date: 2017-09-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.jpg
+image: /img/2017/09/14/cheng-xu-yuan-bu-hao-zhao/01.jpg
 ---
 
 文|书航

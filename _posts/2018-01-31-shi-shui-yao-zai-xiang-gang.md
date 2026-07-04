@@ -4,7 +4,7 @@ title: "是谁要在香港“撒币”？你一定意想不到"
 date: 2018-01-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/31/shi-shui-yao-zai-xiang-gang/01.jpg
+image: /img/2018/01/31/shi-shui-yao-zai-xiang-gang/01.jpg
 ---
 
 文 | 书航

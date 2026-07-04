@@ -19,7 +19,7 @@ Facebook 本周推出了消息服务 Messenger 单独的网页宣传页面 [http
 
 而 MSN 的继任者 Skype 保留了惯常的微软风格；不善言辞，不懂得如何做市场营销，只是默默地展现黑科技。[Skype Translator 预览版已经支持汉语普通话](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/383881.htm) ，这意味着打字同时把文字翻译出来，并且在最关键的翻译水平方面，它的改进也获得业界公认。
 
-![](https://lishuhang.me/img/2015/04/10/shui-cai-shi-messenger/01.jpg)
+![](/img/2015/04/10/shui-cai-shi-messenger/01.jpg)
 
 这意味着什么呢？如果汉语和英语之间的翻译可以很流畅的话，那么全球绝大部分资源都可以用英文作为原始文档，需要的时候即时翻译成汉语。这样做的好处是，目前对英语的文字转语音、语音识别、语义分析等的研究都是最透彻的，只需要把最终生成的英语文本转化为其他语言就可以最大限度的保留文章的原汁原味，避免了对每一门语言都要重新研究 TTS 和语音识别的麻烦。
 

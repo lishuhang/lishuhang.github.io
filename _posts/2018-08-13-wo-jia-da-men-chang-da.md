@@ -4,7 +4,7 @@ title: "我家大门常打开"
 date: 2018-08-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
+image: /img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
@@ -25,7 +25,7 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 **“Home”（“家”，或美国英语的“住房”）**则是一种拟物化的称呼，直接把网站的第一个页面，称为该站在互联网上的“家”，充满温馨。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/02.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/02.jpg)
 
 最早人们喜欢用“Index”，等大多数人都开始上网的90年代末期，用“Home”形容首页的更多。
 
@@ -41,7 +41,7 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 有趣的是，在中文互联网，这个词用的是“首页”（对应 Index）而不是“主页”。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/03.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/03.jpg)
 
 这是因为“主页”一词在中国有另一种对应的特殊产品：“**个人主页**”。
 
@@ -67,11 +67,11 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 自己制作网页的过程虽然比现在开通一个博客或微博要复杂得多，然而你可以拥有几乎无穷无尽的样式自由搭配，也可以通过学习安装更炫酷的代码、闪闪发光的 GIF 背景和飘来飘去的小挂件。这些都是免费的。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/04.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/04.jpg)
 
 装饰好了自己的个人主页，安装一个计数器在底下，看看每天有多少人前来拜访。有一次你发现自己按浏览器的F5刷新也可以让计数器+1，于是你自己不厌其烦地刷新页面，只为了一个更厉害的访问数字。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/05.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/05.jpg)
 
 这大概可以说是史前时代的“刷阅读量”。
 
@@ -105,11 +105,11 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 放在头像下面的介绍，太像是“座右铭”了。老师说座右铭要庄重，选起来要认真，所以那时候的“说说”回头翻看都觉得相当“矫情”。如果没什么文采，也有网站提供一堆写好的让你选择。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/06.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/06.jpg)
 
 互动最频繁的是自己的同班同学。每天都要去留言板上留言，这被称为“踩”。你来我往的，有时候只是简单发一个表情，称为“互踩”。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/07.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/07.jpg)
 
 图 / 腾讯
 
@@ -117,11 +117,11 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 早期的QQ空间，整个浏览器页面是一个房间内部装饰的样子，你的虚拟形象——QQ秀可以进入这个“房间”，并免费或花钱购买添加各种“家具”……
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/08.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/08.jpg)
 
 还有必须时不时点击鼠标，给虚拟的花藤“浇花”。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/09.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/09.jpg)
 
 这些东西本质上就是一堆叠加在一起的图片，但是花心思打理一个属于自己的小房子的那种感觉，是多少钱也换不来的。
 
@@ -145,7 +145,7 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 最初，只有少数人有条件上网，看到的不是同学邻居，而是地理位置上相隔很远的人。《第一次亲密接触》描绘的“**见网友**”，还有“**见光死**”，都是在颗粒分明的像素点上，人为添加了一层浪漫的光环，甚至连低速电话线带来的等待都觉得那么甜美。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/10.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/10.jpg)
 
 在今天，任何试图将互联网这种工具本身罗曼蒂克化的努力，都会被认为是滑稽可笑的。即使现实中没见过面的网友，也可以根据手机GPS的精准定位，陌陌探探Tinder的精准曝光，掌握这个人最真实的一面，ta的雀斑都无处可逃。现在见网友现实得一逼，叫“**奔现**”。
 
@@ -153,7 +153,7 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 《模拟城市》（Sim City）还能有人玩，是因为大家都知道那只是一个游戏。而真想构建一个永不停息的世界的《第二人生》（Second Life）则沦落到了不得不靠发币续命的地步。
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/11.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/11.jpg)
 
 我们已经知道了网络的运行规则和使用方法，就不再需要用现实中已有的概念投射到上面了。首页就是首页，博客就是博客，不是什么“网上家园”。
 
@@ -161,7 +161,7 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 比如说，“保存”的图标是一张3.5英寸软盘。软盘是什么？“安装程序”的图标是一个打开的纸盒配一张中间有孔的圆形碟片，那是什么意思？“光盘”又是什么？
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/12.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/12.jpg)
 
 正在消失的诸多概念中，其中一个就是**“家”的概念**。
 
@@ -193,6 +193,6 @@ image: https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/01.jpg
 
 如看到微信提示，请点击下方“**访问原网页**”
 
-![](https://lishuhang.me/img/2018/08/13/wo-jia-da-men-chang-da/13.jpg)
+![](/img/2018/08/13/wo-jia-da-men-chang-da/13.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请长按上面二维码加助理，或者搜索个人微信号**航通社 (ID:hangtongshe)**。请说明您的来意。转载时请保留版权信息。

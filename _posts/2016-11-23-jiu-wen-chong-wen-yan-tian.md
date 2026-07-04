@@ -4,7 +4,7 @@ title: "#旧文重温#岩田聪去世时的任天堂"
 date: 2016-11-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/11/23/jiu-wen-chong-wen-yan-tian/01.jpg
+image: /img/2016/11/23/jiu-wen-chong-wen-yan-tian/01.jpg
 ---
 
 在生命后期，岩田所推出的设备续作销量却十分不佳。因为之前的成功，他给 3DS 最初定价为 250 美元，却没想到之后遭腰斩式的降价。而 Wii U 同样被证明是一个很大的战略失误。随着这两款旗舰产品走下坡路，整个公司的命运也开始走下坡路。这可以被说成是激进不再，改走保守路线带来的失败吗？

@@ -4,7 +4,7 @@ title: "中传动手砍专业了，惊醒所有文科生"
 date: 2026-03-10
 categories: 文章
 tags: [传媒, featured]
-image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.png
+image: /img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.png
 ---
 
 *艺考黄金时代，终于AI视频元年*
@@ -39,7 +39,7 @@ image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.pn
 
 在近期[娱乐资本论举办的“一人剧组：AI（漫）剧全链路沙龙”](https://mp.weixin.qq.com/s/2A2tEzM_5cu0CU_v5BSiIg)上，现场就来了不少中戏和北电的大四学生。这些人既向往借助AI漫剧这样的新兴赛道找到工作，又害怕有朝一日被AI取代。
 
-![](https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/02.jpg)
+![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/02.jpg)
 
 其中一位学生“抓住”现场嘉宾反复提问，只为了确认一个问题：“假如我去做一个AI视频作品……广告也好，漫剧也好，一分钟平台和甲方保底到底能给我多少钱？”结果现场嘉宾只能回答她：“根据质量和要求，给多少钱的都有。”
 
@@ -100,7 +100,7 @@ image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.pn
 
 根据前述的红星新闻报道，视觉传达设计所属的广告学院称，目前只在海南办学地点有中外合作办学，在北京办学地点已经没有了，并确认“以后也不招了”。
 
-![](https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/03.png)
+![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/03.png)
 
 动画与数字艺术学院介绍，漫画不再是单独的专业，而是“动画（漫画方向）”，并入动画专业，“它最早没有独立出来的时候，就是动画下面的一个方向，相当于还是回归了方向。”新媒体艺术则被并入数字媒体艺术专业，不区分方向。动画（游戏艺术方向）并未停招，只是今年未进行艺考。至于中传招生处工作人员称，对于是停招还是撤销“没法保证，这几年的招生每年都有一些变化”。
 
@@ -128,7 +128,7 @@ image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.pn
 
 当时，他们的教育改革是自下而上倒逼出来的。学生们的感知更为直接，他们甚至主动要求放弃传统课程：“AIGC冲击太大了，我们对学习传统的影视视听语言和实践课没信心。”
 
-![](https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/04.jpg)
+![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/04.jpg)
 
 这篇报道距今已近两年，当时的AI技术栈至今已发生了很大变化。不过陈洪伟预见到了这一点，他采用三个阶段培养学生们自发应用AI新工具的能力：
 
@@ -152,7 +152,7 @@ image: https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/01.pn
 
 据中传“智能影像艺术”专业申报表估计，每年度该专业计划招生30人，升学和就业各占一半，预计学生会选择腾讯、字节、百度等大厂就业。
 
-![](https://lishuhang.me/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/05.png)
+![](/img/2026/03/10/zhong-chuan-dong-shou-kan-zhuan/05.png)
 
 在传媒影视领域，高校与头部AI科技公司之间呈现出魔幻的竞合关系。传统上，校企合作是必由之路，也非常合理。但这次合作的企业方却是奔着“替代学生”而来的。就像专业人士给AI数据标注一样，业界一直有着关于“合作AI是不是给自己做掘墓人”的担忧。
 

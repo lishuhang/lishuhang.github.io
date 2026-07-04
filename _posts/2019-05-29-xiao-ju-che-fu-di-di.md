@@ -4,14 +4,14 @@ title: "小桔车服：滴滴的“蚂蚁金服”"
 date: 2019-05-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/05/29/xiao-ju-che-fu-di-di/01.png
+image: /img/2019/05/29/xiao-ju-che-fu-di-di/01.png
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。
 
 航通社网站：lishuhang.me 微信号：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/05/29/xiao-ju-che-fu-di-di/01.png)
+![](/img/2019/05/29/xiao-ju-che-fu-di-di/01.png)
 
 书航 5 月 29 日发于北京
 
@@ -137,4 +137,4 @@ image: https://lishuhang.me/img/2019/05/29/xiao-ju-che-fu-di-di/01.png
 
 [14] http://www.bbtnews.com.cn/2019/0328/292512.shtml
 
-![](https://lishuhang.me/img/2019/05/29/xiao-ju-che-fu-di-di/02.png)
+![](/img/2019/05/29/xiao-ju-che-fu-di-di/02.png)

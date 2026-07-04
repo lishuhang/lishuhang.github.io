@@ -19,7 +19,7 @@ source: "https://zhuanlan.zhihu.com/p/20209877"
 
 不过在各种各样的预言，传言和谣言当中，我最欣赏的还是这个—— [一位漫画家 2012 年就预测了苹果将在 2015 年发布的东西](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/428687.htm) 。
 
-![](https://lishuhang.me/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/01.jpg)
+![](/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/01.jpg)
 
 **2、“没惊喜 没有改变 我已经听了三年 我告诉外婆 我没输 不需要改变”**
 
@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/20209877"
 
 多一种操作办法，也就是在秀技术有多先进而已。更何况，这并不是乔老爷子能做的事。回头想为什么 iPhone 前面板只有一个 Home 键？如今 Touch ID 和 Force Touch，无形中等于增加了两种交互工具，只是形式上简约的有一个键而已，本质早已改变。
 
-啊，还有喜闻乐见的这一句：**“傻逼才用触控笔呢。”![](https://lishuhang.me/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/02.jpg)**
+啊，还有喜闻乐见的这一句：**“傻逼才用触控笔呢。”![](/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/02.jpg)**
 
 如果老罗是自己打自己脸，那乔布斯是隔代打脸，说好的不出其他产品线，不出多种颜色，等等，这脸都要被库克打肿了。
 
@@ -105,4 +105,4 @@ source: "https://zhuanlan.zhihu.com/p/20209877"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/03.jpg)
+![](/img/2015/09/10/pi-jiu-yin-liao-kuang-quan/03.jpg)

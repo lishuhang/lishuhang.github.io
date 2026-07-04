@@ -4,7 +4,7 @@ title: "#新玩具#2015年终总结——我的工具"
 date: 2016-01-04
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/04/xin-wan-ju-2015-nian-zhong/01.jpg
+image: /img/2016/01/04/xin-wan-ju-2015-nian-zhong/01.jpg
 ---
 
 生日是抒情回忆的好时候，年终则是条分缕析的场合。我会分工具和读书观影两方面来介绍我这一年来的收获。

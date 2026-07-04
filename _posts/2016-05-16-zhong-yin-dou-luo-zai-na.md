@@ -4,7 +4,7 @@ title: "重音都落在那个不好的字上"
 date: 2016-05-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/05/16/zhong-yin-dou-luo-zai-na/01.jpg
+image: /img/2016/05/16/zhong-yin-dou-luo-zai-na/01.jpg
 ---
 
 “有～些事，我早～已忘记，但我现～在还～记得……”

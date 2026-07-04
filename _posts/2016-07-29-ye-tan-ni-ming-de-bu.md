@@ -4,7 +4,7 @@ title: "也谈匿名的不友好评论"
 date: 2016-07-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/29/ye-tan-ni-ming-de-bu/01.jpg
+image: /img/2016/07/29/ye-tan-ni-ming-de-bu/01.jpg
 ---
 
 很久之前活跃在知乎上的一位著名用户，在出了自己实名写的书之后，改换成自己的真实姓名又回到了这个平台上。不过，他的专栏现在已经禁止评论了。

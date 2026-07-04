@@ -4,7 +4,7 @@ title: "只允许头条们抓知乎，就不允许知乎自己做头条？"
 date: 2017-04-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.png
+image: /img/2017/04/05/zhi-yun-xu-tou-tiao-men/01.png
 ---
 
 知乎目前是中国互联网上最令人瞩目的原创内容策源地之一。在这里输出的内容，被源源不断地转移到微博，微信以及各种头条，各种新闻客户端当中。很多人通过其他的渠道读到的内容依然是产生于知乎。

@@ -4,7 +4,7 @@ title: "内涵段子的死因不只有低俗"
 date: 2018-04-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/11/nei-han-duan-zi-de-si/01.jpg
+image: /img/2018/04/11/nei-han-duan-zi-de-si/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

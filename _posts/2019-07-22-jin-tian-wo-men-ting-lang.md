@@ -4,36 +4,36 @@ title: "今天，我们听郎朗弹了一曲《致爱丽丝》"
 date: 2019-07-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/01.png
+image: /img/2019/07/22/jin-tian-wo-men-ting-lang/01.png
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/01.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/01.png)
 
 书航 7 月 22 日发于北京
 
 今天北京“下开水”，在难以忍受的高温下滴着细碎的雨点，天色灰暗的不行。不过对于怀着同样目的前往双井地铁站的人们来说，这些都不需要在意。
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/02.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/02.png)
 
 在富力万丽酒店，我们见到了著名的钢琴演奏家郎朗。他这次是参加知乎的活动，并且要首次推出一个本人亲自讲解的网上钢琴课程。
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/03.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/03.png)
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/04.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/04.png)
 
 发布会时间只有半小时多一点，现场媒体也不多，而且要经过严格的安检。有多严格呢？我们所有人带的雨伞都得从包里拿出来暂存——我临走的时候还在昏黄的灯光下差点错拿了别人的伞。
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/05.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/05.png)
 
 一看到台上摆的钢琴我们就知道肯定是不虚此行了。虽然郎朗在现场弹奏的只是旋律非常简单的一曲《致爱丽丝》，但还是相当完美，全场也鼓掌致敬。
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/06.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/06.png)
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/07.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/07.png)
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/08.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/08.png)
 
 在现场，郎朗还预先演示了一些课程内容。如果不能到现场也不用遗憾，这次活动同时也可以通过淘宝直播观看和回放。同时，也可以回头翻翻郎朗在知乎留下的足迹。
 
@@ -61,10 +61,10 @@ https://www.zhihu.com/remix/albums/1133035857896112128
 
 总而言之……加油吧！
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/09.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/09.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/22/jin-tian-wo-men-ting-lang/10.png)
+![](/img/2019/07/22/jin-tian-wo-men-ting-lang/10.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【3VNHCXEF】获取授权

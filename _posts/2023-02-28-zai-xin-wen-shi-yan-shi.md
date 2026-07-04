@@ -4,10 +4,10 @@ title: "在「新闻实验室」Newsletter 发布的内容"
 date: 2023-02-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2023/02/28/zai-xin-wen-shi-yan-shi/01.png
+image: /img/2023/02/28/zai-xin-wen-shi-yan-shi/01.png
 ---
 
-![](https://lishuhang.me/img/2023/02/28/zai-xin-wen-shi-yan-shi/01.png)
+![](/img/2023/02/28/zai-xin-wen-shi-yan-shi/01.png)
 
 「新闻实验室」newsletter 由传播学研究者方可成发起，为读者提供关于传媒、科技、社会的新鲜视角和深度解读。付费版每4天左右发送一次，介绍最新的全球媒体创新案例、商业模式，推荐重要、新颖的全球媒体作品，从媒体角度深度解读时事，解读重要的传播学理论和学术研究，并会不定期举行线上/线下的社群活动。
 

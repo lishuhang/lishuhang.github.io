@@ -4,7 +4,7 @@ title: "在北京，那个每月 900 块的正规住处"
 date: 2017-11-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/25/zai-bei-jing-na-ge-mei/01.jpg
+image: /img/2017/11/25/zai-bei-jing-na-ge-mei/01.jpg
 ---
 
 这段时间坏消息很多，其中大家关注的程度也不一样。很多人对刘鑫和幼儿园的事情更关心。我倒是觉得，北京拆掉群租房，正规租房大涨价，很多“蚁族”被迫搬走的新闻，更值得关注。

@@ -4,7 +4,7 @@ title: "此时“无桩”变“有桩”"
 date: 2017-04-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/10/ci-shi-wu-zhuang-bian-you/01.jpg
+image: /img/2017/04/10/ci-shi-wu-zhuang-bian-you/01.jpg
 ---
 
 商业共享单车随意停放、侵犯“路权”的现象，使得它们原本无桩停放的最大优势变成了一个尴尬的负担。最近一段时间，各地政府都倾向于划设停放点，通过引导和查处并重的方式，逐渐化解商业共享单车原本的“无桩”特性。

@@ -4,7 +4,7 @@ title: "小程序毕业了"
 date: 2017-12-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.jpg
+image: /img/2017/12/29/xiao-cheng-xu-bi-ye-le/01.jpg
 ---
 
 文 |书航

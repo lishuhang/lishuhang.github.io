@@ -4,18 +4,18 @@ title: "再谈视觉中国的图片版权“黑洞”"
 date: 2019-04-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
+image: /img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 ---
 
 👆点第二个航通社，先关注，再加星⭐
 
-![](https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg)
+![](/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载
 
 航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/02.jpg)
+![](/img/2019/04/11/zai-tan-shi-jue-zhong-guo/02.jpg)
 
 书航 4 月 11 日发于北京
 
@@ -65,7 +65,7 @@ image: https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 
 除非特别标注，在 ESO 公共网站上分发的图像、视频、音乐，以及新闻稿文本、公告、每周图片、博客文章和字幕，均通过“知识共享-署名”（CC-BY）4.0 国际版协议授权，只要清晰可见地标注了来源，即可非独占、免费地使用。
 
-![](https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/03.jpg)
+![](/img/2019/04/11/zai-tan-shi-jue-zhong-guo/03.jpg)
 
 在“知识共享-署名” 4.0 国际版协议中的“使用”定义非常宽泛，包括直接放置原图或压缩过后的版本，进行剪裁、调色、或将其混入自己的其他作品当中等等。当然，这样的协议并没规定你不准拿这张照片卖钱。
 
@@ -85,7 +85,7 @@ image: https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 
 说完黑洞照片，再说一下国旗、国徽以及一些历史照片的事情。在视觉中国应 @共青团中央 点名删除该图片集之前，我们可以从照片页面 [9] 得知，国旗图片是 2007 年由“中国网”提供给视觉中国的。
 
-![](https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/04.jpg)
+![](/img/2019/04/11/zai-tan-shi-jue-zhong-guo/04.jpg)
 
 在中国网（China.com.cn）当中有一个栏目叫“中国国情”，它类似于新华网（News.cn）开设的“新华资料”以及中国政府网（Gov.cn）开设的“国情”栏目，方便对中国不了解的外国人，或学习相关知识的中小学生等用户，获得一些中国的基本信息，包括国旗国徽，国家成立日期，人口，疆域，民族等等。这个资料库摆在那里，很长时间也没有翻新，估计点击量也不会太高。但这里面确实存有国旗、国徽等相关的图片 [10] 。这可能就是视觉中国引用图片的出处。
 
@@ -145,6 +145,6 @@ image: https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 
 [10] http://guoqing.china.com.cn/2011-10/10/content_23588690.htm
 
-![](https://lishuhang.me/img/2019/04/11/zai-tan-shi-jue-zhong-guo/05.jpg)
+![](/img/2019/04/11/zai-tan-shi-jue-zhong-guo/05.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

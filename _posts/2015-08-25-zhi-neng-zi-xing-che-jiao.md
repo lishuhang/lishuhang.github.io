@@ -33,4 +33,4 @@ source: "https://zhuanlan.zhihu.com/p/20182330"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-21/old-fashioned-bike/)
 
-![](https://lishuhang.me/img/2015/08/25/zhi-neng-zi-xing-che-jiao/01.jpg)
+![](/img/2015/08/25/zhi-neng-zi-xing-che-jiao/01.jpg)

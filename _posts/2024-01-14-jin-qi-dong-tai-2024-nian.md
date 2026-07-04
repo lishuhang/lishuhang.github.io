@@ -4,10 +4,10 @@ title: "近期动态（2024年1月上半月）"
 date: 2024-01-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/01/14/jin-qi-dong-tai-2024-nian/01.jpg
+image: /img/2024/01/14/jin-qi-dong-tai-2024-nian/01.jpg
 ---
 
-![](https://lishuhang.me/img/2024/01/14/jin-qi-dong-tai-2024-nian/01.jpg)
+![](/img/2024/01/14/jin-qi-dong-tai-2024-nian/01.jpg)
 
 进入2024年，刚刚说好每天早上发一次的AIGC早报，已经连着俩星期没发了。但实际上它们还是每天在生成的，只是因为工作太忙而没有及时同步到公众号上。
 

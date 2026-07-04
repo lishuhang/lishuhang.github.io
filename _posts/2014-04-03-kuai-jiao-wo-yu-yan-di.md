@@ -19,7 +19,7 @@ source: "https://zhuanlan.zhihu.com/p/19718901"
 >
 > 假如把 WP8 的启动界面放在现在“开始按钮”附近的位置，是不是顿感天衣无缝？
 
-![](https://lishuhang.me/img/2014/04/03/kuai-jiao-wo-yu-yan-di/01.jpg)
+![](/img/2014/04/03/kuai-jiao-wo-yu-yan-di/01.jpg)
 
 2014年4月3日：[微软Build 2014首日发布会 开始菜单回归](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/279721.htm)
 

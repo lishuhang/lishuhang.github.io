@@ -4,7 +4,7 @@ title: "地狱长什么样"
 date: 2016-08-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/08/17/di-yu-zhang-shen-me-yang/01.jpg
+image: /img/2016/08/17/di-yu-zhang-shen-me-yang/01.jpg
 ---
 
 我也不是故意要想起问这个问题，只是在整理自己以前日记的时候翻到了这个。我有定期清空自己不需要的日记的习惯。

@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 2005年，王伟想约董、张二人一起离开新浪二次创业，但这两人却觉得自己没有在UC项目上获得收益分享，只拿到了几千股新浪期权，不愿再跟原来的老板。两人一合计，凑了10万元钱，[于2005年11月做起了在线音乐互动平台呱呱](https://link.zhihu.com/?target=http%3A//news.iheima.com/show-6-38356-1.html)。
 
-![](https://lishuhang.me/img/2014/07/10/meng-hui-uc-wang-chao-lang/01.jpg)
+![](/img/2014/07/10/meng-hui-uc-wang-chao-lang/01.jpg)
 
 *呱呱的界面*
 
@@ -39,7 +39,7 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 在9158、分贝网、YY、六间房这些网站吸引着网络上的陌生人的同时，电话对对碰吸引的是同一群人，只是他们不上网。
 
-![](https://lishuhang.me/img/2014/07/10/meng-hui-uc-wang-chao-lang/02.jpg)
+![](/img/2014/07/10/meng-hui-uc-wang-chao-lang/02.jpg)
 
 *朗玛业务宣传PPT*
 
@@ -55,7 +55,7 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 2006年9月，朗玛带着IDG的第二次注资，开始杀入网游领域。经过三年的研发，朗玛的第一款网络游戏《妖怪A梦》在2009年全面上市，这是一款“以宠物养成为发展脉络的2D回合制Q版大型多人在线网络游戏”。
 
-![](https://lishuhang.me/img/2014/07/10/meng-hui-uc-wang-chao-lang/03.jpg)
+![](/img/2014/07/10/meng-hui-uc-wang-chao-lang/03.jpg)
 
 *《妖怪A梦》壁纸*
 
@@ -79,7 +79,7 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 2012年2月，朗玛信息在深交所挂牌上市，股价涨幅高达300%。公司真的成了贵州“一张闪亮的名片”，获得非常多的省级荣誉。
 
-![](https://lishuhang.me/img/2014/07/10/meng-hui-uc-wang-chao-lang/04.jpg)
+![](/img/2014/07/10/meng-hui-uc-wang-chao-lang/04.jpg)
 
 *上市仪式上的王伟*
 
@@ -109,7 +109,7 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 2013年6月，朗玛推出“[捧我网](https://link.zhihu.com/?target=http%3A//www.peng5.com/)”。据称，这个网站“是朗玛公司全新打造的跨越电信网和互联网平台的新一代大型语音交友娱乐社区，用户通过浏览器访问网站，不需要安装任何客户端软件，就可以进入到丰富多彩的语音世界当中，与全国各地乃至世界各地的朋友们尽情聊天交流感情，参与各类互动游戏。”
 
-![](https://lishuhang.me/img/2014/07/10/meng-hui-uc-wang-chao-lang/05.jpg)
+![](/img/2014/07/10/meng-hui-uc-wang-chao-lang/05.jpg)
 
 *捧我网*
 

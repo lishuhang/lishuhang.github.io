@@ -4,10 +4,10 @@ title: "ChatGPT没有做的AI搜索，是不是下一个战场"
 date: 2024-05-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
+image: /img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 ---
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png)
 
 文 / 书航 2024.5.14
 
@@ -27,25 +27,25 @@ image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 在秘塔AI搜索刚上线时，我们在秘塔科技的办公室，与王益为进行了深入的交谈。这期访谈节目的完整版，欢迎长按或扫描下面的二维码收听：
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/22.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/22.png)
 
 ## AI搜索，怎么这么像是大模型
 
 在ChatGPT的搜索功能正式亮相之前，外界充满了传闻和猜测。X（Twitter）用户 @btibor91 根据泄露的部分前端代码，绘制了ChatGPT搜索界面的假想效果图：
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/03.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/03.jpg)
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/04.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/04.jpg)
 
 然而，我们可能很难看出新的搜索界面与之前传统的GPT聊天框之间有什么区别。
 
 与此同时，自媒体“赛博禅心”刷到了灰度测试中的 ChatGPT搜索，下面是他尝试搜索的结果页面：
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/05.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/05.jpg)
 
 这是视智未来使用ChatGPT Plus早就有的联网功能，输入的提示词以及获得的结果页面：
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/06.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/06.png)
 
 ——不能说非常相似，就是一模一样嘛！
 
@@ -59,7 +59,7 @@ image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 市面上的大模型聊天产品，除了ChatGPT等少数，大多数模型都将联网搜索功能免费提供，像文心一言甚至不支持取消联网功能。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/07.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/07.png)
 
 这实际上已经就是一种形式的“AI搜索”了。此时，调用大模型API生成的结果，跟在大模型官网对话的结果，就会产生一定的差异。
 
@@ -67,15 +67,15 @@ image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 结果是，同一厂家的大模型联网结果和AI搜索结果，很大程度上是可以相互替代的，尽管每次生成的结果都不完全相同。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/08.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/08.png)
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/09.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/09.png)
 
 王益为觉得RAG就是最大限度减少幻觉的最优解。他认为，让大模型基于自己训练的知识库回答问题类似于闭卷考试，而使用搜索引擎则相当于开卷考试，将准确率大大提升。
 
 秘塔的拳头产品“写作猫”还开辟了基于搜索的“事实验证”功能，在一篇生成的或人类写作的文章中，挑出可能有事实错误的地方，并提供网上相关信息的链接。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/10.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/10.png)
 
 当然，因为也不能100%依赖AI的判断，这个功能将报警阈值调得比较低，有时会有误报，但“宁可杀错，不可放过”，主要是方便作者人工二次检查。
 
@@ -93,11 +93,11 @@ image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 在Perplexity们的界面当中都可以指定限定来源搜索，而要想做到这一点，最简单的方式就是用一个site语法来实现；用提示词也是一样的。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/11.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/11.png)
 
 秘塔科技的王益为说，在写作猫当中可以引用学术文献作为文章内容的来源说明，这有助于AI帮学生们自动生成一篇论文的底稿。不过截至目前，学术搜索依然是检索一些公开的资源，比如知网的网页版等等。系统只能抓取标题和摘要等公网能访问的信息，暂时还不能访问正文等需要付费的内容。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/12.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/12.jpg)
 
 秘塔AI搜索也有一个专门的学术搜索分区，其检索范围和写作猫的学术文献检索是一样的。因此，如果真的有人想“量产”论文，一定要记得亲自做好事实核查工作。
 
@@ -119,35 +119,35 @@ image: https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/01.png
 
 而早在文心一言上线之前，百度已经推出了名为“AI搜索智能增强”的能力，现在这一功能已经在越来越多的不同关键字的搜索结果页面上显示。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/13.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/13.png)
 
 百度主打一个够用就行，倒也没完全追求一定要用大模型来生成。它始终没有将文心一言跟搜索结果页整合，而是停留在“简单搜索”等外围尝试。
 
 另一种展示方式是类似于微软必应集成的Copilot。在用户没有主动调用Copilot时，输入关键词的搜索结果将显示在页面的左侧，而Copilot生成的内容则显示在右侧。360搜索的展示方式与必应相同。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/14.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/14.png)
 
 与之相比，并不是由“传统”搜索引擎做的AI搜索，则会使用一种重新设计过的，专门的三栏式AI搜索界面。这种设计的开创者是AI领域的“当红炸子鸡”Perplexity，这个名称在英语中意为“困惑”。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/15.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/15.png)
 
 Perplexity的创始人Aravind Srinivas对自己公司开创的这种新型搜索界面非常敏感，他甚至在X（Twitter）上发文称Meta AI的首页设计模仿了他们，引发了一场小规模的争论。
 
 在国内，采用这种界面的包括昆仑万维的天工和秘塔等。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/16.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/16.png)
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/17.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/17.png)
 
 风头正劲的Arc浏览器的iOS版本，对AI搜索采用了一种更简洁明了的“变体”界面，隐藏了其它竞品中一些可能干扰用户的可选项。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/18.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/18.jpg)
 
 因为开源社区的帮助，做一个AI搜索的“开发成本”现在已经做到很低，甚至出现了可以同时选择搜索API和大模型API切换的开源界面方案，就是搜索引擎+大模型的“双重套壳”。
 
 据说这款名叫ThinkAny的外壳由一位独立的开发者用了3天时间开发完毕。选择搜索范围、生成思维导图，切换大模型引擎，这些功能一个不落。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/19.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/19.png)
 
 这样一看，AI搜索实际上是给大模型又套上了一层新的皮肤，找到了一个新的使用场景，也在解决人们对ChatGPT式聊天界面的“审美疲劳”。
 
@@ -167,7 +167,7 @@ Perplexity的创始人Aravind Srinivas对自己公司开创的这种新型搜索
 
 实际上，豆包的策略是首先通过搜索引擎推广（SEO）战术，使用更精确的关键词吸引用户，然后将这些关键词通过豆包的回答，把引流链接贴到搜索结果页面。在推广抖音的时候，字节已经熟练运用了这种方法。
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/20.jpg)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/20.jpg)
 
 可以预见，如果有人通过某种方式，将自己的搜索请求从传统搜索引擎完全转移到豆包，并形成了新的习惯，这就意味着哪怕是本来不需要大模型的搜索请求，他们也是用AI搜索，因为他们更不愿意混搭使用多个不同的工具。
 
@@ -213,7 +213,7 @@ Perplexity的创始人Aravind Srinivas对自己公司开创的这种新型搜索
 
 “我有个理论，（在国内）一个工具的合理定价，大约是它所替代的工作价值的1/10。例如，MetaLaw的产品定价是499元/年。这个价格对许多律师来说是可接受的。否则，他们可能认为是有点用途，但是不值这个价。最开始我们尝试了一个1599元的价格，但一个都没卖出去。后来我们降到499元，付费意愿就上来了。”
 
-![](https://lishuhang.me/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/21.png)
+![](/img/2024/05/29/chatgpt-mei-you-zuo-de-ai/21.png)
 
 秘塔因为创始人的背景因素，可以对法律AI创业轻车熟路，也见证了不少其它贸然进入法律AI的开发者碰壁。尽管如此，他们仍然深刻感受到追求盈利在国内的艰难。
 

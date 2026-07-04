@@ -4,7 +4,7 @@ title: "又到一年 9_11"
 date: 2017-09-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
+image: /img/2017/09/13/you-dao-yi-nian-9_11/01.png
 ---
 
 新媒体管家
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 文|书航
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/01.png)
 
 美国 9/11 恐怖袭击的 16 周年纪念日，同时也是其他相对不起眼的事件所共享的纪念日，例如日本单方面宣布将钓鱼岛“国有化”整整三年，或者东日本大地震 6 年半。
 
@@ -25,7 +25,7 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 好像当年请愿要诺奖颁给昂山素季的同一批美国民众，正在联署签名，希望把颁给她的奖撤回来。
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/02.png)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/02.png)
 
 9/11 纪念日之后第二天，苹果就会开发布会发布几乎被剧透完毕的 iPhone X，并首次启用苹果飞碟型的新总部。
 
@@ -37,7 +37,7 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 现在他们都不需要避讳了。
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/03.png)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/03.png)
 
 近十几年里总有一件事让一个国家泪流满面，美国是 9/11，中国是 2008 年的四川地震，日本就是 3/11 大地震。
 
@@ -53,7 +53,7 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 恐怖袭击、核弹威胁、局部战争、群体事件和其他大小风波，就是这样在麻木和假相的夹击情境下，悄然无声地改变着世界，身处其中的人，体会不出这改变有多大。
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/04.png)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/04.png)
 
 但 9/11 当年见证者的证词却足以证明 16 年前与现在相比是多么恍如隔世。
 
@@ -65,7 +65,7 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 就像无处不在的，稳定如空气和水的网络连接一样，很多事情回头看，都不是那么理所当然的。
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/05.png)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/05.png)
 
 早几年，我跟着了迷一样，一直在视频网站上追看 9/11 当年的电视节目回放。
 
@@ -79,4 +79,4 @@ image: https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/01.png
 
 ---END---
 
-![](https://lishuhang.me/img/2017/09/13/you-dao-yi-nian-9_11/06.jpg)
+![](/img/2017/09/13/you-dao-yi-nian-9_11/06.jpg)

@@ -4,7 +4,7 @@ title: "腾讯做（？）了个“什么值得买”"
 date: 2017-05-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/05/31/teng-xun-zuo-le-ge-shen/01.png
+image: /img/2017/05/31/teng-xun-zuo-le-ge-shen/01.png
 ---
 
 比较一下咯：

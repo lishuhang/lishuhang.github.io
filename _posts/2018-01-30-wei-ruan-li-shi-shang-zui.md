@@ -4,7 +4,7 @@ title: "微软历史上最成功和最失败的产品是怎样走到一起的？
 date: 2018-01-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/01/30/wei-ruan-li-shi-shang-zui/01.jpg
+image: /img/2018/01/30/wei-ruan-li-shi-shang-zui/01.jpg
 ---
 
 文 | 书航

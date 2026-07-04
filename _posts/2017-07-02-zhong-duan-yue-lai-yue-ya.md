@@ -4,7 +4,7 @@ title: "“终端”越来越“哑”了"
 date: 2017-07-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/07/02/zhong-duan-yue-lai-yue-ya/01.jpg
+image: /img/2017/07/02/zhong-duan-yue-lai-yue-ya/01.jpg
 ---
 
 共享单车主题的文章 我已经写了好多了 ，但可以说，只要摩拜和 ofo 还没分出胜负，这个话题就远没到让大家审美疲劳的时候。

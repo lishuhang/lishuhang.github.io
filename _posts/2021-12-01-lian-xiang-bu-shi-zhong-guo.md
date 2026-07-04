@@ -4,7 +4,7 @@ title: "“联想不是中国的！”论如何判断一家企业是不是中国
 date: 2021-12-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg
+image: /img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg
 ---
 
 航通社首发原创文章，未经授权禁止转载
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg
 
 2021年 第33B期
 
-![](https://lishuhang.me/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg)
+![](/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg)
 
 文 / 书航 2021.11.30
 
@@ -77,7 +77,7 @@ image: https://lishuhang.me/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/01.jpg
 
 如果对所有的中国企业的认定也是这么沾亲带故的话，联想当然也是一家不折不扣的中国企业。以上 ;)
 
-![](https://lishuhang.me/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/02.jpg)
+![](/img/2021/12/01/lian-xiang-bu-shi-zhong-guo/02.jpg)
 
 ℹ️ 点此查看航通社简介 >>
 

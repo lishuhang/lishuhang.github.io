@@ -4,7 +4,7 @@ title: "不可能的任务：Windows 10 走向 10 亿装机量之路"
 date: 2016-07-29
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/01.png
+image: /img/2016/07/29/bu-ke-neng-de-ren-wu/01.png
 ---
 
 今天，7月29日，Windows 10 免费升级计划正式到期。今后用户要升级，只能购买授权，家庭版888元或120美元，专业版1799元或200美元，家庭版升级专业版880元。
@@ -37,7 +37,7 @@ Terry Myerson 还表示，未来微软会更加专注地服务于 Windows 10 的
 
 综合IDC等多家研究机构的数据，2016年第1季度全球手机的出货量达到2.9亿，PC（包含台式机和笔记本，不含二合一平板）的出货量是6500万台，比去年同期还下降了5.2%。所有的平板出货量总共是3900万台，这其中计入了含有iOS，Android和Windows系统的平板，所以要在这里把Windows的二合一平板剔除出来。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/02.png)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/02.png)
 
 而如何估算预装了Windows 10系统的平板出货量呢？因为没有直接的统计，我们只能通过间接方法来计算。微软自己之前的数据是Surface全列，包括Surface Pro和Surface Book占据了Windows 10平板出货量总数的1/3，而在上一季度该系列的出货量大约是110万台，由此可以估计Windows 10平板的出货量是350万台。
 
@@ -59,13 +59,13 @@ Terry Myerson 还表示，未来微软会更加专注地服务于 Windows 10 的
 
 在此之前所有的PC OEM厂商，不管是联想，惠普，戴尔，宏碁这些全球厂商，还是相对的各国的区域性品牌，普遍存在吃老本，不思进取的问题，不希望进行工业设计和性价比方面的改进。微软的Surface系列产品虽然创造出了被人们交口称赞的梦想机器，但是也相应的提高了品牌溢价，它的定价是不合比例的高，这样给厂商留了一线空间，希望他们能够以此为蓝本，做出自己的第三方机型降低售价。然而这些OEM厂商似乎并不领情，微软只得再下狠手，进一步刺激和盘活市场。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/03.jpg)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/03.jpg)
 
 *Matebook 图／Flickr*
 
 今年早些时候，华为宣布推出自己第一台笔记本电脑Matebook，这台二合一平板融合了Surface定下的基调，同时又包含了类似iPad的外观，如果追求移动办公特性的话，那么这将是一个理想的选择。另外一个原来不做电脑的厂商小米也推出了笔记本。小米是微软的官方合作伙伴之一，这一合作微软是和腾讯以及360的合作共同宣布的，虽然当时小米没有宣布PC方面的计划，但小米4和之后的小米5手机可以刷机抢先体验Windows 10 Mobile。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/04.png)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/04.png)
 
 *小米平板 Windows 10 版 图／小米官网*
 
@@ -81,13 +81,13 @@ Terry Myerson 还表示，未来微软会更加专注地服务于 Windows 10 的
 
 传统的x86应用所对应的屏幕分辨率至少都在1024×768以上，这样的分辨率缩小到手机的显示尺寸当中会非常难受。一种方式是直接显示小型的字体，整个字体看起来就像是考试时候的小抄一样，可以使用触控笔或者是指点杆的方式来进行微细的操作。另一种方式是使用传统系统并不存在的多点触摸方式来缩放整个屏幕。微软此前的iOS、Android远程桌面客户端同时提供这两种方式的试用，说实话都不很方便，但是应急用一下也能凑合。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/05.jpg)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/05.jpg)
 
 *iOS 版微软远程桌面。作者供图*
 
 安装有手机大小屏幕和全功能Windows的设备，以前就有，被称为UMPC，其中索尼曾经做过多款机器，代表了工业设计的新高度，然而性能惨不忍睹，限制了进一步流行。最近也有厂商做了最新尝试，在手机大小的机器上，除了键盘之外还集成操纵杆，用来模拟游戏体验。经过多年发展，UMPC使用的Atom处理器，已经可以和几年前尺寸更大的上网本相媲美，基本具备了移动办公的条件，可能确实是时候重新引入市场了。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/06.png)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/06.png)
 
 *PGS Labs 开发的 Windows 10 游戏掌机。图／官网*
 
@@ -99,7 +99,7 @@ Terry Myerson 还表示，未来微软会更加专注地服务于 Windows 10 的
 
 微软在2013年8月推出了针对iPad和Android平板的远程桌面应用，可以在同一个局域网之内，先打开一台Windows的电脑，然后把iPad或者是安卓平板、手机作为电脑的第二屏幕。此后，微软又推出了基于Azure RemoteApp的测试工具RemoteIE，它的主要用途是让运行非Windows系统的网页开发者，可以测试在Windows系统上的实际显示效果。RemoteIE运行在一个托管在Azure上的虚拟化Windows系统当中，用户登录之后不能看到这个系统的开始菜单、任务栏以及资源管理器等，只能够看到IE这个应用窗口本身，其登陆的进程也是一次性的，上面的任何文件都不能长期保存。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/07.png)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/07.png)
 
 *RemoteIE 启动界面。图／微软*
 
@@ -107,7 +107,7 @@ Terry Myerson 还表示，未来微软会更加专注地服务于 Windows 10 的
 
 Elite x3 搭载了骁龙820处理器，支持Windows 10特有的Continuum功能，连上扩展坞可秒变微型Windows 10主机。员工通过 HP Elite x3 的 Continuum 模式运行 HP Workspace 虚拟机客户端，包括旧的 x86 应用，SAP 应用，或者其他不适合触屏设备的应用。需要手机先连接到显示器或者Dock上才能启动。
 
-![](https://lishuhang.me/img/2016/07/29/bu-ke-neng-de-ren-wu/08.jpg)
+![](/img/2016/07/29/bu-ke-neng-de-ren-wu/08.jpg)
 
 *HP Workspace 界面。图／MS Poweruser*
 

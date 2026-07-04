@@ -4,7 +4,7 @@ title: "面对霸道而贪婪的百度贴吧，我们怎么办？"
 date: 2015-10-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/10/22/mian-dui-ba-dao-er-tan/01.jpg
+image: /img/2015/10/22/mian-dui-ba-dao-er-tan/01.jpg
 ---
 
 是什么让百度贴吧在同类产品中的地位至今无人撼动？是什么让它的用户只能通过“爆吧”的极端手段来施加报复？

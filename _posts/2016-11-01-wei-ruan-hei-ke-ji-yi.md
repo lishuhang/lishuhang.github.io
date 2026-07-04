@@ -4,7 +4,7 @@ title: "微软黑科技：一边聊天一边生成一份麦当劳订单"
 date: 2016-11-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/11/01/wei-ruan-hei-ke-ji-yi/01.jpg
+image: /img/2016/11/01/wei-ruan-hei-ke-ji-yi/01.jpg
 ---
 
 cnBeta http://t.cn/RVBajTi

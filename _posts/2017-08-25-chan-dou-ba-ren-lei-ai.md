@@ -4,7 +4,7 @@ title: "颤抖吧人类！AI 正占领中日播音主持人行业"
 date: 2017-08-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/25/chan-dou-ba-ren-lei-ai/01.jpg
+image: /img/2017/08/25/chan-dou-ba-ren-lei-ai/01.jpg
 ---
 
 文|书航

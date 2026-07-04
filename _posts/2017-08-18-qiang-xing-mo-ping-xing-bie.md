@@ -4,7 +4,7 @@ title: "强行抹平性别差异是一种讳疾忌医"
 date: 2017-08-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/08/18/qiang-xing-mo-ping-xing-bie/01.jpg
+image: /img/2017/08/18/qiang-xing-mo-ping-xing-bie/01.jpg
 ---
 
 文|书航
@@ -127,6 +127,6 @@ image: https://lishuhang.me/img/2017/08/18/qiang-xing-mo-ping-xing-bie/01.jpg
 
 ---END---
 
-![](https://lishuhang.me/img/2017/08/18/qiang-xing-mo-ping-xing-bie/02.jpg)
+![](/img/2017/08/18/qiang-xing-mo-ping-xing-bie/02.jpg)
 
-![](https://lishuhang.me/img/2017/08/18/qiang-xing-mo-ping-xing-bie/03.jpg)
+![](/img/2017/08/18/qiang-xing-mo-ping-xing-bie/03.jpg)

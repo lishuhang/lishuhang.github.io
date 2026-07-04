@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/21394950"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-06-21/hasee-mid-2016/)
 
-![](https://lishuhang.me/img/2016/06/21/zhe-me-duo-nian-le-zhe/01.png)
+![](/img/2016/06/21/zhe-me-duo-nian-le-zhe/01.png)

@@ -33,4 +33,4 @@ Windows 95 的发售可能是科技史上最激动人心的时刻之一，不管
 
 动点科技
 
-![](https://lishuhang.me/img/2015/08/28/windows-95-20-zhou-nian-95/01.jpg)
+![](/img/2015/08/28/windows-95-20-zhou-nian-95/01.jpg)

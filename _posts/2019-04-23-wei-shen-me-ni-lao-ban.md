@@ -4,14 +4,14 @@ title: "为什么你老板还没有推行在家办公？一个传播学角度的
 date: 2019-04-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/04/23/wei-shen-me-ni-lao-ban/01.jpg
+image: /img/2019/04/23/wei-shen-me-ni-lao-ban/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/04/23/wei-shen-me-ni-lao-ban/01.jpg)
+![](/img/2019/04/23/wei-shen-me-ni-lao-ban/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/04/23/wei-shen-me-ni-lao-ban/02.jpg)
+![](/img/2019/04/23/wei-shen-me-ni-lao-ban/02.jpg)
 
 书航 4 月 23 日发于北京
 
@@ -97,7 +97,7 @@ image: https://lishuhang.me/img/2019/04/23/wei-shen-me-ni-lao-ban/01.jpg
 
 当我们说到“远程办公”的时候，设计整套流程并付诸实践的企业负责人就是这一变革的“产品经理”，如何在没有“抬头不见低头见”，缺乏“化学反应”的情况下仍能清晰传达业务目标，培养企业文化和员工凝聚力，才是他们面临的最大挑战。
 
-![](https://lishuhang.me/img/2019/04/23/wei-shen-me-ni-lao-ban/03.jpg)
+![](/img/2019/04/23/wei-shen-me-ni-lao-ban/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

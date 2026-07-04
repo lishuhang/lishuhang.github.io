@@ -4,14 +4,14 @@ title: "谁的前门，谁的长岛"
 date: 2019-06-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
+image: /img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 4200 字
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg)
 
 书航 6 月 21 日发于北京
 
@@ -37,7 +37,7 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 然而全国各地总有一些人是平生第一次过来，可能也只有这一次机会来。那么他们来了就算见过世面，完全可以心满意足。
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/02.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/02.jpg)
 
 根据一项学术研究，前往乌镇、周庄的游客认为“保持古镇建筑特色”，“保护古镇周边环境原封不动”很重要，但由于自身判断力有限，他们对古镇元素的“真假”判断，更多依赖于开发者和媒体宣传留下的印象。[2]
 
@@ -63,7 +63,7 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 所以补救措施就是在前门的西边辟出了一块地块，作为可以放胆开发的新项目“北京坊”。虽然是国企主导，不过MUJI、WeWork、星巴克、Page One等项目的进驻让北京坊的运作就像太古的三里屯一样成功。
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/03.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/03.jpg)
 
 只要放开胆子去想，可以把一些原本认为跟前门调调完全不搭的东西，都重新弄到这个地方来，让它实现该有的商业价值。SOHO 中国最开始的方案，设想的也是让顶级奢侈品撑起这个地块的门面，结果就是像王府井一样，总归会比眼下不尴不尬的大街定位好一点。
 
@@ -79,7 +79,7 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 然而一旦考虑到前门大街在中轴线上这一事实，它就立马演变成“北京市的前门”，甚至于上升到“国家的前门”的高度。此时任何试图商业化的操作，都会因为戴上沉重的锁链而步履维艰。
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/04.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/04.jpg)
 
 谁的长岛
 
@@ -115,7 +115,7 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 在整体物价上了一个大台阶后，拥有土地、商铺的房东们会更开心，而继承这片土地的城市中产或各地游客也会各取所需。
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/05.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/05.jpg)
 
 所谓“士绅化”的真正受害者，是那些不具备购买力，有时甚至需要扶助的穷人。
 
@@ -125,7 +125,7 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 你不能做到只保留黑人的说唱，拉美裔的卷饼美食，而精准地摘掉街头械斗、毒品和青少年怀孕——就像你不能只保留天桥艺人的唱段，把它们栽培到茶馆固定场所的“温室”里，再复原一辆电动的铛铛车，就算是保护了传统文化。
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/06.jpg)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/06.jpg)
 
 （MUJI HOTEL 大堂陈列的日本乡土玩具展）
 
@@ -157,6 +157,6 @@ image: https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/01.jpg
 
 [8] https://www.nytimes.com/2019/03/03/technology/amazon-new-york-politics-jobs.html
 
-![](https://lishuhang.me/img/2019/06/21/shei-de-qian-men-shei-de/07.png)
+![](/img/2019/06/21/shei-de-qian-men-shei-de/07.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

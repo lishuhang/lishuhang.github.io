@@ -4,7 +4,7 @@ title: "几大互联网服务争相推出轻便版，受益的不只是“新兴
 date: 2017-04-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/06/ji-da-hu-lian-wang-fu/01.jpg
+image: /img/2017/04/06/ji-da-hu-lian-wang-fu/01.jpg
 ---
 
 除了都不能在中国大陆正常访问之外，三款全球最流行的互联网服务又多了一个新的共同点。

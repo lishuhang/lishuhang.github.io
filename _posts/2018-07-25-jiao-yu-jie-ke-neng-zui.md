@@ -4,7 +4,7 @@ title: "教育界可能最像小米的麦淘亲子，怎么避开“小米模式
 date: 2018-07-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/07/25/jiao-yu-jie-ke-neng-zui/01.jpg
+image: /img/2018/07/25/jiao-yu-jie-ke-neng-zui/01.jpg
 ---
 
 点第一个**航通社**可以👍**喜欢作者**

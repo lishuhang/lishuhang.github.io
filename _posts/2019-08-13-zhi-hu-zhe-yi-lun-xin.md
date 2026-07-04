@@ -4,12 +4,12 @@ title: "知乎这一轮新融资，证明这三个流行的观点是错的"
 date: 2019-08-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg
+image: /img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg)
+![](/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg)
 
 书航 8 月 13 日发于北京
 
@@ -75,7 +75,7 @@ image: https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg
 
 8 月 9 日，一组最新的微信小程序内测新入口截图曝光。截图显示，微信首次加强了小程序的主入口推荐，增设了“建议使用”、“大家在用“、”动态“等多个推荐栏目。
 
-![](https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/02.jpg)
+![](/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/02.jpg)
 
 三大栏目基于用户时长、好友在用、信息流展示等逻辑做推荐，不少都是用户完全没有使用过的。
 
@@ -149,6 +149,6 @@ image: https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg
 
 [6] https://tech.sina.com.cn/i/2019-08-12/doc-ihytcitm8665423.shtml
 
-![](https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/03.png)
+![](/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/03.png)
 
-![](https://lishuhang.me/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/04.png)
+![](/img/2019/08/13/zhi-hu-zhe-yi-lun-xin/04.png)

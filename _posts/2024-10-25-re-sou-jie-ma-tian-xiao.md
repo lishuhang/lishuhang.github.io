@@ -4,12 +4,12 @@ title: "热搜解码：田小娟离开CUBE不续约"
 date: 2024-10-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png
+image: /img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png
 ---
 
 韩娱偶像格局或再变天？
 
-![](https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png)
+![](/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png)
 
 文 / 书航 2024.10.25
 
@@ -37,7 +37,7 @@ image: https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png
 
 田小娟在18岁时以练习生身份参加了韩国的选秀节目《Produce 101》，该节目旨在从众多年轻练习生中选出人气最高的101人组成女团。然而，在当时这个注重颜值的娱乐圈，田小娟的外貌并不符合传统偶像的“美貌”标准，遭遇了大量外貌攻击和嘲笑。她的照片被人嘲讽“不够好看”“不敬业”，甚至有人认为她不配在舞台上。面对这些恶意评价，田小娟在节目中没有流泪，虽然自卑和不自信，但她选择用实力去回应这些质疑。
 
-![](https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/02.png)
+![](/img/2024/10/25/re-sou-jie-ma-tian-xiao/02.png)
 
 在《Produce 101》中，田小娟虽然只取得第20名，但她没有因此而放弃，反而继续努力，参加了《Unpretty Rapstar》节目。在这个专为女性说唱歌手设置的竞技舞台上，她首次展示了自己在rap方面的真正才华。田小娟面对地下rapper的挑战，凭借犀利的表演和张扬的个性赢得了尊重，逐渐摆脱了单纯“rap担当”的标签，真正成为一名令人敬畏的rapper。
 
@@ -57,7 +57,7 @@ image: https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png
 
 2006年，权志龙作为BIGBANG的队长正式出道，迅速成为组合的核心创作者和风格引领者。在BIGBANG，他凭借多首经典曲目确立了地位，例如《Fantastic Baby》等展现了年轻人的自信与不羁。他的作品带有独特的节奏和个性，影响了韩国甚至全球的流行音乐。2009年，他发布个人专辑《Heartbreaker》取得巨大成功，后续的作品《COUP D'ETAT》和与成员太阳的合作曲《Good Boy》也都备受欢迎，使他在音乐创作上拥有广泛的国际认可。
 
-![](https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/03.png)
+![](/img/2024/10/25/re-sou-jie-ma-tian-xiao/03.png)
 
 两人的成长路径有许多相似之处，都经历了练习生时代的漫长打磨，凭借顽强的意志和天赋，逐步在团队中获得核心地位，但最主要的是他们都展现了独立创作的才能，在音乐产业链中可以担当更多面的位置。
 
@@ -95,7 +95,7 @@ image: https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/01.png
 
 2000年代中期，朴振英在Wonder Girls的推广上进行了大胆尝试，包括带领她们赴美发展。尽管该尝试因经济危机受挫，JYP却吸取了重要的教训，并逐渐转变经营策略，将关注点从单一艺人培养扩展到系统化的艺人管理模式。这一阶段，JYP娱乐进一步成长，旗下成功推出的2PM、Miss A等组合均取得了不俗成绩。特别是2015年出道的Twice，成为了K-Pop领域的顶级女团，为JYP带来了巨大的经济和品牌价值。
 
-![](https://lishuhang.me/img/2024/10/25/re-sou-jie-ma-tian-xiao/04.png)
+![](/img/2024/10/25/re-sou-jie-ma-tian-xiao/04.png)
 
 当然，时代也不一样了。在JYP创业的90年代至2000年代，韩流在卫星电视、互联网等新媒体的发展推动下，积极向全球扩展。在此时期，韩国娱乐产业正处于创业阶段，市场格局尚未稳固，使得JYP等公司成为韩娱市场的奠基者。
 

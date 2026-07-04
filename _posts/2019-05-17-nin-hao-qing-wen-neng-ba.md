@@ -4,7 +4,7 @@ title: "“您好，请问能把您的邮箱账号让给我吗？”"
 date: 2019-05-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg
+image: /img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg
 ---
 
 ——你应该知道的历史、现在和未来——
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg
 
 原创文章未经授权禁止转载
 
-![](https://lishuhang.me/img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg)
+![](/img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg)
 
 书航 5 月 17 日发于北京
 
@@ -117,7 +117,7 @@ image: https://lishuhang.me/img/2019/05/17/nin-hao-qing-wen-neng-ba/01.jpg
 
 [9] https://www.zhihu.com/question/50208564/answer/120535474
 
-![](https://lishuhang.me/img/2019/05/17/nin-hao-qing-wen-neng-ba/02.jpg)
+![](/img/2019/05/17/nin-hao-qing-wen-neng-ba/02.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

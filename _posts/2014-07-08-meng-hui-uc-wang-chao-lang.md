@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19796040"
 
 在“车库”里，王伟他们做的第一个产品叫做“统一消息系统”，英文简称UMS。简单地说，它就是统一的管理电话语音/短信，WWW/WAP和传真这三种不同的通信载体，让消息可以统一的发送到这三个平台的业务。我们知道，现在4G已经将语音通话并入互联网数据传送，短信也正被微信取代，传真更是成了极少用到的古董。“三网融合”最终是由互联网包办了一切。
 
-![](https://lishuhang.me/img/2014/07/08/meng-hui-uc-wang-chao-lang/04.jpg)
+![](/img/2014/07/08/meng-hui-uc-wang-chao-lang/04.jpg)
 
 *UMS系统图解*
 
@@ -59,7 +59,7 @@ UC花一年半研制的语音技术，能够成功地做到在当时传输速率
 
 不过，腾讯在QQ2004版本当中购买了来自瑞典GIPS的VoIP语音技术。虽然没有自主研发，但是对用户来说区别不大。
 
-![](https://lishuhang.me/img/2014/07/08/meng-hui-uc-wang-chao-lang/05.jpg)
+![](/img/2014/07/08/meng-hui-uc-wang-chao-lang/05.jpg)
 
 *UC早期软件界面*
 
@@ -91,7 +91,7 @@ UC花一年半研制的语音技术，能够成功地做到在当时传输速率
 
 这个时候，UC在干什么呢？
 
-![](https://lishuhang.me/img/2014/07/08/meng-hui-uc-wang-chao-lang/06.jpg)
+![](/img/2014/07/08/meng-hui-uc-wang-chao-lang/06.jpg)
 
 *汪延在新浪UC2005发布会上*
 

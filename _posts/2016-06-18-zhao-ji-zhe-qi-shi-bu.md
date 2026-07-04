@@ -101,4 +101,4 @@ source: "https://zhuanlan.zhihu.com/p/21375389"
 
 [网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0618/10/BPRB0KUA00097UF6.html)
 
-![](https://lishuhang.me/img/2016/06/18/zhao-ji-zhe-qi-shi-bu/01.png)
+![](/img/2016/06/18/zhao-ji-zhe-qi-shi-bu/01.png)

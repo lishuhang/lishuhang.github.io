@@ -4,10 +4,10 @@ title: "活动 _ 送三本书"
 date: 2018-10-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/01.jpg
+image: /img/2018/10/23/huo-dong-_-song-san-ben/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/01.jpg)
+![](/img/2018/10/23/huo-dong-_-song-san-ben/01.jpg)
 
 航通社今天做一个小活动，给大家送三本书（包邮）。
 
@@ -27,17 +27,17 @@ image: https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/01.jpg
 
 ① 首先，你自己需要关注航通社 👇
 
-![](https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/02.jpg)
+![](/img/2018/10/23/huo-dong-_-song-san-ben/02.jpg)
 
 ② 然后，邀请尽可能多的你的亲朋好友关注航通社 👆
 
 ③ 然后，拿个小本本 📕 记录下他们的微信昵称（不是微信 ID）
 
-![](https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/03.png)
+![](/img/2018/10/23/huo-dong-_-song-san-ben/03.png)
 
 ④ 然后，加航通社助理 👇 为好友
 
-![](https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/04.png)
+![](/img/2018/10/23/huo-dong-_-song-san-ben/04.png)
 
 ⑤ 然后，把小本本记下的微信昵称名单传给我们 👆，参与活动的截止日期为 10 月 29 日（一周以后）
 
@@ -53,6 +53,6 @@ image: https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/01.jpg
 
 限时特价58元，包含“《重新理解创业》精品图书一本+100分钟干货音频”，扫描二维码即可购买，也可扫描后点击右上角“赚14.5元”，生成专属推广员海报分享给好友，每次成功邀请购买即可获得14.5元奖励金。奖励金可自助提现到微信钱包内。
 
-![](https://lishuhang.me/img/2018/10/23/huo-dong-_-song-san-ben/05.jpg)
+![](/img/2018/10/23/huo-dong-_-song-san-ben/05.jpg)
 
 点击 阅读原文 👇 也能去买书

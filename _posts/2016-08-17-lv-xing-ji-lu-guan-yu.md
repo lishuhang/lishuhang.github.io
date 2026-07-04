@@ -4,7 +4,7 @@ title: "#旅行记录#关于十八梯的几句稍显严肃的话"
 date: 2016-08-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/08/17/lv-xing-ji-lu-guan-yu/01.jpg
+image: /img/2016/08/17/lv-xing-ji-lu-guan-yu/01.jpg
 ---
 
 大家好我又来推广女票写的游记啦。我们在重庆住的最后几天是重温一下我们有回忆的几个地方，就包括她刚过来重庆时候去的十八梯。那么，首先是她写的游记：

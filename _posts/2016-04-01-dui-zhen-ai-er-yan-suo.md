@@ -4,7 +4,7 @@ title: "对真爱而言，所有条件都是用来打破的"
 date: 2016-04-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/01/dui-zhen-ai-er-yan-suo/01.jpg
+image: /img/2016/04/01/dui-zhen-ai-er-yan-suo/01.jpg
 ---
 
 说起来也许有些令人意外，但是愚人节确实是很多人表白或者求婚成功的日子，而在少数案例背后是更多无情的失败。至少今天我同时看到了上述两种情形。

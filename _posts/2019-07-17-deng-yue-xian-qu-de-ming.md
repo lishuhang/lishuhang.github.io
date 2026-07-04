@@ -4,14 +4,14 @@ title: "登月先驱的名言，写在 50 年后的小便池上"
 date: 2019-07-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/17/deng-yue-xian-qu-de-ming/01.jpg
+image: /img/2019/07/17/deng-yue-xian-qu-de-ming/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 4500 字
 
-![](https://lishuhang.me/img/2019/07/17/deng-yue-xian-qu-de-ming/01.jpg)
+![](/img/2019/07/17/deng-yue-xian-qu-de-ming/01.jpg)
 
 书航 7 月 17 日发于北京
 
@@ -105,7 +105,7 @@ Stuhlinger 博士在题为《为什么要探索宇宙》的回信中说，通过
 
 硅谷著名投资者保罗·格雷厄姆（Paul Graham）在 Twitter 上发表了这一感悟之后，引起争议。有人回他：“你不懂‘量变引起质变’的道理吗？” [5]
 
-![](https://lishuhang.me/img/2019/07/17/deng-yue-xian-qu-de-ming/02.jpg)
+![](/img/2019/07/17/deng-yue-xian-qu-de-ming/02.jpg)
 
 讲句实话，如果我去创业，发现辛辛苦苦把“孩子”养大之后，结果就是接受社会各界的批评，那我肯定会觉得意兴阑珊。
 
@@ -161,10 +161,10 @@ Stuhlinger 博士在题为《为什么要探索宇宙》的回信中说，通过
 
 [8] https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 
-![](https://lishuhang.me/img/2019/07/17/deng-yue-xian-qu-de-ming/03.png)
+![](/img/2019/07/17/deng-yue-xian-qu-de-ming/03.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/17/deng-yue-xian-qu-de-ming/04.png)
+![](/img/2019/07/17/deng-yue-xian-qu-de-ming/04.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【1E0R7M18】获取授权

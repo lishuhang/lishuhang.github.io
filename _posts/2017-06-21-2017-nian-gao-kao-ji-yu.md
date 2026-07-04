@@ -4,7 +4,7 @@ title: "2017 年高考寄语：别担心，高考只是一件小事"
 date: 2017-06-21
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/06/21/2017-nian-gao-kao-ji-yu/01.png
+image: /img/2017/06/21/2017-nian-gao-kao-ji-yu/01.png
 ---
 
 各位亲爱的考生读者：大家好！

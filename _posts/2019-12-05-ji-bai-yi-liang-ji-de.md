@@ -4,12 +4,12 @@ title: "“几百亿量级的”超级黑公关？写稿前，请先学好数学
 date: 2019-12-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/01.png
+image: /img/2019/12/05/ji-bai-yi-liang-ji-de/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/01.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/01.png)
 
 书航 12 月 5 日发于杭州
 
@@ -125,19 +125,19 @@ http://www.caixin.com/2019-08-12/101450033.html
 
 至道学宫，公众号：至道学宫一场针对华为的黑公关狂欢
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/02.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/02.png)
 
 他还说“幕后的金主，一年撒在知乎这个平台上的经费就要几百万”。我一开始想，一年才几百万？不是刚说了几百亿么？
 
 再定睛一看，原来这是说“黑”他本人的经费……
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/03.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/03.png)
 
 按照作者本人描述，这一年几百万可以让“知乎上几百人有组织有计划的黑了三年多”。——平均每人每年1万还是？
 
 这位作者恐怕并不了解他心中想象出来的“公关”和“媒体”行业，也并不了解这个行业的商业模式。他的各种估算感觉就像是：
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/04.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/04.png)
 
 这个帖子其它的地方，以及该作者以前的文章，也都令人印象深刻。但此处不想多展开，只想单纯地关注上面这些数字及其逻辑的诡异之处。
 
@@ -149,7 +149,7 @@ http://www.caixin.com/2019-08-12/101450033.html
 
 让刷量在民间深入人心的，是明清小说。尽管在作为正史的《三国志》里，明确记载了曹操南下的军队数量是20万。然后经过三国演义的洗脑，曹操八十三万大军下江南这个概念深入人心，再也没有人记得20万这个数字。
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/05.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/05.png)
 
 这一批文艺作品对中国民间文化的影响很深，奠定了中国人一个重要观念：即中国历史上的“头部战役”，应该是十万为单位展开。少于十万的参战数量，都是不入流的“腰尾部战役”。
 
@@ -173,7 +173,7 @@ http://www.caixin.com/2019-08-12/101450033.html
 
 转发这么张口就来的文章，得慎重啊！
 
-![](https://lishuhang.me/img/2019/12/05/ji-bai-yi-liang-ji-de/06.png)
+![](/img/2019/12/05/ji-bai-yi-liang-ji-de/06.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

@@ -4,7 +4,7 @@ title: "定义“新知青年”，知乎校准航向"
 date: 2018-05-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/15/ding-yi-xin-zhi-qing-nian/01.jpg
+image: /img/2018/05/15/ding-yi-xin-zhi-qing-nian/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**

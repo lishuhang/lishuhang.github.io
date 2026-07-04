@@ -4,12 +4,12 @@ title: "这个 App 能救命"
 date: 2019-11-27
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
+image: /img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png)
 
 书航 11 月 26 日发于北京
 
@@ -23,13 +23,13 @@ image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 在“黄金四分钟”内实施心肺复苏术是如此重要，所以社会上有很多宣传和培训，就是希望我们每个人都记住。
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/02.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/02.png)
 
 具体操作，请看这段由央视新闻制作的短片：
 
 而如果在工作场所附近有自动体外除颤器（AED）就更为理想。
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/03.jpg)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/03.jpg)
 
 这台机器使用时会发出语音播报的提示，即使没有经过培训，也可以跟着语音提示操作，成功几率更高。
 
@@ -49,7 +49,7 @@ image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 名为“红十字急救掌上学堂”的 App 提供科学权威、简单实用、方便易学的急救知识和技术。
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/04.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/04.png)
 
 这里除了21项急救学习专题，涵盖常见急症之外，还能告诉我们如何预防和应对灾害等突发事件，并在危急时刻指导我们按步骤进行正确的自救互救。
 
@@ -57,7 +57,7 @@ image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 红十字会面向社会长期提供急救员培训和认证，虽然这个认证是要花钱考证的，但其中要做的书本知识学习，在这个 App 上可以完成很大一部分。不仅如此，红十字会还把急救课程的视频 MOOC 内容放到了全国人民都知道的另一款 App——学习强国上面。
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/05.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/05.png)
 
 我几年前就知道这个急救 App，它也一直留在我的手机里。本月早些时候，我完全没想到的是，它居然真的派上了用场。
 
@@ -65,7 +65,7 @@ image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 她身边的另一些女士已经靠近围过去观察情况，但也没敢乱动。此时我打开急救 App 找到了这一页的处理方式：
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/06.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/06.png)
 
 然后，我过去把手机拿给正在观察病人情况的女士，让她将病人由仰躺着改为侧卧。接下来，救护车就把病人接走了。
 
@@ -73,7 +73,7 @@ image: https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 我想，今后一旦出现其它紧急情况，我应该也会努力打破自己不敢上前的心理防线，用科学的指导来挽救生命吧。
 
-![](https://lishuhang.me/img/2019/11/27/zhe-ge-app-neng-jiu-ming/07.png)
+![](/img/2019/11/27/zhe-ge-app-neng-jiu-ming/07.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

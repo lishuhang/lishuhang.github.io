@@ -4,7 +4,7 @@ title: "IFTTT·真·是个好东西"
 date: 2016-04-03
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/03/ifttt-zhen-shi-ge-hao-dong/01.jpg
+image: /img/2016/04/03/ifttt-zhen-shi-ge-hao-dong/01.jpg
 ---
 
 假期时间除了完成永无止境的工作之外，就是重新弄了一下微博、微信、博客和知乎专栏。

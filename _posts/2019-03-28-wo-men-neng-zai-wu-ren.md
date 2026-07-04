@@ -4,18 +4,18 @@ title: "我们能在无人便利店里“先吃后付”吗？"
 date: 2019-03-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/03/28/wo-men-neng-zai-wu-ren/01.jpg
+image: /img/2019/03/28/wo-men-neng-zai-wu-ren/01.jpg
 ---
 
 👆点第二个航通社，先关注，再加星⭐
 
-![](https://lishuhang.me/img/2019/03/28/wo-men-neng-zai-wu-ren/01.jpg)
+![](/img/2019/03/28/wo-men-neng-zai-wu-ren/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/03/28/wo-men-neng-zai-wu-ren/02.jpg)
+![](/img/2019/03/28/wo-men-neng-zai-wu-ren/02.jpg)
 
 航通社作者 书航 3 月 28 日发于北京
 
@@ -55,7 +55,7 @@ image: https://lishuhang.me/img/2019/03/28/wo-men-neng-zai-wu-ren/01.jpg
 
 但是如何让你在真正有需要的时候，在超市里吃完了东西可以放心就走，如何让真的有贼心的小偷在“偷”完东西之后直接被扣款，让他们空手而回……这都是未来无人零售必须要解决，但现在尚未解决的问题。（在此之前，也请不要轻易相信某些 5G 宣传片对无人零售的畅想。）
 
-![](https://lishuhang.me/img/2019/03/28/wo-men-neng-zai-wu-ren/03.jpg)
+![](/img/2019/03/28/wo-men-neng-zai-wu-ren/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

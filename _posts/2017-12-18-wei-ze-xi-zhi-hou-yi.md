@@ -4,7 +4,7 @@ title: "魏则西之后，医疗搜索依旧是做不成的"
 date: 2017-12-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/18/wei-ze-xi-zhi-hou-yi/01.jpg
+image: /img/2017/12/18/wei-ze-xi-zhi-hou-yi/01.jpg
 ---
 
 在魏则西事件平息一年多以后，关于当时引发社会讨论的，那种导致魏则西死亡的试验疗法“细胞免疫治疗”，最近又有重出江湖的迹象。

@@ -4,7 +4,7 @@ title: "cnBeta 2017 新年献词"
 date: 2017-01-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/01/cnbeta-2017-xin-nian-xian-ci/01.jpg
+image: /img/2017/01/01/cnbeta-2017-xin-nian-xian-ci/01.jpg
 ---
 
 各位亲爱的访客朋友：新年好！

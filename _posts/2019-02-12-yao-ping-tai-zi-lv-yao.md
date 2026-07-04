@@ -4,12 +4,12 @@ title: "要平台自律？要用户自觉？其实就是呼吁加强监管"
 date: 2019-02-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/01.jpg
+image: /img/2019/02/12/yao-ping-tai-zi-lv-yao/01.jpg
 ---
 
 # 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/01.jpg)
+![](/img/2019/02/12/yao-ping-tai-zi-lv-yao/01.jpg)
 
 > 航通社作者 书航 2 月 12 日发于万象
 
@@ -99,15 +99,15 @@ Gizmodo 记者 Kashmir Hill 尝试拒绝采用 Facebook 旗下任何产品过日
 
 百度春晚红包活动之后，经过百度系（下图蓝圈）和头条系（下图红圈）轮番轰炸的 App Store 排行榜可谓“寸草不生”，混战之后大概是这样的：
 
-![](https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/02.jpg)
+![](/img/2019/02/12/yao-ping-tai-zi-lv-yao/02.jpg)
 
 由 App Annie 采集的百度 App 在 App Store 下载排名历史如下图所示：
 
-![](https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/03.jpg)
+![](/img/2019/02/12/yao-ping-tai-zi-lv-yao/03.jpg)
 
 看下“多闪”App 春节期间的排名走势，其营销进程明显受到了冲击（不确定跟百度有因果关系）：
 
-![](https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/04.jpg)
+![](/img/2019/02/12/yao-ping-tai-zi-lv-yao/04.jpg)
 
 虽然百度 App 产品设计并不足以保持长期粘性，但单纯从阻击头条系产品春节期间霸榜的角度来说，这个钱还是花的非常值得的。
 
@@ -127,7 +127,7 @@ Gizmodo 记者 Kashmir Hill 尝试拒绝采用 Facebook 旗下任何产品过日
 
 恐怕就只能借用韩寒说过的一句话：“本该在心中的热血，它涂在地上。”
 
-![](https://lishuhang.me/img/2019/02/12/yao-ping-tai-zi-lv-yao/05.jpg)
+![](/img/2019/02/12/yao-ping-tai-zi-lv-yao/05.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

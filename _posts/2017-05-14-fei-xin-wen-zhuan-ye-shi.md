@@ -4,7 +4,7 @@ title: "非新闻专业实习记者，如何能够在最快时间内提高自己
 date: 2017-05-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/05/14/fei-xin-wen-zhuan-ye-shi/01.jpg
+image: /img/2017/05/14/fei-xin-wen-zhuan-ye-shi/01.jpg
 ---
 
 提问：

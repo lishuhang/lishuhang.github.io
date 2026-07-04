@@ -4,7 +4,7 @@ title: "你根本不懂中国：三星应该召回每一台中国区Note 7"
 date: 2016-09-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/09/17/ni-gen-ben-bu-dong-zhong/01.jpg
+image: /img/2016/09/17/ni-gen-ben-bu-dong-zhong/01.jpg
 ---
 
 好了不用再说了，我们都知道三星Note 7中国区的电池厂商和全球其他地方的不是同一家了，我们也都知道，在全中国只有不到2000台手机使用了国外的电芯，在召回范围之内。

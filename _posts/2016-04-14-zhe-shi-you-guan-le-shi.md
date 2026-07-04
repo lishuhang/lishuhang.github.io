@@ -4,7 +4,7 @@ title: "这是有关乐视超级汽车的最新爆料"
 date: 2016-04-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/14/zhe-shi-you-guan-le-shi/01.jpg
+image: /img/2016/04/14/zhe-shi-you-guan-le-shi/01.jpg
 ---
 
 几天没更新了，很想念大家。

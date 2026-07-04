@@ -4,7 +4,7 @@ title: "“年轻人的第一个XX”模式的恐怖之处"
 date: 2017-10-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/30/nian-qing-ren-de-di-yi/01.jpg
+image: /img/2017/10/30/nian-qing-ren-de-di-yi/01.jpg
 ---
 
 2016年3月28日首发于新浪专栏，重发时有修订

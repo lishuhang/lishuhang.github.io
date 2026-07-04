@@ -4,7 +4,7 @@ title: "为了写一篇完美的小米笔记本评论，我真的去买了一台
 date: 2016-08-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/08/15/wei-le-xie-yi-pian-wan/01.jpg
+image: /img/2016/08/15/wei-le-xie-yi-pian-wan/01.jpg
 ---
 
 “对不起，我有点紧张，因为您是第一位购买小米笔记本的客人……”

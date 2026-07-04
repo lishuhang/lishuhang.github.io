@@ -4,7 +4,7 @@ title: "Facebook 直播可通过桌面浏览器发起，美国人为何对此大
 date: 2017-01-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/12/facebook-zhi-bo-ke-tong-guo/01.png
+image: /img/2017/01/12/facebook-zhi-bo-ke-tong-guo/01.png
 ---
 
 Facebook 宣布了一项更新：其视频直播功能将不再需要用户打开手机客户端发起，在任何一个当代的桌面端浏览器上，只要拥有摄像头即可进行直播。这一变动引发了一些人的忧虑。

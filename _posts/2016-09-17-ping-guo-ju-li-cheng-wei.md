@@ -4,7 +4,7 @@ title: "苹果距离成为诺基亚越来越近了"
 date: 2016-09-17
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/09/17/ping-guo-ju-li-cheng-wei/01.jpg
+image: /img/2016/09/17/ping-guo-ju-li-cheng-wei/01.jpg
 ---
 
 所以，苹果的新一场发布会就这样结束了。这是很多科技媒体人，也是很多读者的例行功课。

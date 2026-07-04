@@ -4,7 +4,7 @@ title: "SlowQuitApps：解决Mac程序误按Cmd+Q退出的问题"
 date: 2016-07-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.jpg
+image: /img/2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.jpg
 ---
 
 我们都知道在Chrome浏览器当中，如果按一次退出组合键Cmd+Q的时候会害怕按错，可以在设置中选择按两次Cmd+Q之后再退出。但是Mac Safari本身并没有这样的功能。

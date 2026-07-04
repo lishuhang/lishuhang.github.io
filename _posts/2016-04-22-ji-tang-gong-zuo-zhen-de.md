@@ -4,7 +4,7 @@ title: "#鸡汤#工作真的很累吗？"
 date: 2016-04-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/22/ji-tang-gong-zuo-zhen-de/01.jpg
+image: /img/2016/04/22/ji-tang-gong-zuo-zhen-de/01.jpg
 ---
 
 我是一名大二学生，兼职只干过出卖体力劳动的发传单，服务员之类的，所以这种以体力劳动为主的就不做讨论了（辛苦程度我懂(>_<)）

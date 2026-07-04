@@ -4,7 +4,7 @@ title: "银杏树"
 date: 2016-12-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/11/yin-xing-shu/01.jpg
+image: /img/2016/12/11/yin-xing-shu/01.jpg
 ---
 
 过去一两个月我往返于大江南北，在纬度高低的地区次第飞过，除了从羽绒服到T恤衫的飞跃之外，也不断来回感受着秋天和冬天交替的景象。

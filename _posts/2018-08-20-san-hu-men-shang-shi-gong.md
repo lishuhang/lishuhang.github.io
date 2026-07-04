@@ -4,14 +4,14 @@ title: "散户们，上市公司不想告诉你那么多事情"
 date: 2018-08-20
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/08/20/san-hu-men-shang-shi-gong/01.jpg
+image: /img/2018/08/20/san-hu-men-shang-shi-gong/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 马斯克几天前发出的要将特斯拉私有化的推文余波未了，美国总统特朗普又在Twitter上表示，希望将美国证监会（SEC）要求上市公司按季度发布报告，改为发布半年报，引发了市场相对正面的多的反应。
 
-![](https://lishuhang.me/img/2018/08/20/san-hu-men-shang-shi-gong/02.jpg)
+![](/img/2018/08/20/san-hu-men-shang-shi-gong/02.jpg)
 
 英国《金融时报》的社评更将此形容为是特朗普众多“推特治国”的举措当中“看起来最靠谱的一个”。
 
@@ -93,6 +93,6 @@ image: https://lishuhang.me/img/2018/08/20/san-hu-men-shang-shi-gong/01.jpg
 
 2018.8.20
 
-![](https://lishuhang.me/img/2018/08/20/san-hu-men-shang-shi-gong/03.gif)
+![](/img/2018/08/20/san-hu-men-shang-shi-gong/03.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

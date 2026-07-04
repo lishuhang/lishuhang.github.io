@@ -15,7 +15,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 当时，我要过的那个街道，也就是华盛顿广场街只有几米宽，顶多可以说是一条窄巷子，但是必须严格地遵守交通灯，因为会有穿行的很快的自行车——这也是为什么在那边骑自行车要戴头盔，他们骑行速度就像运动员那么快。正当我分神走到道路中间的时候，一辆自行车飞驰而过，跟我的鼻尖可能也就只有几厘米的距离。如果撞上了可能会把我当场撞飞。
 
-![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/01.jpg)
+![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/01.jpg)
 
 *来源：Google Maps*
 
@@ -31,7 +31,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 灾难来临，大多数人都不会有什么心理准备，也只可能把它当做一个或惊险或有趣的自拍素材，很多人拿着手机拍就是为了接下来能够传到朋友圈里。他们始终不会感觉到自己是这起悲剧的主角。相比起来，更重要的没准是手机本身。
 
-2015 年 6 月 29 日-7 月 13 日，[摩托罗拉委托 KRC Research 进行了一次在线调查](https://link.zhihu.com/?target=http%3A//motorola-blog.blogspot.hk/2015/07/2015-motorola-global-smartphone.html) ，针对印度、中国、西班牙、美国、巴西、英国、墨西哥七国民众调查智能手机使用习惯，结果显示， **如果家中起火，人们首先抢救出来的物品其中一件就会是手机。这一比例全球为 54%，中国更高达 65%，仅次于印度的 68%。![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/02.jpg)**
+2015 年 6 月 29 日-7 月 13 日，[摩托罗拉委托 KRC Research 进行了一次在线调查](https://link.zhihu.com/?target=http%3A//motorola-blog.blogspot.hk/2015/07/2015-motorola-global-smartphone.html) ，针对印度、中国、西班牙、美国、巴西、英国、墨西哥七国民众调查智能手机使用习惯，结果显示， **如果家中起火，人们首先抢救出来的物品其中一件就会是手机。这一比例全球为 54%，中国更高达 65%，仅次于印度的 68%。![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/02.jpg)**
 
 *来源：摩托罗拉官方博客*
 
@@ -45,7 +45,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 每一次灾难过后我们的反应都是如出一辙的，你看到无数的蜡烛和拍在一起的双手，不由得感谢 QQ 和苹果发明了表情图标和 emoji。而且大家表现的越来越乖了，原先是不分青红皂白点一片蜡烛，现在多少学会了人还没有完全死光的时候，不要点蜡烛，先做一个拍手的动作。导致这一次拍手动作刷了整个微博和朋友圈。
 
-![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/03.jpg)
+![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/03.jpg)
 
 有些人想出了一种奇葩的警告说，这个拍手的 emoji，其实不是“祈福”，而是两个人庆祝胜利时互相击掌——“High Five”。 **然而其实这也是一个谣言，这个表情的含义确是宗教含义上的“祈祷”无误。**所以这种谣言颇有以毒攻毒之效。
 
@@ -53,7 +53,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 因为当 08 年汶川地震的时候，我们大家也是这么做的，那是互联网的力量第一次，真正历史意义上的第一次，在面对灾难的时候体现出来。
 
-![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/04.jpg)
+![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/04.jpg)
 
 当时并没有微博，只有博客，没有蜡烛的官方表情，我们都是在网上找一些蜡烛的素材图片，贴在自己的博客里面，都是自己用 Windows Movie Maker 剪辑一些图像做成视频，然后传上去。现在你看来，那个点一下就多一个人上香点烛祭酒的计数器，其实是非常幼稚的。但是那毕竟也是 2008 年留给我们的其中一项遗产。其他的还有主页变灰，那个时候因为技术限制，只能够在 IE 下变灰，使用火狐等等还是彩色。到了下一次——我清晰的记得，这个漏洞旋即被完美消除。
 
@@ -61,7 +61,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 以后的每一次灾难，我们都延续着这个传统， **正因为之后的灾难的震撼力度可能都比不上四川地震，而我们却沿用了原来的仪式，甚至有过之而无不及，这种相对的“小题大做”才让我们感到厌烦。**然而在此之后的每一次灾难，同样的仪式，都可能会激励一个或者是几个刚刚使用互联网的人，这是他们记忆当中的第一次。他们献给这个第一次的反应，就像是当初我们面对汶川灾难时的反应一样真挚而恳切。
 
-![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/05.jpg)
+![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/05.jpg)
 
 文字来源： [网易新闻](https://link.zhihu.com/?target=http%3A//news.163.com/photoview/00AP0001/96051.html%23)
 
@@ -77,4 +77,4 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-14/when-disaster-arrives/)
 
-![](https://lishuhang.me/img/2015/08/14/zai-ni-mian-dui-zai-nan/06.jpg)
+![](/img/2015/08/14/zai-ni-mian-dui-zai-nan/06.jpg)

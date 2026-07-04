@@ -4,7 +4,7 @@ title: "豌豆荚的目标用户是谁？"
 date: 2014-01-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2014/01/14/wan-dou-jia-de-mu-biao/01.jpg
+image: /img/2014/01/14/wan-dou-jia-de-mu-biao/01.jpg
 source: "https://zhuanlan.zhihu.com/p/19656629"
 ---
 
@@ -44,7 +44,7 @@ source: "https://zhuanlan.zhihu.com/p/19656629"
 
 豌豆荚也一直致力于维持上市以来清新，简单的形象，即使现在它的背后已经十分庞大。当初它刚刚上市的时候，横亘在面前的91，其形象简直如肉山大魔王一般。（4.0的奥特曼广告打的就是这种类型的怪兽）
 
-![](https://lishuhang.me/img/2014/01/14/wan-dou-jia-de-mu-biao/01.jpg)
+![](/img/2014/01/14/wan-dou-jia-de-mu-biao/01.jpg)
 
 现在，他们只能小心翼翼的推广4.0这个一站式整合的版本。
 

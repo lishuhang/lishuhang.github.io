@@ -4,14 +4,14 @@ title: "短评 _ 三种连锁经营"
 date: 2021-12-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2021/12/30/duan-ping-_-san-zhong-lian/01.jpg
+image: /img/2021/12/30/duan-ping-_-san-zhong-lian/01.jpg
 ---
 
 航通社 · 短评beta
 
 不论是人力作为一种资源、一种产品、还是一种“耗材”，它都会给管理者带来问题。
 
-![](https://lishuhang.me/img/2021/12/30/duan-ping-_-san-zhong-lian/01.jpg)
+![](/img/2021/12/30/duan-ping-_-san-zhong-lian/01.jpg)
 
 文 / 书航 2021.12.30
 

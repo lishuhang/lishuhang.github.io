@@ -4,7 +4,7 @@ title: "别想着叫全国人民都来为设计买单"
 date: 2017-09-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/12/bie-xiang-zhe-jiao-quan-guo/01.jpg
+image: /img/2017/09/12/bie-xiang-zhe-jiao-quan-guo/01.jpg
 ---
 
 文|书航

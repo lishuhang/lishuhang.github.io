@@ -4,7 +4,7 @@ title: "如何确定你是你"
 date: 2017-09-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/15/ru-he-que-ding-ni-shi/01.jpg
+image: /img/2017/09/15/ru-he-que-ding-ni-shi/01.jpg
 ---
 
 新媒体管家

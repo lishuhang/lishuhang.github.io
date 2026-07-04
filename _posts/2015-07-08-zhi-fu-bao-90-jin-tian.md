@@ -13,9 +13,9 @@ source: "https://zhuanlan.zhihu.com/p/20103655"
 
 所以我又擦了擦眼睛，才确认这果然并不是微信界面，但是这个用户学习成本为 0 的界面再怎么说长的也太像微信了，连按钮的位置和样式都是完全一样的，安能辨它是雌雄。
 
-![](https://lishuhang.me/img/2015/07/08/zhi-fu-bao-90-jin-tian/01.jpg)
+![](/img/2015/07/08/zhi-fu-bao-90-jin-tian/01.jpg)
 
-![](https://lishuhang.me/img/2015/07/08/zhi-fu-bao-90-jin-tian/02.jpg)
+![](/img/2015/07/08/zhi-fu-bao-90-jin-tian/02.jpg)
 
 当我在媒体群访提问的时候，樊治铭似乎对此反应比较敏感：“支付宝是生活服务产品，与微信并非同类，不具有可比性。支付宝是一种场景应用，人们在不同的场景下，通过支付宝发生关联，绝对不是泛泛的社交功能。”
 
@@ -55,4 +55,4 @@ source: "https://zhuanlan.zhihu.com/p/20103655"
 
 21：37 更新：重新校对了樊治铭的应答录音。
 
-![](https://lishuhang.me/img/2015/07/08/zhi-fu-bao-90-jin-tian/03.jpg)
+![](/img/2015/07/08/zhi-fu-bao-90-jin-tian/03.jpg)

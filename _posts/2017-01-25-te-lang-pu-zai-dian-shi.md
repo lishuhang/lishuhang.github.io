@@ -4,7 +4,7 @@ title: "特朗普在电视上说过的每一句话都将成为“呈堂证供”
 date: 2017-01-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/25/te-lang-pu-zai-dian-shi/01.png
+image: /img/2017/01/25/te-lang-pu-zai-dian-shi/01.png
 ---
 
 从 1996 年开始为全球互联网建立网页快照的非营利机构“互联网档案” 发布了名为“特朗普档案”的专栏 ，收集从 2009 年开始关于特朗普的所有电视节目，包含公开演讲，电视辩论，采访和关于他的专题片等超过 700 个新闻片段。

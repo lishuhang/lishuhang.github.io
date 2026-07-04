@@ -4,7 +4,7 @@ title: "你相信了那张假的马化腾微信截图，还有什么资格嘲笑
 date: 2018-05-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/07/ni-xiang-xin-le-na-zhang/01.jpg
+image: /img/2018/05/07/ni-xiang-xin-le-na-zhang/01.jpg
 ---
 
 本文首发于**百家号**，原创文章未经授权请勿转载

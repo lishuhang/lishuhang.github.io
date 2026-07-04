@@ -4,7 +4,7 @@ title: "Netflix退出华纳兄弟探索争夺战，派拉蒙成最终赢家"
 date: 2026-02-27
 categories: 文章
 tags: [传媒]
-image: https://lishuhang.me/img/2026/02/27/netflix-tui-chu-hua-na-xiong/01.png
+image: /img/2026/02/27/netflix-tui-chu-hua-na-xiong/01.png
 ---
 
 *特朗普政府“一开始就站在派拉蒙这边”*
@@ -27,7 +27,7 @@ image: https://lishuhang.me/img/2026/02/27/netflix-tui-chu-hua-na-xiong/01.png
 
 为了彻底挤走Netflix，派拉蒙在最新报价中加入了极具侵略性的保障条款。这包括承诺若交易因反垄断监管未获通过将支付高达70亿美元的监管终止费，同意替华纳支付因撕毁Netflix协议而产生的28亿美元违约金，以及若交易在今年9月底前未能完成交割，将按季度向华纳股东支付每股0.25美元的现金补偿。
 
-![](https://lishuhang.me/img/2026/02/27/netflix-tui-chu-hua-na-xiong/02.png)
+![](/img/2026/02/27/netflix-tui-chu-hua-na-xiong/02.png)
 
 Netflix两位联合创始人萨兰多斯和彼得斯在声明中坦言，若要匹配派拉蒙的整体收购要约，这笔交易在财务上已不再具有吸引力。
 
@@ -57,7 +57,7 @@ Netflix 宣布退出该交易，是在萨兰多斯与特朗普政府官员在华
 
 美联社分析称，派拉蒙和华纳的合并将合并好莱坞现存五大传统制片厂中的两家，派拉蒙的片库包括“壮志凌云”、“泰坦尼克号”和“教父”等。除了 CBS，它还拥有 MTV 和 Nickelodeon 等电视台，以及 Paramount+流媒体服务。
 
-![](https://lishuhang.me/img/2026/02/27/netflix-tui-chu-hua-na-xiong/03.png)
+![](/img/2026/02/27/netflix-tui-chu-hua-na-xiong/03.png)
 
 对于电视台，值得注意的是，两家公司合并将使 CNN 与 CBS 处于同一屋檐下，而 CBS 在甲骨文太子的新所有权下，已经经历了显著的编辑方针转变。派拉蒙采取措施吸引更多保守派观众，特别是任命《自由媒体》创始人 Bari Weiss 担任 CBS 新闻总编辑。批评者警告说，如果该公司成功收购华纳，类似的转变也可能发生在自由派旗手媒体CNN，它长期以来一直受到特朗普的强烈批评。
 

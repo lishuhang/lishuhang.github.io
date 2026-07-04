@@ -59,4 +59,4 @@ source: "https://zhuanlan.zhihu.com/p/20704855"
 
 [新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-04-05/pid_8505719.htm)
 
-![](https://lishuhang.me/img/2016/04/05/jian-she-kai-fang-de-quan/01.jpg)
+![](/img/2016/04/05/jian-she-kai-fang-de-quan/01.jpg)

@@ -4,7 +4,7 @@ title: "如何用搜索引擎“相约自杀”"
 date: 2018-06-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/06/26/ru-he-yong-sou-suo-yin/01.jpg
+image: /img/2018/06/26/ru-he-yong-sou-suo-yin/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

@@ -4,10 +4,10 @@ title: "也谈“AI主播”"
 date: 2018-11-09
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg
+image: /img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg)
+![](/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -35,7 +35,7 @@ image: https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg
 
 早几年，人们都是在达到“恐怖谷”级别后，稍微往后退缩一点，即进一步的增强机器与人之间的差异，用一个本来就知道是机器人，或是卡通形象的脸，就可以规避让人害怕的麻烦，也创造出初音未来，或是“会说话的汤姆猫”这样的角色。
 
-![](https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/02.jpg)
+![](/img/2018/11/09/ye-tan-ai-zhu-bo/02.jpg)
 
 （图 / DailyMotion）
 
@@ -47,7 +47,7 @@ image: https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg
 
 某个专门上传这种“骗点击”（Clickbait）视频的号长这样：
 
-![](https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/03.jpg)
+![](/img/2018/11/09/ye-tan-ai-zhu-bo/03.jpg)
 
 航通社在《都8102年了，机器人还是“静若瘫痪，动如癫痫”》一文中曾提到过：
 
@@ -155,6 +155,6 @@ image: https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/01.jpg
 
 2018.11.9
 
-![](https://lishuhang.me/img/2018/11/09/ye-tan-ai-zhu-bo/04.gif)
+![](/img/2018/11/09/ye-tan-ai-zhu-bo/04.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

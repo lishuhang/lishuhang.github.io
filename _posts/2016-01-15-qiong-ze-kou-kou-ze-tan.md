@@ -45,4 +45,4 @@ source: "https://zhuanlan.zhihu.com/p/20501982"
 
 题图/Wikipedia
 
-![](https://lishuhang.me/img/2016/01/15/qiong-ze-kou-kou-ze-tan/01.jpg)
+![](/img/2016/01/15/qiong-ze-kou-kou-ze-tan/01.jpg)

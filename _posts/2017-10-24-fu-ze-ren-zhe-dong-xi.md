@@ -4,7 +4,7 @@ title: "“负责人”这东西，是不存在的"
 date: 2017-10-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/24/fu-ze-ren-zhe-dong-xi/01.jpg
+image: /img/2017/10/24/fu-ze-ren-zhe-dong-xi/01.jpg
 ---
 
 文 | 书航

@@ -4,7 +4,7 @@ title: "在菜鸟体系内的快递公司，陷入了失去独立性的困顿"
 date: 2017-09-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/09/28/zai-cai-niao-ti-xi-nei/01.jpg
+image: /img/2017/09/28/zai-cai-niao-ti-xi-nei/01.jpg
 ---
 
 文 | 书航

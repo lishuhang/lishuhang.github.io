@@ -29,7 +29,7 @@ source: "https://zhuanlan.zhihu.com/p/20113042"
 
 不过，有一款应用把我之前说过的贴吧和豆瓣重新做了一遍，模仿的是人家的主打功能，并不是大公司力有不逮的边缘区域——就连这样也获得了成功。
 
-![](https://lishuhang.me/img/2015/07/15/chong-xin-kan-dai-chong-xin/01.jpg)
+![](/img/2015/07/15/chong-xin-kan-dai-chong-xin/01.jpg)
 
 这款应用，就是把天涯、贴吧、豆瓣上面的故事直播帖功能独立出来，先是拿着人家网站的内容做脱水，钻版权空子来做内容的原始积累，等用户起来了，就开始砸钱支持原创的直播故事。虽然一开始因为脱水显示出独特价值，但在现在的情况下，用户数上来了，内容却也回到了没有“脱水”的状态。最终，它成功的做起了和市面上已经占据统治地位的产品几乎一模一样，但也有一小部分忠实用户的产品。这就非常了不起了。
 
@@ -45,4 +45,4 @@ source: "https://zhuanlan.zhihu.com/p/20113042"
 
 [网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/15/0715/08/AUI6RN12000948V8.html)
 
-![](https://lishuhang.me/img/2015/07/15/chong-xin-kan-dai-chong-xin/02.jpg)
+![](/img/2015/07/15/chong-xin-kan-dai-chong-xin/02.jpg)

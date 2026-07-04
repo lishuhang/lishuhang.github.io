@@ -21,7 +21,7 @@ source: "https://zhuanlan.zhihu.com/p/20168791"
 
 [香港保险业联会一般保险总会主席余健南指](https://link.zhihu.com/?target=http%3A//hk.apple.nextmedia.com/news/art/20150721/19227022) ，保险公司不会就白牌车可能出现的第三者责任作出任何赔偿，亦暂时未见有同行就 Uber 此类新营运模式推出新车险。搭 Uber 除了不受保之外，乘客亦难独善其身，如果两车相撞，“正牌车主”及其乘客可以“明知有关车辆无牌照都照坐”为由，向选用 Uber 的乘客索偿。
 
-![](https://lishuhang.me/img/2015/08/18/xiang-gang-cha-chu-uber-gen/01.jpg)
+![](/img/2015/08/18/xiang-gang-cha-chu-uber-gen/01.jpg)
 
 我们都已经知道，在那些想要查处 UBER 的地区，UBER 自然是属于非法运营的，而至于什么是非法运营，这个定义也可以说成是“就是 UBER 那样的”，所以正处于一种循环定义的状态。但是，一旦判定了是非法运营之后，到底会带来哪些实质性的不同，这个不同地区就差别很大了。
 
@@ -39,4 +39,4 @@ UBER 这封联署信目标获得 5 万个签名，最近几天刚刚突破这一
 
 动点科技
 
-![](https://lishuhang.me/img/2015/08/18/xiang-gang-cha-chu-uber-gen/02.jpg)
+![](/img/2015/08/18/xiang-gang-cha-chu-uber-gen/02.jpg)

@@ -4,7 +4,7 @@ title: "推广 | 多利的北京美食地图"
 date: 2017-01-24
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/24/tui-guang-duo-li-de-bei/01.jpg
+image: /img/2017/01/24/tui-guang-duo-li-de-bei/01.jpg
 ---
 
 今天我们谈北京，不它谈源远流长的历史文化，不谈它各式各样的热门景点，也不谈其令人堪忧的雾霾天气，多利要跟着大家一起来谈谈北京的美食。

@@ -4,7 +4,7 @@ title: "箱子完好地回来了。机场给出的原因居然是……"
 date: 2016-05-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/05/26/xiang-zi-wan-hao-di-hui/01.jpg
+image: /img/2016/05/26/xiang-zi-wan-hao-di-hui/01.jpg
 ---
 
 前情提要（可以点击 **阅读原文** 查看）：4天前我从北京飞重庆的国航航班到站的时候，我塞得满满当当的巨大旅行箱并没有跟过来。当时机场让我签了一张单子，我就带着这张单子和忐忑不安的心情回到了家。

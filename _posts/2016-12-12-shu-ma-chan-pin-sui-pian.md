@@ -4,7 +4,7 @@ title: "数码产品“碎片化”问题日趋严重"
 date: 2016-12-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/12/shu-ma-chan-pin-sui-pian/01.jpg
+image: /img/2016/12/12/shu-ma-chan-pin-sui-pian/01.jpg
 ---
 
 如果把时间调到十几年前，你大概不会认为诸如Walkman，mp3随身听，便携摄影机，监控摄像头，电视，手表这类数码产品存在如Android 手机那样的所谓“碎片化”的问题，因为它们根本不需要任何操作系统这样的概念。但是现在看起来已经到了开始讨论数码产品，智能家居等物件“碎片化”问题的时候。

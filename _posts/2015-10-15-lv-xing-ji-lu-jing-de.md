@@ -4,7 +4,7 @@ title: "#旅行记录#景德镇，2015年10月（2）"
 date: 2015-10-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/10/15/lv-xing-ji-lu-jing-de/01.jpg
+image: /img/2015/10/15/lv-xing-ji-lu-jing-de/01.jpg
 ---
 
 **在景区**

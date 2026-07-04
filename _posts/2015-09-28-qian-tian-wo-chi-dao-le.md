@@ -4,12 +4,12 @@ title: "前天，我吃到了京城四大互联网美食当中的最后一家"
 date: 2015-09-28
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/09/28/qian-tian-wo-chi-dao-le/01.jpg
+image: /img/2015/09/28/qian-tian-wo-chi-dao-le/01.jpg
 ---
 
 ![](http://mmbiz.qpic.cn/mmbiz/nmVQQlxOIsJ5KgFZYWicHk3PKibkVOmTicpaVRzwHgICrHP5DBmH5TkVK7PwDMTozc8tUWgPVcd0KbnFgeL3zcgzQ/0?wx_fmt=gif)
 
-![](https://lishuhang.me/img/2015/09/28/qian-tian-wo-chi-dao-le/01.jpg)
+![](/img/2015/09/28/qian-tian-wo-chi-dao-le/01.jpg)
 
 雕爷的牛腩，黄太吉的煎饼，西少爷的肉夹馍，伏牛堂的米线——京城最近推出四大具有互联网思维和营销手段的美食，各种霸占着科技媒体的版面。不管各界纷纷扰扰的评论是围绕着他们的产品质量还是营销手段，总之他们已经似乎要替代“不到长城非好汉”，成为一些新来到北京旅游的人一定要完成的心愿。
 
@@ -63,7 +63,7 @@ image: https://lishuhang.me/img/2015/09/28/qian-tian-wo-chi-dao-le/01.jpg
 
 “我能精准地找到北京大约 30 到 40 万接受我这个口味的湖南人。我不需要满足 2000 万人的胃，我只需要坚持做我自己就好了。”既然你这么说了，所以，那就加油吧……我会考虑偶尔过去支持你一下的。
 
-![](https://lishuhang.me/img/2015/09/28/qian-tian-wo-chi-dao-le/02.jpg)
+![](/img/2015/09/28/qian-tian-wo-chi-dao-le/02.jpg)
 
 TechNode 动点科技
 
@@ -73,4 +73,4 @@ TechNode 动点科技
 
 坚持原创，转载请注明出处
 
-![](https://lishuhang.me/img/2015/09/28/qian-tian-wo-chi-dao-le/03.png)
+![](/img/2015/09/28/qian-tian-wo-chi-dao-le/03.png)

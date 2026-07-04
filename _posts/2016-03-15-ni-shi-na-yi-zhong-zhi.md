@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20648238"
 
 *[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-15/zhihu-pyramid-of-needs/)*
 
-![](https://lishuhang.me/img/2016/03/15/ni-shi-na-yi-zhong-zhi/01.jpg)
+![](/img/2016/03/15/ni-shi-na-yi-zhong-zhi/01.jpg)

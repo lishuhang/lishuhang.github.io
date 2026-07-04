@@ -4,7 +4,7 @@ title: "#我拒绝Airbnb社区承诺#"
 date: 2016-10-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/10/31/wo-ju-jue-airbnb-she-qu/01.jpg
+image: /img/2016/10/31/wo-ju-jue-airbnb-she-qu/01.jpg
 ---
 
 动点科技 http://t.cn/RV3RPlo

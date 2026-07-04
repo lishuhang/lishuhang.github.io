@@ -4,7 +4,7 @@ title: "支付宝回应漏洞，但是这个回应依然有问题"
 date: 2017-01-10
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/10/zhi-fu-bao-hui-ying-lou/01.jpg
+image: /img/2017/01/10/zhi-fu-bao-hui-ying-lou/01.jpg
 ---
 
 关于今天早上网曝支付宝漏洞，支付宝官方回应简单的说就是：

@@ -4,10 +4,10 @@ title: "重新定义“锦鲤”，微博 #让红包飞# 今年更热闹"
 date: 2019-01-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/01/30/chong-xin-ding-yi-jin-li/01.jpg
+image: /img/2019/01/30/chong-xin-ding-yi-jin-li/01.jpg
 ---
 
-![](https://lishuhang.me/img/2019/01/30/chong-xin-ding-yi-jin-li/01.jpg)
+![](/img/2019/01/30/chong-xin-ding-yi-jin-li/01.jpg)
 
 说到刚过去的2018 年，“锦鲤”这个词是绝对绕不过去的。从 @支付宝 到 @王思聪，微博毫无疑问就是掀起去年“锦鲤风暴”的策源地，也因此被网友们称为“锦鲤之乡”。
 

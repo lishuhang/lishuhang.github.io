@@ -4,7 +4,7 @@ title: "【VR发展的最大隐患】3D产业的前车之鉴"
 date: 2016-01-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/15/vr-fa-zhan-de-zui-da/01.jpg
+image: /img/2016/01/15/vr-fa-zhan-de-zui-da/01.jpg
 ---
 
 **3D产业已经走过**

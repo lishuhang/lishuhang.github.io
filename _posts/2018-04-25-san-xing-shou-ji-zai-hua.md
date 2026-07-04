@@ -4,7 +4,7 @@ title: "三星手机在华节节败退，这一切都始于一个冬天"
 date: 2018-04-25
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/25/san-xing-shou-ji-zai-hua/01.jpg
+image: /img/2018/04/25/san-xing-shou-ji-zai-hua/01.jpg
 ---
 
 题图制作：航通社/Pixabay

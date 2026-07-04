@@ -4,7 +4,7 @@ title: "#旅行记录#景德镇，2015年10月（5）"
 date: 2016-01-06
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/06/lv-xing-ji-lu-jing-de/01.jpg
+image: /img/2016/01/06/lv-xing-ji-lu-jing-de/01.jpg
 ---
 
 **2）原始森林**

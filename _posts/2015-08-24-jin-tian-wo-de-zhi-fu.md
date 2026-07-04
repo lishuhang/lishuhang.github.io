@@ -62,10 +62,10 @@ source: "https://zhuanlan.zhihu.com/p/20179606"
 1. **挂失入口做得太深了** ，有需要时不容易发现，建议在首屏有一个体现；
 2. 建议 95188 客服可以 **远程关闭用户某个不常用的支付通道** 。比如，我从来不用网页付款，即使在浏览器产生的交易我也会扫码转移到手机上支付，这时我可以拨打 95188 让客服关闭网页收银台，等我确有需要的时候再拨打 95188 开通。
 
-![](https://lishuhang.me/img/2015/08/24/jin-tian-wo-de-zhi-fu/01.jpg)
+![](/img/2015/08/24/jin-tian-wo-de-zhi-fu/01.jpg)
 
 看到最后就附赠一个惊喜发现： **9.0 出来时候大受吐槽的手势密码功能已经回来了！** 点击 **头像-设置-账户安全-手势** ，设置好的手势密码 **只在查看余额和账单时候启用** ，既保护了隐私又不影响你把支付宝当微信用。但出于可以理解的原因，从没看到过支付宝高调宣传过手势密码的回归：）。
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-24/my-alipay-account-was-stolen/)
 
-![](https://lishuhang.me/img/2015/08/24/jin-tian-wo-de-zhi-fu/02.jpg)
+![](/img/2015/08/24/jin-tian-wo-de-zhi-fu/02.jpg)

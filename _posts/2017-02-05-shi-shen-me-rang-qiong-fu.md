@@ -4,7 +4,7 @@ title: "是什么让穷父亲舍命逃票入虎山"
 date: 2017-02-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
+image: /img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
 ---
 
 在春节期间发生的宁波雅戈尔野生动物园老虎伤人事件似乎已经淡出大家的视线，今天还旧事重提的我对此事一定是“真爱”。
@@ -45,7 +45,7 @@ image: https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
 
 更不用说，对于气味、触感和温湿度环境的模拟都还很欠缺。所谓4d及5d电影就是摇摇椅子洒洒水，出于保持现场环境卫生的原因，无法提供老虎或恐龙等“不雅”气味的还原。而气味这一点——对于辨识一种动物来说——正正是完全不可或缺的成分。小的时候真正去过动物园的话，哪怕是看那些被粗暴喂养折磨得毫无生气的老虎，你现在都会联想到现场夹杂着人肉以及动物粪便的，那种特殊的，挥之不去的味道。
 
-![](https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/02.jpg)
+![](/img/2017/02/05/shi-shen-me-rang-qiong-fu/02.jpg)
 
 好了，说到味道，你更是无法在没吃过某种食物的前提之下，就用准确的语言将这种味道描述出来。因为味道并不能用文盲都能辨认的，统一如理科公式的字眼表达。甚至不同人对“甜、咸、酸”的辨认都略有不同（苦和辣作为一种刺激式警告，可能感受上趋同的可能性更大）。
 
@@ -69,7 +69,7 @@ image: https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
 
 比穷才能原谅逃票本来就不是一种正确的思路，一来再穷也不能逃票，二来没那么穷的人，完全可以也觉得票价太贵了。穷人不能高消费，或者说根本不能有任何消费，似乎成了今天的社会共识——难道穷人小小向往一下优越的生活，也会成为一种耻辱？
 
-![](https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/03.png)
+![](/img/2017/02/05/shi-shen-me-rang-qiong-fu/03.png)
 
 （原文参见：https://www.zhihu.com/question/22078598/answer/122472865 ）
 
@@ -85,7 +85,7 @@ image: https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
 
 给每个人均等的发展机会，平等的眼界和阅历，抹平学校教育无法提供的信息鸿沟，是人人生而有之的欲望，更是消除贫困的终极手段——给穷人发钱达不到同样的效果。
 
-![](https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/04.jpg)
+![](/img/2017/02/05/shi-shen-me-rang-qiong-fu/04.jpg)
 
 一个阶层能享受高消费的同时，意味着另一群人处于被剥夺的状态。但谁都不会甘心被剥夺。这个世界，命丧虎口的打工者无疑也需要一次“僭越”自身阶级的休闲活动来抚慰全家人的劳碌困窘。
 
@@ -99,6 +99,6 @@ image: https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/01.jpg
 
 我在这位舍身饲虎的贫穷父亲身上看到的，不仅是无视规则的可悲，更是对自己与孩子超越自身阶级，走出贫困，实现与你我等其他“富人”平等相处的渴望。
 
-![](https://lishuhang.me/img/2017/02/05/shi-shen-me-rang-qiong-fu/05.jpg)
+![](/img/2017/02/05/shi-shen-me-rang-qiong-fu/05.jpg)
 
 发布于虎嗅网，刊登时编辑有删节

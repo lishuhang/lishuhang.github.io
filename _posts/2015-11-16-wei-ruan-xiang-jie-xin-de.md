@@ -4,7 +4,7 @@ title: "微软详解新的升级机制：今后没有RTM 没有SP 没有10.1 只
 date: 2015-11-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/11/16/wei-ruan-xiang-jie-xin-de/01.jpg
+image: /img/2015/11/16/wei-ruan-xiang-jie-xin-de/01.jpg
 ---
 
 11月13日，微软邀请国内部分科技数码媒体到望京微软大厦去体验现已在中国开启预售的Surface Pro 4，该产品将会在11月18日正式开售。借此机会，我们向微软询问了有关刚刚开始的Windows 10首个重大更新Threshold 2的一些情况。对于大家对升级机制一些理解上的偏差，微软也做了专门的说明。

@@ -4,7 +4,7 @@ title: "本故事并非虚构"
 date: 2018-02-05
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/05/ben-gu-shi-bing-fei-xu/01.jpg
+image: /img/2018/02/05/ben-gu-shi-bing-fei-xu/01.jpg
 ---
 
 文 | 书航

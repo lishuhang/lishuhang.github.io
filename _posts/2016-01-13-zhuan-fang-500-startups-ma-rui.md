@@ -4,7 +4,7 @@ title: "专访500 Startups马睿：正考虑设立中国版微基金"
 date: 2016-01-13
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/13/zhuan-fang-500-startups-ma-rui/01.jpg
+image: /img/2016/01/13/zhuan-fang-500-startups-ma-rui/01.jpg
 ---
 
 **12月20日，cnBeta在北京采访了美国风投基金及创业加速器 500 Startups 大中华区合伙人马睿。采访两天前，500 Startups 和杭州市主办的未来科技城签署合作协议，建立战略合作伙伴关系。我们对马睿的采访，主要谈及本次合作，现有优势，对中国创业环境和创业团队的看法等等。**

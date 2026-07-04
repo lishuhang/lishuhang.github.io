@@ -4,7 +4,7 @@ title: "人工智能如何赶走公交售票员"
 date: 2017-12-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/12/19/ren-gong-zhi-neng-ru-he/01.jpg
+image: /img/2017/12/19/ren-gong-zhi-neng-ru-he/01.jpg
 ---
 
 文|书航

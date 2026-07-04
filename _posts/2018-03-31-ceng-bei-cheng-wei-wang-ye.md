@@ -4,7 +4,7 @@ title: "曾被称为“网页制作界的 Photoshop”，Adobe Muse 宣告死亡
 date: 2018-03-31
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/31/ceng-bei-cheng-wei-wang-ye/01.jpg
+image: /img/2018/03/31/ceng-bei-cheng-wei-wang-ye/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

@@ -4,7 +4,7 @@ title: "我是因为什么开始用知乎的？"
 date: 2016-04-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/04/26/wo-shi-yin-wei-shen-me/01.jpg
+image: /img/2016/04/26/wo-shi-yin-wei-shen-me/01.jpg
 ---
 
 原先知乎创始团队的周源来网易做了一个访谈，我是主持。当时的主题是“社会化问答”（请点击 **阅读原文** 查看本次访谈），参与的所有几家当然如大家所知，就只有知乎活了下来。

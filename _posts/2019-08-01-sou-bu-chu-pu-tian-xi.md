@@ -4,7 +4,7 @@ title: "搜不出“莆田系”的头条搜索，这回能替代百度了吗？
 date: 2019-08-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/01.png
+image: /img/2019/08/01/sou-bu-chu-pu-tian-xi/01.png
 ---
 
 书航 8 月 1 日发于北京
@@ -125,6 +125,6 @@ image: https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/01.png
 
 [1] https://finance.sina.com.cn/roll/2019-07-24/doc-ihytcitm4348896.shtml
 
-![](https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/02.png)
+![](/img/2019/08/01/sou-bu-chu-pu-tian-xi/02.png)
 
-![](https://lishuhang.me/img/2019/08/01/sou-bu-chu-pu-tian-xi/03.png)
+![](/img/2019/08/01/sou-bu-chu-pu-tian-xi/03.png)

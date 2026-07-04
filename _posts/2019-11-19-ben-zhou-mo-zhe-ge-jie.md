@@ -4,10 +4,10 @@ title: "本周末这个节，你一定要来！_ 粉丝福利·北京"
 date: 2019-11-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
+image: /img/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
 ---
 
-![](https://lishuhang.me/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif)
+![](/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif)
 
 这是一份给航通社读者的专属福利，在北京的小伙伴快来申请吧！
 
@@ -41,11 +41,11 @@ image: https://lishuhang.me/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
 
 这样就可以用 0 元获取原价 388 元的门票啦！
 
-![](https://lishuhang.me/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/02.png)
+![](/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/02.png)
 
 本周六-周日我们不见不散！
 
-![](https://lishuhang.me/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/03.png)
+![](/img/2019/11/19/ben-zhou-mo-zhe-ge-jie/03.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

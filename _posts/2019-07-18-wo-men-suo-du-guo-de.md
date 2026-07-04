@@ -4,14 +4,14 @@ title: "“我们所度过的平凡的每一天，也许就是连续发生的奇
 date: 2019-07-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
+image: /img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 4100 字
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg)
 
 书航 7 月 18 日发于北京
 
@@ -29,21 +29,21 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 凉宫春日系列创造了史上最生动的“三无少女”形象之一——长门有希：
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/02.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/02.jpg)
 
 男主角阿虚可能是所有动画角色中最擅长吐槽的之一，贡献了相当多的名言警句：
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/03.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/03.jpg)
 
 片尾曲的 5 人舞蹈“团舞”，开创了可能是第一个席卷全世界的宅舞快闪浪潮，在无数学校的联欢会和毕业典礼上出现，甚至有监狱让犯人一起跳。这是 B 站后来出了名的舞蹈区的滥觞。
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/04.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/04.jpg)
 
 而《幸运⭐星》则让像宅男一样，沉浸于二次元世界的少女泉此方脱颖而出，她和父亲其乐融融地一起打游戏的画面，引发不少观众“生女当如泉此方”的慨叹。（放心，他们不会有老婆，也不会有孩子。）
 
 此方的好朋友柊（zhōng）镜则是一个教科书式的“傲娇”人物。
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/05.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/05.jpg)
 
 在我打开通往新世界的大门之后，下一步就是马上如饥似渴地复习京阿尼此前的经典作品。
 
@@ -51,23 +51,23 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 《Air》的主题曲因为男主名为“国崎往人”，被昵称为 ACG 领域的“国”歌。动画版选定的结局是最悲惨的一个，无论做什么，都抵挡不住女主角神尾观铃迈向她生命的终点：
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/06.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/06.jpg)
 
 而《Kanon》和《CLANNAD》在 20 多集的篇幅中塞进了所有少女的选择线，让不管是喜欢哪个女孩的玩家都会非常满足。
 
 其中，《Kanon》给观众强势安利了鲷鱼烧这种小吃，后来我专门吃过一回，感觉跟《哆啦 A 梦》的铜锣烧一个味儿：
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/07.png)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/07.png)
 
 《CLANNAD》则因为男主给太多女孩的好感度点到满，“后宫”们终于要求他做出选择，于是有了第 18 集中，男主用简简单单的一个动作，同时向四个少女群发好人卡的经典镜头，史称“CL18”，看得不少男同胞扬眉吐气：
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/08.png)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/08.png)
 
 后来，京阿尼又陆续出了大热的《轻音少女》（K-ON!），校园悬疑题材的《冰果》，以及搞笑无厘头的《日常》。
 
 啊，还有描写女孩之间细腻感情的《吹响吧！上低音号》，让眼罩跟“中二病”牢牢捆绑在一起的《中二病也要谈恋爱！》，以及小两口感情甜到粘牙，让不少情侣做了头像的《玉子市场》……
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/09.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/09.jpg)
 
 这就是京都动画。这就是京阿尼。
 
@@ -83,7 +83,7 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 那年头，中国动漫根本没有“产业”可言，满坑满谷的是喜羊羊、虹猫蓝兔（其实也不差，只不过不能全是这种类型），《雷锋的故事》（这个真的很差；据说制作经费是 2100 万元）等东西。
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/10.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/10.jpg)
 
 《上官海铃》和同样单枪匹马去做的《打，打个大西瓜》一起，被看作是国产动画的“独苗”。从那个时代走来，看着现在 B 站单独一个单元的“国创”，有些也能打回到日本本土市场，配上日语配音，真是觉得恍如隔世。
 
@@ -93,7 +93,7 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 另一点是，2008 年代并不是哪里都有宽带，更不存在移动互联网这种东西。为了方便下载和手机追看，动画会被网站压缩成各种清晰度不同的格式，而相应剧目的百度贴吧里，总有勤劳的小蜜蜂给每一集的画面截图，并配上剧情梗概。
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/11.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/11.jpg)
 
 在那个精神食粮极为富足的年代，我们无忧无虑地过着平凡的每一天，而且校园生活本来也不需要太担心什么。只是在多年后回忆起来才发现，对于宅们来说，那几年真的是天堂一般的日子。
 
@@ -139,7 +139,7 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 只需要知道一个简单的事实：这是一起由恶意纵火引发的，死伤 70 余人的严重袭击事件。人同此心，心同此理，它发生在世界上任何一个角落，都值得我们去哀悼和慰问。
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/12.jpg)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/12.jpg)
 
 而对于我自己，对于任何一个从京阿尼的动画片里收获温暖、感动、欢笑、泪水的人，我们更是延绵出无尽的思绪，这关乎我们自己的个人记忆。
 
@@ -165,10 +165,10 @@ image: https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/01.jpg
 
 [3] http://www.cac.gov.cn/2019-06/28/c_1124685210.htm
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/13.png)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/13.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/18/wo-men-suo-du-guo-de/14.png)
+![](/img/2019/07/18/wo-men-suo-du-guo-de/14.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【2GZNUBDS】获取授权

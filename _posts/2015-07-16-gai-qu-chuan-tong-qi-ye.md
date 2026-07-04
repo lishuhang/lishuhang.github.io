@@ -41,4 +41,4 @@ source: "https://zhuanlan.zhihu.com/p/20115897"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/07/16/gai-qu-chuan-tong-qi-ye/01.jpg)
+![](/img/2015/07/16/gai-qu-chuan-tong-qi-ye/01.jpg)

@@ -4,7 +4,7 @@ title: "一位 Airbnb 中国房东与房客发生一起严重纠纷"
 date: 2016-12-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/22/yi-wei-airbnb-zhong-guo-fang/01.jpg
+image: /img/2016/12/22/yi-wei-airbnb-zhong-guo-fang/01.jpg
 ---
 
 自称是独立摄影师的一位 Airbnb 中国女性房东 昨天晚上在微博发出一篇文章 ，控诉了她自己家做为房源被租客严重毁坏的情况。

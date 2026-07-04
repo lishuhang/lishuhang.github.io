@@ -4,7 +4,7 @@ title: "没想到居然是这个浓眉大眼的专栏开通了赞赏权限"
 date: 2016-06-03
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/06/03/mei-xiang-dao-ju-ran-shi/01.jpg
+image: /img/2016/06/03/mei-xiang-dao-ju-ran-shi/01.jpg
 ---
 
 开通权限的是跟这个微信公众号同步的 喵。 专栏，而不是我一直存放所有科技文章的 航通社 。

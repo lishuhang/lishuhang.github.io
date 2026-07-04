@@ -4,7 +4,7 @@ title: "中国网络救助与“诈捐”是怎么发展起来的？"
 date: 2016-12-03
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/03/zhong-guo-wang-luo-jiu-zhu/01.jpg
+image: /img/2016/12/03/zhong-guo-wang-luo-jiu-zhu/01.jpg
 ---
 
 从90年代千辛万苦发出的电子邮件，到汶川地震时的欺诈短信；从“微博打拐”到“微博辟谣”；从“不转不是中国人”“男默女泪”交相辉映的朋友圈，到大V们贩卖文字和变现舆论影响力……

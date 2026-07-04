@@ -4,10 +4,10 @@ title: "那些曾经轰动一时的新闻事件，都有哪些后续发展？"
 date: 2018-11-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png
+image: /img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png
 ---
 
-![](https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png)
+![](/img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png)
 
 题目来自一个知乎问题。问题 2015 年 10 月提出，截至目前有1525个回答。提问者在问题描述中写道：
 
@@ -69,9 +69,9 @@ image: https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png
 
 2011年国庆假期，正在上海出游的我赶上了乔布斯去世，但当时做专题并没有特别费力气，因为可以直接套用大概半年前乔布斯宣布要退休的专题，只需要把专题页面的标题改一改，加入一些新内容就可以重新上线了。这正是现在公众号的操作手法。
 
-![](https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/02.png)
+![](/img/2018/11/02/na-xie-ceng-jing-hong-dong/02.png)
 
-![](https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/03.png)
+![](/img/2018/11/02/na-xie-ceng-jing-hong-dong/03.png)
 
 可以看到，前后两个专题的很大一部分内容都是复用的。
 
@@ -133,6 +133,6 @@ image: https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/01.png
 
 2018.11.2
 
-![](https://lishuhang.me/img/2018/11/02/na-xie-ceng-jing-hong-dong/04.gif)
+![](/img/2018/11/02/na-xie-ceng-jing-hong-dong/04.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

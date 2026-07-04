@@ -4,7 +4,7 @@ title: "“中关村”的地盘到底有多大，你可能永远也算不清"
 date: 2016-01-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/11/zhong-guan-cun-de-di-pan/01.jpg
+image: /img/2016/01/11/zhong-guan-cun-de-di-pan/01.jpg
 ---
 
 **中关村不是地名**

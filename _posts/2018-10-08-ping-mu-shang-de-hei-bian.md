@@ -4,10 +4,10 @@ title: "屏幕上的“黑边”为什么是黑色的"
 date: 2018-10-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
+image: /img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 ---
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -15,17 +15,17 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 不过，假设你是一个从古代穿越到今天的人，在观测了现代社会的一切新鲜事之后，你可能会发现这个标语的配色有点奇怪：在黑色底上，用黄色字体书写。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/02.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/02.jpg)
 
 我们在路边会经常看到的标语，一般会使用红、白、蓝这样的颜色搭配，稍微正规一点的标语就红底黄字。而公交公司的视觉识别系统，则是采用绿色、红色和白色为主。怎么看，都轮不到黑底黄字。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/03.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/03.jpg)
 
 其实经常坐车的人都能明白，这是在假装这个位置有一个长条的 LED 屏幕。
 
 很多客车生产商都会在一个全车乘客都看得到的位置放置横向的 LED 显示屏，采用点阵宋体显示滚动通知，或者起到报站的作用。不过因为报站主要用语音，所以这块屏幕的意义不大，而且往往呈现的是没来得及更新的旧信息。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/04.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/04.jpg)
 
 有的车运行年限比较长了，这个屏幕坏掉了，也不维修，就直接拆除了。这样的话，空出来的位置就还是用跟屏幕配色一样的黑底黄（橙）字，来假装这里有一个屏幕。
 
@@ -43,17 +43,17 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 在只有灰色这一种颜色可以用，画面又十分不清晰的情况下，想要看清楚电视上在演什么都很困难，提高明暗对比是第一要务。不管一开始是红、黄、绿、蓝随便什么颜色，被拍摄下来之后统统是亮暗不同的灰色。所以，黑底白字或者白底黑字是能看清楚的唯一选择。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/05.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/05.jpg)
 
 这张“北京电视台”（中央电视台前身）的开播图按理说应该是红旗上写黄色的字，但只有当字体是白色的时候，显示效果才最好。
 
 从那个年代继承下来的结果是，现在的影视剧在显示字幕，结尾打工作人员名单的时候，也一般都选择（黑底）白字。不管是喜庆的，悲伤的，严肃的，激烈的，战争的，爱情的，动作的题材，黑底白字都是一个正确的选择。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/06.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/06.jpg)
 
 进入新世纪，宽屏的 16：9 显示画幅逐渐替代了原先的 4：3 画幅，这就造成新旧影视素材在不同的屏幕上显示总不合适，放大的话会切掉一部分，缩小了又会空出一部分。强行扭曲的话，画面上的人又会被“拉宽”或者“挤扁”。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/07.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/07.jpg)
 
 （ https://www.zhihu.com/question/21676489/answer/18967968 ）
 
@@ -61,7 +61,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 黑底白字在彩色显示时，依然是能得到最清晰显示效果的方案。可以试着对比一下下面几种字幕，你就能发现给白色字体加上一层黑色描边（下图第一种）的优势所在。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/08.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/08.jpg)
 
 同时，视频上的黑边还与现在大部分显示设备的黑色外壳颜色无缝融为一体，不至于“喧宾夺主”。
 
@@ -75,7 +75,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 拿着放大镜贴上去观看，这样的屏幕在开启或关闭时，像素点之间能依稀看到一个一个蜂巢状的网眼，这就是显像管电视中重要的构成元素——荫罩（Shadow Mask）。这是一层凿出很多细小洞洞的钢板，目的是防止画面偏色或者重影。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/09.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/09.jpg)
 
 这就使得显像管显示器在没有通电的时候，并不能像现代显示器那样显示更纯正的黑色，而是一团灰。实际上，如果想显示纯粹的黑色，显像管都必须得依靠电子枪打出来，不能像现在这样只要不发光就够了。
 
@@ -83,7 +83,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 但即使这样，人们在不使用屏幕某些区域的时候，也依然选择以黑色填充。显像管显示器的一个弊病是如果长期打出一种固定的颜色，会加速损耗，在屏幕上留下消除不掉的残影。因此就有我们很熟悉的“屏幕保护程序”出现。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/10.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/10.jpg)
 
 但更简单的办法是直接“黑屏”。黑色即使会在屏幕上造成“残影”，你可能也“看不见”，顶多是降低了一点亮度。
 
@@ -91,7 +91,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 进入90年代，电视机的边框或许有一些银灰色外壳，但这被视为是当年老电视机的延伸，因此给人一种过时的廉价感。也有彩色外壳的，但这就像“年轻人的第一台电视”一样并不是主流。越是高档的电视机，越是以黑色外壳居多。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/11.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/11.jpg)
 
 位于客厅中心位置的电视、音响、DVD 播放机等等视听设备，统一都以黑色的外观示人，不仅使它们接近于电视台制播设备的外观，看起来更加高端专业，同时也为其赢得了“黑电”（黑色家电）的昵称；与之相对的是，一些替代家务劳动的器具，如冰箱、洗衣机、空调等则多采用白色外壳，被称为“白电”。
 
@@ -103,7 +103,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 进入智能手机时代，我们身边的电脑和手机其实也是显示黑色的，因此除了一些个性化的外壳颜色，大多数手机选择的基础配色还是黑灰色外壳居多，这也更容易和熄灭时候的屏幕融为一体。远至安卓诞生前的 HP Veer 手机，近到乐视被传为笑话的“ ID 无边框”，如果你想要使屏幕看上去更大，就用黑色的边框吧。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/12.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/12.jpg)
 
 ## 中性的、平等的、没有隐喻的颜色
 
@@ -111,7 +111,7 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 的确有个别的节目会加彩色的边框，但是这并不通用。黑边还是全世界通行的解决方案，甚至……连朝鲜都是如此。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/13.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/13.jpg)
 
 你可能以为他们会给敬爱的最高领导者同志加上红色边框，然而并没有。
 
@@ -125,17 +125,17 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 你可以想象一下，如果把黑框白字的内部和外部改成其他任何色彩，也许都会给字幕加上并不中性的感情，破坏了其原有的中立性。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/14.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/14.jpg)
 
 理论上，用白色字和黑色底叠加，在其它显示条件不变的情况下，人们从远处会看得最清楚。不过，就像文章开头提到的那个“假装是 LED 屏”一样，警示标语和信号指示牌更多用黑底搭配黄字。
 
 在色谱中，白与黑、黄色和蓝色互为反色。但使用黄色与黑色搭配，更能对人们起到警示作用，引起精神上的紧张情绪。相对的，使用另两种颜色即蓝白搭配，则给人一种相对舒缓的感觉。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/15.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/15.jpg)
 
 所以，黑黄搭配的这种配色，就被用来形容紧急或者突发的事件，因为这使得在上面闪烁的字体，看起来就像是交通信号灯的黄灯，或者隔离事故现场所使用的警戒线。有一些电视台也使用这种配色作为播报突发新闻时候的标志。
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/16.jpg)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/16.jpg)
 
 遥想当年，在一个大院的孩子们还只能挤在一起观看一团模糊的屏幕上像皮影戏一般的影像的年代，能依稀看到色彩的差异已经是一种幸福。到后来我们要求颜色越来越“纯正”，甚至还因为苹果电脑的色彩管理做得更好，而选用它用于图形设计等用途。
 
@@ -161,6 +161,6 @@ image: https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/01.jpg
 
 2018.10.8
 
-![](https://lishuhang.me/img/2018/10/08/ping-mu-shang-de-hei-bian/17.gif)
+![](/img/2018/10/08/ping-mu-shang-de-hei-bian/17.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

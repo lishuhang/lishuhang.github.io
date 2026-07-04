@@ -4,7 +4,7 @@ title: "2017年夏季智能音箱产品选购指南"
 date: 2017-07-11
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg
+image: /img/2017/07/11/2017-nian-xia-ji-zhi-neng/01.jpg
 ---
 
 随着BAT在一周之内陆续宣布推出自己搭载人工智能助手的智能音箱产品，似乎在国外已经持续一年左右的智能音箱风潮，即将在国内全面袭来。

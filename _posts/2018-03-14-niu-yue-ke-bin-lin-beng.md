@@ -4,7 +4,7 @@ title: "纽约客：濒临崩溃的蒂勒森"
 date: 2018-03-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/03/14/niu-yue-ke-bin-lin-beng/01.jpg
+image: /img/2018/03/14/niu-yue-ke-bin-lin-beng/01.jpg
 ---
 
 在我的另一个公众号【56K小猫】上，可以了解今天的另一条重要新闻。

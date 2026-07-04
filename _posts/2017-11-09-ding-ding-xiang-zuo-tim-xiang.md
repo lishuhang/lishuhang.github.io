@@ -4,7 +4,7 @@ title: "钉钉向左，TIM向右：服务老板还是服务员工？"
 date: 2017-11-09
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/09/ding-ding-xiang-zuo-tim-xiang/01.jpg
+image: /img/2017/11/09/ding-ding-xiang-zuo-tim-xiang/01.jpg
 ---
 
 今年3月，腾讯推出了“QQ的办公版”TIM。通过独立品牌、同步关系链、强办公协作能力的特点，TIM在年轻上班族当中获得广泛的传播和认同。

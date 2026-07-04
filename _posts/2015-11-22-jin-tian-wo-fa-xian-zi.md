@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/20360033"
 
 > 不过，真正给了上述这些为云造辩护的人一记响亮耳光的事情是，虽然云造公司找腾讯删我们的稿子，威胁要起诉我们，还在一些媒体平台上进行公关，宣称耿直哥收了stigo的“黑钱”，可另一方面，我们的编辑却收到了下面这样一条私信：
 
-![](https://lishuhang.me/img/2015/11/22/jin-tian-wo-fa-xian-zi/01.jpg)
+![](/img/2015/11/22/jin-tian-wo-fa-xian-zi/01.jpg)
 
 > 对此，我们的同事都表示很“呵呵…”
 
@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20360033"
 
 11.22
 
-![](https://lishuhang.me/img/2015/11/22/jin-tian-wo-fa-xian-zi/02.jpg)
+![](/img/2015/11/22/jin-tian-wo-fa-xian-zi/02.jpg)

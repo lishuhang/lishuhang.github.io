@@ -4,7 +4,7 @@ title: "获融资的“台湾版映客”，其实就是由映客与趣加合办
 date: 2016-12-23
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/12/23/huo-rong-zi-de-tai-wan/01.png
+image: /img/2016/12/23/huo-rong-zi-de-tai-wan/01.png
 ---
 
 上周一条融资消息初看起来比较奇怪：台湾一家名为“Next Entertainment”的创业公司融资超过2500万美元，用于在台湾复制一个在大陆火爆的手机直播平台。该公司获得的融资主要来自中国移动游戏制造商趣加以及在线直播网站映客等。

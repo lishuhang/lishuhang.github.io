@@ -4,7 +4,7 @@ title: "以丢车出名的卡拉单车，死得一点也不冤"
 date: 2017-02-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/02/26/yi-diu-che-chu-ming-de/01.jpg
+image: /img/2017/02/26/yi-diu-che-chu-ming-de/01.jpg
 ---
 
 这几天，莆田出了点儿小名气，因为坐标莆田的共享单车创业公司卡拉单车，用19天时间投放了667辆车，结果丢失大半，只找回来157辆车，丢失率76.5%。

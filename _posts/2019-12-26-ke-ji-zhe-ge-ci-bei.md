@@ -4,12 +4,12 @@ title: "“科技”这个词，被“电脑”和“互联网”劫持了"
 date: 2019-12-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png
+image: /img/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png)
 
 社长按 / 书航 12 月 26 日发于北京
 
@@ -37,23 +37,23 @@ image: https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png
 
 http://www.apfct.com/tw/
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/02.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/02.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/03.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/03.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/04.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/04.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/05.gif)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/05.gif)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/06.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/06.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/07.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/07.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/08.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/08.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/09.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/09.png)
 
-![](https://lishuhang.me/img/2019/12/26/ke-ji-zhe-ge-ci-bei/10.png)
+![](/img/2019/12/26/ke-ji-zhe-ge-ci-bei/10.png)
 
 航通社现已入驻虎嗅、钛媒体、36kr、界面、新浪科技、知乎、头条号、百家号等几乎所有媒体平台。
 

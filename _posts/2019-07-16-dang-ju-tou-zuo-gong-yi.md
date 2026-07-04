@@ -4,14 +4,14 @@ title: "当巨头做公益遇上 AI：助残、寻亲、教育、医疗……"
 date: 2019-07-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/07/16/dang-ju-tou-zuo-gong-yi/01.jpg
+image: /img/2019/07/16/dang-ju-tou-zuo-gong-yi/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 4000 字
 
-![](https://lishuhang.me/img/2019/07/16/dang-ju-tou-zuo-gong-yi/01.jpg)
+![](/img/2019/07/16/dang-ju-tou-zuo-gong-yi/01.jpg)
 
 书航 7 月 16 日发于北京
 
@@ -131,10 +131,10 @@ AI 引发的失业和收入下降问题也是老生常谈，这甚至导致 2020
 
 [9] https://www.ft.com/content/7d3e0d6a-87a0-11e9-a028-86cea8523dc2
 
-![](https://lishuhang.me/img/2019/07/16/dang-ju-tou-zuo-gong-yi/02.png)
+![](/img/2019/07/16/dang-ju-tou-zuo-gong-yi/02.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](https://lishuhang.me/img/2019/07/16/dang-ju-tou-zuo-gong-yi/03.png)
+![](/img/2019/07/16/dang-ju-tou-zuo-gong-yi/03.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【5YFQ54NH】获取授权

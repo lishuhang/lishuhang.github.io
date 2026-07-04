@@ -4,7 +4,7 @@ title: "锤子和 YunOS 是怎么合体的？"
 date: 2017-10-19
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/19/chui-zi-he-yunos-shi-zen/01.jpg
+image: /img/2017/10/19/chui-zi-he-yunos-shi-zen/01.jpg
 ---
 
 文 | 书航

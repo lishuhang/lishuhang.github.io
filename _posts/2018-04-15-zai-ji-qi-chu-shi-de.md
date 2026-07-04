@@ -4,7 +4,7 @@ title: "在机器出事的时刻，人类要像机器一样操作"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/04/15/zai-ji-qi-chu-shi-de/01.jpg
+image: /img/2018/04/15/zai-ji-qi-chu-shi-de/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

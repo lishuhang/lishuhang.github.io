@@ -113,4 +113,4 @@ source: "https://zhuanlan.zhihu.com/p/20125822"
 
 **独家首发于[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/115997)，参与明（24）日的争鸣栏目。**
 
-![](https://lishuhang.me/img/2015/07/23/wei-shen-me-xin-chou-bao/01.jpg)
+![](/img/2015/07/23/wei-shen-me-xin-chou-bao/01.jpg)

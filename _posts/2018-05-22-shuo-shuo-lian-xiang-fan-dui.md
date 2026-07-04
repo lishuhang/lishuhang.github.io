@@ -4,7 +4,7 @@ title: "说说“联想反对预装国产操作系统”这件事"
 date: 2018-05-22
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/05/22/shuo-shuo-lian-xiang-fan-dui/01.jpg
+image: /img/2018/05/22/shuo-shuo-lian-xiang-fan-dui/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**

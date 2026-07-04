@@ -4,7 +4,7 @@ title: "记者现在算是“好职业”吗？"
 date: 2017-04-01
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/04/01/ji-zhe-xian-zai-suan-shi/01.jpg
+image: /img/2017/04/01/ji-zhe-xian-zai-suan-shi/01.jpg
 ---
 
 时隔多年，我又一次看到有人提问：“ 记者还是一份好的职业吗，还值得年轻人为之奋斗吗”。

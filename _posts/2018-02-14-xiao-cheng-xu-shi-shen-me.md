@@ -4,7 +4,7 @@ title: "小程序是什么时候成为微信“滑铁卢”的，我怎么不知
 date: 2018-02-14
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
+image: /img/2018/02/14/xiao-cheng-xu-shi-shen-me/01.jpg
 ---
 
 文 | 书航

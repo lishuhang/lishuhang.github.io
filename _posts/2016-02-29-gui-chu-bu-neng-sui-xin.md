@@ -47,4 +47,4 @@ source: "https://zhuanlan.zhihu.com/p/20605208"
 
 题图：[小米商店](https://link.zhihu.com/?target=http%3A//item.mi.com/1152500013.html)
 
-![](https://lishuhang.me/img/2016/02/29/gui-chu-bu-neng-sui-xin/01.jpg)
+![](/img/2016/02/29/gui-chu-bu-neng-sui-xin/01.jpg)

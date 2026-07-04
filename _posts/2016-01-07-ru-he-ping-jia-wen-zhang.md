@@ -4,7 +4,7 @@ title: "如何评价文章《为什么我死都不会用知乎》？"
 date: 2016-01-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/01/07/ru-he-ping-jia-wen-zhang/01.jpg
+image: /img/2016/01/07/ru-he-ping-jia-wen-zhang/01.jpg
 ---
 
 **（本文很长）**如何评价文章《为什么我死都不会用知乎》？ - 知乎用户的回答

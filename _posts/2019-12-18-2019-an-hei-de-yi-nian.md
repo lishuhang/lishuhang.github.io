@@ -4,12 +4,12 @@ title: "2019：“暗黑”的一年"
 date: 2019-12-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/01.png
+image: /img/2019/12/18/2019-an-hei-de-yi-nian/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/01.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/01.png)
 
 书航 12 月 18 日发于北京
 
@@ -19,7 +19,7 @@ image: https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/01.png
 
 但如果这个时候你的手机是 Android 10（Q）以上并开启了深色模式，那么你就会发现这一版本最大的一个改变：整个界面都变成了深色。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/02.jpg)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/02.jpg)
 
 深色模式——夜间模式——暗黑模式——黑暗模式——随便你怎么说啦，反正它已经被微信用户期待了很久。但微信开发团队一直不喜欢这个想法。今年4月5日，微信团队曾发微博说：
 
@@ -29,7 +29,7 @@ image: https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/01.png
 
 为什么没有夜间模式？你的夜晚太珍贵，我们不忍心占用，更不愿意成为你#半夜醒来看手机的原因#。愿你每夜好眠。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/03.jpg)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/03.jpg)
 
 似乎每一个微信用户都想去当微信的产品经理。贵为产品经理之神的张小龙以及他的团队，以沉默和克制作为回答。他们不管做什么，都会有人来解释这个做法的合理性。
 
@@ -39,7 +39,7 @@ image: https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/01.png
 
 2019年，苹果的iOS13、macOS Mojave及更高版本，和Android Q操作系统一起，将黑暗模式带到了手机屏幕。而上一年 Windows 10 的一次更新，已经将黑色界面带入了PC。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/04.jpg)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/04.jpg)
 
 随着系统级别的支持，其他主流应用程序的适配也陆续展开。今年谷歌的Gmail和Chrome浏览器、聊天工具slack、telegram、微软的Edge浏览器和Office移动版App都“黑化”了。Youtube今年全面引入了网页版、手机和平板统一设计的新界面，其深色模式只对本机生效。
 
@@ -49,13 +49,13 @@ Twitter在2019年的大改版，是将所有端统一设计，并且全都使用
 
 有一个网站 darkmodelist 指出了用户如何手动或自动调整为黑暗模式的方法，涵盖过百种跨不同平台的常用软件和网站。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/05.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/05.png)
 
 甚至如果有的人，或者有的应用无法切换到黑色模式，还会遭到嘲笑。Mashable 的文章里提到，下面这位电竞选手就因为使用亮色模式受到了来自亲友的暴击。
 
 https://mashable.com/article/dark-mode-apps-instagram-google-chrome-apple-ios13/
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/06.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/06.png)
 
 《华尔街日报》在今年初写了篇文章，从各个角度倡导黑色模式的好处，结果被嘲笑说，《日报》自己的 App 就不支持黑色模式。
 
@@ -73,7 +73,7 @@ https://sysb.ruc.edu.cn/wp-content/uploads/2017/08/.pdf
 
 科学家都建议人们需要在光线明亮的环境阅读，这样才会减少近视的发生。小时候我们收看的动画片，也会有一个提示说，好孩子需要在光线明亮的环境之下收看。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/07.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/07.png)
 
 有一些亮度不够的环境下长时间用眼，比如说在网吧长时间打游戏，甚至有可能造成视网膜脱落等严重的后果。
 
@@ -91,7 +91,7 @@ https://sysb.ruc.edu.cn/wp-content/uploads/2017/08/.pdf
 
 程序员们喜欢把等宽的字体，用黑底白字的方式来显示。这一部分是历史习惯转化而成，因为早期的电脑界面只能以黑底白字的方式来显示。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/08.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/08.png)
 
 另一部分则因为，在这种有别于其它页面的显示模式之下。他们的思维和精神都能够被充分唤起到工作状态。实际上还有程序员反问社长，我们这些做文字工作的人为什么习惯用白底黑字。
 
@@ -99,11 +99,11 @@ https://sysb.ruc.edu.cn/wp-content/uploads/2017/08/.pdf
 
 那么，图像工作者呢？他们的画布，黑底和灰白底的都有。很长时间里Photoshop都是跟随操作系统，有灰色的底部。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/09.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/09.png)
 
 不过最近，Adobe家的产品都有4种深浅不同的颜色让艺术家随便选，但默认的底色是深色底。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/10.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/10.png)
 
 总而言之，使用深色模式可能是一种需求，一种习惯，或是一种时尚。不管怎么说，2019年是这个潮流的起点。
 
@@ -113,7 +113,7 @@ https://sysb.ruc.edu.cn/wp-content/uploads/2017/08/.pdf
 
 https://www.uisdc.com/alibaba-app-dark-mode
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/11.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/11.png)
 
 它们可能人眼无法区分，但是实际却有着细微的区别。作为前端设计者来说，必须充分的把握到这一点。
 
@@ -125,17 +125,17 @@ https://habr.com/en/company/yandex/blog/450032/
 
 为此，Gmail 的深色模式并未将邮件正文调整为深色底。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/12.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/12.png)
 
 这个时候，在基于HTML的邮件正文当中，如果只是调整文字和背景的颜色，就会出现各种各样的奇葩问题。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/13.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/13.png)
 
 邮件应用必须针对这些问题一一进行修改。有的时候，他们需要穿透那些图片的底色，将其调整为透明。另一些时候，对于已经是深色的背景图片，就无需调整，他们需要实时的读取画布上面颜色的值是否是足够深的。
 
 总而言之，最终的结果已经到了一个非常好的程度，以至于他们团队引以为傲地编写了一个教程。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/14.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/14.png)
 
 由于深色模式现在有了操作系统级别的支持，一些常用的控件不再需要开发者手动绘制。但是，对于上述没考虑到变色而存留下的遗产，如何妥善地适配依然让人非常头疼。
 
@@ -145,13 +145,13 @@ https://habr.com/en/company/yandex/blog/450032/
 
 今天上午，用微信打开公众号文章和外部网页，内嵌浏览器还没有做深色适配；到下午撰稿时，浏览器已经对大多数网站开启了深色适配。当然，我们可以看到问题依然存在。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/15.jpg)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/15.jpg)
 
 距离测试版转正还有一段时间，也许微信的工程师会花时间解决这些问题，也许不会，因为他们本来并没想过要做这个黑色模式。
 
 但不论张小龙和他的手下怎么想，2019 注定是属于“暗黑”的一年。
 
-![](https://lishuhang.me/img/2019/12/18/2019-an-hei-de-yi-nian/16.png)
+![](/img/2019/12/18/2019-an-hei-de-yi-nian/16.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

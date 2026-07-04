@@ -4,7 +4,7 @@ title: "实用技能 Get：如何假装自己买了一台 Surface Pro 4"
 date: 2015-11-16
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/11/16/shi-yong-ji-neng-get-ru/01.jpg
+image: /img/2015/11/16/shi-yong-ji-neng-get-ru/01.jpg
 ---
 
 在我收到来自微软的 Surface Pro 4 的评测机之后，立即有一个问题困扰着我， **那就是我到底应该对这个机器做些什么好呢？**

@@ -4,7 +4,7 @@ title: "万年不变的“活化石”网站，怎么改版才合适？"
 date: 2017-11-30
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/30/wan-nian-bu-bian-de-huo/01.jpg
+image: /img/2017/11/30/wan-nian-bu-bian-de-huo/01.jpg
 ---
 
 微信公众号搜索“航通社”

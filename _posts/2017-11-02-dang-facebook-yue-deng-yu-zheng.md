@@ -4,7 +4,7 @@ title: "当 Facebook 约等于整个互联网，财报对它没有意义"
 date: 2017-11-02
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/11/02/dang-facebook-yue-deng-yu-zheng/01.jpg
+image: /img/2017/11/02/dang-facebook-yue-deng-yu-zheng/01.jpg
 ---
 
 文 | **书航**

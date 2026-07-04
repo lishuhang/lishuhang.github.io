@@ -4,12 +4,12 @@ title: "有女性，万事足"
 date: 2019-03-08
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg
+image: /img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@航通社
 
-![](https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg)
+![](/img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg)
 
 > 航通社作者 书航 3 月 8 日发于北京
 
@@ -21,7 +21,7 @@ image: https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg
 
 昨天有一个段子，某位在脉脉上面标注自己是前京东员工的人，说入职了一家央企，第一次感受到 5:00 整准时下班，10 分钟以后办公室都没人了是什么滋味；提早几个小时回到家中，那种巨大的空虚感幸福得让人猝不及防。现在已经不是炫富了，而是炫下班时间。[1]
 
-![](https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/02.jpg)
+![](/img/2019/03/08/you-nv-xing-wan-shi-zu/02.jpg)
 
 ——所以希望还在职场的女同学们能享受到半天假期的福利吧。
 
@@ -83,7 +83,7 @@ image: https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/01.jpg
 
 [4] http://cnpolitics.org/2017/11/shaped-by-their-daughters-executives-female-socialization-and-corporate-social-responsibility/
 
-![](https://lishuhang.me/img/2019/03/08/you-nv-xing-wan-shi-zu/03.jpg)
+![](/img/2019/03/08/you-nv-xing-wan-shi-zu/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

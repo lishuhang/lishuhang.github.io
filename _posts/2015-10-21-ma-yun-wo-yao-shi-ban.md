@@ -39,4 +39,4 @@ source: "https://zhuanlan.zhihu.com/p/20285641"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/10/21/ma-yun-wo-yao-shi-ban/01.jpg)
+![](/img/2015/10/21/ma-yun-wo-yao-shi-ban/01.jpg)

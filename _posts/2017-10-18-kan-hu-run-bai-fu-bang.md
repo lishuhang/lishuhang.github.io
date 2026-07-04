@@ -4,7 +4,7 @@ title: "看“胡润百富榜”，富豪排名真的不是重点"
 date: 2017-10-18
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
+image: /img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
 ---
 
 文 | 书航
@@ -13,7 +13,7 @@ image: https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
 
 我对“胡润百富榜”的兴趣，并不在于其中排名本身的流变，而是另一个点——这份榜单的“赞助商”。
 
-![](https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/02.png)
+![](/img/2017/10/18/kan-hu-run-bai-fu-bang/02.png)
 
 冠名“百富榜”的“36计”
 
@@ -33,7 +33,7 @@ image: https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
 
 这让人联想到支付宝始终强调公司主体名叫“蚂蚁金服”——现在对“蚂蚁金服”品牌的树立，其实大致还算成功。然而几日前，数则由蚂蚁财富操刀的海报，还是被舆论称为“支付宝奇葩海报” [5] ，证明分拆子品牌之路始终艰难。
 
-![](https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/03.png)
+![](/img/2017/10/18/kan-hu-run-bai-fu-bang/03.png)
 
 榜单的两种主要商业模式
 
@@ -53,7 +53,7 @@ image: https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
 
 在万众瞩目的百富榜当中安插陌生名字的风险实在太大，但如果看《2017胡润百富中国最具投资价值新星企业百强榜广州50强》 [6] 这类边缘榜单，那里面的企业就八仙过海，各显神通了。
 
-![](https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/04.png)
+![](/img/2017/10/18/kan-hu-run-bai-fu-bang/04.png)
 
 商业开发无可避免影响榜单公正
 
@@ -91,4 +91,4 @@ image: https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/01.png
 
 [7] http://dajia.qq.com/original/mayuan/my20171006.html
 
-![](https://lishuhang.me/img/2017/10/18/kan-hu-run-bai-fu-bang/05.jpg)
+![](/img/2017/10/18/kan-hu-run-bai-fu-bang/05.jpg)

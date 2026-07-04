@@ -4,7 +4,7 @@ title: "1998年央视的“网上拍卖”新闻"
 date: 2016-06-26
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2016/06/26/1998-nian-yang-shi-de-wang/01.jpg
+image: /img/2016/06/26/1998-nian-yang-shi-de-wang/01.jpg
 ---
 
 解说词：

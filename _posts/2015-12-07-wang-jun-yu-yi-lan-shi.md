@@ -4,7 +4,7 @@ title: "王俊煜：“一览”是豌豆荚的二次创业"
 date: 2015-12-07
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2015/12/07/wang-jun-yu-yi-lan-shi/01.jpg
+image: /img/2015/12/07/wang-jun-yu-yi-lan-shi/01.jpg
 ---
 
 11 月 19 日下午，我在位于北京东升科技园的豌豆荚总部，采访了豌豆荚的联合创始人、CEO 王俊煜。

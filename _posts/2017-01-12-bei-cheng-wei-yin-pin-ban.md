@@ -4,7 +4,7 @@ title: "被称为音频版 YouTube 的 Soundcloud 可能活不过今年了"
 date: 2017-01-12
 categories: 文章
 tags: [科技]
-image: https://lishuhang.me/img/2017/01/12/bei-cheng-wei-yin-pin-ban/01.png
+image: /img/2017/01/12/bei-cheng-wei-yin-pin-ban/01.png
 ---
 
 音频分享平台 SoundCloud 的 2015 年财报显示，尽管 2015 财年营收增长 21.6% 达到 2110 万欧元，但亏损增加 30.9% 到 5122 万欧元。按照现在的趋势，在 12 月 31 日以前，SoundCloud 可能就会用光所有的现金。

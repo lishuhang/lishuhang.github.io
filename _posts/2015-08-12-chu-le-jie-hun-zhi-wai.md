@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20158614"
 
 动点科技
 
-![](https://lishuhang.me/img/2015/08/12/chu-le-jie-hun-zhi-wai/01.jpg)
+![](/img/2015/08/12/chu-le-jie-hun-zhi-wai/01.jpg)
