@@ -112,3 +112,24 @@ giscus:
 # ============================================================
 
 image_proxy: "https://images.weserv.nl/?url="
+
+# ============================================================
+# Image storage prefixes (v2.0, keepitrun v2.0)
+# ============================================================
+# Posts store image URLs as relative paths: /img/YYYY/MM/DD/slug/NN.png
+# At build time, _plugins/image_prefix.rb rewrites them to full URLs
+# based on the post's date and the prefix ranges below.
+#
+# To migrate images to a different storage (e.g., Cloudflare R2, another
+# repo), change the prefix for the corresponding date range. All posts in
+# that date range will automatically use the new prefix.
+#
+# Format: range = [start_YYYYMM, end_YYYYMM)
+#   null start = -infinity, null end = +infinity
+image_prefixes:
+  - range: [null, "2024-01"]        # before 2024-01 → prefix A
+    prefix: "https://lishuhang.me"
+  - range: ["2024-01", "2026-07"]   # 2024-01 to 2026-07 → prefix B
+    prefix: "https://lishuhang.me"
+  - range: ["2026-07", null]        # 2026-07 onwards → prefix C (default: same as A/B)
+    prefix: "https://lishuhang.me"
