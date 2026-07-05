@@ -4,10 +4,10 @@ title: "月之暗面创始团队持股不足半，为何他们不担心？"
 date: 2024-04-12
 categories: 文章
 tags: [科技]
-image: /2024/04/12/yue-zhi-an-mian-chuang-shi/01.webp
+image: /2024/04/12/yue-zhi-an-mian-chuang-shi/01.jpg
 ---
 
-![](/2024/04/12/yue-zhi-an-mian-chuang-shi/01.webp)
+![](/2024/04/12/yue-zhi-an-mian-chuang-shi/01.jpg)
 
 文 / 书航 2024.4.11
 

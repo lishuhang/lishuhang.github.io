@@ -4,12 +4,12 @@ title: "一部特朗普纪录片，为啥弄得BBC总裁辞职？"
 date: 2025-11-13
 categories: 文章
 tags: [传媒, featured]
-image: /2025/11/13/yi-bu-te-lang-pu-ji/01.webp
+image: /2025/11/13/yi-bu-te-lang-pu-ji/01.jpg
 ---
 
 为什么BBC的历史教训未能阻止本次丑闻发生？
 
-![](/2025/11/13/yi-bu-te-lang-pu-ji/01.webp)
+![](/2025/11/13/yi-bu-te-lang-pu-ji/01.jpg)
 
 文 / 书航 2025.11.13
 

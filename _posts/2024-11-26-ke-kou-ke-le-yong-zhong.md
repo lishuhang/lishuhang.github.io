@@ -4,7 +4,7 @@ title: "可口可乐用中国AI做圣诞节广告，可灵到底哪里强？"
 date: 2024-11-26
 categories: 文章
 tags: [科技]
-image: /2024/12/01/ke-kou-ke-le-yong-zhong/01.webp
+image: /2024/12/01/ke-kou-ke-le-yong-zhong/01.jpg
 ---
 
 *“消费者并不关心是不是AI”*

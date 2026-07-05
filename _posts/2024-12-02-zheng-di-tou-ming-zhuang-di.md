@@ -4,7 +4,7 @@ title: "争递投名状？迪士尼、华纳等巨头回到推特投广告"
 date: 2024-12-02
 categories: 文章
 tags: [科技]
-image: /2024/12/02/zheng-di-tou-ming-zhuang-di/01.webp
+image: /2024/12/02/zheng-di-tou-ming-zhuang-di/01.jpg
 ---
 
 *X的竞争对手们发展并不顺利*
