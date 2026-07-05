@@ -9,13 +9,13 @@ source: "https://zhuanlan.zhihu.com/p/20277420"
 
 神马搜索推出一个名为“蓝光搜索”的新模式，类似于百度上次在百度世界大会推出的“直达号”，在搜索特定关键字后提供一个编辑整理过的搜索结果页面。例如搜索“NBA”会优先提供记分板和球队资讯，搜索“郭敬明身高”会直接给出结果等等。
 
-![](/img/2015/10/17/shen-me-shi-shen-ma-tui/01.jpg)
+![](/2015/10/17/shen-me-shi-shen-ma-tui/01.jpg)
 
-![](/img/2015/10/17/shen-me-shi-shen-ma-tui/02.jpg)
+![](/2015/10/17/shen-me-shi-shen-ma-tui/02.jpg)
 
-![](/img/2015/10/17/shen-me-shi-shen-ma-tui/03.jpg)
+![](/2015/10/17/shen-me-shi-shen-ma-tui/03.jpg)
 
-![](/img/2015/10/17/shen-me-shi-shen-ma-tui/04.jpg)
+![](/2015/10/17/shen-me-shi-shen-ma-tui/04.jpg)
 
 我特意把上述演示用关键字和百度搜索结果做了一个比较。比如“厕所”，百度也已经可以提供附近的公共厕所位置方便救急。在其他情况下，先打一个@符号，再输入公司名字，有“直达号”的可以进入公司手机官网。
 
@@ -27,4 +27,4 @@ source: "https://zhuanlan.zhihu.com/p/20277420"
 
 cnBeta
 
-![](/img/2015/10/17/shen-me-shi-shen-ma-tui/05.jpg)
+![](/2015/10/17/shen-me-shi-shen-ma-tui/05.jpg)

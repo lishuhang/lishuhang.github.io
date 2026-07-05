@@ -4,7 +4,7 @@ title: "苹果谷歌要给表情符号“禁枪”，这是毁灭它的危险一
 date: 2018-04-27
 categories: 文章
 tags: [科技]
-image: /img/2018/04/27/ping-guo-gu-ge-yao-gei/01.jpg
+image: /2018/04/27/ping-guo-gu-ge-yao-gei/01.jpg
 ---
 
 本文首发于**百家号**，原创文章未经授权请勿转载

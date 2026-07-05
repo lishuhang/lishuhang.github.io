@@ -34,4 +34,4 @@ source: "https://zhuanlan.zhihu.com/p/20076879"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-18/zaobao0618/)
 
-![](/img/2015/06/18/nao-ren-de-peng-you-quan/01.jpg)
+![](/2015/06/18/nao-ren-de-peng-you-quan/01.jpg)

@@ -4,7 +4,7 @@ title: "为什么“（女）文青”都快变成一个骂人的词了"
 date: 2018-03-03
 categories: 文章
 tags: [科技]
-image: /img/2018/03/03/wei-shen-me-nv-wen-qing/01.jpg
+image: /2018/03/03/wei-shen-me-nv-wen-qing/01.jpg
 ---
 
 文 / 书航

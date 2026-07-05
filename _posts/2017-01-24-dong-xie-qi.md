@@ -4,7 +4,7 @@ title: "冬歇期"
 date: 2017-01-24
 categories: 文章
 tags: [科技]
-image: /img/2017/01/24/dong-xie-qi/01.jpg
+image: /2017/01/24/dong-xie-qi/01.jpg
 ---
 
 月初发力一阵，现在很少有文章产出，因为我开始了长时间的休息。

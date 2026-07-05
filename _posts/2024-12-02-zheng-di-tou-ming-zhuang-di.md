@@ -4,7 +4,7 @@ title: "争递投名状？迪士尼、华纳等巨头回到推特投广告"
 date: 2024-12-02
 categories: 文章
 tags: [科技]
-image: /img/2024/12/02/zheng-di-tou-ming-zhuang-di/01.webp
+image: /2024/12/02/zheng-di-tou-ming-zhuang-di/01.webp
 ---
 
 *X的竞争对手们发展并不顺利*
@@ -17,7 +17,7 @@ image: /img/2024/12/02/zheng-di-tou-ming-zhuang-di/01.webp
 
 报道刊出后，马斯克本人也转发并感谢广告商，针对他们关心的问题回应说，“确保广告内容只出现在广告商希望展示的地方。”
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/02.png)
+![](/2024/12/02/zheng-di-tou-ming-zhuang-di/02.png)
 
 这与一年前他面对广告商抵制的态度大为不同。当时他曾经对抵制表示强硬态度，认为这些广告商试图通过广告来勒索他，并用一句“让他们滚”回应。
 
@@ -33,7 +33,7 @@ image: /img/2024/12/02/zheng-di-tou-ming-zhuang-di/01.webp
 
 随着美国总统大选以特朗普胜出告终，马斯克将在新政府中担任重要职务。他将与企业家拉马斯瓦米（Vivek Ramaswamy）共同组建名为“政府效率部”（DOGE）的机构，以改革联邦政府机构，削减政府开支。
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/03.png)
+![](/2024/12/02/zheng-di-tou-ming-zhuang-di/03.png)
 
 广告咨询公司AJL Advisory的CEO Lou Paskalis表示，一些营销人员可能会将支出重新分配给X，作为 “政治杠杆”。特别是，如果要在政府采购中分一杯羹，就必须过马斯克的“政府效率部”这一关。
 
@@ -71,11 +71,11 @@ SensorTower估计X平台上前100大广告商的总支出，2024年上半年与2
 
 Bluesky 的总用户数从 10 月底的约 1300 万增加到选后的 1500 万。不过更值得注意的是 Meta 的 Threads，仅 11 月份就有超过 1500 万注册用户，并且连续三个月每天有超过 100 万注册用户，也就是用户增幅比 Bluesky 快十几倍。
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/04.jpg)
+![](/2024/12/02/zheng-di-tou-ming-zhuang-di/04.jpg)
 
 根据 SimilarWeb 发布的数据，大选后超过 11.5 万用户离开了 X，这是埃隆·马斯克接管后最多的一次。但在特朗普胜选后，马斯克宣布X平台使用量“创下了历史新高”。
 
-![](/img/2024/12/02/zheng-di-tou-ming-zhuang-di/05.jpg)
+![](/2024/12/02/zheng-di-tou-ming-zhuang-di/05.jpg)
 
 数字发生冲突的原因在于用户可能重复注册多个平台，而同时关注多个功能、界面类似的微博客平台，也会造成用户的疲倦。
 

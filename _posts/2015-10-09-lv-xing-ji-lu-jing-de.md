@@ -4,7 +4,7 @@ title: "#旅行记录#景德镇，2015年10月（1）"
 date: 2015-10-09
 categories: 文章
 tags: [科技]
-image: /img/2015/10/09/lv-xing-ji-lu-jing-de/01.jpg
+image: /2015/10/09/lv-xing-ji-lu-jing-de/01.jpg
 ---
 
 *注：景点前的①②③等小圈数字为游览顺序。如果想按日程回顾我的行程，可以按照数字顺序阅读。*

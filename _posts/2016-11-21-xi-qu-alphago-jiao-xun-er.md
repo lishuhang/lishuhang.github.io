@@ -4,7 +4,7 @@ title: "吸取 AlphaGo 教训而开发的韩国版“沃森”"
 date: 2016-11-21
 categories: 文章
 tags: [科技]
-image: /img/2016/11/21/xi-qu-alphago-jiao-xun-er/01.jpg
+image: /2016/11/21/xi-qu-alphago-jiao-xun-er/01.jpg
 ---
 
 今年初，韩国围棋国手李世乭惨败于人工智能“棋手”AlphaGo，当时我们只顾着对结果唏嘘不已，但受打击最大的韩国人意识到这不仅仅是人机对战的问题。一台能战胜本国最强选手的机器是出自外国人，这促使该国加速了研究自己的人工智能的步伐。

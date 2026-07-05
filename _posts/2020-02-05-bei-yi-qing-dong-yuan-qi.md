@@ -4,10 +4,10 @@ title: "被疫情动员起来的全国电视媒体"
 date: 2020-02-05
 categories: 文章
 tags: [科技]
-image: /img/2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg
+image: /2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg
 ---
 
-![](/img/2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg)
+![](/2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg)
 
 书航 2 月 5 日发于北京
 
@@ -35,15 +35,15 @@ image: /img/2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg
 
 感兴趣的同学，可以长按或扫描下面小程序码，收看全国各地的专题节目、公益广告和 MV 片段。
 
-![](/img/2020/02/05/bei-yi-qing-dong-yuan-qi/02.png)
+![](/2020/02/05/bei-yi-qing-dong-yuan-qi/02.png)
 
 https://www.bilibili.com/video/av86077709
 
-![](/img/2020/02/05/bei-yi-qing-dong-yuan-qi/03.png)
+![](/2020/02/05/bei-yi-qing-dong-yuan-qi/03.png)
 
 https://www.bilibili.com/video/av86423253
 
-![](/img/2020/02/05/bei-yi-qing-dong-yuan-qi/04.png)
+![](/2020/02/05/bei-yi-qing-dong-yuan-qi/04.png)
 
 https://www.bilibili.com/video/av86423566
 
@@ -53,7 +53,7 @@ https://www.bilibili.com/video/av86423566
 
 2003 年非典期间的影像记录，社长并没能留存下多少，这次趁着全国人民休假的机会，也希望不给未来再留下遗憾。
 
-![](/img/2020/02/05/bei-yi-qing-dong-yuan-qi/05.jpg)
+![](/2020/02/05/bei-yi-qing-dong-yuan-qi/05.jpg)
 
 👇 辨认假消息和辟谣越来越难了，难在哪里？点击阅读原文
 

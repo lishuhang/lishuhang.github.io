@@ -87,7 +87,7 @@ source: "https://zhuanlan.zhihu.com/p/20639542"
 
 第一年 0.88 元，此后每年 2.00 元的  [支付宝账户安全险](https://link.zhihu.com/?target=https%3A//baoxian.alipay.com/zhx/detail.htm) 对账户 (快捷支付、余额、余额宝、招财宝资产、理财资产) 因被他人盗用而导致的资金损失负责赔偿，最高赔付金额为人民币 100 万元。被盗理赔流程规定，损失金额 2000 元以下（不含）者，无需向公安机关报案即可获得赔付。2000 元以上的损失，只要先报案就可以凭借报案回执获得赔付；5000 元以上的赔付需要用户另提供一份承诺函。
 
-![](/img/2016/03/11/zhi-fu-bao-yong-hu-cheng/01.jpg)
+![](/2016/03/11/zhi-fu-bao-yong-hu-cheng/01.jpg)
 
 根据《[众安在线财产保险股份有限公司网络支付账户资金损失保险条款](https://link.zhihu.com/?target=https%3A//ds.alipay.com/baoxian/zhxprotocol.htm)》，“被保险人主动将资产转入他人账户或主动向他人提供或泄露支付账户密码、安全工具（包括 U 盾、物理口令卡、绑定手机/手机验证码、数字证书等）”的情况造成的损失、费用和责任，保险人（即支付宝）不负责赔偿。
 
@@ -95,4 +95,4 @@ source: "https://zhuanlan.zhihu.com/p/20639542"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-12/alipay-burglary/)
 
-![](/img/2016/03/11/zhi-fu-bao-yong-hu-cheng/02.jpg)
+![](/2016/03/11/zhi-fu-bao-yong-hu-cheng/02.jpg)

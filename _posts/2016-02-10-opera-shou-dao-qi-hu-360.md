@@ -4,7 +4,7 @@ title: "Opera收到奇虎360和昆仑万维12亿美元收购要约"
 date: 2016-02-10
 categories: 文章
 tags: [科技]
-image: /img/2016/02/10/opera-shou-dao-qi-hu-360/01.jpg
+image: /2016/02/10/opera-shou-dao-qi-hu-360/01.jpg
 ---
 
 挪威老牌浏览器厂商Opera（欧朋）今天宣布收到由中国科技公司昆仑万维和奇虎360等共同组成的财团递来的收购要约。据报道，财团计划出资12亿美元收购Opera公司100%的股份。Opera董事会在一份声明中表示，“一致推荐”其股东接受这个要约。

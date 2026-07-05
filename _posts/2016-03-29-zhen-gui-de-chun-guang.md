@@ -4,7 +4,7 @@ title: "珍贵的春光"
 date: 2016-03-29
 categories: 文章
 tags: [科技]
-image: /img/2016/03/29/zhen-gui-de-chun-guang/01.jpg
+image: /2016/03/29/zhen-gui-de-chun-guang/01.jpg
 ---
 
 **文多图少**

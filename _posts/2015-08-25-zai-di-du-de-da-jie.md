@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/20182337"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-25/riding-in-beijing/%23comments)
 
-![](/img/2015/08/25/zai-di-du-de-da-jie/01.jpg)
+![](/2015/08/25/zai-di-du-de-da-jie/01.jpg)

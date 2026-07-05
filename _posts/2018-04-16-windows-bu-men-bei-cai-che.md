@@ -4,7 +4,7 @@ title: "Windows部门被裁撤，然后一个时代终结了？瞎扯"
 date: 2018-04-16
 categories: 文章
 tags: [科技]
-image: /img/2018/04/16/windows-bu-men-bei-cai-che/01.jpg
+image: /2018/04/16/windows-bu-men-bei-cai-che/01.jpg
 ---
 
 本文首发于百家号，原创文章未经授权请勿转载

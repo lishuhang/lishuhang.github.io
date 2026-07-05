@@ -59,4 +59,4 @@ source: "https://zhuanlan.zhihu.com/p/20673215"
 
 [新浪](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-03-25/pid_8505232.htm)
 
-![](/img/2016/03/25/zhong-guo-shi-chang-hai-le/01.jpg)
+![](/2016/03/25/zhong-guo-shi-chang-hai-le/01.jpg)

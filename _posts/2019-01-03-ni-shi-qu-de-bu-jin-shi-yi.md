@@ -3,7 +3,7 @@ layout: post
 title:  你失去的，不仅是一张张“无聊”的报纸
 author: james
 categories: [ article ]
-image: "/img/2019/01/0103-1.jpg"
+image: "/2019/01/0103-1.jpg"
 featured: true
 hidden: false
 ---

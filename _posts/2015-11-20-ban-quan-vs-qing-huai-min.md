@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/20355344"
 
 日本京都警方11月13日逮捕了一个运输漫画杂志的运输公司员工，以及3位中国留学生，4人被控于10月29日，在未经授权的情况下，将定于11月2日发售的集英社《周刊少年JUMP》杂志上《ONE PIECE》(官方译名为《航海王》)最新话刊登在盗版网站“mangapanda”上。
 
-![](/img/2015/11/20/ban-quan-vs-qing-huai-min/01.jpg)
+![](/2015/11/20/ban-quan-vs-qing-huai-min/01.jpg)
 
 *图/NTV*
 
@@ -39,13 +39,13 @@ source: "https://zhuanlan.zhihu.com/p/20355344"
 
 所以，我觉得可以提出一个新方案，让本来具有特殊性的漫画翻译，也可以用新形式留存下来，而不至于让好人才一口气流失掉。我设想的措施，是在原版漫画之上设一遮罩层，上层图片是透明的，仅显示嵌入的文字气泡，文字气泡可以挡住画幅的一部分，而气泡当中的文字是可以涂抹成白色之后，再替换成本地语言的。
 
-![](/img/2015/11/20/ban-quan-vs-qing-huai-min/02.jpg)
+![](/2015/11/20/ban-quan-vs-qing-huai-min/02.jpg)
 
 *制图/LJ*
 
 那么理论上，修图者完全可以只留下气泡，去掉涉嫌侵权的人物形象和动作，将这个透明图片作为遮罩层，安放在由腾讯等提供的正版图片上。尽管这只是理论上可行的方法，实际做起来也许并不需要特别大的难度，因为现在修图工作难度已经很大，只留下气泡的工作量要小得多。汉化组的经费问题也可以转而由版权方来包办，因为此时他们已经不会再危及版权方利益，如此便可以实现双赢。
 
-![](/img/2015/11/20/ban-quan-vs-qing-huai-min/03.jpg)
+![](/2015/11/20/ban-quan-vs-qing-huai-min/03.jpg)
 
 *图/[http://kankanews.com](https://link.zhihu.com/?target=http%3A//kankanews.com)*
 
@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20355344"
 
 [新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-11-20/pid_8496717.htm)（独家稿件 请勿转载）
 
-![](/img/2015/11/20/ban-quan-vs-qing-huai-min/04.jpg)
+![](/2015/11/20/ban-quan-vs-qing-huai-min/04.jpg)

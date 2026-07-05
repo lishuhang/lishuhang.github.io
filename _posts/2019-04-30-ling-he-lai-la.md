@@ -4,14 +4,14 @@ title: "令和来啦——(ﾟ∀ﾟ)"
 date: 2019-04-30
 categories: 文章
 tags: [科技]
-image: /img/2019/04/30/ling-he-lai-la/01.jpg
+image: /2019/04/30/ling-he-lai-la/01.jpg
 ---
 
-![](/img/2019/04/30/ling-he-lai-la/01.jpg)
+![](/2019/04/30/ling-he-lai-la/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/04/30/ling-he-lai-la/02.jpg)
+![](/2019/04/30/ling-he-lai-la/02.jpg)
 
 书航 4 月 30 日发于北京
 
@@ -117,7 +117,7 @@ image: /img/2019/04/30/ling-he-lai-la/01.jpg
 
 [5] NHK World 特别节目《明仁天皇》，https://www3.nhk.or.jp/nhkworld/en/special/episode/201904300810/
 
-![](/img/2019/04/30/ling-he-lai-la/03.jpg)
+![](/2019/04/30/ling-he-lai-la/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

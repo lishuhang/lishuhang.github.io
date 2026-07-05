@@ -31,4 +31,4 @@ source: "https://zhuanlan.zhihu.com/p/20214637"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-15/news-readers-press-conf/)
 
-![](/img/2015/09/17/liang-ge-xin-wen-yue-du/01.jpg)
+![](/2015/09/17/liang-ge-xin-wen-yue-du/01.jpg)

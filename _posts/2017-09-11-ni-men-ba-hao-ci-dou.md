@@ -4,7 +4,7 @@ title: "你们把好词都糟蹋光了，让后来人怎么办？"
 date: 2017-09-11
 categories: 文章
 tags: [科技]
-image: /img/2017/09/11/ni-men-ba-hao-ci-dou/01.jpg
+image: /2017/09/11/ni-men-ba-hao-ci-dou/01.jpg
 ---
 
 新媒体管家

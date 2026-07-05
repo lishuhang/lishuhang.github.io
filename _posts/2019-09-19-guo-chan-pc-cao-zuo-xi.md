@@ -4,12 +4,12 @@ title: "国产 PC 操作系统终于要熬出头了？"
 date: 2019-09-19
 categories: 文章
 tags: [科技]
-image: /img/2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg
+image: /2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg
 ---
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg)
+![](/2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg)
 
 书航 9 月 19 日发于北京
 
@@ -101,7 +101,7 @@ https://news.softpedia.com/news/libreoffice-developers-announce-increased-focus-
 
 大部分情况下，如果你只是需要一个浏览器，那么就算用 iPad，也是一样能上网的。我很喜欢举一个例子，是解放军 309 医院将 iPad 应用于临床护理工作——方法是用自带 Safari 浏览器打开医院内网，时间是 2011 年。
 
-![](/img/2019/09/19/guo-chan-pc-cao-zuo-xi/02.jpg)
+![](/2019/09/19/guo-chan-pc-cao-zuo-xi/02.jpg)
 
 很多人使用办公电脑的方式，就像是在用一个数控机床，习惯了按键位置、样式、形状不变，只要能完成工作就行。比如你跟他说打开文档，他记住的是“鼠标挪到左上角点击左数第一个菜单的第二项”这种。
 
@@ -179,8 +179,8 @@ https://news.softpedia.com/news/libreoffice-developers-announce-increased-focus-
 
 我们应该再给他们一些信心。希望在社会各界凝心聚力，共同推动之下，我们有生之年，也能看到中国成为 Linux 社区最大的，最重要的贡献者之一，看到我们打破现在几个系统的垄断，改写全球操作系统的市场份额版图。
 
-![](/img/2019/09/19/guo-chan-pc-cao-zuo-xi/03.png)
+![](/2019/09/19/guo-chan-pc-cao-zuo-xi/03.png)
 
-![](/img/2019/09/19/guo-chan-pc-cao-zuo-xi/04.png)
+![](/2019/09/19/guo-chan-pc-cao-zuo-xi/04.png)
 
-![](/img/2019/09/19/guo-chan-pc-cao-zuo-xi/05.png)
+![](/2019/09/19/guo-chan-pc-cao-zuo-xi/05.png)

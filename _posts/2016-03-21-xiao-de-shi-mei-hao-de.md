@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20662840"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-22/small-is-beautiful/)
 
-![](/img/2016/03/21/xiao-de-shi-mei-hao-de/01.jpg)
+![](/2016/03/21/xiao-de-shi-mei-hao-de/01.jpg)

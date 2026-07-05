@@ -11,15 +11,15 @@ source: "https://zhuanlan.zhihu.com/p/19753060"
 
 打开电梯门，身手敏捷的Eric Chambers热情的欢迎我们，之前我们打好了招呼。Eric是在AlleyNYC当中工作的一家公司Lean Startup Machine的其中一员。在门厅摆放着众多合作伙伴的标志，而这些标志的另一端，则是工作之余轻松休闲的人们，在咖啡机旁边选用他们自己喜欢的咖啡。
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/08.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/08.jpg)
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/09.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/09.jpg)
 
 作为一家联合创业空间，AlleyNYC向需要控制成本的创业者们提供堪与大公司比肩的附带条件：按摩椅，私密的电话房间，可以供人们进行头脑风暴的白板间，以及免费的咖啡因和廉价的酒精供应。人们在这里租用工位，或者是单独的办公室来工作。最小的单位每月的租金是450美元，而办公室的租金则大约到1000美元左右不等。
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/10.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/10.jpg)
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/11.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/11.jpg)
 
 电话间
 
@@ -27,7 +27,7 @@ source: "https://zhuanlan.zhihu.com/p/19753060"
 
 我们来到Lean Startup Machine的办公室，租下这里最大一间单间办公室的他们，是专门向不同的创业者和大学毕业生，来宣传最近比较流行的精益创业概念的组织。精益创业的核心思想，是作出最小可用的产品，快速迭代以及进行敏捷开发。尽管这一切并不是这家组织的首创，但他们却成为了最积极的布道者，并希望从中获取自己的生存空间。他们展开了一张世界地图，在他们拥有办公室或者据点的所有地方都放上了大头针。
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/12.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/12.jpg)
 
 公司CEO Trevor Owens告诉我们说，他之所以选择这个在纽约闹市区最中心的地方做联合办公，不仅是因为这里的租金并不贵，而且提供非常完整的办公环境支持，同时也更因为在这里工作的人们，都是志趣相投的，即使是不同公司的人也能在一起协作，并且可以参加每周五举行的酒会，大家一醉方休。
 
@@ -45,11 +45,11 @@ Jason能够成功地租用距离时报广场只有一街之隔的地方，但是
 
 Jason说，他非常期待和中国同类社区的合作，也希望能找个机会过来看一看。相信在我们的极地，他一定会有一段非常开心的旅途，正像我们在AlleyNYC感受到的那样。
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/13.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/13.jpg)
 
 所有曾入住这里的团队的贴纸墙
 
-![](/img/2014/05/15/niu-yue-chuang-ye-kong-jian/14.jpg)
+![](/2014/05/15/niu-yue-chuang-ye-kong-jian/14.jpg)
 
 挥别
 

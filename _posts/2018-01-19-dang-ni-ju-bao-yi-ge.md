@@ -4,7 +4,7 @@ title: "当你举报一个QQ群时，这些“举报理由”会让你意外"
 date: 2018-01-19
 categories: 文章
 tags: [科技]
-image: /img/2018/01/19/dang-ni-ju-bao-yi-ge/01.jpg
+image: /2018/01/19/dang-ni-ju-bao-yi-ge/01.jpg
 ---
 
 文|书航

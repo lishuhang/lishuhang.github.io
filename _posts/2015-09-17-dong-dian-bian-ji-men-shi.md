@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20214657"
 
 动点科技
 
-![](/img/2015/09/17/dong-dian-bian-ji-men-shi/01.jpg)
+![](/2015/09/17/dong-dian-bian-ji-men-shi/01.jpg)

@@ -4,12 +4,12 @@ title: "IBM 谢东：AI 进入生活，我们该怎么信任它？"
 date: 2019-09-16
 categories: 文章
 tags: [科技]
-image: /img/2019/09/16/ibm-xie-dong-ai-jin-ru/01.png
+image: /2019/09/16/ibm-xie-dong-ai-jin-ru/01.png
 ---
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/01.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/01.png)
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/02.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/02.png)
 
 当 AI 医生诊断我们得了某种重病，或是提供治疗方案时，我们会担心它预测是否准确。
 
@@ -41,14 +41,14 @@ AI 必须被人们所信任。
 
 透明性（Transparency）：AI系统可以被透明化管理,其开发、部署、维护等可被追踪，能够在生命周期范围内被审核。
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/03.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/03.png)
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/04.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/04.png)
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/05.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/05.png)
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/06.png)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/06.png)
 
-![](/img/2019/09/16/ibm-xie-dong-ai-jin-ru/07.jpg)
+![](/2019/09/16/ibm-xie-dong-ai-jin-ru/07.jpg)
 
 > “人工智能正在全方位地影响和改变整个社会。IBM 致力于 AI 的研究和应用，为企业提供先进和完整的 AI 技术和方案，并致力于打造可信任的 AI，而社会也会选择它所信任的公司。”

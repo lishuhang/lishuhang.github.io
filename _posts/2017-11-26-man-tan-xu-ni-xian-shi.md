@@ -4,7 +4,7 @@ title: "漫谈虚拟现实：未来的电竞直播会是什么样"
 date: 2017-11-26
 categories: 文章
 tags: [科技]
-image: /img/2017/11/26/man-tan-xu-ni-xian-shi/01.jpg
+image: /2017/11/26/man-tan-xu-ni-xian-shi/01.jpg
 ---
 
 2016 年 3 月 1 日首发于网易科技

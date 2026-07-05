@@ -4,7 +4,7 @@ title: "对这段时间问题的反思"
 date: 2018-08-12
 categories: 文章
 tags: [科技]
-image: /img/2018/08/12/dui-zhe-duan-shi-jian-wen/01.jpg
+image: /2018/08/12/dui-zhe-duan-shi-jian-wen/01.jpg
 ---
 
 并没有被“约谈”。是我自己的状态出了问题。

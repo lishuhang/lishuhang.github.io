@@ -4,7 +4,7 @@ title: "区块链应用要落地？这三个问题必须先解决"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: /img/2018/04/15/qu-kuai-lian-ying-yong-yao/01.jpg
+image: /2018/04/15/qu-kuai-lian-ying-yong-yao/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

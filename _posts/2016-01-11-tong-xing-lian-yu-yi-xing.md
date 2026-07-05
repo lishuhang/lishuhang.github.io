@@ -4,7 +4,7 @@ title: "同性恋与异性恋相比有哪些美好之处？"
 date: 2016-01-11
 categories: 文章
 tags: [科技]
-image: /img/2016/01/11/tong-xing-lian-yu-yi-xing/01.jpg
+image: /2016/01/11/tong-xing-lian-yu-yi-xing/01.jpg
 ---
 
 lishuhang：有后续！“红糖水是大姨妈来之前走之后喝的，不然会血流成河”；“( • ̀ω•́ )肚子疼得时候需要一个温暖的抱抱！” (●'◡'●)ﾉ

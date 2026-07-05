@@ -4,7 +4,7 @@ title: "知乎已经不适合作为专栏写作的主要阵地了"
 date: 2018-02-06
 categories: 文章
 tags: [科技]
-image: /img/2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg
+image: /2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg
 ---
 
 文 | 书航

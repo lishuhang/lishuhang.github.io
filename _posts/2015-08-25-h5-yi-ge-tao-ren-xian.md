@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20182320"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-20/h5-is-not-html5/)
 
-![](/img/2015/08/25/h5-yi-ge-tao-ren-xian/01.jpg)
+![](/2015/08/25/h5-yi-ge-tao-ren-xian/01.jpg)

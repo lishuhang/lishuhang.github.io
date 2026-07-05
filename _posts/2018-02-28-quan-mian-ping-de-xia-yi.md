@@ -4,7 +4,7 @@ title: "全面屏的下一步"
 date: 2018-02-28
 categories: 文章
 tags: [科技]
-image: /img/2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
+image: /2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
 ---
 
 文 | 书航

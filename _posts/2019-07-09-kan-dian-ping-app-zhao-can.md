@@ -4,14 +4,14 @@ title: "看点评 App 找餐馆，我们为什么“只读不回”？"
 date: 2019-07-09
 categories: 文章
 tags: [科技]
-image: /img/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
+image: /2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 2400 字
 
-![](/img/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg)
+![](/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg)
 
 书航 7 月 9 日发于北京
 
@@ -79,7 +79,7 @@ image: /img/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 
 十多年前，在天涯、猫扑等还非常流行的年代，大众点评上也曾出现各式各样的“段子手”，他们嘲讽定价畸高的餐厅和学校难吃的食堂。[1]
 
-![](/img/2019/07/09/kan-dian-ping-app-zhao-can/02.jpg)
+![](/2019/07/09/kan-dian-ping-app-zhao-can/02.jpg)
 
 这样的神评论经过各处流传之后，也能让评论者获得不小的成就感。但到现在再在点评区这么做，出名的概率就大大降低了。
 
@@ -95,10 +95,10 @@ image: /img/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 
 [3] https://mp.weixin.qq.com/s/Z4e7hh_lJASyKB2izVB4_w
 
-![](/img/2019/07/09/kan-dian-ping-app-zhao-can/03.png)
+![](/2019/07/09/kan-dian-ping-app-zhao-can/03.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](/img/2019/07/09/kan-dian-ping-app-zhao-can/04.png)
+![](/2019/07/09/kan-dian-ping-app-zhao-can/04.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【4955UTB9】获取授权

@@ -4,7 +4,7 @@ title: "你们要求这么多，老子不伺候了"
 date: 2018-09-07
 categories: 文章
 tags: [科技]
-image: /img/2018/09/07/ni-men-yao-qiu-zhe-me/01.jpg
+image: /2018/09/07/ni-men-yao-qiu-zhe-me/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。**航通社** 微信：**lifeissohappy** 微博：**@lishuhang**

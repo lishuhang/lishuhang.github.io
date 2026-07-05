@@ -4,7 +4,7 @@ title: "30 年前的电脑软件，还可以再战 500 年"
 date: 2018-03-13
 categories: 文章
 tags: [科技]
-image: /img/2018/03/13/30-nian-qian-de-dian-nao/01.jpg
+image: /2018/03/13/30-nian-qian-de-dian-nao/01.jpg
 ---
 
 文 / 书航

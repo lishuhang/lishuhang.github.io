@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/20202388"
 
 新浪科技（独家稿件 请勿转载）
 
-![](/img/2015/09/07/huan-ge-jiao-du-kan-zhong/01.jpg)
+![](/2015/09/07/huan-ge-jiao-du-kan-zhong/01.jpg)

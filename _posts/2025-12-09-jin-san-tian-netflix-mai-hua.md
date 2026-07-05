@@ -4,12 +4,12 @@ title: "仅三天，Netflix买华纳生变：派拉蒙发起1084亿敌意收购"
 date: 2025-12-09
 categories: 文章
 tags: [传媒]
-image: /img/2025/12/09/jin-san-tian-netflix-mai-hua/01.jpg
+image: /2025/12/09/jin-san-tian-netflix-mai-hua/01.jpg
 ---
 
 *特朗普成交易最大变数*
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/02.jpg)
+![](/2025/12/09/jin-san-tian-netflix-mai-hua/02.jpg)
 
 文 / 书航 2025.12.9
 
@@ -37,7 +37,7 @@ image: /img/2025/12/09/jin-san-tian-netflix-mai-hua/01.jpg
 
 11 月 20 日，WBD 开启竞标，收到了三份报价。此时 Netflix 半路杀出，在 12 月 1 日提交了每股 27.75 美元的报价，并附带了高达 58 亿美元的分手费。WBD 董事会评估后，最终选择了 Netflix 的报价，并与之签署了排他性协议。
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/03.jpg)
+![](/2025/12/09/jin-san-tian-netflix-mai-hua/03.jpg)
 
 *派拉蒙制片厂大门*
 
@@ -63,7 +63,7 @@ Netflix 的方案中包含了大量 Netflix 自身的股票，让交易价值受
 
 萨兰多斯妻子曾任奥巴马政府大使，家人与民主党关系深厚，但他意识到Netflix在特朗普核心圈层缺乏盟友，因此主动修补关系。两人早在2024年12月于海湖庄园（Mar-a-Lago）共进晚餐时就建立了私交，当时双方就童年经历和对娱乐业的热爱建立了共鸣。此后双方一直保持联系，特朗普也从未公开反对过Netflix。
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/04.jpg)
+![](/2025/12/09/jin-san-tian-netflix-mai-hua/04.jpg)
 
 *海湖庄园*
 
@@ -83,7 +83,7 @@ Netflix 的方案中包含了大量 Netflix 自身的股票，让交易价值受
 
 埃里森在接受 CNBC 采访时辩称，Netflix 收购 WBD 将造就一个拥有 4 亿订阅用户的超级巨头，这是“反竞争”的；而派拉蒙与 WBD 的合并合计约 2 亿用户，则是“老四和老五”的抱团取暖，更能抗衡 Netflix 和迪士尼。
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/05.jpg)
+![](/2025/12/09/jin-san-tian-netflix-mai-hua/05.jpg)
 
 在政坛，民主党籍参议员伊丽莎白·沃伦（Elizabeth Warren）虽然批评派拉蒙的交易在垄断级别上也是“五级火警”，但她对 Netflix 交易的定性更为严厉，是“反垄断噩梦”。
 
@@ -103,6 +103,6 @@ Netflix 的方案中包含了大量 Netflix 自身的股票，让交易价值受
 
 WBD 股东手中的股票从未如此烫手，也从未如此值钱。面对派拉蒙 30 美元的全现金报价，WBD 董事会面临着巨大的信托责任压力。耶鲁大学金融学教授 Kelly Shue 指出，虽然董事会不喜欢派拉蒙的收购，但为了股东利益最大化，他们现在的处境非常艰难。
 
-![](/img/2025/12/09/jin-san-tian-netflix-mai-hua/06.png)
+![](/2025/12/09/jin-san-tian-netflix-mai-hua/06.png)
 
 WBD 股价周一收盘上涨 4.4% 至 27.23 美元，而 Netflix 股价下跌 3.4%。市场似乎正在重新评估这场战役的赢家。我们也将持续关注这次并购案又会怎样重写好莱坞的历史。

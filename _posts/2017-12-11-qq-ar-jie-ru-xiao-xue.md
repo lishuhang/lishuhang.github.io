@@ -4,7 +4,7 @@ title: "QQ-AR接入小学教材后，未来谁家AR将是最大平台入口？"
 date: 2017-12-11
 categories: 文章
 tags: [科技]
-image: /img/2017/12/11/qq-ar-jie-ru-xiao-xue/01.jpg
+image: /2017/12/11/qq-ar-jie-ru-xiao-xue/01.jpg
 ---
 
 也就是一年前，AR更多的还是纸上谈兵的美好展望，如今已经成为一个简单易懂的行业热点。以BAT为代表的先行者纷纷通过抛出合作案例，希望抢占AR的话语权和解释权。

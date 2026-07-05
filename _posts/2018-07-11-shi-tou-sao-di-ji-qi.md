@@ -4,7 +4,7 @@ title: "石头扫地机器人：充满诚意的续作"
 date: 2018-07-11
 categories: 文章
 tags: [科技]
-image: /img/2018/07/11/shi-tou-sao-di-ji-qi/01.jpg
+image: /2018/07/11/shi-tou-sao-di-ji-qi/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

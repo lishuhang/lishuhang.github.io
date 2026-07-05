@@ -4,7 +4,7 @@ title: "专门做“老年型、儿童型家电”没有必要"
 date: 2018-02-27
 categories: 文章
 tags: [科技]
-image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
+image: /2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 ---
 
 文 | 书航
@@ -17,7 +17,7 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 
 那么，是否有必要针对老年人、小孩子的特点，专门设计有别于一般家电产品的“老年型、儿童型家电”呢？
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/02.png)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/02.png)
 
 有报道指出，日本和欧美地区很早就提出“老年型家电”的概念，与普通电器相比做了如下改进：尽可能减少机体上的按键、旋钮的数量，并辅之以醒目易懂的说明，和清晰明了的颜色标志等。
 
@@ -27,7 +27,7 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 
 站在一个相对年轻的观察角度上，我认为不管是像冰箱、洗衣机、电饭锅等生存必需的家电，还是像手机、电视等娱乐用途的硬件产品，都可以不去刻意追求按年龄搞“特殊化”。
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/03.png)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/03.png)
 
 换硬件的成本高了，不能说扔就扔
 
@@ -41,7 +41,7 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 
 这样一来，如果再在本可以不那么依赖技术进步的机器上区分“年轻人”和“老人小孩”，那就太不值得了。
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/04.png)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/04.png)
 
 硬件要做成全年龄都适合操作的形式
 
@@ -59,7 +59,7 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 
 宜家有一款儿童床，可以根据儿童是 0-3 岁，4-6 岁，还是 8-10 岁或更多，每次稍微调整一点床的长度就可以供孩子每一步成长使用。任何需要随年龄变化而隔几年一换的产品（例如儿童座椅和“毛毛虫”鞋），都绝对应该向它学习。
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/05.png)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/05.png)
 
 **应该区分功能设计和外观设计**
 
@@ -73,7 +73,7 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 
 更进一步说，老年人也可以追求被认为只有年轻人才喜欢的性冷淡风，北美/北欧风，或者糖果色什么的。
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/06.jpg)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/06.jpg)
 
 造成市面上只有“你妈喜欢的蕾丝电视罩”等“老年型”装饰品的，除了历史遗留的品味差异，还有就是那些“老年型”装饰，可能在功能设计上确实也方便了老年人。
 
@@ -88,4 +88,4 @@ image: /img/2018/02/27/zhuan-men-zuo-lao-nian-xing/01.jpg
 微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
-![](/img/2018/02/27/zhuan-men-zuo-lao-nian-xing/07.jpg)
+![](/2018/02/27/zhuan-men-zuo-lao-nian-xing/07.jpg)

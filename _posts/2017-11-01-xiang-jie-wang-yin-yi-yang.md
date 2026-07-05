@@ -4,7 +4,7 @@ title: "像“戒网瘾”一样管理爸妈的朋友圈，成吗？"
 date: 2017-11-01
 categories: 文章
 tags: [科技]
-image: /img/2017/11/01/xiang-jie-wang-yin-yi-yang/01.jpg
+image: /2017/11/01/xiang-jie-wang-yin-yi-yang/01.jpg
 ---
 
 文 | **书航**

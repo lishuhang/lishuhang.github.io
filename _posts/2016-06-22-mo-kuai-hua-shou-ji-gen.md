@@ -57,4 +57,4 @@ PC时代DIY的精髓就是在机身不替换的情况下替换内部的零件，
 
 [新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2016-06-22/pid_8507779.htm)
 
-![](/img/2016/06/22/mo-kuai-hua-shou-ji-gen/01.png)
+![](/2016/06/22/mo-kuai-hua-shou-ji-gen/01.png)

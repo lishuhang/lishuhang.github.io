@@ -4,7 +4,7 @@ title: "中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不
 date: 2018-04-18
 categories: 文章
 tags: [科技]
-image: /img/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png
+image: /2018/04/18/zhong-xing-bei-qia-bo-zi/01.png
 ---
 
 点击名字订阅👆【56K小猫】公众号
@@ -19,7 +19,7 @@ image: /img/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png
 
 历史上的甲午年，众多吃败仗的坏消息打碎了当时中国人“天朝上国”的迷梦；而今日中兴只因美国断供就要面临断粮绝境，也让一部分沉醉于高铁、航天、量子通信，甚至共享单车、手机支付等中国技术成就的国人，从“厉害了我的国”的热血情绪中冷静下来。
 
-![](/img/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png)
+![](/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png)
 
 中兴确实有错
 
@@ -45,7 +45,7 @@ image: /img/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png
 
 现在我们知道，中兴25-30%组件的供应链被掐断，最好的结果也是从手机制造领域全面撤退，放弃刚有起色的AI布局，而最坏的结果是让“巨大中华”到“中华酷联”的唯二幸存者，再少一个。
 
-![](/img/2018/04/18/zhong-xing-bei-qia-bo-zi/02.png)
+![](/2018/04/18/zhong-xing-bei-qia-bo-zi/02.png)
 
 产业何去何从
 
@@ -83,4 +83,4 @@ image: /img/2018/04/18/zhong-xing-bei-qia-bo-zi/01.png
 
 也许危机最终不会全面爆发，也许还是会在一夜之间，被双方高层的某种谈判再次化解，就像中兴2013年曾躲过的那一劫；但要是事后行业故态复萌，继续不思进取，我们可能就真的没有希望了。
 
-![](/img/2018/04/18/zhong-xing-bei-qia-bo-zi/03.gif)
+![](/2018/04/18/zhong-xing-bei-qia-bo-zi/03.gif)

@@ -4,7 +4,7 @@ title: "Flash 就快退役了，这家小游戏网站想榨干它的最后价值
 date: 2018-04-21
 categories: 文章
 tags: [科技]
-image: /img/2018/04/21/flash-jiu-kuai-tui-yi-le/01.jpg
+image: /2018/04/21/flash-jiu-kuai-tui-yi-le/01.jpg
 ---
 
 本文首发于百家号，原创文章未经授权请勿转载

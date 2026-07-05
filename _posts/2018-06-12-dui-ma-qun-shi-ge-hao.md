@@ -4,7 +4,7 @@ title: "对骂群是个好产品"
 date: 2018-06-12
 categories: 文章
 tags: [科技]
-image: /img/2018/06/12/dui-ma-qun-shi-ge-hao/01.jpg
+image: /2018/06/12/dui-ma-qun-shi-ge-hao/01.jpg
 ---
 
 👆点上面**航通社**订阅

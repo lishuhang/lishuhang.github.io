@@ -4,7 +4,7 @@ title: "面对新规，细思极恐：social营销中另一种100000+阅读"
 date: 2016-09-03
 categories: 文章
 tags: [科技]
-image: /img/2016/09/03/mian-dui-xin-gui-xi-si/01.jpg
+image: /2016/09/03/mian-dui-xin-gui-xi-si/01.jpg
 ---
 
 文/李书航

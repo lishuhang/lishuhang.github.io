@@ -41,4 +41,4 @@ source: "https://zhuanlan.zhihu.com/p/20335794"
 
 [百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/227546)
 
-![](/img/2015/11/12/shuang-11-zheng-chong-fen-ji/01.jpg)
+![](/2015/11/12/shuang-11-zheng-chong-fen-ji/01.jpg)

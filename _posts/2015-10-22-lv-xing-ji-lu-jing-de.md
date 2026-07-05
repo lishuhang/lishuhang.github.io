@@ -4,7 +4,7 @@ title: "#旅行记录#景德镇，2015年10月（3）"
 date: 2015-10-22
 categories: 文章
 tags: [科技]
-image: /img/2015/10/22/lv-xing-ji-lu-jing-de/01.jpg
+image: /2015/10/22/lv-xing-ji-lu-jing-de/01.jpg
 ---
 
 ② 浮梁古县衙

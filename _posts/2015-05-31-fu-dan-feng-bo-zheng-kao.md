@@ -48,4 +48,4 @@ source: "https://zhuanlan.zhihu.com/p/20052430"
 
 *修改：第一句话梗用错了*
 
-![](/img/2015/05/31/fu-dan-feng-bo-zheng-kao/01.jpg)
+![](/2015/05/31/fu-dan-feng-bo-zheng-kao/01.jpg)

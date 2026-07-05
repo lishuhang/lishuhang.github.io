@@ -4,7 +4,7 @@ title: "支付宝海报与德国大选"
 date: 2017-10-11
 categories: 文章
 tags: [科技]
-image: /img/2017/10/11/zhi-fu-bao-hai-bao-yu/01.jpg
+image: /2017/10/11/zhi-fu-bao-hai-bao-yu/01.jpg
 ---
 
 文 | 书航

@@ -4,7 +4,7 @@ title: "小蓝重回北京，但可能还没到打价格战的时候"
 date: 2018-03-25
 categories: 文章
 tags: [科技]
-image: /img/2018/03/25/xiao-lan-zhong-hui-bei-jing/01.jpg
+image: /2018/03/25/xiao-lan-zhong-hui-bei-jing/01.jpg
 ---
 
 *点击****【航通社】👆****订阅**公众号*

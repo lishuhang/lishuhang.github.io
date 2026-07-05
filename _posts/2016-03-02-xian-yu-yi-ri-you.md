@@ -69,4 +69,4 @@ source: "https://zhuanlan.zhihu.com/p/20615847"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-02/taobao-is-so-2/)
 
-![](/img/2016/03/02/xian-yu-yi-ri-you/01.jpg)
+![](/2016/03/02/xian-yu-yi-ri-you/01.jpg)

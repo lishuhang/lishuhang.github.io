@@ -4,7 +4,7 @@ title: "2018年以后，“定位理论”是否依然有效？"
 date: 2018-01-24
 categories: 文章
 tags: [科技]
-image: /img/2018/01/24/2018-nian-yi-hou-ding-wei/01.jpg
+image: /2018/01/24/2018-nian-yi-hou-ding-wei/01.jpg
 ---
 
 文 | 书航

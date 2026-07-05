@@ -4,7 +4,7 @@ title: "cnBeta 2018 高考寄语：高考不是“成人礼&quot;"
 date: 2018-06-07
 categories: 文章
 tags: [科技]
-image: /img/2018/06/07/cnbeta-2018-gao-kao-ji-yu/01.jpg
+image: /2018/06/07/cnbeta-2018-gao-kao-ji-yu/01.jpg
 ---
 
 👆点上面**航通社**订阅

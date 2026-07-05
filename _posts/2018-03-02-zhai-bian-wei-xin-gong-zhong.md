@@ -4,7 +4,7 @@ title: "摘编微信公众号的《青年文摘》们"
 date: 2018-03-02
 categories: 文章
 tags: [科技]
-image: /img/2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg
+image: /2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg
 ---
 
 文 | 书航

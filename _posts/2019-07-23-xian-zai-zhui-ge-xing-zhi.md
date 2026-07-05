@@ -4,14 +4,14 @@ title: "现在追个星只要动动手指就行了，放在以前可是要出人
 date: 2019-07-23
 categories: 文章
 tags: [科技]
-image: /img/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
+image: /2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 4500 字
 
-![](/img/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg)
+![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg)
 
 书航 7 月 23 日发于北京
 
@@ -187,10 +187,10 @@ image: /img/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
 
 [13] https://mp.weixin.qq.com/s/xVqccYU5NRkU8GUlD11i0w
 
-![](/img/2019/07/23/xian-zai-zhui-ge-xing-zhi/02.png)
+![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/02.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](/img/2019/07/23/xian-zai-zhui-ge-xing-zhi/03.png)
+![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/03.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【4XD5VDOA】获取授权

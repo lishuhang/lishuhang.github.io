@@ -4,7 +4,7 @@ title: "都说传统媒体凉了，可我们还是在意“上报纸头版”"
 date: 2018-02-13
 categories: 文章
 tags: [科技]
-image: /img/2018/02/13/dou-shuo-chuan-tong-mei-ti/01.jpg
+image: /2018/02/13/dou-shuo-chuan-tong-mei-ti/01.jpg
 ---
 
 文 | 书航

@@ -4,7 +4,7 @@ title: "煎蛋陷入版权劫，也冤，也不冤"
 date: 2017-04-20
 categories: 文章
 tags: [科技]
-image: /img/2017/04/20/jian-dan-xian-ru-ban-quan/01.jpg
+image: /2017/04/20/jian-dan-xian-ru-ban-quan/01.jpg
 ---
 
 煎蛋陷入了建站以来至今最艰难的时刻之一。sein表示收到了来自视觉中国的律师函。他跟视觉中国之间进行了几次邮件沟通，对方后续反而提高了单张图片的售价。sein表示作为个人站长实在无力负担，决定要鱼死网破，直接让对方走法律途径。

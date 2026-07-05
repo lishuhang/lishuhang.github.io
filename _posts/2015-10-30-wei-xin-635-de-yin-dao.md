@@ -4,7 +4,7 @@ title: "微信6.3.5的引导页想要表达什么？"
 date: 2015-10-30
 categories: 文章
 tags: [科技]
-image: /img/2015/10/30/wei-xin-635-de-yin-dao/01.jpg
+image: /2015/10/30/wei-xin-635-de-yin-dao/01.jpg
 ---
 
 著作权归作者所有。

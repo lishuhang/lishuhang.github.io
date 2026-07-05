@@ -4,7 +4,7 @@ title: "Cortana iOS测试版首测"
 date: 2015-11-16
 categories: 文章
 tags: [科技]
-image: /img/2015/11/16/cortana-ios-ce-shi-ban-shou/01.jpg
+image: /2015/11/16/cortana-ios-ce-shi-ban-shou/01.jpg
 ---
 
 著作权归作者所有。

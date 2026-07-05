@@ -4,7 +4,7 @@ title: "拒绝引入快充的苹果，还是你熟悉的味道"
 date: 2018-03-01
 categories: 文章
 tags: [科技]
-image: /img/2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg
+image: /2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg
 ---
 
 文 | 书航

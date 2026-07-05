@@ -4,7 +4,7 @@ title: "如果您给我发消息却没有收到我的回复……"
 date: 2016-07-11
 categories: 文章
 tags: [科技]
-image: /img/2016/07/11/ru-guo-nin-gei-wo-fa/01.jpg
+image: /2016/07/11/ru-guo-nin-gei-wo-fa/01.jpg
 ---
 
 有关合作事宜请发邮件给 **lishuhang@gmail.com** 。

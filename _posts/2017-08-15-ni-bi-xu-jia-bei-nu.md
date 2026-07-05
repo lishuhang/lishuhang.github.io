@@ -4,7 +4,7 @@ title: "你必须加倍努力，才能共享得毫不费力"
 date: 2017-08-15
 categories: 文章
 tags: [科技]
-image: /img/2017/08/15/ni-bi-xu-jia-bei-nu/01.jpg
+image: /2017/08/15/ni-bi-xu-jia-bei-nu/01.jpg
 ---
 
 最初也最纯的“共享经济”的初衷是“闲置物品能换钱”，其实增加闲置资源利用率，降低浪费，节省成本，是很多人梦想的经济形态。

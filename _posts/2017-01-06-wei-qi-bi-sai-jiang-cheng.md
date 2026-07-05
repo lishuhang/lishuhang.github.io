@@ -4,7 +4,7 @@ title: "围棋比赛将成为人工智能“奥运会”的雏形"
 date: 2017-01-06
 categories: 文章
 tags: [科技]
-image: /img/2017/01/06/wei-qi-bi-sai-jiang-cheng/01.jpg
+image: /2017/01/06/wei-qi-bi-sai-jiang-cheng/01.jpg
 ---
 
 在AlphaGo还没有官方承认自己就是那个将所有人类围棋高手挑落马下的Master之前，人们对Master的身份进行各种猜测，回顾起来，也是充满了乐趣。

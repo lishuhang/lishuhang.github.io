@@ -4,7 +4,7 @@ title: "Flash 在 2020 年之后的命运"
 date: 2017-07-28
 categories: 文章
 tags: [科技]
-image: /img/2017/07/28/flash-zai-2020-nian-zhi-hou/01.jpg
+image: /2017/07/28/flash-zai-2020-nian-zhi-hou/01.jpg
 ---
 
 我们生活在“科技日新月异”的感觉当中，但实际上现在我们正使用的这个计算机网络，早在15-20年前就定下了基本的形态，是以Windows XP、IE6、Flash等“古董”共同建构起来的基本形态。

@@ -35,4 +35,4 @@ Gizmodo 上面有一篇文章说《[请不要再卖给我一个智能水杯了](
 
 动点科技
 
-![](/img/2015/07/22/ni-shi-fou-zhen-de-xu/01.jpg)
+![](/2015/07/22/ni-shi-fou-zhen-de-xu/01.jpg)

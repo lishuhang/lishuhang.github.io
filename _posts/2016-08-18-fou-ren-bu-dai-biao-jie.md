@@ -4,7 +4,7 @@ title: "否认不代表结果，乐视收购锤子至少看起来很合理"
 date: 2016-08-18
 categories: 文章
 tags: [科技]
-image: /img/2016/08/18/fou-ren-bu-dai-biao-jie/01.jpg
+image: /2016/08/18/fou-ren-bu-dai-biao-jie/01.jpg
 ---
 
 **文/李书航（网易科技独家供稿）**

@@ -4,7 +4,7 @@ title: "再谈“微信互联网”"
 date: 2018-04-08
 categories: 文章
 tags: [科技]
-image: /img/2018/04/08/zai-tan-wei-xin-hu-lian/01.jpg
+image: /2018/04/08/zai-tan-wei-xin-hu-lian/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

@@ -4,7 +4,7 @@ title: "为啥余额宝就算被吐槽也要限购？"
 date: 2018-03-12
 categories: 文章
 tags: [科技]
-image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
+image: /2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 ---
 
 **👆点击名字订阅【航通社】公众号**
@@ -25,7 +25,7 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 
 ## 官方是怎么说的？
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/02.png)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/02.png)
 
 ****官方是怎么说的？****
 
@@ -43,7 +43,7 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 
 ## 跟银行有关系吗？
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/03.png)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/03.png)
 
 ****跟银行有关系吗？****
 
@@ -65,7 +65,7 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 
 ## 跟监管有关系吗？
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/04.png)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/04.png)
 
 ****跟监管有关系吗？****
 
@@ -91,7 +91,7 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 
 ## 对支付宝有啥影响？
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/05.png)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/05.png)
 
 ****对支付宝有啥影响？****
 
@@ -105,7 +105,7 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 
 ## 对我们有啥影响？
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/06.png)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/06.png)
 
 ****对我们有啥影响？****
 
@@ -140,4 +140,4 @@ image: /img/2018/03/12/wei-sha-yu-e-bao-jiu/01.jpg
 请在公众号对话框
 输入关键字【**转载**】*
 
-![](/img/2018/03/12/wei-sha-yu-e-bao-jiu/07.jpg)
+![](/2018/03/12/wei-sha-yu-e-bao-jiu/07.jpg)

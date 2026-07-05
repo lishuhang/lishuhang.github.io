@@ -4,7 +4,7 @@ title: "祝你……什么节快乐好呢"
 date: 2017-03-07
 categories: 文章
 tags: [科技]
-image: /img/2017/03/07/zhu-ni-shen-me-jie-kuai/01.jpg
+image: /2017/03/07/zhu-ni-shen-me-jie-kuai/01.jpg
 ---
 
 当你看到这篇文章的时候，很大概率已经来到了3月8号。这一天有很多种不同的称呼，去年我看到大多数人都在说女神节，前几年的时候也有说少女节或者女孩节的。

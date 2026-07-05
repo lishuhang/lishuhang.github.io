@@ -4,7 +4,7 @@ title: "“比特”虽好，就是不能当饭吃"
 date: 2017-03-21
 categories: 文章
 tags: [科技]
-image: /img/2017/03/21/bi-te-sui-hao-jiu-shi/01.png
+image: /2017/03/21/bi-te-sui-hao-jiu-shi/01.png
 ---
 
 前两天腾讯云以一分钱竞标厦门政务云系统，很多人以为自己亲眼见证了一个大新闻的诞生，结果人家完全合法合规。

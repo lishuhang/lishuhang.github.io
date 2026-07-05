@@ -4,7 +4,7 @@ title: "还按照内容付费的老套路看“豆瓣时间”，你就太天真
 date: 2017-03-15
 categories: 文章
 tags: [科技]
-image: /img/2017/03/15/hai-an-zhao-nei-rong-fu/01.jpg
+image: /2017/03/15/hai-an-zhao-nei-rong-fu/01.jpg
 ---
 
 如果只是用市场上前辈们给定的知识变现产品的标准来看，那么 3 月 7 号上线的“豆瓣时间”，无疑是一个很不成功的例子。

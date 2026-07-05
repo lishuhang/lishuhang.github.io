@@ -4,7 +4,7 @@ title: "这两年对 Hololens 来说，可以算白过了"
 date: 2017-09-04
 categories: 文章
 tags: [科技]
-image: /img/2017/09/04/zhe-liang-nian-dui-hololens-lai/01.jpg
+image: /2017/09/04/zhe-liang-nian-dui-hololens-lai/01.jpg
 ---
 
 文|书航

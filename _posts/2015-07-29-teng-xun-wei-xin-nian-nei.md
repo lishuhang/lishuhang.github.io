@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20135818"
 
 [cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/415761.htm)
 
-![](/img/2015/07/29/teng-xun-wei-xin-nian-nei/01.jpg)
+![](/2015/07/29/teng-xun-wei-xin-nian-nei/01.jpg)

@@ -39,4 +39,4 @@ source: "https://zhuanlan.zhihu.com/p/20305074"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-29/letv-2015-fall-media-conf/)
 
-![](/img/2015/10/29/le-shi-qiu-ji-fa-bu/01.jpg)
+![](/2015/10/29/le-shi-qiu-ji-fa-bu/01.jpg)

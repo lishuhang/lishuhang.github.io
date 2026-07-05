@@ -4,7 +4,7 @@ title: "笔记本电池不属于三包范围……但电源适配器属于"
 date: 2017-12-09
 categories: 文章
 tags: [科技]
-image: /img/2017/12/09/bi-ji-ben-dian-chi-bu/01.jpg
+image: /2017/12/09/bi-ji-ben-dian-chi-bu/01.jpg
 ---
 
 微信公众号搜索“航通社”

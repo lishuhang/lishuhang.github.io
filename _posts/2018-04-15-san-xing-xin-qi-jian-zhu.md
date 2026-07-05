@@ -4,7 +4,7 @@ title: "三星新旗舰主打 AR 表情，为啥我认为这个功能会失败"
 date: 2018-04-15
 categories: 文章
 tags: [科技]
-image: /img/2018/04/15/san-xing-xin-qi-jian-zhu/01.jpg
+image: /2018/04/15/san-xing-xin-qi-jian-zhu/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

@@ -4,7 +4,7 @@ title: "时代华纳又“世纪并购”了，传统的“反垄断”恐怕已
 date: 2018-06-13
 categories: 文章
 tags: [科技]
-image: /img/2018/06/13/shi-dai-hua-na-you-shi/01.jpg
+image: /2018/06/13/shi-dai-hua-na-you-shi/01.jpg
 ---
 
 👆点上面**航通社**订阅

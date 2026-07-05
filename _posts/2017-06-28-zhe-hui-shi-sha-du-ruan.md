@@ -4,7 +4,7 @@ title: "这会是杀毒软件的黄昏吗"
 date: 2017-06-28
 categories: 文章
 tags: [科技]
-image: /img/2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg
+image: /2017/06/28/zhe-hui-shi-sha-du-ruan/01.jpg
 ---
 
 继此前在全球爆发的 WannaCry 勒索病毒之后，部分东欧国家和欧美部分地区相继爆发一种新的勒索病毒 Petya，似乎比 WannaCry 的毒性更强，能够攻击更深层次的文件头部分。

@@ -4,7 +4,7 @@ title: "日活3000万的知乎，如今依然离不开搜索引擎"
 date: 2018-04-28
 categories: 文章
 tags: [科技]
-image: /img/2018/04/28/ri-huo-3000-wan-de-zhi/01.jpg
+image: /2018/04/28/ri-huo-3000-wan-de-zhi/01.jpg
 ---
 
 本文首发于**百家号**，原创文章未经授权请勿转载

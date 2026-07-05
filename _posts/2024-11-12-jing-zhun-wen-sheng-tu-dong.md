@@ -4,12 +4,12 @@ title: "精准文生图，动嘴编程：百度世界2024发布重磅更新"
 date: 2024-11-12
 categories: 文章
 tags: [科技]
-image: /img/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg
+image: /2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg
 ---
 
 11月12日，在上海举办的百度世界2024大会上，李彦宏发布了检索增强的文生图技术（iRAG）和运用智能体协作实现的无代码工具“秒哒”等重要产品。
 
-![](/img/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg)
+![](/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg)
 
 截至11月初，百度文心大模型的日均调用量已超过15亿次，相较于5月的2亿次增长了7.5倍，与一年前首次披露的5000万次相比，增长了约30倍。
 
@@ -17,9 +17,9 @@ image: /img/2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg
 
 百度文心iRAG技术旨在解决大模型在图像生成方面的幻觉问题，从而提高其实用性。iRAG结合百度搜索的亿级图片资源和强大的基础模型能力，可以生成超真实的图片，去除机器味。李彦宏展示了一幅“大众揽巡汽车飞跃长城”和一幅“爱因斯坦环游世界”图片，作为例子。
 
-![](/img/2024/11/12/jing-zhun-wen-sheng-tu-dong/02.jpg)
+![](/2024/11/12/jing-zhun-wen-sheng-tu-dong/02.jpg)
 
-![](/img/2024/11/12/jing-zhun-wen-sheng-tu-dong/03.jpg)
+![](/2024/11/12/jing-zhun-wen-sheng-tu-dong/03.jpg)
 
 在影视作品、漫画、绘本、海报制作等应用场景中，文心iRAG的商业价值体现在无幻觉、超真实、零成本和即时获取等方面，真正实现大幅降低创作成本的愿景。
 

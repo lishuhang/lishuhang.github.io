@@ -4,7 +4,7 @@ title: "运营商+门户的美梦是怎么做砸的"
 date: 2016-07-29
 categories: 文章
 tags: [科技]
-image: /img/2016/07/29/yun-ying-shang-men-hu-de/01.jpg
+image: /2016/07/29/yun-ying-shang-men-hu-de/01.jpg
 ---
 
 外媒曝出消息说，美国电信运营商Verizon和互联网最早一批的巨头之一雅虎之间的并购交易已经接近完成。

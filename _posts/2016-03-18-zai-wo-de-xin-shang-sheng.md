@@ -4,7 +4,7 @@ title: "在我的心上，盛开了几朵小花"
 date: 2016-03-18
 categories: 文章
 tags: [科技]
-image: /img/2016/03/18/zai-wo-de-xin-shang-sheng/01.jpg
+image: /2016/03/18/zai-wo-de-xin-shang-sheng/01.jpg
 ---
 
 拍摄于重庆大学虎溪校区

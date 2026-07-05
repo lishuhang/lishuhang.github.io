@@ -51,7 +51,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 如果你非要牌子的话我并不推荐自己用的这款——这是别人送我的，我觉得够用就好所以才用下去了。微软的两折蓝牙键盘，触感和Surface Pro 3的键盘盖完全一样，折叠起来是6.1x5.3英寸，一方手帕大小。
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/01.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/01.jpg)
 
 图／PhoneArena
 
@@ -93,7 +93,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 我相信，随着配件技术的不断更新，应该也会有适合折叠携带的机械键盘出现。在解决键盘问题之后，剩下的就是IDE的进化了：**程序员可以点选或者语音录入命令，生成代码，然后点按或用键盘定位，修改个别变量和除错。然后通过快速的网络连接，借助远程计算资源，在云端即时生成编译结果，返回自己的手机或平板屏幕上。**
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/02.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/02.jpg)
 
 图／微软
 
@@ -109,7 +109,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 仅仅限于电路设计，精细绘图，3D渲染这几个方面的话，我觉得**主要的障碍可能在于鼠标勾勒的线条会更横平竖直，能够精确定位；而桌面计算拥有强大的渲染能力。**我想就绘图的精确度和渲染这两个方面来说一下。
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/03.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/03.jpg)
 
 图／Wacom
 
@@ -117,7 +117,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 在图表绘制方面，不管是微软官方的iPad版PowerPoint，还是使用著名的绘图软件Paper by Fiftythree，手绘的效果都会让你爱上这种全新的表达方式。在PowerPoint，创作饼图的最新方式是用手指在屏幕上画一个圆（不用担心画不圆），然后拉开分屏，把一个Excel表格拖进去。而Paper更新以后加入了一个直尺功能，随手画出来的线条会由机器自动匹配，变成一条笔直的直线，整体的效果就好看了不少。
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/04.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/04.jpg)
 
 图／FiftyThree
 
@@ -129,7 +129,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 另外让我印象深刻的，是不久前vaio一款非常逆天的Win10平板Canvas Z，高配售价2万多，手写精度直逼Wacom，其实就是一个针对漫画画师的移动工作站。[CNET一位美工测试了该设备](https://link.zhihu.com/?target=http%3A//www.cnet.com/products/vaio-z-canvas/)——需要指出的是她平时的主力计算环境是Mac Pro。即使是操作系统上不习惯，她也承认这款电脑可以让她**在下班途中就完成对一小段动画的渲染**。这充分说明了，只要应用跟得上，操作系统不是不可逾越的天堑。
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/05.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/05.jpg)
 
 图／CNET
 
@@ -153,7 +153,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 游戏问题我根本不想多谈，因为当我们在捍卫PC游戏的尊严和荣光，昔日那些大型主机的爱好者可能已经哭晕在厕所。但哪怕是对于那些旧时代的怀念者而言，即将到来的虚拟现实也将一劳永逸地解决大屏操作的问题。因为过去的游戏只是一种视觉上的屏幕放大。而未来的虚拟现实和增强现实，将会**包含比视觉更多的感官刺激。就像是新系统可以向下兼容一样**，当然可以弥补大屏幕被取消的缺憾。
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/06.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/06.jpg)
 
 图／微软
 
@@ -179,4 +179,4 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 题图／微软
 
-![](/img/2016/03/26/yong-shou-ji-ping-ban-xie/07.jpg)
+![](/2016/03/26/yong-shou-ji-ping-ban-xie/07.jpg)

@@ -4,12 +4,12 @@ title: "_别把李国庆俞瑜，跟贝佐斯麦肯齐放在一起比"
 date: 2019-10-24
 categories: 文章
 tags: [科技]
-image: /img/2019/10/24/_-bie-ba-li-guo-qing/01.png
+image: /2019/10/24/_-bie-ba-li-guo-qing/01.png
 ---
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/10/24/_-bie-ba-li-guo-qing/01.png)
+![](/2019/10/24/_-bie-ba-li-guo-qing/01.png)
 
 书航 10 月 24 日发于深圳
 
@@ -85,4 +85,4 @@ https://mp.weixin.qq.com/s/HsUTJQvJO1aGxk6vfcQvqQ
 
 不管人生潮起潮落，我都希望家庭是一个温暖的港湾。在这里，我们能接纳彼此暂时的错误、迷茫和消沉，能找回重新向上的力量。
 
-![](/img/2019/10/24/_-bie-ba-li-guo-qing/02.png)
+![](/2019/10/24/_-bie-ba-li-guo-qing/02.png)

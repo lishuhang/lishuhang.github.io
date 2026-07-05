@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/20158706"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-10/auto-transit/)
 
-![](/img/2015/08/12/zai-wu-ren-jia-shi-qi/01.jpg)
+![](/2015/08/12/zai-wu-ren-jia-shi-qi/01.jpg)

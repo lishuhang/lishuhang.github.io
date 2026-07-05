@@ -4,7 +4,7 @@ title: "笔记只能是大软件的一个小功能？"
 date: 2016-03-25
 categories: 文章
 tags: [科技]
-image: /img/2016/03/25/bi-ji-zhi-neng-shi-da/01.jpg
+image: /2016/03/25/bi-ji-zhi-neng-shi-da/01.jpg
 ---
 
 **从独角兽跌到**

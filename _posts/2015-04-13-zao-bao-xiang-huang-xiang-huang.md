@@ -21,11 +21,11 @@ source: "https://zhuanlan.zhihu.com/p/20001377"
 
 乐视的砍苹果专用武器——手机，最近通过话题王子 [王思聪的曝光露出了冰山一角](https://link.zhihu.com/?target=http%3A//it.sohu.com/20150412/n411139655.shtml) ，最近有更多的人拿到了真机图片。这又是一款长的叫人说不出来有任何独特之处的手机，看起来可能是任何一家的产品的混合体。前脸像 Mate7；后背像 MX4；手机界面像 Flyme。而图片中还用深色背景造成了手机似乎没有边框的错觉。
 
-![](/img/2015/04/13/zao-bao-xiang-huang-xiang-huang/01.jpg)
+![](/2015/04/13/zao-bao-xiang-huang-xiang-huang/01.jpg)
 
 与此同时另外两家争着想做手机的厂商也放出话来，pptv 和 360 都说他们的手机将会采用无边框设计， [其中 pptv 手机的设计图](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/384617.htm) 放出来之后，更是让人觉得如果设计图能够成真的话，就会创造手机工艺史上的奇迹。但是这种效果图曾经在之前的 7-8 年当中，一次又一次的欺骗我们的双眼。
 
-![](/img/2015/04/13/zao-bao-xiang-huang-xiang-huang/02.jpg)
+![](/2015/04/13/zao-bao-xiang-huang-xiang-huang/02.jpg)
 
 这年头，真的是个人就可以做手机吗？ [一篇盘点文章](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/384903.htm) 向我们指出，确实是如此的，只是需要你的钱足够多。除了盘点了现在开始做手机的普通公司和名人之外，作者还走访了下游厂商，也就是在深圳的手机代工和制造者。他们满怀信心的说道，如果锤子当初找到他们，那么状况肯定会比现在要好很多。
 

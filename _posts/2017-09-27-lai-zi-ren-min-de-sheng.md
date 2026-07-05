@@ -4,7 +4,7 @@ title: "来自人民的声音"
 date: 2017-09-27
 categories: 文章
 tags: [科技]
-image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
+image: /2017/09/27/lai-zi-ren-min-de-sheng/01.png
 ---
 
 文 | 书航
@@ -17,7 +17,7 @@ image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 花样解读
 
-![](/img/2017/09/27/lai-zi-ren-min-de-sheng/02.png)
+![](/2017/09/27/lai-zi-ren-min-de-sheng/02.png)
 
 花样解读
 
@@ -41,7 +41,7 @@ image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## “来自人民”
 
-![](/img/2017/09/27/lai-zi-ren-min-de-sheng/03.png)
+![](/2017/09/27/lai-zi-ren-min-de-sheng/03.png)
 
 “来自人民”
 
@@ -69,7 +69,7 @@ image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 钱没给够
 
-![](/img/2017/09/27/lai-zi-ren-min-de-sheng/04.png)
+![](/2017/09/27/lai-zi-ren-min-de-sheng/04.png)
 
 钱没给够
 
@@ -103,7 +103,7 @@ image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 ## 尾声
 
-![](/img/2017/09/27/lai-zi-ren-min-de-sheng/05.png)
+![](/2017/09/27/lai-zi-ren-min-de-sheng/05.png)
 
 尾声
 
@@ -163,4 +163,4 @@ image: /img/2017/09/27/lai-zi-ren-min-de-sheng/01.png
 
 [16] http://cpc.people.com.cn/GB/69112/75843/75874/75994/5182893.html
 
-![](/img/2017/09/27/lai-zi-ren-min-de-sheng/06.jpg)
+![](/2017/09/27/lai-zi-ren-min-de-sheng/06.jpg)

@@ -4,7 +4,7 @@ title: "“天下苦秦久矣”：说说 Surface Go"
 date: 2018-07-10
 categories: 文章
 tags: [科技]
-image: /img/2018/07/10/tian-xia-ku-qin-jiu-yi/01.jpg
+image: /2018/07/10/tian-xia-ku-qin-jiu-yi/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

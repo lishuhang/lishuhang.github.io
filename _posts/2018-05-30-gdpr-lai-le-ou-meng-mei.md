@@ -4,7 +4,7 @@ title: "GDPR 来了：欧盟没有科技巨头，但是有法律"
 date: 2018-05-30
 categories: 文章
 tags: [科技]
-image: /img/2018/05/30/gdpr-lai-le-ou-meng-mei/01.jpg
+image: /2018/05/30/gdpr-lai-le-ou-meng-mei/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**

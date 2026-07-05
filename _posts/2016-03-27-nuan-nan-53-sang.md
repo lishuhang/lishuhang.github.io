@@ -4,7 +4,7 @@ title: "暖男53丧"
 date: 2016-03-27
 categories: 文章
 tags: [科技]
-image: /img/2016/03/27/nuan-nan-53-sang/01.jpg
+image: /2016/03/27/nuan-nan-53-sang/01.jpg
 ---
 
 **他想给谁温暖**

@@ -23,11 +23,11 @@ source: "https://zhuanlan.zhihu.com/p/20121656"
 
 向上流动又分为两种情况，一种是**在自己的公司之内拥有稳定的职业发展路径**，另外一种则是**通过不断跳槽，让自己的每一次改变都为下一次的升级做准备**。我们耳熟能详的美国梦，一般都表明了从最基层一直奋斗，最终能够跃升到社会顶层的传奇故事，并且一直传递的是一种奋斗就有可能成功的观念。而这种观念也贯彻在任何一个人数很多的（劳动力密集的）企业中。
 
-[![](/img/2015/07/21/zheng-zai-xiao-shi-de-zhi/01.jpg)【不明觉厉】丹东妹纸打鸡血了 笑抽过去了~~丹东阿里郎风采展示！—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XNTAxODE2NzE2.html?from=s1.8-1-1.2](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTAxODE2NzE2.html%3Ffrom%3Ds1.8-1-1.2)
+[![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/01.jpg)【不明觉厉】丹东妹纸打鸡血了 笑抽过去了~~丹东阿里郎风采展示！—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XNTAxODE2NzE2.html?from=s1.8-1-1.2](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTAxODE2NzE2.html%3Ffrom%3Ds1.8-1-1.2)
 
 连锁餐厅麦当劳和肯德基来到中国的时候，也把他们的招聘理念带到了中国。到现在，很多追随他们模式的快餐厅在招募新人的海报里，总附带一个阶梯状的“职业生涯”图示。
 
-![](/img/2015/07/21/zheng-zai-xiao-shi-de-zhi/02.jpg)
+![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/02.jpg)
 
 在这个图示当中，你可以从实习员工开始干起，经历正式员工，领班，店长，最后到达区域经理，这个阶梯就走到了头。然后在它上面并没有画出来的，有可能是更大的区域经理，甚至首席运营官。虽然越往上爬人越少，但是确实是可以采取如此的选拔方式，确保目前的区域经理是由此奋斗而来，给大家一个确定的目标和预期。
 
@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/20121656"
 
 [新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-07-21/pid_8483636.htm)（作者独家授权新浪网使用，请勿转载）
 
-![](/img/2015/07/21/zheng-zai-xiao-shi-de-zhi/03.jpg)
+![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/03.jpg)

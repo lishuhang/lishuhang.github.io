@@ -53,4 +53,4 @@ source: "https://zhuanlan.zhihu.com/p/20049363"
 
 [新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-05-29/pid_8479732.htm)
 
-![](/img/2015/05/29/chan-pin-tan-huan-le-yong/01.jpg)
+![](/2015/05/29/chan-pin-tan-huan-le-yong/01.jpg)

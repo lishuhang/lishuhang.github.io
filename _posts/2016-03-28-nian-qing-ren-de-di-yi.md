@@ -51,4 +51,4 @@ source: "https://zhuanlan.zhihu.com/p/20679657"
 
 [新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-03-28/pid_8505360.htm)
 
-![](/img/2016/03/28/nian-qing-ren-de-di-yi/01.jpg)
+![](/2016/03/28/nian-qing-ren-de-di-yi/01.jpg)

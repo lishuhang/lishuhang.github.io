@@ -4,7 +4,7 @@ title: "YouTube 这次大改版，竟然是遵循了这样的原则"
 date: 2017-09-06
 categories: 文章
 tags: [科技]
-image: /img/2017/09/06/youtube-zhe-ci-da-gai-ban/01.jpg
+image: /2017/09/06/youtube-zhe-ci-da-gai-ban/01.jpg
 ---
 
 文|书航

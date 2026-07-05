@@ -4,12 +4,12 @@ title: "已经是付费会员了，为啥还得再掏钱买东西"
 date: 2019-06-18
 categories: 文章
 tags: [科技]
-image: /img/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg
+image: /2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 lishuhang.me 微信号：lifeissohappy 微博：@航通社
 
-![](/img/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg)
+![](/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg)
 
 书航 6 月 18 日发于北京
 
@@ -37,7 +37,7 @@ image: /img/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg
 
 如果你看中的只是早餐部分，单品均价差不多都在10元以上，以10元计，每顿可以省4元，那么三个月内吃10次就能“回本”。
 
-![](/img/2019/06/18/yi-jing-shi-fu-fei-hui/02.jpg)
+![](/2019/06/18/yi-jing-shi-fu-fei-hui/02.jpg)
 
 如果你只喝其中的咖啡，那么咖啡价位在14-20元之间，即使冰美式都要14元。用卡之后每天可以有一杯10元的咖啡，也差不多是每次省4元，10次回本。
 
@@ -93,4 +93,4 @@ image: /img/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg
 
 [2] https://mp.weixin.qq.com/s/1XNDysZIRmuyPaom2itrcQ
 
-![](/img/2019/06/18/yi-jing-shi-fu-fei-hui/03.png)
+![](/2019/06/18/yi-jing-shi-fu-fei-hui/03.png)

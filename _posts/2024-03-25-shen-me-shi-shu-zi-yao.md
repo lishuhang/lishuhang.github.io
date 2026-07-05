@@ -4,10 +4,10 @@ title: "什么是数字药物，它如何帮助治疗ADHD和孤独症患儿？ _
 date: 2024-03-25
 categories: 文章
 tags: [科技]
-image: /img/2024/03/25/shen-me-shi-shu-zi-yao/01.jpg
+image: /2024/03/25/shen-me-shi-shu-zi-yao/01.jpg
 ---
 
-![](/img/2024/03/25/shen-me-shi-shu-zi-yao/01.jpg)
+![](/2024/03/25/shen-me-shi-shu-zi-yao/01.jpg)
 
 文 / 书航 2024.1.26
 

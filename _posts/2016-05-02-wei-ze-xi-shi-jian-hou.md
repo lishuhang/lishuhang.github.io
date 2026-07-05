@@ -4,7 +4,7 @@ title: "魏则西事件后，我把一篇骂百度的文章发到了百度百家
 date: 2016-05-02
 categories: 文章
 tags: [科技]
-image: /img/2016/05/02/wei-ze-xi-shi-jian-hou/01.jpg
+image: /2016/05/02/wei-ze-xi-shi-jian-hou/01.jpg
 ---
 
 作为目前不属于任何媒体机构的撰稿人，我现在特别享受这种想写啥就写啥的爽快感觉。就比如在百度的平台上骂百度，在新浪的平台上骂新浪，等等。

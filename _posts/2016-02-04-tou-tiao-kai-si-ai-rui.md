@@ -93,4 +93,4 @@ source: "https://zhuanlan.zhihu.com/p/20557252"
 
 *题图： [TalkingData 宣布获得由麦顿资本领投，软银中国资本参与的 B 轮融资](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-29/talkingdata-round-b-interview/) 时，崔晓波（左一）和麦顿负责人回答媒体提问。*
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-02-04/talkingdata-comment-on-web-reports/)![](/img/2016/02/04/tou-tiao-kai-si-ai-rui/01.jpg)*
+*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-02-04/talkingdata-comment-on-web-reports/)![](/2016/02/04/tou-tiao-kai-si-ai-rui/01.jpg)*

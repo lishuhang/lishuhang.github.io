@@ -109,6 +109,6 @@ PPS在视频领域的传统优势主要集中在PC端，在新的以云和网页
 
 **总体来说，智能硬件将几乎成为百度的唯一希望——当现有的胜利果实已经被瓜分完毕，正确的选择就是开辟新的战场。**
 
-![](/img/2014/03/12/cong-bat-dao-a-q-bai/01.jpg)
+![](/2014/03/12/cong-bat-dao-a-q-bai/01.jpg)
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-03-12/from-bat-to-at/)

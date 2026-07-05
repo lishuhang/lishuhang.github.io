@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20343876"
 
 动点科技
 
-![](/img/2015/11/15/ka-cha-yu-guan-bi-ni/01.jpg)
+![](/2015/11/15/ka-cha-yu-guan-bi-ni/01.jpg)

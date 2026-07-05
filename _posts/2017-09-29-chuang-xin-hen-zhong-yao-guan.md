@@ -4,7 +4,7 @@ title: "创新很重要，观感很重要，实事求是很重要，就事论事
 date: 2017-09-29
 categories: 文章
 tags: [科技]
-image: /img/2017/09/29/chuang-xin-hen-zhong-yao-guan/01.jpg
+image: /2017/09/29/chuang-xin-hen-zhong-yao-guan/01.jpg
 ---
 
 文 | 书航

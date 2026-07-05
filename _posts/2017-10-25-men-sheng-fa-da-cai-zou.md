@@ -4,7 +4,7 @@ title: "闷声发大财：走进中东市场的国产手机"
 date: 2017-10-25
 categories: 文章
 tags: [科技]
-image: /img/2017/10/25/men-sheng-fa-da-cai-zou/01.jpg
+image: /2017/10/25/men-sheng-fa-da-cai-zou/01.jpg
 ---
 
 文 | 书航

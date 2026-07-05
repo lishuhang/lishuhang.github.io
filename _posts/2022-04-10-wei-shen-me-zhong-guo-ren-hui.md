@@ -3,7 +3,7 @@ layout: post
 title:  为什么中国人会对威尔·史密斯的巴掌叫好
 author: james
 categories: [ article ]
-image: "/img/2022/04/0410-00.jpg"
+image: "/2022/04/0410-00.jpg"
 featured: true
 hidden: false
 ---

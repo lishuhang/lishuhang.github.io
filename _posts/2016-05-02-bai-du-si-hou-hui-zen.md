@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/20830273"
 
 这历史新高到底有多高呢？昨天晚上我发现某门户科技频道想做个专题，为了堆稿子，一口气发了二十几篇关于百度的批判文章，而它能在半天内找到这么多文章，也是因为现在的媒体生态已经与往常大不相同。
 
-![](/img/2016/05/02/bai-du-si-hou-hui-zen/01.jpg)
+![](/2016/05/02/bai-du-si-hou-hui-zen/01.jpg)
 
 ## **现在控制舆论，不靠流量，得靠律师函**
 
@@ -73,4 +73,4 @@ source: "https://zhuanlan.zhihu.com/p/20830273"
 
 文章同时发布在 [百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/433771)
 
-![](/img/2016/05/02/bai-du-si-hou-hui-zen/02.jpg)
+![](/2016/05/02/bai-du-si-hou-hui-zen/02.jpg)

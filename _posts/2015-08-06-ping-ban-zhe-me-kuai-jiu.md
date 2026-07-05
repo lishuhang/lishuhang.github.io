@@ -37,4 +37,4 @@ Surface 的第一和第二版也是一个相当失败的产品，以至于微软
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-06/are-tablets-dying/)
 
-![](/img/2015/08/06/ping-ban-zhe-me-kuai-jiu/01.jpg)
+![](/2015/08/06/ping-ban-zhe-me-kuai-jiu/01.jpg)

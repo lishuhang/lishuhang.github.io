@@ -3,7 +3,7 @@ layout: post
 title:  这波“抵制 Facebook”又烂尾了
 author: james
 categories: [ article ]
-image: "/img/2020/08/0827-00.jpg"
+image: "/2020/08/0827-00.jpg"
 featured: true
 hidden: false
 ---

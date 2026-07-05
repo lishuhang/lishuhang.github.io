@@ -4,7 +4,7 @@ title: "知乎世界杯“洗脑广告”，瞄准了一群怎样的新用户"
 date: 2018-06-19
 categories: 文章
 tags: [科技]
-image: /img/2018/06/19/zhi-hu-shi-jie-bei-xi/01.jpg
+image: /2018/06/19/zhi-hu-shi-jie-bei-xi/01.jpg
 ---
 
 👆点上面**航通社**订阅，然后开启**置顶公众号**

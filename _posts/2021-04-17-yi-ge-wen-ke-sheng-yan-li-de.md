@@ -3,7 +3,7 @@ layout: post
 title:  一个文科生眼里的“文科生太多”
 author: james
 categories: [ article ]
-image: "/img/2021/04/0417-00.jpg"
+image: "/2021/04/0417-00.jpg"
 featured: true
 hidden: false
 ---

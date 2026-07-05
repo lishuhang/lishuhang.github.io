@@ -4,7 +4,7 @@ title: "雅虎改名叫阿里他爸，或者 Alphabet 他爸"
 date: 2017-01-10
 categories: 文章
 tags: [科技]
-image: /img/2017/01/10/ya-hu-gai-ming-jiao-a/01.jpg
+image: /2017/01/10/ya-hu-gai-ming-jiao-a/01.jpg
 ---
 
 提问：除了雅虎的门户网站和其收购的社交网络业务资产，雅虎这家公司还剩下什么？

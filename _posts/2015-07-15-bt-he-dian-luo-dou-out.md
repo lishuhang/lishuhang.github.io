@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20113025"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-15/btout/)
 
-![](/img/2015/07/15/bt-he-dian-luo-dou-out/01.jpg)
+![](/2015/07/15/bt-he-dian-luo-dou-out/01.jpg)

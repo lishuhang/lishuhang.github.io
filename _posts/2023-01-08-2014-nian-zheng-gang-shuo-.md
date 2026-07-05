@@ -3,7 +3,7 @@ layout: post
 title:  2014 年，郑刚说「锤子一定能成功」
 author: james
 categories: [ article ]
-image: "/img/2023/01/0108-00.jpg"
+image: "/2023/01/0108-00.jpg"
 featured: true
 hidden: false
 ---

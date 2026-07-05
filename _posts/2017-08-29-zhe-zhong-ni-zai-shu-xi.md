@@ -4,7 +4,7 @@ title: "这种你再熟悉不过的零食，受到网上购物的冲击最严重
 date: 2017-08-29
 categories: 文章
 tags: [科技]
-image: /img/2017/08/29/zhe-zhong-ni-zai-shu-xi/01.jpg
+image: /2017/08/29/zhe-zhong-ni-zai-shu-xi/01.jpg
 ---
 
 文 | 书航

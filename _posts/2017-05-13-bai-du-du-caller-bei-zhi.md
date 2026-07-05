@@ -4,7 +4,7 @@ title: "百度 Du Caller 被指可以查到香港重要人物的手机号"
 date: 2017-05-13
 categories: 文章
 tags: [科技]
-image: /img/2017/05/13/bai-du-du-caller-bei-zhi/01.jpg
+image: /2017/05/13/bai-du-du-caller-bei-zhi/01.jpg
 ---
 
 2016 年，百度面向国际市场推出 Du Caller 应用 ，可以在 Android 系统过滤潜在的垃圾电话，鉴定未知号码。香港有机构“传真社”发现 这款 Du Caller 在安装之后，可以随意查询用户自行录入的机主信息。

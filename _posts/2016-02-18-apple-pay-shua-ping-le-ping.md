@@ -4,7 +4,7 @@ title: "Apple Pay 刷屏了，苹果神教的号召力还能延续多久？"
 date: 2016-02-18
 categories: 文章
 tags: [科技]
-image: /img/2016/02/18/apple-pay-shua-ping-le-ping/01.jpg
+image: /2016/02/18/apple-pay-shua-ping-le-ping/01.jpg
 ---
 
 正如苹果和各大银联发卡行一起预告的那样，今天早上开始，各大媒体、微信群和朋友圈都在被 Apple Pay（苹果支付）刷屏。就像之前很多次证明过的那样，苹果仍然在延续着它振臂一呼，应者云集的强大号召力，这是其他大部分手机厂商和移动服务提供商都梦寐以求而不可得的。

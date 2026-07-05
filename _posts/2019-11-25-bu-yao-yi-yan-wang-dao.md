@@ -4,12 +4,12 @@ title: "不要“一眼望到头”的人生，去做互联网，所以我们错
 date: 2019-11-25
 categories: 文章
 tags: [科技]
-image: /img/2019/11/25/bu-yao-yi-yan-wang-dao/01.png
+image: /2019/11/25/bu-yao-yi-yan-wang-dao/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/11/25/bu-yao-yi-yan-wang-dao/01.png)
+![](/2019/11/25/bu-yao-yi-yan-wang-dao/01.png)
 
 书航 11 月 25 日发于北京
 
@@ -187,7 +187,7 @@ https://mp.weixin.qq.com/s/kAG3R2-iiKjCvQ6dj-nbYg
 
 那么，现在到“愿赌服输”的时候了吗？
 
-![](/img/2019/11/25/bu-yao-yi-yan-wang-dao/02.png)
+![](/2019/11/25/bu-yao-yi-yan-wang-dao/02.png)
 
 航通社现已入驻虎嗅、钛媒体、36kr、界面、新浪科技、知乎、头条号、百家号等几乎所有媒体平台。
 

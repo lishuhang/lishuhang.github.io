@@ -4,7 +4,7 @@ title: "拒绝“潜规则”这种瓜，不要再把无聊当有趣了"
 date: 2019-08-30
 categories: 文章
 tags: [科技]
-image: /img/2019/08/30/ju-jue-qian-gui-ze-zhe/01.png
+image: /2019/08/30/ju-jue-qian-gui-ze-zhe/01.png
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
@@ -75,6 +75,6 @@ http://www.ftchinese.com/story/001070317
 
 我们又一次控诉现状，当然不只是做无谓的呻吟，而是相信每一次我们自己可以不要去传播这种无聊的谣言，以及去推行一种平视女性，直面她们实力的价值观，这个社会就会变得更好，而且更可爱一点。
 
-![](/img/2019/08/30/ju-jue-qian-gui-ze-zhe/01.png)
+![](/2019/08/30/ju-jue-qian-gui-ze-zhe/01.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

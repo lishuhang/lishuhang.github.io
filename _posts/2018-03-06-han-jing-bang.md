@@ -4,7 +4,7 @@ title: "韩泾浜"
 date: 2018-03-06
 categories: 文章
 tags: [科技]
-image: /img/2018/03/06/han-jing-bang/01.jpg
+image: /2018/03/06/han-jing-bang/01.jpg
 ---
 
 新号开张，请多关照。

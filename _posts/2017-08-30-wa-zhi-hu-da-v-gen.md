@@ -4,7 +4,7 @@ title: "挖知乎大 V 跟挖喊麦游戏网红主播，完全是两码事"
 date: 2017-08-30
 categories: 文章
 tags: [科技]
-image: /img/2017/08/30/wa-zhi-hu-da-v-gen/01.jpg
+image: /2017/08/30/wa-zhi-hu-da-v-gen/01.jpg
 ---
 
 文 | 书航

@@ -59,4 +59,4 @@ source: "https://zhuanlan.zhihu.com/p/20091045"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-29/zaobao0629/)
 
-![](/img/2015/06/29/wei-shang-shi-da-zhong-chuang/01.jpg)
+![](/2015/06/29/wei-shang-shi-da-zhong-chuang/01.jpg)

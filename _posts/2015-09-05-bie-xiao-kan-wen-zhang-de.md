@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/20200759"
 
 动点科技
 
-![](/img/2015/09/05/bie-xiao-kan-wen-zhang-de/01.jpg)
+![](/2015/09/05/bie-xiao-kan-wen-zhang-de/01.jpg)

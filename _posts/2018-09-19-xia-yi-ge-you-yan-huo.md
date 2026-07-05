@@ -4,7 +4,7 @@ title: "下一个有烟火气、有朋友的“朋友圈”在哪儿？"
 date: 2018-09-19
 categories: 文章
 tags: [科技]
-image: /img/2018/09/19/xia-yi-ge-you-yan-huo/01.jpg
+image: /2018/09/19/xia-yi-ge-you-yan-huo/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**@lishuhang**
@@ -111,6 +111,6 @@ Path 用自己的生命告诉所有开发者：不要太把用户自己说出来
 
 2018.9.19
 
-![](/img/2018/09/19/xia-yi-ge-you-yan-huo/02.gif)
+![](/2018/09/19/xia-yi-ge-you-yan-huo/02.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

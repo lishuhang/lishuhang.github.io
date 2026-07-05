@@ -4,10 +4,10 @@ title: "成功就是一种精神病"
 date: 2018-11-22
 categories: 文章
 tags: [科技]
-image: /img/2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png
+image: /2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png
 ---
 
-![](/img/2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png)
+![](/2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -203,6 +203,6 @@ image: /img/2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png
 
 2018.11.22
 
-![](/img/2018/11/22/cheng-gong-jiu-shi-yi-zhong/02.gif)
+![](/2018/11/22/cheng-gong-jiu-shi-yi-zhong/02.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

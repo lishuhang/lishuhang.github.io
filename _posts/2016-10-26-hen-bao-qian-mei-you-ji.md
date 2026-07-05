@@ -4,7 +4,7 @@ title: "很抱歉没有及时回复大家"
 date: 2016-10-26
 categories: 文章
 tags: [科技]
-image: /img/2016/10/26/hen-bao-qian-mei-you-ji/01.jpg
+image: /2016/10/26/hen-bao-qian-mei-you-ji/01.jpg
 ---
 
 昨天一口气回复了很多封寻求合作与查询的邮件，有最早的甚至是半年前发来的。

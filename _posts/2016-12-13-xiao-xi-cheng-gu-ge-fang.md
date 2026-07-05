@@ -4,7 +4,7 @@ title: "消息称谷歌放弃开发纯无人驾驶整车"
 date: 2016-12-13
 categories: 文章
 tags: [科技]
-image: /img/2016/12/13/xiao-xi-cheng-gu-ge-fang/01.jpg
+image: /2016/12/13/xiao-xi-cheng-gu-ge-fang/01.jpg
 ---
 
 据 The Information 报道，谷歌之前曾定下制造没有方向盘和踏板的革命性无人驾驶车辆，而这一开发计划将被撤回。取而代之的是，其自动驾驶车辆将不会去掉可供人类司机操纵的传统功能。

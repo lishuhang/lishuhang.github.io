@@ -4,7 +4,7 @@ title: "#旅行记录#总序：旅行的意义就是确认"
 date: 2015-10-08
 categories: 文章
 tags: [科技]
-image: /img/2015/10/08/lv-xing-ji-lu-zong-xu/01.jpg
+image: /2015/10/08/lv-xing-ji-lu-zong-xu/01.jpg
 ---
 
 从今天起，我在知乎专栏和微信公众号连载“旅行记录”系列文章。

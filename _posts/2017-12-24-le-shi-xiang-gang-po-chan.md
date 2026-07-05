@@ -4,7 +4,7 @@ title: "乐视香港破产，它为香港人带来了什么？"
 date: 2017-12-24
 categories: 文章
 tags: [科技]
-image: /img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
+image: /2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 ---
 
 文|书航
@@ -21,7 +21,7 @@ image: /img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 
 所以，要说乐视系欠供应商的钱都花到哪去了，我觉得至少有一部分花到了我们去香港的机票、酒店以及人手一件正版曼联球衣上面。
 
-![](/img/2017/12/24/le-shi-xiang-gang-po-chan/02.png)
+![](/2017/12/24/le-shi-xiang-gang-po-chan/02.png)
 
 ## 将OTT普及到香港市场
 
@@ -39,7 +39,7 @@ image: /img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 
 最迟到建台50周年的今年，无线才开始规范海外版权市场，推出正版TVB Anywhere并打击海外盗播。
 
-![](/img/2017/12/24/le-shi-xiang-gang-po-chan/03.png)
+![](/2017/12/24/le-shi-xiang-gang-po-chan/03.png)
 
 ## 英超版权大战盛极而衰
 
@@ -63,7 +63,7 @@ image: /img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 
 还有，因为更吸引人的比赛放不了，本港足球联赛“港超联”也意外的迎来了发展机遇期。
 
-![](/img/2017/12/24/le-shi-xiang-gang-po-chan/04.png)
+![](/2017/12/24/le-shi-xiang-gang-po-chan/04.png)
 
 ## 乐视式烧钱不是经营之道
 
@@ -79,4 +79,4 @@ image: /img/2017/12/24/le-shi-xiang-gang-po-chan/01.jpg
 
 今后如果有内地企业想进入香港的话，可能更让香港人接受，和更接近成功的方法，始终是精细化运营，逐渐投入软实力在香港人上面。像乐视这样砸钱，对于钱不一定有它多的企业更是不可持续的。
 
-![](/img/2017/12/24/le-shi-xiang-gang-po-chan/05.jpg)
+![](/2017/12/24/le-shi-xiang-gang-po-chan/05.jpg)

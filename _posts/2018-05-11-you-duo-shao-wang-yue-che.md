@@ -4,7 +4,7 @@ title: "有多少网约车司机是为了撩妹泡妞才开车的？"
 date: 2018-05-11
 categories: 文章
 tags: [科技]
-image: /img/2018/05/11/you-duo-shao-wang-yue-che/01.jpg
+image: /2018/05/11/you-duo-shao-wang-yue-che/01.jpg
 ---
 
 👆 点上面的 **航通社** 订阅我们

@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20126139"
 
 动点科技
 
-![](/img/2015/07/23/neng-yuan-wen-ti-shi-zu/01.jpg)
+![](/2015/07/23/neng-yuan-wen-ti-shi-zu/01.jpg)

@@ -4,14 +4,14 @@ title: "摘出“百家号”，百度新闻搜索“浪子回头”？"
 date: 2019-06-25
 categories: 文章
 tags: [科技]
-image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
+image: /2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 2600 字
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg)
 
 书航 6 月 25 日发于北京
 
@@ -25,13 +25,13 @@ image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 
 在此之前，如果你观察百度的搜索框，会发现主要的“网页”搜索旁边是“资讯”搜索。这个“资讯”原本是“新闻”搜索，可以专门搜索正规媒体网站的内容。改为“资讯”之后，结果全都来自百度自己的“百家号”。
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/02.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/02.jpg)
 
 今年 1 月下旬，百度搜索结果中都是“百家号”的情形，经由一篇名为《搜索引擎百度已死》的评论被放到舆论聚光灯下。评论指出，“百家号”文章品质参差，流量向百家号倾斜，会导致搜索结果的质量明显下降。
 
 没过几天，百度“一不做二不休”，在网页搜索结果中直接把网址隐藏掉，改为媒体的名称和小图标，与百家号的条目混在一起，难以分辨。[2]
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/03.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/03.jpg)
 
 这就是大多数人对百度搜索的上一波印象。此后，诸多新闻热点潮起潮落，百度搜索继续改版的后续并无很多人关心。
 
@@ -43,13 +43,13 @@ image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 
 4 月 8 日，百度修改了“百度新闻”页面顶端搜索框，将其导向百度网页搜索，用户不能通过访问“百度新闻”来使用传统的新闻搜索，必须打开一个隐藏了的“高级搜索”页面才行。
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/04.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/04.jpg)
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/05.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/05.jpg)
 
 5 月 3 日，这一“高级搜索”页面也被干掉，老版“新闻搜索”只能通过手动添加搜索引擎代码的方式继续使用。
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/06.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/06.jpg)
 
 如果单看这样的时间线，似乎还想用百度继续检索正规新闻网站内容的“遗老遗少”只不过是在做无用的挣扎。正因如此，看到百度突然“从善如流”，完全放开单独检索“媒体网站”的消息还是让人有点意外的。
 
@@ -63,7 +63,7 @@ image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 
 大约在 5 月底 6 月初，微博搜索网页版的“高级搜索”加入了专门检索“媒体”和“观点”的两个选项，这让查询媒体发布的图文和视频变得更为精准。
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/07.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/07.jpg)
 
 所以，即使从考核的角度上来说，新闻 / 资讯搜索如果沦为彻底的鸡肋，甚至彻底放弃维护，这也不是百度想要看到的结果。
 
@@ -73,7 +73,7 @@ image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 
 稍早前的 5 月 22 日，谷歌发布了一波对移动版搜索的新外观变化，其中，针对非广告的“自然搜索结果”（或称“有机搜索结果”，Organic listings）的改动，就是将其改为显示网站名称和收藏夹图标（Favicon）。
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/08.jpg)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/08.jpg)
 
 不过，这只是表面上和百度“看齐”而已；在实际原理层面，谷歌有自己的考虑，也有调研结果做支撑。更重要的是，谷歌同时用更醒目的标签区分了广告和正常搜索条目。[4]
 
@@ -117,6 +117,6 @@ image: /img/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 
 [5] https://techcrunch.com/2019/05/17/credder-offers-rotten-tomatoes-style-ratings-for-the-news/
 
-![](/img/2019/06/25/zhai-chu-bai-jia-hao-bai/09.png)
+![](/2019/06/25/zhai-chu-bai-jia-hao-bai/09.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

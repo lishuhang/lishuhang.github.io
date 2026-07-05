@@ -21,4 +21,4 @@ source: "https://zhuanlan.zhihu.com/p/20086177"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-25/zaobao0625/)
 
-![](/img/2015/06/25/circa-zhi-si/01.jpg)
+![](/2015/06/25/circa-zhi-si/01.jpg)

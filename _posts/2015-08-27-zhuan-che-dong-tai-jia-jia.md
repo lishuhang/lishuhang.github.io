@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20185038"
 
 [百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/149326)
 
-![](/img/2015/08/27/zhuan-che-dong-tai-jia-jia/01.jpg)
+![](/2015/08/27/zhuan-che-dong-tai-jia-jia/01.jpg)

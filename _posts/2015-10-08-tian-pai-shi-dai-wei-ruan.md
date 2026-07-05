@@ -4,7 +4,7 @@ title: "“田牌”时代：微软迎来新纪元"
 date: 2015-10-08
 categories: 文章
 tags: [科技]
-image: /img/2015/10/08/tian-pai-shi-dai-wei-ruan/01.jpg
+image: /2015/10/08/tian-pai-shi-dai-wei-ruan/01.jpg
 ---
 
 微软的新昵称已经定下来了。6 日凌晨，睡眼惺忪的人们一觉醒来，发现一系列后背印着一个简洁的“田”字的机器如约而至，而其中某一款将把他们彻底炸醒。

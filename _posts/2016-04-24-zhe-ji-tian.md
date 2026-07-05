@@ -4,7 +4,7 @@ title: "这几天"
 date: 2016-04-24
 categories: 文章
 tags: [科技]
-image: /img/2016/04/24/zhe-ji-tian/01.jpg
+image: /2016/04/24/zhe-ji-tian/01.jpg
 ---
 
 确实是n年不遇，可以拍到这样的镜头……当然我也可以考虑起个“狗男女光天化日之下”之类的标题，不过估计立马离删号不远了。

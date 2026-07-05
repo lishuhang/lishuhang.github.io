@@ -4,7 +4,7 @@ title: "多动症：让孩子远离电子产品的新理由"
 date: 2017-10-20
 categories: 文章
 tags: [科技]
-image: /img/2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg
+image: /2017/10/20/duo-dong-zheng-rang-hai-zi/01.jpg
 ---
 
 文 | 书航

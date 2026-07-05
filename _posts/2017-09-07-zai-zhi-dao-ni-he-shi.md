@@ -4,7 +4,7 @@ title: "在知道你何时何地消费之后，支付宝还想知道你买了什
 date: 2017-09-07
 categories: 文章
 tags: [科技]
-image: /img/2017/09/07/zai-zhi-dao-ni-he-shi/01.jpg
+image: /2017/09/07/zai-zhi-dao-ni-he-shi/01.jpg
 ---
 
 文|书航

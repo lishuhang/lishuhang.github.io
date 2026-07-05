@@ -27,4 +27,4 @@ source: "https://zhuanlan.zhihu.com/p/20111053"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-14/satoru-iwata/)
 
-![](/img/2015/07/14/bao-shou-ji-jin-hai-shi/01.jpg)
+![](/2015/07/14/bao-shou-ji-jin-hai-shi/01.jpg)

@@ -4,7 +4,7 @@ title: "北京公共自行车 App 上线，联合芝麻信用实现免押金"
 date: 2016-12-15
 categories: 文章
 tags: [科技]
-image: /img/2016/12/15/bei-jing-gong-gong-zi-xing/01.jpg
+image: /2016/12/15/bei-jing-gong-gong-zi-xing/01.jpg
 ---
 
 北京市政公共自行车开始正式推广其 官方 Android App（iOS 尚未上架）。该应用联合支付宝和芝麻信用，实现了“信用租车”，如此就不需支付 200 块押金，也不必跑去城区屈指可数的几个固定办卡点。

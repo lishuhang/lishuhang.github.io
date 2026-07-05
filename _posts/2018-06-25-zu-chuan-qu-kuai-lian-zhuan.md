@@ -4,7 +4,7 @@ title: "祖传区块链，专治假新闻？"
 date: 2018-06-25
 categories: 文章
 tags: [科技]
-image: /img/2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.jpg
+image: /2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

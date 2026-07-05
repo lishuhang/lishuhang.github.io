@@ -3,7 +3,7 @@ layout: post
 title:  抱怨丰巢收费太贵的人，你其实应该去送快递
 author: james
 categories: [ article ]
-image: "/img/2020/05/0511-00.jpg"
+image: "/2020/05/0511-00.jpg"
 featured: true
 hidden: false
 ---
@@ -198,5 +198,5 @@ hidden: false
 
 > “不买立省 100%”
 
-![](/img/2020/05/0511-01.gif)
+![](/2020/05/0511-01.gif)
 

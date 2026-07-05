@@ -4,7 +4,7 @@ title: "小米“不要日语专业”事件，日媒是如何报道的"
 date: 2017-09-26
 categories: 文章
 tags: [科技]
-image: /img/2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
+image: /2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
 ---
 
 文 | 书航
@@ -15,7 +15,7 @@ image: /img/2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
 
 问题是，这事远远没有结束，**从25日开始它登上了日本媒体——而且还上了首页。**
 
-![](/img/2017/09/26/xiao-mi-bu-yao-ri-yu/02.png)
+![](/2017/09/26/xiao-mi-bu-yao-ri-yu/02.png)
 
 **日本媒体：“电影事业”指的是 AV**
 
@@ -29,7 +29,7 @@ image: /img/2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
 
 此外，共同通讯社 [2]、专门报道中国新闻的 SearChina [3]，甚至香港《南华早报》[4] 也都分别报道了此事。
 
-![](/img/2017/09/26/xiao-mi-bu-yao-ri-yu/03.png)
+![](/2017/09/26/xiao-mi-bu-yao-ri-yu/03.png)
 
 **日本网民多为“看戏”模式**
 
@@ -45,7 +45,7 @@ image: /img/2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
 
 至于国内在日本发展的手机厂商，则以华为作为最大的代表，有消息称华为会在日本建立研发中心 [9]，并开出40万日元的月薪 [10]。所以有 2ch 网民说 [11] “实际上小米是说华为，因为它就是日语专业的。”
 
-![](/img/2017/09/26/xiao-mi-bu-yao-ri-yu/04.png)
+![](/2017/09/26/xiao-mi-bu-yao-ri-yu/04.png)
 
 **中国要有“知日派”，不应歧视日语专业**
 
@@ -91,4 +91,4 @@ image: /img/2017/09/26/xiao-mi-bu-yao-ri-yu/01.png
 
 [11] http://t.cn/R0a4VI9
 
-![](/img/2017/09/26/xiao-mi-bu-yao-ri-yu/05.jpg)
+![](/2017/09/26/xiao-mi-bu-yao-ri-yu/05.jpg)

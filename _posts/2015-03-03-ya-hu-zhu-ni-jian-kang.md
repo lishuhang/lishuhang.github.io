@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/19966275"
 
 总体上看，雅虎推出了几个在设计上追求唯美的移动应用单品，但摧毁了更多中小开发团队的独立产品。雅虎近期收购的团队和技术，最后很少有带着原品牌继续存活的：
 
-![](/img/2015/03/03/ya-hu-zhu-ni-jian-kang/01.jpg)
+![](/2015/03/03/ya-hu-zhu-ni-jian-kang/01.jpg)
 
 （2014.10 统计，[来源](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20141022/021144.htm)）
 

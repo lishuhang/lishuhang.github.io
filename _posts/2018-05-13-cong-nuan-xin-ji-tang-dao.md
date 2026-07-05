@@ -4,7 +4,7 @@ title: "从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历
 date: 2018-05-13
 categories: 文章
 tags: [科技]
-image: /img/2018/05/13/cong-nuan-xin-ji-tang-dao/01.jpg
+image: /2018/05/13/cong-nuan-xin-ji-tang-dao/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启“**置顶公众号**”

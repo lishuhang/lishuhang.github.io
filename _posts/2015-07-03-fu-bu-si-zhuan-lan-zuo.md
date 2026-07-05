@@ -71,4 +71,4 @@ DY：没错，尽管小米会在迅雷不愿意的情况下，决定寻找另外
 
 *(以上文本已经过阳歌审阅)*
 
-*[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-07-03/pid_8482283.htm)（所有新浪专栏均为独家，请勿转载）![](/img/2015/07/03/fu-bu-si-zhuan-lan-zuo/01.jpg)*
+*[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-07-03/pid_8482283.htm)（所有新浪专栏均为独家，请勿转载）![](/2015/07/03/fu-bu-si-zhuan-lan-zuo/01.jpg)*

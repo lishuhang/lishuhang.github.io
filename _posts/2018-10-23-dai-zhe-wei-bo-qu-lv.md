@@ -4,10 +4,10 @@ title: "#带着微博去旅行#第六季成功收官，背后有这三大原因"
 date: 2018-10-23
 categories: 文章
 tags: [科技]
-image: /img/2018/10/23/dai-zhe-wei-bo-qu-lv/01.png
+image: /2018/10/23/dai-zhe-wei-bo-qu-lv/01.png
 ---
 
-![](/img/2018/10/23/dai-zhe-wei-bo-qu-lv/01.png)
+![](/2018/10/23/dai-zhe-wei-bo-qu-lv/01.png)
 
 7大旅行主题，1亿人次参与，400亿话题阅读量，300亿人次视频播放量，这是微博年度品牌活动 #带着微博去旅行# 今年交出的成绩单。
 

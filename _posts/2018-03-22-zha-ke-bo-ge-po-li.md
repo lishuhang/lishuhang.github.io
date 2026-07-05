@@ -4,7 +4,7 @@ title: "扎克伯格破例上CNN危机公关：除道歉以外他还说了什么
 date: 2018-03-22
 categories: 文章
 tags: [科技]
-image: /img/2018/03/22/zha-ke-bo-ge-po-li/01.jpg
+image: /2018/03/22/zha-ke-bo-ge-po-li/01.jpg
 ---
 
 **👆点击名字订阅【航通社】公众号**

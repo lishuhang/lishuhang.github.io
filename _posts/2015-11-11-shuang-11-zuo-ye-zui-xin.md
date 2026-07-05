@@ -41,4 +41,4 @@ source: "https://zhuanlan.zhihu.com/p/20333160"
 
 [cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/447073.htm)
 
-![](/img/2015/11/11/shuang-11-zuo-ye-zui-xin/01.jpg)
+![](/2015/11/11/shuang-11-zuo-ye-zui-xin/01.jpg)

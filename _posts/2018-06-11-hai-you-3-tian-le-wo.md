@@ -4,7 +4,7 @@ title: "还有3天了，我家电视到底能不能看世界杯？"
 date: 2018-06-11
 categories: 文章
 tags: [科技]
-image: /img/2018/06/11/hai-you-3-tian-le-wo/01.jpg
+image: /2018/06/11/hai-you-3-tian-le-wo/01.jpg
 ---
 
 👆点上面**航通社**订阅

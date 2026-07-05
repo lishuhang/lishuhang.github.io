@@ -4,7 +4,7 @@ title: "长期没对手的即刻被腾讯借鉴了，然后呢？"
 date: 2018-02-01
 categories: 文章
 tags: [科技]
-image: /img/2018/02/01/chang-qi-mei-dui-shou-de/01.jpg
+image: /2018/02/01/chang-qi-mei-dui-shou-de/01.jpg
 ---
 
 [航通社](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659428&idx=1&sn=a1df13182e618761e833e8cf8c5415bd&chksm=be96936889e11a7ec15af038925c0e41b6fa9e623996cf2441f206b1f5ff502e2c39ccf5fc84&scene=21#wechat_redirect)

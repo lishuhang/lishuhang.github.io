@@ -4,7 +4,7 @@ title: "#歌曲推荐#系列歌单：每时每刻"
 date: 2015-11-17
 categories: 文章
 tags: [科技]
-image: /img/2015/11/17/ge-qu-tui-jian-xi-lie/01.jpg
+image: /2015/11/17/ge-qu-tui-jian-xi-lie/01.jpg
 ---
 
 从晨曦初露到暮色深沉，一天中5个时段的背景音乐，会在我窗边放出，陪伴每一天……

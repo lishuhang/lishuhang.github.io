@@ -4,7 +4,7 @@ title: "酒店业反 Airbnb，出租车反 Uber：共享经济在香港遭行业
 date: 2018-04-12
 categories: 文章
 tags: [科技]
-image: /img/2018/04/12/jiu-dian-ye-fan-airbnb-chu/01.jpg
+image: /2018/04/12/jiu-dian-ye-fan-airbnb-chu/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

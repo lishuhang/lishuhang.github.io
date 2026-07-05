@@ -3,7 +3,7 @@ layout: post
 title:  东方卫视要搞一台抗疫晚会，出了什么问题？
 author: james
 categories: [ article ]
-image: "/img/2022/04/0417-00.jpg"
+image: "/2022/04/0417-00.jpg"
 featured: true
 hidden: false
 ---

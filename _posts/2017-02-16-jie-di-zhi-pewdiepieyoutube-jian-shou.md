@@ -4,7 +4,7 @@ title: "借抵制 PewDiePie，YouTube 坚守川普治下的“政治正确”"
 date: 2017-02-16
 categories: 文章
 tags: [科技]
-image: /img/2017/02/16/jie-di-zhi-pewdiepieyoutube-jian-shou/01.jpg
+image: /2017/02/16/jie-di-zhi-pewdiepieyoutube-jian-shou/01.jpg
 ---
 
 火爆北美的Youtube超级网红PewDiePie近几天遭受所在平台YouTube、金主迪士尼等的联合抵制，主要是因为最近一期节目中出现了涉嫌种族歧视的“杀死犹太人”字眼。

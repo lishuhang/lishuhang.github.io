@@ -4,7 +4,7 @@ title: "我在新闻实验室的更新：雷军与小米舆论危机"
 date: 2025-12-15
 categories: 文章
 tags: [新闻实验室]
-image: /img/2025/12/15/wo-zai-xin-wen-shi-yan/01.jpg
+image: /2025/12/15/wo-zai-xin-wen-shi-yan/01.jpg
 ---
 
 2025年初，参加两会的雷军在网上走红，延续SU7发布的热度，雷军凭借“千亿霸总”、“爽文男主”的抖音短视频人设，成为全网膜拜的“雷神”。
@@ -17,12 +17,12 @@ image: /img/2025/12/15/wo-zai-xin-wen-shi-yan/01.jpg
 
 图片翻页[扫码阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&amp;mid=2650663077&amp;idx=1&amp;sn=73fda2d6e631686a901b6ae9caf45b69&amp;scene=142#wechat_redirect)，详情请参考： <a href="https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650663077&idx=1&sn=73fda2d6e631686a901b6ae9caf45b69&scene=142#wechat_redirect" class="normal_text_link mp_article_text_link" target="_blank" data-itemshowtype="0">在「新闻实验室」Newsletter 发布的内容</a>
 
-![配图2](/img/2025/12/15/wo-zai-xin-wen-shi-yan/02.jpg)
+![配图2](/2025/12/15/wo-zai-xin-wen-shi-yan/02.jpg)
 
-![配图3](/img/2025/12/15/wo-zai-xin-wen-shi-yan/03.jpg)
+![配图3](/2025/12/15/wo-zai-xin-wen-shi-yan/03.jpg)
 
-![配图4](/img/2025/12/15/wo-zai-xin-wen-shi-yan/04.jpg)
+![配图4](/2025/12/15/wo-zai-xin-wen-shi-yan/04.jpg)
 
-![配图5](/img/2025/12/15/wo-zai-xin-wen-shi-yan/05.jpg)
+![配图5](/2025/12/15/wo-zai-xin-wen-shi-yan/05.jpg)
 
-![配图6](/img/2025/12/15/wo-zai-xin-wen-shi-yan/06.jpg)
+![配图6](/2025/12/15/wo-zai-xin-wen-shi-yan/06.jpg)

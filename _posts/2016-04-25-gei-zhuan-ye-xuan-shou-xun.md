@@ -23,7 +23,7 @@ ZEPP 产品上线后拿到王啸等人提供的天使投资，目前已经融到
 
 顺便一提， [韩铮还是 2014 年 TechCrunch 北京峰会的一位演讲嘉宾](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-01/zepplabs/) 。他在大会现场与我们分享了创办公司、推出智能硬件的故事。
 
-![](/img/2016/04/25/gei-zhuan-ye-xuan-shou-xun/01.jpg)
+![](/2016/04/25/gei-zhuan-ye-xuan-shou-xun/01.jpg)
 
 **新品特性**
 
@@ -43,4 +43,4 @@ ZEPP 选择北美市场，主要因为美国的民众对体育运动比较熟悉
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-25/zepp/)
 
-![](/img/2016/04/25/gei-zhuan-ye-xuan-shou-xun/02.jpg)
+![](/2016/04/25/gei-zhuan-ye-xuan-shou-xun/02.jpg)

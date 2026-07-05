@@ -4,14 +4,14 @@ title: "视觉中国被“从重罚款 30 万元”之后"
 date: 2019-04-20
 categories: 文章
 tags: [科技]
-image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
+image: /2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 ---
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/02.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/02.jpg)
 
 书航 4 月 20 日发于北京
 
@@ -33,7 +33,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 《处理“碰瓷”式维权，该有下文》
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/03.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/03.jpg)
 
 微评亮剑，不少吃瓜群众在留言区拍手称快。然而“天若有情天亦老”，现在你再去看同一条微博，它已经被重新编辑，题目变成《保护版权，不能走偏》，语气也柔和了不少：[5]
 
@@ -43,13 +43,13 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 《保护版权，不能走偏》
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/04.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/04.jpg)
 
 早前在 4 月 14 日，@人民网 公开倡议主流媒体在净化版权市场一事上主动担当，人民网旗下的“人民图片网”愿与兄弟媒体携手探索，在图片采编、使用和版权交易等方面建立合作联盟，搭建一个优质新闻图片版权交易平台。[6]
 
 “人民图片网”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/05.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/05.jpg)
 
 《图片版权属于视觉中国，也可以属于人民网》。媒体观察机构“媒通社”撰文指出，[7]
 
@@ -85,7 +85,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 庆祝“封面新闻”获发一类采编资质
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/06.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/06.jpg)
 
 这是很值得庆祝的事情。张志安说，获得一类采编资质的资格，对新闻客户端和新闻网站来说是一个至关重要的准入门槛和条件。“获得此项资质，封面新闻完全可以以‘封面新闻’为独立品牌从事互联网原创内容的制作。”
 
@@ -99,7 +99,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 “切掉知识产权市场的毒瘤”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/07.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/07.jpg)
 
 在控诉的背后，是恐惧。
 
@@ -117,7 +117,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 “视觉中国事件法律问题研讨会”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/08.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/08.jpg)
 
 不过，按照视觉中国第二次道歉声明 [13] 中“将进一步加强与主管部门、行业协会和业内专家的定期沟通”的说法，召开这样的研讨会是在其计划之中，也是它寻求自救的重要机会。如果再演变成一场纯粹拍马屁的公关秀，浪费掉这个机会的话，那就只能用“自取灭亡”来形容了。
 
@@ -125,7 +125,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 王春燕博士
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/09.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/09.jpg)
 
 这次引爆争议的“黑洞照片”正是采用“知识共享-署名”（CC-BY）协议发布，整个事件也是 CC 协议得到全方面展示和推广的一次机会。让这一协议在华最权威的阐释者牵头，来指出视觉中国模式何处可保留，何处应扬弃，可能是最恰当不过的。
 
@@ -153,7 +153,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 《再谈视觉中国的图片版权“黑洞”》
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/10.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/10.jpg)
 
 他又指出：
 
@@ -167,7 +167,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 “视觉中国著作权维权案件再成最高院经典案例”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/11.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/11.jpg)
 
 今后，在媒体、法律界和学界的共同注视下，视觉中国继续拿着一纸判例当令箭，走法务和销售相结合的老路，恐怕是非常困难了。它也很难回到躺着赚取暴利的旧日好时光。
 
@@ -209,7 +209,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 “巨丑黑图”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/12.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/12.jpg)
 
 4 月 12 日，在“航通社的朋友们”读者群里，我们讨论到国外的内容创作生态，是否跟国内有根本性差异——是不是“国外用图片就很遵纪守法”。我认为，即使排除了“钓鱼执法”因素，国外的社交产品形态也决定了用户更不容易被诱发盗用图片。
 
@@ -261,7 +261,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 “万恶之源”
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/13.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/13.jpg)
 
 事发第二天，我写了这样一段话 [23] ，讲述内心感受：
 
@@ -325,7 +325,7 @@ image: /img/2019/04/20/shi-jue-zhong-guo-bei-cong/01.jpg
 
 [23] https://m.huxiu.com/moment/49656.html
 
-![](/img/2019/04/20/shi-jue-zhong-guo-bei-cong/14.jpg)
+![](/2019/04/20/shi-jue-zhong-guo-bei-cong/14.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

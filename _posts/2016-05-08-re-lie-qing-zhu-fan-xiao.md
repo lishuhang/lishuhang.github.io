@@ -4,7 +4,7 @@ title: "热烈庆祝范晓明和方gelaBaby世纪大婚"
 date: 2016-05-08
 categories: 文章
 tags: [科技]
-image: /img/2016/05/08/re-lie-qing-zhu-fan-xiao/01.jpg
+image: /2016/05/08/re-lie-qing-zhu-fan-xiao/01.jpg
 ---
 
 一切尽在不言中，身不在现场，心向往之。

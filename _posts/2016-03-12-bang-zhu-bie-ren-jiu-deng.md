@@ -4,7 +4,7 @@ title: "帮助别人，就等于帮助自己"
 date: 2016-03-12
 categories: 文章
 tags: [科技]
-image: /img/2016/03/12/bang-zhu-bie-ren-jiu-deng/01.jpg
+image: /2016/03/12/bang-zhu-bie-ren-jiu-deng/01.jpg
 ---
 
 自从昨天晚上开始到现在，我的知乎消息提示从来没有像现在这么热闹过。上一次被如此热烈的回应，还是在我撰写了一个现在已经到1万多个赞的搞笑答案的时候。

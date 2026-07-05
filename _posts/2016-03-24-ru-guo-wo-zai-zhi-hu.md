@@ -4,7 +4,7 @@ title: "如果我在知乎上有了10万个关注者"
 date: 2016-03-24
 categories: 文章
 tags: [科技]
-image: /img/2016/03/24/ru-guo-wo-zai-zhi-hu/01.jpg
+image: /2016/03/24/ru-guo-wo-zai-zhi-hu/01.jpg
 ---
 
 **那这些人里面**

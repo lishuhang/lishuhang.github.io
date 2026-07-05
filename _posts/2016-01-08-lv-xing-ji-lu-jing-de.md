@@ -4,7 +4,7 @@ title: "#旅行记录#景德镇，2015年10月（6）"
 date: 2016-01-08
 categories: 文章
 tags: [科技]
-image: /img/2016/01/08/lv-xing-ji-lu-jing-de/01.jpg
+image: /2016/01/08/lv-xing-ji-lu-jing-de/01.jpg
 ---
 
 **4）绕南**

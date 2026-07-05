@@ -4,7 +4,7 @@ title: "难以独立存活，无人货架的归宿在哪里？"
 date: 2017-12-28
 categories: 文章
 tags: [科技]
-image: /img/2017/12/28/nan-yi-du-li-cun-huo/01.jpg
+image: /2017/12/28/nan-yi-du-li-cun-huo/01.jpg
 ---
 
 文|书航

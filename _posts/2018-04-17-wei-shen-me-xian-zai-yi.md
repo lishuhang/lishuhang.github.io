@@ -4,7 +4,7 @@ title: "为什么现在依然有地产大佬支持贾跃亭？"
 date: 2018-04-17
 categories: 文章
 tags: [科技]
-image: /img/2018/04/17/wei-shen-me-xian-zai-yi/01.jpg
+image: /2018/04/17/wei-shen-me-xian-zai-yi/01.jpg
 ---
 
 本文首发于百家号，原创文章未经授权请勿转载

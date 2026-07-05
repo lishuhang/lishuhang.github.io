@@ -4,12 +4,12 @@ title: "附录：2000 年代主要的极端追星事件"
 date: 2019-07-23
 categories: 文章
 tags: [科技]
-image: /img/2019/07/23/fu-lu-2000-nian-dai-zhu/01.jpg
+image: /2019/07/23/fu-lu-2000-nian-dai-zhu/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/07/23/fu-lu-2000-nian-dai-zhu/01.jpg)
+![](/2019/07/23/fu-lu-2000-nian-dai-zhu/01.jpg)
 
 书航 7 月 23 日发于北京
 
@@ -49,6 +49,6 @@ https://new.qq.com/rain/a/20140321016036
 
 以上内容由航通社整理
 
-![](/img/2019/07/23/fu-lu-2000-nian-dai-zhu/02.png)
+![](/2019/07/23/fu-lu-2000-nian-dai-zhu/02.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

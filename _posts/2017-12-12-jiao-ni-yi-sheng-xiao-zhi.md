@@ -4,7 +4,7 @@ title: "叫你一声“小智障”你敢答应吗?"
 date: 2017-12-12
 categories: 文章
 tags: [科技]
-image: /img/2017/12/12/jiao-ni-yi-sheng-xiao-zhi/01.jpg
+image: /2017/12/12/jiao-ni-yi-sheng-xiao-zhi/01.jpg
 ---
 
 文|书航

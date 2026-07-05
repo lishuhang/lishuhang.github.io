@@ -4,14 +4,14 @@ title: "“闲置照片能换钱”，这事到底有多难？"
 date: 2019-12-17
 categories: 文章
 tags: [科技]
-image: /img/2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png
+image: /2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png
 ---
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png)
 
 > 未来，航通社将陆续公开投放由我们自行拍摄的部分素材照片和参与的展会、新闻现场照片，以微利或免版权形式发布，详情请期待我们后续的通知。在此我们呼吁更多曾拍摄了不涉及隐私、肖像权等问题的素材图片的内容创业者，加入共建共享图片库的行列，助力全行业合法、有序、健康发展。航通社，公众号：航通社视觉中国被“从重罚款 30 万元”之后
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/02.jpg)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/02.jpg)
 
 如今，厂商们较大型的新闻图片和视频传输，最后还是用 Vphoto、喔图等图片直播服务商，还有邮箱附件、钉盘和百度网盘们解决的。
 
@@ -41,41 +41,41 @@ image: /img/2019/12/17/xian-zhi-zhao-pian-neng-huan/01.png
 
 我首先想到的是 Shutterstock 。在它们的全球投稿网站上，“自 2003 年来已向投稿者支付逾 5 亿美元稿费”的字眼很是醒目。
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/03.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/03.png)
 
 这宣传语，说真的，好像前几天我们刚刚看过类似的……
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/04.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/04.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/05.jpg)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/05.jpg)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/06.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/06.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/07.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/07.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/08.jpg)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/08.jpg)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/09.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/09.png)
 
 （陈可辛《三分钟》拍摄花絮 / Apple）
 
 这样的……
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/10.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/10.png)
 
 （大疆 OSMO Mobile 3 / 大疆）
 
 这样的……
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/11.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/11.png)
 
 这样的……
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/12.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/12.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/13.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/13.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/14.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/14.png)
 
 倒不是怕你手滑点错（你肯定看得到哪个是付费的），而是在万一免费图片满足不了你的时候，有一个立等可取的替代选择摆在那里。
 
@@ -99,23 +99,23 @@ https://www.solidot.org/story?sid=62858
 
 https://medium.com/p/3b60d1b4ad0c
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/15.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/15.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/16.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/16.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/17.gif)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/17.gif)
 
 社长早前写《毫不利己，专门利人：如何再造一个维基百科？》的时候，提到过这么个事情：
 
 > 为了在谷歌图像搜索结果中占据最热门的位置，户外服装公司 The North Face（北面）在维基百科的文章中偷偷植入了广告照片。如果不是它们大张旗鼓地自我宣传，事件可能一直不会被曝光。The North Face 与李奥贝纳合作，派出摄影师前往世界各地的著名户外地标，拍摄穿着 The North Face 冲锋衣的人们站在地标的照片，并替换到这些地标的维基百科页面。“一个品牌如何不花钱就在谷歌上出现在第一位呢？” The North Face 自卖自夸，“我们到达了最难企及的地方之一：世界最大搜索引擎的‘顶端’。仅仅通过和维基百科合作，完全不需要支付任何费用。”航通社，公众号：航通社毫不利己，专门利人：如何再造一个维基百科？
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/18.jpg)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/18.jpg)
 
 > “在现有的所有不良广告形式之外，我们认为有一种方法，可以制作一些广告，这些广告并不让看到的人觉得是一种惩罚；这种广告是美丽的和有价值的。”
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/19.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/19.png)
 
-![](/img/2019/12/17/xian-zhi-zhao-pian-neng-huan/20.png)
+![](/2019/12/17/xian-zhi-zhao-pian-neng-huan/20.png)
 
 航通社现已入驻虎嗅、钛媒体、36kr、界面、新浪科技、知乎、头条号、百家号等几乎所有媒体平台。
 

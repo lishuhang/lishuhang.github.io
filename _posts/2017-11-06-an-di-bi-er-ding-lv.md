@@ -4,7 +4,7 @@ title: "“安迪——比尔定律”只是结果，而非原因"
 date: 2017-11-06
 categories: 文章
 tags: [科技]
-image: /img/2017/11/06/an-di-bi-er-ding-lv/01.jpg
+image: /2017/11/06/an-di-bi-er-ding-lv/01.jpg
 ---
 
 本文 2016 年 1 月 25 日发布于新浪科技，重发时有修订

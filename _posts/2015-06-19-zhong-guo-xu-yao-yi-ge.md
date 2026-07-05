@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20078668"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-19/zaobao0619/)
 
-![](/img/2015/06/19/zhong-guo-xu-yao-yi-ge/01.jpg)
+![](/2015/06/19/zhong-guo-xu-yao-yi-ge/01.jpg)

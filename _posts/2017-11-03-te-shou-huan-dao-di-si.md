@@ -4,7 +4,7 @@ title: "特首换到第四位了，香港发展科技产业还有戏吗？"
 date: 2017-11-03
 categories: 文章
 tags: [科技]
-image: /img/2017/11/03/te-shou-huan-dao-di-si/01.jpg
+image: /2017/11/03/te-shou-huan-dao-di-si/01.jpg
 ---
 
 文 | **书航**

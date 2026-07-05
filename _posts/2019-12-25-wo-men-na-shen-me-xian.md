@@ -4,12 +4,12 @@ title: "我们拿什么献给下一个 10 年"
 date: 2019-12-25
 categories: 文章
 tags: [科技]
-image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
+image: /2019/12/25/wo-men-na-shen-me-xian/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/01.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/01.png)
 
 书航 12 月 25 日发于北京
 
@@ -25,15 +25,15 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 在 1980 年代中期，苹果 Macintosh 电脑的发布，宣布了个人电脑时代的来临。无独有偶，微软的 Windows 也是在 80 年代推出首个版本。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/02.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/02.png)
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/03.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/03.png)
 
 80年代起，离线的个人电脑以及在上面进行的家庭娱乐、学习等操作，已经渗透到一些较高收入的人群。在未来 10 年，电脑行业将致力于让每个家庭的桌子上都有一台个人电脑。
 
 当时跟电脑相伴在一起的，一定是成堆的软盘和光盘。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/04.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/04.png)
 
 每张只有 1.44M 和 650M 的容量，现在看来几乎什么都做不了，但当时已经能超出电视、报纸和电影等娱乐形式一大截。
 
@@ -43,9 +43,9 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 1995 年发布的 Windows 95 系统，将操作系统图形界面的基本格局固定下来，更重要的是确立了两大网页浏览器——Netscape 和 IE 的基本界面，也就定下了普通人使用互联网的基本方式。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/05.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/05.png)
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/06.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/06.png)
 
 以 http:// 开头的网址构成的这张全球大网并非与生俱来。超文本标记语言（HTML）在 90 年代打败了文字聊天室和 FTP、Gopher 等其它传输方式。而后，美国在线（AOL）、瀛海威等私有的、不能互通的运营商自建网络也被淘汰。
 
@@ -53,9 +53,9 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 在 90 年代末期，新闻门户、即时消息、网络拍卖、分类信息等现在最常见的互联网应用，都已经有了被固定好的形态。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/07.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/07.png)
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/08.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/08.png)
 
 未来的十年甚至更长时间，只不过是将这些已有的形态构造得更完善，使其能容纳更多人同时使用，并向上不断添加附属功能。
 
@@ -65,7 +65,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 一年后，iPhone 有了应用商店。当时的应用程序还十分简陋，占用的运算量和存储空间都非常小，能做的事情也有限。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/09.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/09.png)
 
 但这是未来 10 年的入口，此后手机只是依次改善了性能、增大了屏幕大小，增加了摄像头数量、缩窄了边框、以至于要折叠起来。
 
@@ -81,7 +81,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 如果这就是未来 10 年继续改善的方向，那么可以预见的就是，到 2029 年我们将会拿着一块更完全的，更彻底的玻璃，它没有边框，或许是柔性的，可以折叠。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/10.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/10.png)
 
 这些东西肯定会普及，但是它的本源依然是 2007 年的 iPhone。
 
@@ -97,7 +97,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 语音当然也有自己的发展，AirPods 意外的成为苹果最近出货和营收最强劲的产品，也带火了整个真无线耳机行业。这不仅意味着耳机的更新换代，也悄然让语音助手有了比你的手机更自然的栖息地。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/11.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/11.png)
 
 带着真无线耳机的人们，走在路上很自然的对着空气说话，将会成为未来 10 年很有可能常见的风景。
 
@@ -107,7 +107,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 但即便如此，用语音交互从效率讲，或者是从专注度、或者办公室的安静需求等诸多方面，仍然不能代替行之有效的屏幕交互。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/12.jpg)
+![](/2019/12/25/wo-men-na-shen-me-xian/12.jpg)
 
 啊，我们终于说到了 AI。
 
@@ -117,7 +117,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 这让人们难以因为一种富有科技感的，直观可感的新工具的诞生，而感慨科技的伟大并投身其中，就像以前很多个 10 年我们曾经历过的那样。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/13.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/13.png)
 
 科技拜物教需要一种神奇的载体，作为信徒的精神寄托。它曾经是乔布斯从皮包里拎出来的一体机，是盖茨身后的蓝天白云，是“一个宽屏触控iPod、一台革命性移动电话、一台互联网通讯设备”。
 
@@ -133,7 +133,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 但还是别想太多了——我们已经倒退回连大气层内的超音速飞行都没有了的年代，加上波音还出了大问题，让以后坐飞机都变得不那么容易。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/14.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/14.png)
 
 科技更新的乏力，有多方面的原因造成，但我们上面的梳理说明，人们不会心平气和地等待在此期间出现的创新真空。
 
@@ -141,7 +141,7 @@ image: /img/2019/12/25/wo-men-na-shen-me-xian/01.png
 
 能在 2020 年代，看到这样一种东西出现，继续给所有热爱科技的人以期待和向往，这就是我对未来 10 年的最大憧憬。
 
-![](/img/2019/12/25/wo-men-na-shen-me-xian/15.png)
+![](/2019/12/25/wo-men-na-shen-me-xian/15.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

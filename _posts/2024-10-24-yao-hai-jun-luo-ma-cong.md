@@ -4,12 +4,12 @@ title: "姚海军落马：从林场子弟，到“科幻帝国掌门”的跌宕
 date: 2024-10-24
 categories: 文章
 tags: [科技]
-image: /img/2024/10/24/yao-hai-jun-luo-ma-cong/01.jpg
+image: /2024/10/24/yao-hai-jun-luo-ma-cong/01.jpg
 ---
 
 疑云重重的2023雨果奖，会是他被查的导火索吗？
 
-![](/img/2024/10/24/yao-hai-jun-luo-ma-cong/01.jpg)
+![](/2024/10/24/yao-hai-jun-luo-ma-cong/01.jpg)
 
 文/书航 2024.10.24
 

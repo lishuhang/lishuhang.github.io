@@ -4,7 +4,7 @@ title: "用SQL替代机器学习，这是新时代的“电风扇吹香皂盒”
 date: 2018-07-16
 categories: 文章
 tags: [科技]
-image: /img/2018/07/16/yong-sql-ti-dai-ji-qi/01.jpg
+image: /2018/07/16/yong-sql-ti-dai-ji-qi/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

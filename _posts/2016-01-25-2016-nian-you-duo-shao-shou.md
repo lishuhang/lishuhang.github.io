@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/20525004"
 
 [新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-01-25/pid_8501081.htm)
 
-![](/img/2016/01/25/2016-nian-you-duo-shao-shou/01.jpg)
+![](/2016/01/25/2016-nian-you-duo-shao-shou/01.jpg)

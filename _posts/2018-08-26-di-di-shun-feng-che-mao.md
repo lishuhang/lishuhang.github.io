@@ -4,7 +4,7 @@ title: "滴滴顺风车冒死也要做社交，到底为的啥？"
 date: 2018-08-26
 categories: 文章
 tags: [科技]
-image: /img/2018/08/26/di-di-shun-feng-che-mao/01.jpg
+image: /2018/08/26/di-di-shun-feng-che-mao/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。**航通社** 微信：**lifeissohappy** 微博：**@lishuhang**
@@ -115,6 +115,6 @@ image: /img/2018/08/26/di-di-shun-feng-che-mao/01.jpg
 
 但创业本来就是这样子。据《华西都市报》报道，本次事件的犯罪嫌疑人亲属也说他“老喜欢创业，不喜欢受人限制”。
 
-![](/img/2018/08/26/di-di-shun-feng-che-mao/02.gif)
+![](/2018/08/26/di-di-shun-feng-che-mao/02.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

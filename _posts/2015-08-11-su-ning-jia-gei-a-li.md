@@ -38,4 +38,4 @@ source: "https://zhuanlan.zhihu.com/p/20156557"
 
 *[新浪科技](/)（独家稿件，请勿转载）*
 
-![](/img/2015/08/11/su-ning-jia-gei-a-li/01.jpg)
+![](/2015/08/11/su-ning-jia-gei-a-li/01.jpg)

@@ -13,7 +13,7 @@ source: "https://zhuanlan.zhihu.com/p/19922142"
 
 。由于机位的原因，没有拍到我，不过底下就是我们这帮记者确定无疑了。看这些正在玩手表的就是我们。
 
-![](/img/2014/12/25/dui-zhi-neng-ying-jian-sha/02.jpg)
+![](/2014/12/25/dui-zhi-neng-ying-jian-sha/02.jpg)
 
 智能手表现在已经逐渐出现了类似手机中 MTK 那样的“交钥匙”方案，可以用一个统一的方案配上不同的外壳，给不同厂商快速出货。这只售价 299 元的手表每年服务费是 90 元钱，从任何值得报道的参数角度来说，都跟 360 儿童卫士和 [搜狗的糖猫](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-09/sogou-teemo-launch/) 没有多大分别。因此场上记者们听得也是意兴阑珊。
 

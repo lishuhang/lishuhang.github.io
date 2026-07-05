@@ -4,7 +4,7 @@ title: "“首都在线.com”今晨遭遇枪击案"
 date: 2018-06-29
 categories: 文章
 tags: [科技]
-image: /img/2018/06/29/shou-du-zai-xian-com-jin/01.jpg
+image: /2018/06/29/shou-du-zai-xian-com-jin/01.jpg
 ---
 
 👆点**航通社**订阅 然后**置顶公众号**

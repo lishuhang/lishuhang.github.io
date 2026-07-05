@@ -4,7 +4,7 @@ title: "如果饿了么替代口碑在支付宝的入口，接下来会发生什
 date: 2018-02-26
 categories: 文章
 tags: [科技]
-image: /img/2018/02/26/ru-guo-e-le-me-ti/01.jpg
+image: /2018/02/26/ru-guo-e-le-me-ti/01.jpg
 ---
 
 去年8月我曾写道：“最有可能的思路，就是饿了么直接被蚂蚁金服控制……”

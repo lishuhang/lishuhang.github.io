@@ -4,7 +4,7 @@ title: "从北京移向海外的双12"
 date: 2017-12-13
 categories: 文章
 tags: [科技]
-image: /img/2017/12/13/cong-bei-jing-yi-xiang-hai/01.jpg
+image: /2017/12/13/cong-bei-jing-yi-xiang-hai/01.jpg
 ---
 
 微信公众号搜索“航通社”

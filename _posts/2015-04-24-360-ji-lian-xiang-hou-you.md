@@ -9,23 +9,23 @@ source: "https://zhuanlan.zhihu.com/p/20011435"
 
 今天我想说一下国内和国外双重标准的事情。熟悉我的人可能都知道，我是非常讨厌 360、腾讯、金山这些卫士管家类东西的。原因也非常简单，就像一位网友曾经说过的那样，你装上一个，他们一家子最后都会跟着来。所以我一般都是在 [征服美丽少女](https://link.zhihu.com/?target=http%3A//vdisk.weibo.com/s/pzt4fARUZp1)（误）的时候才让她们装 360，以节省我自己的时间。
 
-![](/img/2015/04/24/360-ji-lian-xiang-hou-you/01.jpg)
+![](/2015/04/24/360-ji-lian-xiang-hou-you/01.jpg)
 
 然而最近，我却一反常态地在自己用的电脑上也装上了 360，同时还对其他人安利。你没看错，我脑子也没出问题——在这不寻常的变化背后，其实是我使用的 360 加了特技。
 
-![](/img/2015/04/24/360-ji-lian-xiang-hou-you/02.jpg)
+![](/2015/04/24/360-ji-lian-xiang-hou-you/02.jpg)
 
 duang！这就是 360 专门针对国际市场推出的 Total Security。
 
 之前我也直接使用微软自己的杀毒软件 MSE，但是那才是真正意义上的安慰剂，安装在电脑上倒也确实不收钱不流氓，但也起不到任何效果啊。而 360 的这个国际版本不仅保留了核心的杀毒和系统清理功能，而且关键是没有多余插件。这还不算，它对于即将推出的新功能，还得邀请用户使用 facebook 账号投票，决定上哪个不上哪个。看着它我仿佛回到了近 10 年前 360 安全卫士本尊刚推出时的样子，当时的它面对“同胞兄弟”上网助手，简直就像是一阵“太平洋的风”一般清新。
 
-![](/img/2015/04/24/360-ji-lian-xiang-hou-you/03.jpg)
+![](/2015/04/24/360-ji-lian-xiang-hou-you/03.jpg)
 
 最后，当我在官网中找到 [这个链接](https://link.zhihu.com/?target=http%3A//www.360totalsecurity.com/en/blog/how-to-uninstall-360-total-security/) 的时候，它彻底的感动了我……
 
-![](/img/2015/04/24/360-ji-lian-xiang-hou-you/04.jpg)
+![](/2015/04/24/360-ji-lian-xiang-hou-you/04.jpg)
 
-![](/img/2015/04/24/360-ji-lian-xiang-hou-you/05.jpg)
+![](/2015/04/24/360-ji-lian-xiang-hou-you/05.jpg)
 
 居然会给你讲怎！么！卸！载！还告诉你：“不要点那个绿色加亮的按钮哦~”
 

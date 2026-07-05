@@ -4,10 +4,10 @@ title: "搜索、信息流和短视频：“百头”之战瞄准对方腹地"
 date: 2019-04-28
 categories: 文章
 tags: [科技]
-image: /img/2019/04/28/sou-suo-xin-xi-liu-he/01.png
+image: /2019/04/28/sou-suo-xin-xi-liu-he/01.png
 ---
 
-![](/img/2019/04/28/sou-suo-xin-xi-liu-he/01.png)
+![](/2019/04/28/sou-suo-xin-xi-liu-he/01.png)
 
 4月26日，百度起诉字节跳动窃取其搜索引擎排序结果，提出赔偿9000万元和道歉30天的诉求。头条当天下午就抖音视频被百度“简单搜索”抓取一事提出对等的反诉。
 
@@ -83,15 +83,15 @@ image: /img/2019/04/28/sou-suo-xin-xi-liu-he/01.png
 
 只不过，看下“多闪”App春节期间的iOS排名走势（App Annie）就知道它还是缺乏后劲：
 
-![](/img/2019/04/28/sou-suo-xin-xi-liu-he/02.jpg)
+![](/2019/04/28/sou-suo-xin-xi-liu-he/02.jpg)
 
 这其中就有百度“闹场”的作用。大年初一清早，经过百度系（下图蓝圈）和头条系（下图红圈）轮番轰炸的排行榜可谓“寸草不生”：
 
-![](/img/2019/04/28/sou-suo-xin-xi-liu-he/03.png)
+![](/2019/04/28/sou-suo-xin-xi-liu-he/03.png)
 
 QuestMobile统计今年春节期间日活排名，百度App在1.3-1.4亿之间，高于头条的1.2亿。百度App同期iOS下载排名历史（AppAnnie）如下：
 
-![](/img/2019/04/28/sou-suo-xin-xi-liu-he/04.png)
+![](/2019/04/28/sou-suo-xin-xi-liu-he/04.png)
 
 百度 App 的长期粘性，不会因一次营销就有巨大改善，也有评论认为这9亿的效果比之前微信、支付宝要逊色。但单纯从阻击字节系“霸榜”的角度来说，这个钱还是花的非常值得的。
 

@@ -4,7 +4,7 @@ title: "立此存照……"
 date: 2016-06-11
 categories: 文章
 tags: [科技]
-image: /img/2016/06/11/li-ci-cun-zhao/01.jpg
+image: /2016/06/11/li-ci-cun-zhao/01.jpg
 ---
 
 「我會在我國南邊與墨西哥的交界處蓋一道牆，並且叫墨西哥政府付所有的錢（I will build a great, great wall on our southern border, and I will make Mexico pay for that wall.）」。

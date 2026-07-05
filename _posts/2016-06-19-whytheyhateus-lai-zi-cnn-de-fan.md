@@ -4,7 +4,7 @@ title: "#whytheyhateus：来自CNN的反思"
 date: 2016-06-19
 categories: 文章
 tags: [科技]
-image: /img/2016/06/19/whytheyhateus-lai-zi-cnn-de-fan/01.jpg
+image: /2016/06/19/whytheyhateus-lai-zi-cnn-de-fan/01.jpg
 ---
 
 CNN 主持人扎卡利亚（Fareed Zakaria）可能是最适合主持和 ISIS 有关的栏目的人选了。他出生在印度的一个穆斯林家庭，他2015年10月也重申了自己是穆斯林，但是是“世俗的”和“消极被动的”（Zakaria is a self-described secular and non-practicing Muslim）。当时他说：

@@ -4,12 +4,12 @@ title: "清华自然语言处理科学家孙茂松：让算法懂得人类“常
 date: 2019-11-04
 categories: 文章
 tags: [科技]
-image: /img/2019/11/04/qing-hua-zi-ran-yu-yan/01.png
+image: /2019/11/04/qing-hua-zi-ran-yu-yan/01.png
 ---
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/01.png)
+![](/2019/11/04/qing-hua-zi-ran-yu-yan/01.png)
 
 书航 11 月 4 日发于北京
 
@@ -31,7 +31,7 @@ https://mp.weixin.qq.com/s/fbhpm3AlDbiN83aStYLBsQ
 
 当时还宣布了“北京智源-京东跨媒体对话智能联合实验室”揭牌。依托京东在电商零售领域的海量数据积累和超大算力，联合实验室将重点打造跨模态对话与人机交互领域的超大规模、开放领域、真实复杂场景数据集，打造智能零售场景下的前瞻性示范性应用。
 
-![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/02.jpg)
+![](/2019/11/04/qing-hua-zi-ran-yu-yan/02.jpg)
 
 孙茂松希望解决机器翻译等“黑箱”NLP应用面对的最大挑战：看起来效果不错，其实算法本身对语义并没有任何自己的理解，这样系统在处理复杂语义的时候非常脆弱。“前门快到了，请从后门下车”等例子到现在也没有被攻克。
 
@@ -47,7 +47,7 @@ https://mp.weixin.qq.com/s/yyZ95DFWAdL9wbvL44mbeg
 
 目前，有Wikidata、WordNet等一些行业先驱制作的知识库系统，企业也有自己做一些知识图谱，但要么不开放，要么不够被全人类认可，要么太过粗浅，“大而不强”。
 
-![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/03.jpg)
+![](/2019/11/04/qing-hua-zi-ran-yu-yan/03.jpg)
 
 孙茂松认为，NLP符合人类逻辑的关键是让机器拥有所有人都懂得，且存在全球一致共识的“常识”，为此建立的知识库更恰当的应该被称作是“常识库”。
 
@@ -81,4 +81,4 @@ https://github.com/thunlp
 
 基于小数据的NLP如果需要研发更大范围的通用算法，就必然涉及到对“常识”的预处理。从这个角度看，孙茂松团队试图制作的知识图谱，长远也会为摆脱运算对数据量的依赖起到帮助。
 
-![](/img/2019/11/04/qing-hua-zi-ran-yu-yan/04.png)
+![](/2019/11/04/qing-hua-zi-ran-yu-yan/04.png)

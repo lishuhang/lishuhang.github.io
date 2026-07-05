@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/20626928"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-07/msn-china-new-project/)
 
-![](/img/2016/03/07/msn-zhong-guo-zheng-zai-zhe/01.jpg)
+![](/2016/03/07/msn-zhong-guo-zheng-zai-zhe/01.jpg)

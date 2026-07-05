@@ -19,7 +19,7 @@ source: "https://zhuanlan.zhihu.com/p/19875350"
 
 雅虎近期收购的团队和技术，最后很少有带着原品牌继续存活的。我们来看下面这个有趣的表格：
 
-![](/img/2014/10/22/mei-ye-er-hai-zai-gai/01.jpg)
+![](/2014/10/22/mei-ye-er-hai-zai-gai/01.jpg)
 
 数据来源：Mashable
 

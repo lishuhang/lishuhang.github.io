@@ -4,7 +4,7 @@ title: "如果最萌域名 .cat 开放注册，你需要知道这背后的故事
 date: 2017-10-12
 categories: 文章
 tags: [科技]
-image: /img/2017/10/12/ru-guo-zui-meng-yu-ming/01.jpg
+image: /2017/10/12/ru-guo-zui-meng-yu-ming/01.jpg
 ---
 
 文 | 书航

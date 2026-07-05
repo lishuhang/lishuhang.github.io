@@ -4,7 +4,7 @@ title: "限韩令后：硬盘与私有云的第二春"
 date: 2017-03-06
 categories: 文章
 tags: [科技]
-image: /img/2017/03/06/xian-han-ling-hou-ying-pan/01.jpg
+image: /2017/03/06/xian-han-ling-hou-ying-pan/01.jpg
 ---
 
 淘宝发布了一条新规定，搞得ACG行业哀鸿遍野，具体来说就是禁止海淘“出版物”，这样AKB原版饭就没法大量进口带着应援表格的CD了，一些原版的口袋本轻小说、漫画、动画光盘销售也一并受到影响。

@@ -4,7 +4,7 @@ title: "华与华帮到西贝了吗？"
 date: 2025-09-15
 categories: 文章
 tags: [随笔]
-image: /img/2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg
+image: /2025/09/15/hua-yu-hua-bang-dao-xi/01.jpg
 ---
 
 晚点把旧稿 [华与华兄弟：卖符号和词语二十年](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247529004&idx=1&sn=3b9eb3d2f8e847fe512bc98ec9dbb105&scene=142#wechat_redirect) 拿出来重新发了一遍追热点，社长也想照做。

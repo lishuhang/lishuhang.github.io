@@ -45,4 +45,4 @@ source: "https://zhuanlan.zhihu.com/p/20068095"
 
 *# 这篇是约稿。话说，百家在百度自家丑闻后还主动找人揭丑，真是少见的真诚啊。*
 
-![](/img/2015/06/12/zuo-bi-bu-ke-rong-ren/01.jpg)
+![](/2015/06/12/zuo-bi-bu-ke-rong-ren/01.jpg)

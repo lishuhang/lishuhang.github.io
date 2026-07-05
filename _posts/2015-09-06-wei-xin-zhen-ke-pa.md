@@ -33,4 +33,4 @@ source: "https://zhuanlan.zhihu.com/p/20191056"
 
 动点科技
 
-![](/img/2015/09/06/wei-xin-zhen-ke-pa/01.jpg)
+![](/2015/09/06/wei-xin-zhen-ke-pa/01.jpg)

@@ -4,7 +4,7 @@ title: "“中西药结合”了解一下"
 date: 2018-03-07
 categories: 文章
 tags: [科技]
-image: /img/2018/03/07/zhong-xi-yao-jie-he-liao/01.jpg
+image: /2018/03/07/zhong-xi-yao-jie-he-liao/01.jpg
 ---
 
 你身边的“中成药“越来越多

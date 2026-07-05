@@ -4,7 +4,7 @@ title: "一个小小的想法"
 date: 2016-04-04
 categories: 文章
 tags: [科技]
-image: /img/2016/04/04/yi-ge-xiao-xiao-de-xiang/01.jpg
+image: /2016/04/04/yi-ge-xiao-xiao-de-xiang/01.jpg
 ---
 
 偶然看到这张图。

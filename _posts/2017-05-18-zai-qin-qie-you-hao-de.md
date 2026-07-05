@@ -4,14 +4,14 @@ title: "在亲切友好的气氛中，摩拜创始人胡炜炜起诉了知乎"
 date: 2017-05-18
 categories: 文章
 tags: [科技]
-image: /img/2017/05/18/zai-qin-qie-you-hao-de/01.jpg
+image: /2017/05/18/zai-qin-qie-you-hao-de/01.jpg
 ---
 
-![](/img/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
+![](/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
 
-![](/img/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
+![](/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
 
-![](/img/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
+![](/2017/05/18/zai-qin-qie-you-hao-de/02.jpg)
 
 摩拜单车创始人胡玮炜在北京海淀法院起诉知乎。这像是一场（同样获得腾讯投资的两家独角兽之间的）撕逼大战的前奏，但实际上双方的你来我往却彬彬有礼。摩拜在声明中还说知乎方面有“及时受理和处理”举报。知乎在今天晚间 发表了关于此事的声明 ，同时 胡炜炜也给予了一个积极的回应 。
 
@@ -31,4 +31,4 @@ image: /img/2017/05/18/zai-qin-qie-you-hao-de/01.jpg
 
 所以你一定要小心不要成为第一个在知乎传播某条可能会被大公司盯上的消息的人，当然你可以做第二个，第三个或者第 100 个。还有需要提醒大家的是，虽然有这么多新实行的法律，但是之前的那些像是转发 500 次什么的，仍然没有失效，依旧还是很好用的哦。
 
-![](/img/2017/05/18/zai-qin-qie-you-hao-de/03.jpg)
+![](/2017/05/18/zai-qin-qie-you-hao-de/03.jpg)

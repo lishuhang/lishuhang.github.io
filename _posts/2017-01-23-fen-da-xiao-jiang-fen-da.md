@@ -4,7 +4,7 @@ title: "“分答小讲”：分答版“知乎 Live”上线"
 date: 2017-01-23
 categories: 文章
 tags: [科技]
-image: /img/2017/01/23/fen-da-xiao-jiang-fen-da/01.jpg
+image: /2017/01/23/fen-da-xiao-jiang-fen-da/01.jpg
 ---
 
 付费语音课程 “分答小讲”与知乎 Live 的具体差异在于，课程本身并非互动进行，是预先录制好分段收听的。

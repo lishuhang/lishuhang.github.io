@@ -4,10 +4,10 @@ title: "滴滴组织架构调整的背后逻辑"
 date: 2018-12-06
 categories: 文章
 tags: [科技]
-image: /img/2018/12/06/di-di-zu-zhi-jia-gou/01.jpg
+image: /2018/12/06/di-di-zu-zhi-jia-gou/01.jpg
 ---
 
-![](/img/2018/12/06/di-di-zu-zhi-jia-gou/01.jpg)
+![](/2018/12/06/di-di-zu-zhi-jia-gou/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -157,6 +157,6 @@ image: /img/2018/12/06/di-di-zu-zhi-jia-gou/01.jpg
 
 2018.12.6
 
-![](/img/2018/12/06/di-di-zu-zhi-jia-gou/02.jpg)
+![](/2018/12/06/di-di-zu-zhi-jia-gou/02.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

@@ -4,7 +4,7 @@ title: "Safari 有哪些值得推荐的扩展和插件？"
 date: 2016-05-10
 categories: 文章
 tags: [科技]
-image: /img/2016/05/10/safari-you-nei-xie-zhi-de/01.jpg
+image: /2016/05/10/safari-you-nei-xie-zhi-de/01.jpg
 ---
 
 **现在正使用的Safari扩展：**

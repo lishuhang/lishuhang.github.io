@@ -4,7 +4,7 @@ title: "Facebook 错把越战老照片当“儿童色情”，AI 编辑笑话百
 date: 2016-09-17
 categories: 文章
 tags: [科技]
-image: /img/2016/09/17/facebook-cuo-ba-yue-zhan-lao/01.jpg
+image: /2016/09/17/facebook-cuo-ba-yue-zhan-lao/01.jpg
 ---
 
 On June 8, 1972, AP photographer Nick Ut took this photo of 9-year-old Kim Phuc as she ran from an aeral napalm attack.

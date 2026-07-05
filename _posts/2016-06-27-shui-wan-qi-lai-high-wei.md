@@ -194,4 +194,4 @@ source: "https://zhuanlan.zhihu.com/p/21421380"
 
 题图：Pixabay
 
-![](/img/2016/06/27/shui-wan-qi-lai-high-wei/01.png)
+![](/2016/06/27/shui-wan-qi-lai-high-wei/01.png)

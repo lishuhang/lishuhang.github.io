@@ -4,10 +4,10 @@ title: "介绍一下我们的读者群，和会员计划"
 date: 2024-06-19
 categories: 文章
 tags: [科技]
-image: /img/2024/06/19/jie-shao-yi-xia-wo-men/01.jpg
+image: /2024/06/19/jie-shao-yi-xia-wo-men/01.jpg
 ---
 
-![](/img/2024/06/19/jie-shao-yi-xia-wo-men/01.jpg)
+![](/2024/06/19/jie-shao-yi-xia-wo-men/01.jpg)
 
 文 / 书航 2024.6.18
 
@@ -71,7 +71,7 @@ image: /img/2024/06/19/jie-shao-yi-xia-wo-men/01.jpg
 
 本月（2024.6），社长尝试了一两个星期，将群聊内容发布到公众号上，同时设置为付费，一篇1块钱。坚持了不到两周，就暂停了。这段时间，统计了一下，公众号“航通社”大概掉了100个粉丝的样子。
 
-![](/img/2024/06/19/jie-shao-yi-xia-wo-men/02.jpg)
+![](/2024/06/19/jie-shao-yi-xia-wo-men/02.jpg)
 
 既然一直在掉粉，为啥还要坚持发？原因很简单，社长希望做社群了。作为一个即将迈入10年历史的自媒体品牌，航通社希望进一步激活我们的读者，将读者群做成一个付费社群产品。
 
@@ -195,4 +195,4 @@ image: /img/2024/06/19/jie-shao-yi-xia-wo-men/01.jpg
 
 附言写“航通社读者进群”
 
-![](/img/2024/06/19/jie-shao-yi-xia-wo-men/03.jpg)
+![](/2024/06/19/jie-shao-yi-xia-wo-men/03.jpg)

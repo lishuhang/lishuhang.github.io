@@ -4,7 +4,7 @@ title: "不是我们错了，而是这个世界确实在改变"
 date: 2016-07-11
 categories: 文章
 tags: [科技]
-image: /img/2016/07/11/bu-shi-wo-men-cuo-le/01.jpg
+image: /2016/07/11/bu-shi-wo-men-cuo-le/01.jpg
 ---
 
 我感觉奥巴马的演技似乎已经超过那位被称为“影帝”的老同学很多了——至少在视察枪击案现场这方面。

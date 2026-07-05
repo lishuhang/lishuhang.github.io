@@ -4,7 +4,7 @@ title: "论知乎的所谓“二维码自动识别”功能"
 date: 2016-06-14
 categories: 文章
 tags: [科技]
-image: /img/2016/06/14/lun-zhi-hu-de-suo-wei/01.jpg
+image: /2016/06/14/lun-zhi-hu-de-suo-wei/01.jpg
 ---
 
 前几天我就想说知乎的所谓“二维码自动识别”功能了。这个功能是如此的傻逼，以至于我下定决心要专门写一篇文章来抨击一下。

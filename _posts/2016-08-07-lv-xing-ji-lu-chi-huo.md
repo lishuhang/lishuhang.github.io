@@ -4,7 +4,7 @@ title: "#旅行记录#吃货杯第一届泰国美食大赛获奖名单"
 date: 2016-08-07
 categories: 文章
 tags: [科技]
-image: /img/2016/08/07/lv-xing-ji-lu-chi-huo/01.jpg
+image: /2016/08/07/lv-xing-ji-lu-chi-huo/01.jpg
 ---
 
 7月24号到8月1号，我和女朋友一起自由行去泰国玩了8天，请大家一定要 **阅读原文** ，点开链接去看她写的游记——虽然很长，但是一篇就够了！
@@ -21,77 +21,77 @@ image: /img/2016/08/07/lv-xing-ji-lu-chi-huo/01.jpg
 
 泰国各地均有的水果煎饼
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/02.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/02.jpg)
 
 芭堤雅班布娜海滩酒店和曼谷爱湾旅馆的自助早餐
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/03.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/03.jpg)
 
 “德国屋”餐厅的泰国菜和德国香肠
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/04.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/04.jpg)
 
 芭堤雅郊区集贸市场上的鸡蛋仔
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/05.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/05.jpg)
 
 曼谷廊曼机场下火车站里的猪脚饭
 
 ## 四分区 ★★★★☆
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/06.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/06.jpg)
 
 清迈塔佩门附近的推车售卖的云吞面
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/07.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/07.jpg)
 
 清迈职业学院门口的油炸串串小吃
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/08.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/08.jpg)
 
 7-Eleven 有售的明治香蕉牛奶
 
 ## 三分区 ★★★☆☆
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/09.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/09.jpg)
 
 泰国各地均有的水果
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/10.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/10.jpg)
 
 草垛夜市以及各地购物中心的外国美食
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/11.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/11.jpg)
 
 “小老板”和“大哥”牌子的天妇罗海苔等膨化食品
 
 ## 二分区 ★★☆☆☆
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/12.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/12.jpg)
 
 泰国普通人家吃的便当
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/13.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/13.jpg)
 
 芭堤雅红灯区吃的青木瓜沙拉
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/14.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/14.jpg)
 
 考山路的炒粉
 
 ## 一分区 ★☆☆☆☆
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/15.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/15.jpg)
 
 清迈大学食堂的油炸面条
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/16.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/16.jpg)
 
 全国 7-Eleven 有售的“妈妈”牌方便面
 
 ## 负分区 ☆☆☆☆☆
 
-![](/img/2016/08/07/lv-xing-ji-lu-chi-huo/17.jpg)
+![](/2016/08/07/lv-xing-ji-lu-chi-huo/17.jpg)
 
 中天海滩的生鱼
 

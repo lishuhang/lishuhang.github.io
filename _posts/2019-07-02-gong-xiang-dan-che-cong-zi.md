@@ -4,14 +4,14 @@ title: "共享单车从自由到入栏：技术、调度与人性"
 date: 2019-07-02
 categories: 文章
 tags: [科技]
-image: /img/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
+image: /2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 2100 字
 
-![](/img/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg)
+![](/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg)
 
 书航 7 月 2 日发于北京
 
@@ -61,7 +61,7 @@ image: /img/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
 
 那小黄车呢？它在北京已经基本绝迹，（原）运维人员也在“倒戈”。6 月 13 日，我设法拍了一张穿着黑底黄字 ofo 雨衣的工人，在朗家园帮摩拜挪车的照片：
 
-![](/img/2019/07/02/gong-xiang-dan-che-cong-zi/02.png)
+![](/2019/07/02/gong-xiang-dan-che-cong-zi/02.png)
 
 图片由航通社拍摄
 
@@ -97,6 +97,6 @@ image: /img/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
 
 [6] https://mp.weixin.qq.com/s/ORQC560ZLX59cMMXSAdklw
 
-![](/img/2019/07/02/gong-xiang-dan-che-cong-zi/03.png)
+![](/2019/07/02/gong-xiang-dan-che-cong-zi/03.png)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

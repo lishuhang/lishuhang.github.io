@@ -3,7 +3,7 @@ layout: post
 title:  我，一个「普通」的自由职业者
 author: james
 categories: [ article ]
-image: "/img/2022/09/0928-00.jpg"
+image: "/2022/09/0928-00.jpg"
 featured: true
 hidden: false
 ---

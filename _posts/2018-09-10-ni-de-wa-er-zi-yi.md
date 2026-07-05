@@ -4,7 +4,7 @@ title: "你的“蛙儿子”已经凉透了"
 date: 2018-09-10
 categories: 文章
 tags: [科技]
-image: /img/2018/09/10/ni-de-wa-er-zi-yi/01.jpg
+image: /2018/09/10/ni-de-wa-er-zi-yi/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。**航通社** 微信：**lifeissohappy** 微博：**@lishuhang**

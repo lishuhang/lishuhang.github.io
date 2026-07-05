@@ -4,7 +4,7 @@ title: "#情感#地铁上的空座位"
 date: 2016-01-11
 categories: 文章
 tags: [科技]
-image: /img/2016/01/11/qing-gan-di-tie-shang-de/01.png
+image: /2016/01/11/qing-gan-di-tie-shang-de/01.png
 ---
 
 我现在住的地方距离地铁很近，一下去就是2号线，左右都是换乘站，一堆人站起来，马上就有空位置了，然后又被蜂拥而上的人迅速占满。

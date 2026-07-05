@@ -4,7 +4,7 @@ title: "联想无需惊慌"
 date: 2021-11-23
 categories: 文章
 tags: [科技]
-image: /img/2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg
+image: /2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg
 ---
 
 不要期待“这次真的不一样了”。
@@ -13,7 +13,7 @@ image: /img/2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg
 
 微博：@航通社 | 微信搜一搜：航通社
 
-![](/img/2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg)
+![](/2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg)
 
 文 / 书航 2021.11.23
 

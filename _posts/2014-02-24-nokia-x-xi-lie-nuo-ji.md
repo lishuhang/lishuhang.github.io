@@ -4,7 +4,7 @@ title: "Nokia X系列：诺基亚的“小米盒子”"
 date: 2014-02-24
 categories: 文章
 tags: [科技]
-image: /img/2014/02/24/nokia-x-xi-lie-nuo-ji/01.jpg
+image: /2014/02/24/nokia-x-xi-lie-nuo-ji/01.jpg
 source: "https://zhuanlan.zhihu.com/p/19686994"
 ---
 
@@ -12,7 +12,7 @@ source: "https://zhuanlan.zhihu.com/p/19686994"
 
 在诺基亚发布会上主要担任解说任务的依然是埃洛普。在圆满完成“木马屠城”任务，让[微软收购诺基亚的手机业务](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2013-09-03/ms-bought-nokia/)之后，可能是因为没有能够借机一跃成为微软的CEO，在我看来他镀上了一层抑郁不得志的光环。而在诺基亚的讲台上讲解skype方案的微软方面负责人，看起来也是那么的不协调，并且摆着一张苦脸。
 
-![](/img/2014/02/24/nokia-x-xi-lie-nuo-ji/01.jpg)
+![](/2014/02/24/nokia-x-xi-lie-nuo-ji/01.jpg)
 
 （图片：The Verge）
 

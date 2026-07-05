@@ -4,12 +4,12 @@ title: "老干妈是真的不行了吗？"
 date: 2019-09-30
 categories: 文章
 tags: [科技]
-image: /img/2019/09/30/lao-gan-ma-shi-zhen-de/01.png
+image: /2019/09/30/lao-gan-ma-shi-zhen-de/01.png
 ---
 
 航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/09/30/lao-gan-ma-shi-zhen-de/01.png)
+![](/2019/09/30/lao-gan-ma-shi-zhen-de/01.png)
 
 书航 9 月 30 日发于北京
 
@@ -69,8 +69,8 @@ image: /img/2019/09/30/lao-gan-ma-shi-zhen-de/01.png
 
 我只想今后到老了都能继续吃老干妈，这是我唯一在意的事情。
 
-![](/img/2019/09/30/lao-gan-ma-shi-zhen-de/02.png)
+![](/2019/09/30/lao-gan-ma-shi-zhen-de/02.png)
 
-![](/img/2019/09/30/lao-gan-ma-shi-zhen-de/03.png)
+![](/2019/09/30/lao-gan-ma-shi-zhen-de/03.png)
 
-![](/img/2019/09/30/lao-gan-ma-shi-zhen-de/04.png)
+![](/2019/09/30/lao-gan-ma-shi-zhen-de/04.png)

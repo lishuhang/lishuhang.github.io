@@ -4,7 +4,7 @@ title: "16WiFi 的退场不能说明商业 WiFi 领域出了问题"
 date: 2017-04-18
 categories: 文章
 tags: [科技]
-image: /img/2017/04/18/16wifi-de-tui-chang-bu-neng/01.jpg
+image: /2017/04/18/16wifi-de-tui-chang-bu-neng/01.jpg
 ---
 
 今年早些时候 16WiFi 撤出了全国除北京以外的其他所有市场，当时的讨论有的认为公交车 WiFi 是商业 WiFi 的试验田，如果这个市场都做不好，那可能会说明整个商业 WiFi 的模式都是做不起来的。甚至有说法认为 4G 流量普及，资费降低让商业 WiFi 失去发展空间。

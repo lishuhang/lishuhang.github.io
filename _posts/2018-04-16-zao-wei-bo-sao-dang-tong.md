@@ -4,7 +4,7 @@ title: "遭微博“扫荡”，同性恋又惹到了谁？"
 date: 2018-04-16
 categories: 文章
 tags: [科技]
-image: /img/2018/04/16/zao-wei-bo-sao-dang-tong/01.jpg
+image: /2018/04/16/zao-wei-bo-sao-dang-tong/01.jpg
 ---
 
 本文首发于百家号 ，原创文章未经授权请勿转载

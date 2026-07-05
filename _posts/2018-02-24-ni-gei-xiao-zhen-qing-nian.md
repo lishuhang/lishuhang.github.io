@@ -4,7 +4,7 @@ title: "你给小镇青年再多高雅文化，也不能把他们从喊麦手游
 date: 2018-02-24
 categories: 文章
 tags: [科技]
-image: /img/2018/02/24/ni-gei-xiao-zhen-qing-nian/01.jpg
+image: /2018/02/24/ni-gei-xiao-zhen-qing-nian/01.jpg
 ---
 
 文 | 书航

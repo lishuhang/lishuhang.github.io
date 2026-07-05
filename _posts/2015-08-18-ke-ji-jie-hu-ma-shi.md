@@ -41,4 +41,4 @@ source: "https://zhuanlan.zhihu.com/p/20170810"
 
 首发于[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/140780)并参与今日“争鸣”栏目
 
-![](/img/2015/08/18/ke-ji-jie-hu-ma-shi/01.jpg)
+![](/2015/08/18/ke-ji-jie-hu-ma-shi/01.jpg)

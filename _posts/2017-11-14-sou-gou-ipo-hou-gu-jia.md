@@ -4,7 +4,7 @@ title: "搜狗IPO后股价怎么走？主要看两点"
 date: 2017-11-14
 categories: 文章
 tags: [科技]
-image: /img/2017/11/14/sou-gou-ipo-hou-gu-jia/01.jpg
+image: /2017/11/14/sou-gou-ipo-hou-gu-jia/01.jpg
 ---
 
 文 | **书航**

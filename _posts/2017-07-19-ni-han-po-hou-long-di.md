@@ -4,7 +4,7 @@ title: "你喊破喉咙，抵制也不会&quot;成功&quot;"
 date: 2017-07-19
 categories: 文章
 tags: [科技]
-image: /img/2017/07/19/ni-han-po-hou-long-di/01.jpg
+image: /2017/07/19/ni-han-po-hou-long-di/01.jpg
 ---
 
 美团外卖的一份宣传物料成为了近几天争议的焦点，说美团外卖使用单独的送餐箱服务穆斯林顾客。对这一宣传的抵制之声不绝于耳，可说是捅了当今网上政治正确的马蜂窝。

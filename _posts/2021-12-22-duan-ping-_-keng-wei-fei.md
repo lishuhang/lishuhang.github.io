@@ -4,14 +4,14 @@ title: "短评 _ 坑位费定性颠覆直播业 新业态监管应防微杜渐"
 date: 2021-12-22
 categories: 文章
 tags: [科技]
-image: /img/2021/12/22/duan-ping-_-keng-wei-fei/01.jpg
+image: /2021/12/22/duan-ping-_-keng-wei-fei/01.jpg
 ---
 
 航通社首发原创文章，未经授权禁止转载
 
 微博：@航通社 | 微信搜一搜：航通社
 
-![](/img/2021/12/22/duan-ping-_-keng-wei-fei/01.jpg)
+![](/2021/12/22/duan-ping-_-keng-wei-fei/01.jpg)
 
 文 / 书航 2021.12.22
 

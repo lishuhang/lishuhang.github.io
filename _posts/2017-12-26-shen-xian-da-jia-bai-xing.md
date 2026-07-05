@@ -4,7 +4,7 @@ title: "神仙打架，百姓打酱油"
 date: 2017-12-26
 categories: 文章
 tags: [科技]
-image: /img/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg
+image: /2017/12/26/shen-xian-da-jia-bai-xing/01.jpg
 ---
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLVCIiaJV2Bic5ogSjyuhk0SobqZXhVz8GBvaJID4tYA3BURibJMh71H4sZIRKEAibssF5jwqwWCmM96Q/0?wx_fmt=jpeg)
@@ -57,4 +57,4 @@ image: /img/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg
 
 很可惜，现在是神仙打架，百姓打酱油，连挑动群众斗群众这一步都算不上。
 
-![](/img/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg)
+![](/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg)

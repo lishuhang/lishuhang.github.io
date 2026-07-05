@@ -13,7 +13,7 @@ source: "https://zhuanlan.zhihu.com/p/19882580"
 
 在10月15日，我进行了履约的测试。
 
-[![](/img/2014/11/01/sou-hu-shi-pin-zhe-ci/01.jpg)视频网站下架电视APP事件跟进报道http://v.youku.com/v_show/id_XODE1NDMzMzUy.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XODE1NDMzMzUy.html)
+[![](/2014/11/01/sou-hu-shi-pin-zhe-ci/01.jpg)视频网站下架电视APP事件跟进报道http://v.youku.com/v_show/id_XODE1NDMzMzUy.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XODE1NDMzMzUy.html)
 
 我们的试验选择了优酷、土豆、爱奇艺、PPS、乐视、腾讯视频、搜狐视频、PPTV等几家视频服务。结果显示，PPS和PPTV两家用Android Pad版本而非电视版的话，的确依然可以在电视打开。但在软件商店当中，本来就同时存在电视版和平板两个版本，而真正的电视版也按规定停止了服务。严格的来讲，并不符合我们本次挑战的规定条件。
 
@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19882580"
 
 **关注动点微博（[点击进入](https://link.zhihu.com/?target=http%3A//www.weibo.com/technode)）和****微信（下方二维码）：**
 
-![](/img/2014/11/01/sou-hu-shi-pin-zhe-ci/02.jpg)
+![](/2014/11/01/sou-hu-shi-pin-zhe-ci/02.jpg)
 
 也许没有谁能坚持抵抗很长时间，但是至少到截稿的时候，我原本以为这个钱一分都花不出去，如今已经足够让我欣慰。正如我在视频结尾所说的一样，广电与其他利益相关方的斗智斗勇，依然将不断的延续下去，最终能够为我们普通的观众赢得一点喘息和生存的空间。
 

@@ -4,14 +4,14 @@ title: "如果完全取消通信运营商的“资费套餐”会怎样？"
 date: 2019-05-13
 categories: 文章
 tags: [科技]
-image: /img/2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg
+image: /2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg
 ---
 
-![](/img/2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg)
+![](/2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/05/13/ru-guo-wan-quan-qu-xiao/02.jpg)
+![](/2019/05/13/ru-guo-wan-quan-qu-xiao/02.jpg)
 
 书航 5 月 13 日发于北京
 
@@ -43,7 +43,7 @@ image: /img/2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg
 
 用户不主动更改套餐，最主要的问题是套餐数量多。知乎用户 lorrychance 总结了全国有效的 240 多种套餐，并且还在不断更新中，看的人眼花缭乱。[2]
 
-![](/img/2019/05/13/ru-guo-wan-quan-qu-xiao/03.jpg)
+![](/2019/05/13/ru-guo-wan-quan-qu-xiao/03.jpg)
 
 就像上面这个列表展示的一样，运营商方面认为自己提供的优惠活动很多，但是客户触达率极低。用户方面，一边觉得资费不是最优的，不够量身定制，但同时又在吐槽套餐太多看不懂。
 
@@ -99,7 +99,7 @@ image: /img/2019/05/13/ru-guo-wan-quan-qu-xiao/01.jpg
 
 [3] http://www.cctime.com/html/2019-4-30/1446332.htm
 
-![](/img/2019/05/13/ru-guo-wan-quan-qu-xiao/04.jpg)
+![](/2019/05/13/ru-guo-wan-quan-qu-xiao/04.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
 

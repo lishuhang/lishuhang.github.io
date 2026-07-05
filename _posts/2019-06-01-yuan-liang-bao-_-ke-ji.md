@@ -4,14 +4,14 @@ title: "“原谅宝”_“科技向善”的反面"
 date: 2019-06-01
 categories: 文章
 tags: [科技]
-image: /img/2019/06/01/yuan-liang-bao-_-ke-ji/01.jpg
+image: /2019/06/01/yuan-liang-bao-_-ke-ji/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。
 
 航通社网站：lishuhang.me 微信号：lifeissohappy 微博：@航通社
 
-![](/img/2019/06/01/yuan-liang-bao-_-ke-ji/01.jpg)
+![](/2019/06/01/yuan-liang-bao-_-ke-ji/01.jpg)
 
 书航 6 月 1 日发于北京
 
@@ -165,4 +165,4 @@ image: /img/2019/06/01/yuan-liang-bao-_-ke-ji/01.jpg
 
 [16] http://www.dffyw.com/fayanguancha/sh/200901/20090117195040.htm
 
-![](/img/2019/06/01/yuan-liang-bao-_-ke-ji/02.png)
+![](/2019/06/01/yuan-liang-bao-_-ke-ji/02.png)

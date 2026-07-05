@@ -4,7 +4,7 @@ title: "你总会变老，所以你要仔细看用户协议"
 date: 2017-09-22
 categories: 文章
 tags: [科技]
-image: /img/2017/09/22/ni-zong-hui-bian-lao-suo/01.jpg
+image: /2017/09/22/ni-zong-hui-bian-lao-suo/01.jpg
 ---
 
 9 月初开始，某在线支付平台在搞活动，只要在便利店消费超过 3 元钱，用它扫码就可以省两块。但是最近我去买东西的时候，却没有节省。

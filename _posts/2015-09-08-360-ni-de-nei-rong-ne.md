@@ -33,4 +33,4 @@ source: "https://zhuanlan.zhihu.com/p/20205733"
 
 新浪专栏（刊出时编辑有修改 [酷派为何劈腿？360给的不够多](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/t/2015-09-08/pid_8489807.htm)）（独家授权 请勿转载）
 
-![](/img/2015/09/08/360-ni-de-nei-rong-ne/01.jpg)
+![](/2015/09/08/360-ni-de-nei-rong-ne/01.jpg)

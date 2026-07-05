@@ -4,7 +4,7 @@ title: "借虐童案做营销“多多益善”"
 date: 2017-11-28
 categories: 文章
 tags: [科技]
-image: /img/2017/11/28/jie-nve-tong-an-zuo-ying/01.jpg
+image: /2017/11/28/jie-nve-tong-an-zuo-ying/01.jpg
 ---
 
 微信公众号搜索“航通社”

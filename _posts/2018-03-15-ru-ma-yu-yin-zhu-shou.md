@@ -4,7 +4,7 @@ title: "辱骂语音助手"
 date: 2018-03-15
 categories: 文章
 tags: [科技]
-image: /img/2018/03/15/ru-ma-yu-yin-zhu-shou/01.jpg
+image: /2018/03/15/ru-ma-yu-yin-zhu-shou/01.jpg
 ---
 
 *本文首发于动点科技

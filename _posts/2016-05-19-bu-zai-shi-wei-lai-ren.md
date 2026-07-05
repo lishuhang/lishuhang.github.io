@@ -103,4 +103,4 @@ source: "https://zhuanlan.zhihu.com/p/20927582"
 
 [网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0519/07/BNDOQ9SQ000948V8.html)
 
-![](/img/2016/05/19/bu-zai-shi-wei-lai-ren/01.jpg)
+![](/2016/05/19/bu-zai-shi-wei-lai-ren/01.jpg)

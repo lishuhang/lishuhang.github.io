@@ -23,4 +23,4 @@ source: "https://zhuanlan.zhihu.com/p/20705091"
 
 [动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-03/zol-latest-deal/)
 
-![](/img/2016/04/03/wo-de-gang-tie-wang-shou/01.jpg)
+![](/2016/04/03/wo-de-gang-tie-wang-shou/01.jpg)

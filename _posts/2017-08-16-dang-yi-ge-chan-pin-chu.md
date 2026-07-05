@@ -4,7 +4,7 @@ title: "当一个产品除了“情怀”啥都不剩"
 date: 2017-08-16
 categories: 文章
 tags: [科技]
-image: /img/2017/08/16/dang-yi-ge-chan-pin-chu/01.jpg
+image: /2017/08/16/dang-yi-ge-chan-pin-chu/01.jpg
 ---
 
 就像痴情男女遇人不淑，却又深陷其中不能自拔——放弃一个有感情的产品，和放弃一个有感情的人一样，都很不容易，而且过程都很漫长。

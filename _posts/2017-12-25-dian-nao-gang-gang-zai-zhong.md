@@ -4,7 +4,7 @@ title: "电脑刚刚在中国普及时，大家的生活产生了哪些变化？
 date: 2017-12-25
 categories: 文章
 tags: [科技]
-image: /img/2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
+image: /2017/12/25/dian-nao-gang-gang-zai-zhong/01.jpg
 ---
 
 题图：《想一想我们为四个现代化做了些什么》邢占奎 作

@@ -4,14 +4,14 @@ title: "短评 _ 展望 2022：疫情防控常态化，可看好这三个领域"
 date: 2021-12-29
 categories: 文章
 tags: [科技]
-image: /img/2021/12/29/duan-ping-_-zhan-wang-2022/01.jpg
+image: /2021/12/29/duan-ping-_-zhan-wang-2022/01.jpg
 ---
 
 航通社 · 短评beta
 
 线下店铺中的社区网点；远程工作、学习所需的软硬件；方便居家生活的工具和消耗品。
 
-![](/img/2021/12/29/duan-ping-_-zhan-wang-2022/01.jpg)
+![](/2021/12/29/duan-ping-_-zhan-wang-2022/01.jpg)
 
 文 / 书航 2021.12.29
 

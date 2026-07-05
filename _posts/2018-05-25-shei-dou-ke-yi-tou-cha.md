@@ -4,7 +4,7 @@ title: "谁都可以投“差评”，腾讯不可以"
 date: 2018-05-25
 categories: 文章
 tags: [科技]
-image: /img/2018/05/25/shei-dou-ke-yi-tou-cha/01.jpg
+image: /2018/05/25/shei-dou-ke-yi-tou-cha/01.jpg
 ---
 
 👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**

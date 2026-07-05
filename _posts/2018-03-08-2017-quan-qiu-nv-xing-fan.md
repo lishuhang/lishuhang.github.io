@@ -4,7 +4,7 @@ title: "2017，全球女性反对性侵剥削的标志性一年"
 date: 2018-03-08
 categories: 文章
 tags: [科技]
-image: /img/2018/03/08/2017-quan-qiu-nv-xing-fan/01.jpg
+image: /2018/03/08/2017-quan-qiu-nv-xing-fan/01.jpg
 ---
 
 **👆点击名字订阅【航通社】公众号**

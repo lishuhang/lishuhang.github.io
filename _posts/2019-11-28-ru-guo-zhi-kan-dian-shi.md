@@ -4,12 +4,12 @@ title: "如果只看电视新闻的话，你会错过什么？"
 date: 2019-11-28
 categories: 文章
 tags: [科技]
-image: /img/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png
+image: /2019/11/28/ru-guo-zhi-kan-dian-shi/01.png
 ---
 
 航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png)
 
 书航 11 月 28 日发于北京
 
@@ -27,7 +27,7 @@ image: /img/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png
 
 https://zj.zjol.com.cn/news.html?id=1335825
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/02.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/02.png)
 
 很多人不知道这个名字起得很官方的 App 的来头，这是浙江日报报业集团的新闻产品，它们家同时还有一个视频客户端叫“天目新闻”。
 
@@ -39,7 +39,7 @@ https://zj.zjol.com.cn/news.html?id=1335825
 
 https://weibo.com/5612278337/Ii7J4B4wo
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/03.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/03.png)
 
 诚如一位媒体业界的观察人士在朋友圈所说，这件事充分证明了一个地方至少有两家以上主流媒体的必要性。
 
@@ -57,7 +57,7 @@ https://mp.weixin.qq.com/s/JBziLySa_8A06iDUR1g86g
 
 2008年底，西安电子科技大学学生被校方冒用信息办理了信用卡，舆论为之哗然。该校宣传部长强建周，接受央广中国之声采访时，扬言要“占领天涯（论坛）”、“占领你们所有得到信息的渠道”、“我今天要做一个轰动全国的事情”，甚至威胁扣留采访中的女记者。
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/04.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/04.png)
 
 随着《新闻纵横》栏目播出采访音频，强部长如愿以偿地“轰动全国”，此事也成为广播媒介参与舆论监督的美谈。
 
@@ -83,11 +83,11 @@ https://mp.weixin.qq.com/s/JBziLySa_8A06iDUR1g86g
 
 https://www.weibo.com/1783286485/Ii9fuDZtm
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/05.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/05.png)
 
 黄磊也被传出在朋友圈里说“过度过险过激过劳都不应该被描绘为敬业努力用功拼博，而是应该被不断地提醒和否定”。
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/06.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/06.png)
 
 这两位大哥已经算是演员群体里面极少极少敢于发出声响的人了，尽管跟愤怒的普通网民大呼“二台（浙江台台标像个2）倒闭”什么的相比，以上只能勉强算是“爱的抚摸”。
 
@@ -97,7 +97,7 @@ https://www.weibo.com/1783286485/Ii9fuDZtm
 
 https://mp.weixin.qq.com/s/3ywQVCaclRwKWLwJC_b11g
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/07.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/07.png)
 
 在这些电视台的新闻节目里，是怎么报道高以翔这次事故的呢？
 
@@ -113,11 +113,11 @@ http://www.kankanews.com/a/2019-11-28/0019070515.shtml
 
 这段新闻中，主持人提到了“为什么要在晚间录制节目”这个问题，并引用“一位从业者表示”说，夜间录制主要是因为艺人这边的档期不好协调，同时要避开封路封楼等对外界的影响。“从业者”指出，比嘉宾更累的是工作人员，当天早上8-9点就要到场，收工也晚于嘉宾。
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/08.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/08.png)
 
 节目连线媒体评论员魏英杰解读如何避免，要点是：嘉宾要对自己的身体状况有评估（题图）；而节目组也应该安全第一。
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/09.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/09.png)
 
 连线刚完事，主持人马上用剩下一分钟，详细讲了电视台其实已经做了足够多的安全措施：
 
@@ -127,11 +127,11 @@ http://www.kankanews.com/a/2019-11-28/0019070515.shtml
 
 “事实上，无论什么类型的综艺节目，摄制组都会优先考虑艺人的人身安全。”
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/10.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/10.png)
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/11.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/11.png)
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/12.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/12.png)
 
 > “珍爱生命，需要更合理、更科学地安排相关工作。与此同时，艺人自身也应该根据自身状况合理安排好工作，加强安全意识。”
 
@@ -145,9 +145,9 @@ http://www.kankanews.com/a/2019-11-28/0019070515.shtml
 
 https://www.zhihu.com/question/332553130/answer/733407517
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/13.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/13.png)
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/14.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/14.png)
 
 只不过，即便自身无可挑剔，这样的报道还是很容易给人一种“我们电视台已经仁至义尽了，是你艺人自己不顾自己身体状况非要来的”感觉，其中也体现出了人在江湖，身不由己的无奈。
 
@@ -161,7 +161,7 @@ https://www.zhihu.com/question/332553130/answer/733407517
 
 对于他们而言，在慨叹完生命脆弱，急救知识缺乏以后，是否有可能会意识到好像还少了什么东西呢？
 
-![](/img/2019/11/28/ru-guo-zhi-kan-dian-shi/15.png)
+![](/2019/11/28/ru-guo-zhi-kan-dian-shi/15.png)
 
 微信搜索：航通社 (ID: lifeissohappy)
 

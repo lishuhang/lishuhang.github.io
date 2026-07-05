@@ -4,7 +4,7 @@ title: "没有价值观的算法下岗了，但我希望算法能快快长大"
 date: 2018-04-05
 categories: 文章
 tags: [科技]
-image: /img/2018/04/05/mei-you-jia-zhi-guan-de/01.jpg
+image: /2018/04/05/mei-you-jia-zhi-guan-de/01.jpg
 ---
 
 点上面的蓝字 **航通社 👆**订阅我们

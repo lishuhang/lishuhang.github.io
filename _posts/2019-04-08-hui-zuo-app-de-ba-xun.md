@@ -4,18 +4,18 @@ title: "会做 App 的八旬老奶奶，也许一个就够了"
 date: 2019-04-08
 categories: 文章
 tags: [科技]
-image: /img/2019/04/08/hui-zuo-app-de-ba-xun/01.jpg
+image: /2019/04/08/hui-zuo-app-de-ba-xun/01.jpg
 ---
 
 👆点第二个航通社，先关注，再加星⭐
 
-![](/img/2019/04/08/hui-zuo-app-de-ba-xun/01.jpg)
+![](/2019/04/08/hui-zuo-app-de-ba-xun/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载
 
 航通社 微信：lifeissohappy 微博：@航通社
 
-![](/img/2019/04/08/hui-zuo-app-de-ba-xun/02.jpg)
+![](/2019/04/08/hui-zuo-app-de-ba-xun/02.jpg)
 
 书航 4 月 8 日发于北京
 
@@ -55,6 +55,6 @@ image: /img/2019/04/08/hui-zuo-app-de-ba-xun/01.jpg
 
 所以，老年人学电脑和上网的习惯，也必然会扎堆在并不能赚钱或出名的领域，这并不见得有什么商业价值。就算老年用户再多，除非是昧着良心推销保健品，否则很难指望他们有什么“购买力”。但开发老年向产品却有着利益之外不可替代的价值。年轻人重视长辈的尊严和情感，就是在面对几十年后总会追随他们而衰老的自己。
 
-![](/img/2019/04/08/hui-zuo-app-de-ba-xun/03.jpg)
+![](/2019/04/08/hui-zuo-app-de-ba-xun/03.jpg)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

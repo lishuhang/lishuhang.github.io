@@ -4,7 +4,7 @@ title: "苹果近期创新中最大的败笔"
 date: 2017-09-05
 categories: 文章
 tags: [科技]
-image: /img/2017/09/05/ping-guo-jin-qi-chuang-xin/01.jpg
+image: /2017/09/05/ping-guo-jin-qi-chuang-xin/01.jpg
 ---
 
 文|书航

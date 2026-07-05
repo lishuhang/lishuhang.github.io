@@ -4,7 +4,7 @@ title: "假记者的价值观"
 date: 2017-08-22
 categories: 文章
 tags: [科技]
-image: /img/2017/08/22/jia-ji-zhe-de-jia-zhi/01.jpg
+image: /2017/08/22/jia-ji-zhe-de-jia-zhi/01.jpg
 ---
 
 三百六十行，每行都会在长期实践中形成一些世代相传的经验，以及外人无法企及的门槛。就连写软文和发假新闻，也会锻炼出一套成熟的信仰和价值观。

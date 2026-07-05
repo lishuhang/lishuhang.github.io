@@ -4,10 +4,10 @@ title: "被遗忘的 Office 2019"
 date: 2018-12-03
 categories: 文章
 tags: [科技]
-image: /img/2018/12/03/bei-yi-wang-de-office-2019/01.jpg
+image: /2018/12/03/bei-yi-wang-de-office-2019/01.jpg
 ---
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/01.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/01.jpg)
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
 
@@ -33,7 +33,7 @@ image: /img/2018/12/03/bei-yi-wang-de-office-2019/01.jpg
 
 微软却是反其道而行之。在 2019 刚刚推出不久，微软就向 Office 365 的订阅用户推送了 Ribbon 用户界面的一波更新，该更新曾在 8 月份向一小部分参与公开测试计划（Insider）的用户放出。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/02.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/02.jpg)
 
 如今连网使用 Office 365 服务的用户能够看到新界面，然而如果你购买了 Office 2019 ，你却无法看到新界面，而且将永远看不到。
 
@@ -51,31 +51,31 @@ image: /img/2018/12/03/bei-yi-wang-de-office-2019/01.jpg
 
 在 1995 年的东京秋叶原，消费者们一等 0 点钟声敲响就涌入电器行，同时抱着两个画着蓝天白云的大纸盒子出来，一个上面是 Windows 飞翔的窗口，一个是 Office 95 的七巧板。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/03.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/03.jpg)
 
 （ https://youtu.be/jBrVwmX7zEA ）
 
 Office XP 是该系列产品第一次进入印度市场，在新德里举办的发布会上体现出该产品橙红色的主色调，“更聪明的办公体验”的标语也分外醒目。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/04.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/04.jpg)
 
 （ https://youtu.be/GcaFWeuHXAU ）
 
 Office 2007 更是和 Windows Vista 在同一场合亮相，盖茨亲自上台介绍了两大新版本产品，并宣传说一起都买新的，协同效应上才是最好的。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/05.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/05.jpg)
 
 （ https://youtu.be/V_WZj_b_bVg ）
 
 Office 2010 也曾在香港租下海景房、游艇和直升飞机做宣传。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/06.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/06.jpg)
 
 （ https://youtu.be/nD3X46Jilu0 ）
 
 而 Office 2013 发售时同步举办的 Office 365 发布会，可能是最后一次微软举办的 Office 专场发布推广活动。
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/07.jpg)
+![](/2018/12/03/bei-yi-wang-de-office-2019/07.jpg)
 
 （ https://youtu.be/9dAujyhegoA ）
 
@@ -173,6 +173,6 @@ Azure 目前在全球云计算市场份额为 13%，仅次于亚马逊 AWS。想
 
 2018.12.3
 
-![](/img/2018/12/03/bei-yi-wang-de-office-2019/08.gif)
+![](/2018/12/03/bei-yi-wang-de-office-2019/08.gif)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
