@@ -1,30 +1,24 @@
 # frozen_string_literal: true
 
-# ImagePrefix Generator for lishuhang.me
-# v2.0 (2026-07-04)
+# ImagePrefix Generator for lishuhang.me (v1.11)
 #
-# Rewrites relative image paths (/img/...) in post content to full URLs
+# Rewrites relative image paths (/<year>/<month>/...) in post content to full URLs
 # based on post date and site.image_prefixes config.
 #
+# Posts store image URLs as: /YYYY/MM/DD/slug/NN.ext  (or /YYYY/MM/MMDD-d.ext for daily)
+# At build time, this plugin combines: prefix + path → full URL
+#
 # Config format in _config.yml:
-#
 #   image_prefixes:
-#     - range: [null, "2024-01"]      # before 2024-01 (prefix A)
-#       prefix: "https://lishuhang.me"
-#     - range: ["2024-01", "2026-07"]  # 2024-01 to 2026-07 (prefix B)
-#       prefix: "https://lishuhang.me"
-#     - range: ["2026-07", null]       # 2026-07 onwards (prefix C)
-#       prefix: "https://lishuhang.me"
+#     - range: [null, "2026-07"]        # before 2026-08
+#       prefix: "https://lishuhang.me/img/"
+#     - range: ["2026-08", null]        # 2026-08 onwards
+#       prefix: "https://lishuhang.me/img/"  # (change to img2/ or R2 URL when migrating)
 #
-# In posts, image URLs are written as relative paths:
-#   image: /img/2026/07/01/slug/01.png
-#   ![](/img/2026/07/01/slug/01.png)
-#
-# At build time, this generator rewrites them to:
-#   image: https://lishuhang.me/img/2026/07/01/slug/01.png
-#
-# This allows migrating image storage to different repos/CDNs by date range
-# without rewriting all posts.
+# Example:
+#   Post has: image: /2025/10/07/slug/01.jpg
+#   Config prefix: "https://lishuhang.me/img/"
+#   Result: https://lishuhang.me/img/2025/10/07/slug/01.jpg
 
 module Jekyll
   class ImagePrefixGenerator < Generator
@@ -48,23 +42,27 @@ module Jekyll
       prefix = pick_prefix(date_str)
       return if prefix.nil? || prefix.empty?
 
+      prefix_clean = prefix.to_s.chomp('/')
+
       # Rewrite front matter 'image' field
-      if post.data['image'].is_a?(String) && post.data['image'].start_with?('/img/')
-        post.data['image'] = prefix + post.data['image']
+      if post.data['image'].is_a?(String) && post.data['image'] =~ %r{^/\d{4}/}
+        post.data['image'] = prefix_clean + post.data['image']
       end
 
       # Rewrite image URLs in content
-      # Match ![](/img/...) and image: /img/... patterns
       content = post.content
-      # Markdown image: ![alt](/img/...)
-      content = content.gsub(%r{(!\[[^\]]*\]\()/img/([^\)]+)\)}) do
-        "#{Regexp.last_match(1)}#{prefix}/img/#{Regexp.last_match(2)})"
+
+      # Markdown image: ![alt](/YYYY/...)
+      content = content.gsub(%r{(!\[[^\]]*\]\()/(\d{4}/[^\)]+)\)}) do
+        "#{Regexp.last_match(1)}#{prefix_clean}/#{Regexp.last_match(2)})"
       end
-      # HTML img src="/img/..." or src='/img/...'
-      content = content.gsub(/(src=["\'])\/img\/([^\1"\']+)\1/) do
+
+      # HTML img src="/YYYY/..." or src='/YYYY/...'
+      content = content.gsub(/(src=["\'])/(\d{4}/[^\1"\']+)\1/) do
         m = Regexp.last_match
-        "#{m[1]}#{prefix}/img/#{m[2]}#{m[1]}"
+        "#{m[1]}#{prefix_clean}/#{m[2]}#{m[1]}"
       end
+
       post.content = content
     end
 
