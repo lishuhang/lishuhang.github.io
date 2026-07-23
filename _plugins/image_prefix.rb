@@ -106,6 +106,11 @@ module Jekyll
 
       if match_count > 0
         post.output = output
+        # Debug: write a sample of the rewritten output to verify
+        if post.data['title'] && post.data['title'].include?('豌豆荚')
+          debug_path = '/tmp/image_prefix_debug.txt'
+          File.write(debug_path, "TITLE: #{post.data['title']}\nOUTPUT LENGTH: #{output.length}\nFIRST 500 CHARS:\n#{output[0..500]}\n\nCONTAINS lishuhang.me/img: #{output.include?('lishuhang.me/img')}\n")
+        end
         Jekyll.logger.info 'ImagePrefix:',
                            "Rewrote #{match_count} URLs in '#{post.data['title']}'"
       end
