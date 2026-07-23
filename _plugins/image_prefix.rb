@@ -6,12 +6,12 @@
 # based on post date and site.image_prefixes.
 #
 # Strategy: use :post_render hook to modify the FINAL HTML output.
-# This fires after kramdown has converted markdown to HTML, so we can
-# reliably rewrite <img src="..."> and data-original="..." attributes
-# in the rendered HTML.
-#
-# Also use a :high priority Generator for the front matter 'image' field,
-# which must be rewritten before seo-tag's :pre_render hook caches it.
+# This fires after kramdown converts markdown to HTML AND after the
+# layout is applied, so we can rewrite ALL image URLs in the final HTML:
+#   - Content images: <img src="/YYYY/..."> (from markdown ![](...))
+#   - Cover image: <img data-original="https://lishuhang.me/YYYY/...">
+#     (from layout's absolute_url filter on page.image)
+#   - weserv.nl proxy URLs containing lishuhang.me/YYYY/...
 #
 # Previous attempts (all failed):
 #   - Generator with priority :low → ran after seo-tag cached the image
@@ -19,6 +19,8 @@
 #   - :post_init hook → post.content not reliably available
 #   - Generator with priority :high → rewrote post.content but Jekyll's
 #     renderer re-read content, so the rewrite was lost
+#   - :post_render with only relative path regex → didn't catch absolute URLs
+#     produced by layout's absolute_url filter
 #
 # Config format in _config.yml:
 #   image_prefixes:
@@ -29,6 +31,12 @@
 
 module Jekyll
   module ImagePrefix
+    @rewrite_count = 0
+
+    class << self
+      attr_accessor :rewrite_count
+    end
+
     def self.config(site)
       @prefixes_cache ||= {}
       @prefixes_cache[site.object_id] ||= begin
@@ -51,22 +59,6 @@ module Jekyll
       config(site).last && config(site).last['prefix'].to_s
     end
 
-    # Rewrite the front matter 'image' field (called from Generator)
-    def self.rewrite_front_matter(post, site)
-      return unless post.data['image'].is_a?(String)
-      return if post.data['image'] =~ %r{\Ahttps?://}  # already absolute
-
-      date_str = post.date.strftime('%Y-%m')
-      prefix = pick_prefix(site, date_str)
-      return if prefix.nil? || prefix.empty?
-
-      prefix_clean = prefix.chomp('/')
-
-      if post.data['image'] =~ %r{\A/\d{4}/}
-        post.data['image'] = prefix_clean + post.data['image']
-      end
-    end
-
     # Rewrite image URLs in rendered HTML output (called from :post_render hook)
     def self.rewrite_html_output(post, site)
       output = post.output
@@ -77,80 +69,70 @@ module Jekyll
       return if prefix.nil? || prefix.empty?
 
       prefix_clean = prefix.chomp('/')
-      original_output = output
+      # Extract the host from prefix (e.g., "https://lishuhang.me" from
+      # "https://lishuhang.me/img/") for matching absolute URLs
+      host = prefix_clean.sub(%r{/img$}, '')
+
       match_count = 0
 
-      # Rewrite: src="/YYYY/..."
-      output = output.gsub(%r{(src=["'])/(\d{4}/[^"']+)["']}) do
-        md = Regexp.last_match
-        match_count += 1
-        quote = md[1][-1, 1]
-        "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
+      # ── 1. Rewrite relative paths: src="/YYYY/..." ──
+      # These come from markdown ![](...) converted by kramdown
+      %w[src data-original srcset data-src data-lazy].each do |attr|
+        output = output.gsub(%r{(#{attr}=["'])/(\d{4}/[^"']+)["']}) do
+          md = Regexp.last_match
+          match_count += 1
+          quote = md[1][-1, 1]
+          "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
+        end
       end
 
-      # Rewrite: data-original="/YYYY/..." (lazy-load plugins)
-      output = output.gsub(%r{(data-original=["'])/(\d{4}/[^"']+)["']}) do
+      # ── 2. Rewrite absolute URLs missing /img/: host/YYYY/... → host/img/YYYY/... ──
+      # These come from layout's absolute_url filter on page.image
+      # Match: https://lishuhang.me/2026/... but NOT https://lishuhang.me/img/2026/...
+      # and NOT https://lishuhang.me/assets/... etc.
+      output = output.gsub(%r{(#{Regexp.escape(host)})/(\d{4}/\d{2}/[^"'\s<>]+)}) do
         md = Regexp.last_match
+        # Skip if already has /img/ after host
+        next md[0] if md[2].start_with?('img/')
         match_count += 1
-        quote = md[1][-1, 1]
-        "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
+        "#{md[1]}/img/#{md[2]}"
       end
 
-      # Rewrite: srcset="/YYYY/..." (responsive images)
-      output = output.gsub(%r{(srcset=["'])/(\d{4}/[^"']+)["']}) do
+      # ── 3. Rewrite URL-encoded absolute URLs in weserv.nl proxy ──
+      # weserv proxy: url=https%3A%2F%2Flishuhang.me%2F2026%2F...
+      # We need to insert %2Fimg%2F after lishuhang.me%2F
+      encoded_host = Regexp.escape(host.gsub('/', '%2F').gsub(':', '%3A'))
+      output = output.gsub(%r{(#{encoded_host})%2F(\d{4}%2F\d{2}%2F[^&"'\s<>]+)}) do
         md = Regexp.last_match
+        next md[0] if md[2].start_with?('img%2F')
         match_count += 1
-        quote = md[1][-1, 1]
-        "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
+        "#{md[1]}%2Fimg%2F#{md[2]}"
       end
 
       if match_count > 0
         post.output = output
-        # Debug: write a sample of the rewritten output to verify
-        if post.data['title'] && post.data['title'].include?('豌豆荚')
-          debug_path = '/tmp/image_prefix_debug.txt'
-          File.write(debug_path, "TITLE: #{post.data['title']}\nOUTPUT LENGTH: #{output.length}\nFIRST 500 CHARS:\n#{output[0..500]}\n\nCONTAINS lishuhang.me/img: #{output.include?('lishuhang.me/img')}\n")
-        end
-        Jekyll.logger.info 'ImagePrefix:',
-                           "Rewrote #{match_count} URLs in '#{post.data['title']}'"
+        @rewrite_count += match_count
+        Jekyll.logger.debug 'ImagePrefix:',
+                            "Rewrote #{match_count} URLs in '#{post.data['title']}'"
       end
     end
   end
 end
 
-# Generator (priority :high) — rewrite front matter 'image' field early,
-# before jekyll-seo-tag's :pre_render hook caches it for SEO meta tags.
-Jekyll::Hooks.register :posts, :post_init do |post|
-  # post_init fires when the post is first loaded; post.data (front matter)
-  # is available, and this runs before any Generator or :pre_render hook.
-  if post.site
-    Jekyll::ImagePrefix.rewrite_front_matter(post, post.site)
-  end
-end
-
 # :post_render hook — rewrite image URLs in the final rendered HTML.
-# This fires after kramdown has converted markdown ![](...) to <img src="...">,
-# so we can reliably rewrite the HTML attributes.
-$post_render_count = 0
-$post_render_nil_count = 0
-
+# This fires after kramdown converts markdown to HTML AND after the layout
+# is applied, so we catch ALL image URLs (content + cover + weserv proxy).
 Jekyll::Hooks.register :posts, :post_render do |post|
-  $post_render_count += 1
-  output = post.output
-  if output.nil? || output.empty?
-    $post_render_nil_count += 1
-  else
-    Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
-  end
-end
-
-Jekyll::Hooks.register :site, :post_write do |site|
-  Jekyll.logger.info 'ImagePrefix:',
-                     "post_render fired #{$post_render_count} times (nil output: #{$post_render_nil_count})"
+  Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
 end
 
 Jekyll::Hooks.register :site, :after_init do |site|
   prefixes = Jekyll::ImagePrefix.config(site)
   Jekyll.logger.info 'ImagePrefix:',
                      "Loaded with #{prefixes.size} prefix ranges (v1.16 post_render strategy)"
+end
+
+Jekyll::Hooks.register :site, :post_write do |site|
+  Jekyll.logger.info 'ImagePrefix:',
+                     "Total URLs rewritten: #{Jekyll::ImagePrefix.rewrite_count}"
 end
