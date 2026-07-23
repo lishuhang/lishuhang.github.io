@@ -78,10 +78,12 @@ module Jekyll
 
       prefix_clean = prefix.chomp('/')
       original_output = output
+      match_count = 0
 
       # Rewrite: src="/YYYY/..."
       output = output.gsub(%r{(src=["'])/(\d{4}/[^"']+)["']}) do
         md = Regexp.last_match
+        match_count += 1
         quote = md[1][-1, 1]
         "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
       end
@@ -89,6 +91,7 @@ module Jekyll
       # Rewrite: data-original="/YYYY/..." (lazy-load plugins)
       output = output.gsub(%r{(data-original=["'])/(\d{4}/[^"']+)["']}) do
         md = Regexp.last_match
+        match_count += 1
         quote = md[1][-1, 1]
         "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
       end
@@ -96,11 +99,16 @@ module Jekyll
       # Rewrite: srcset="/YYYY/..." (responsive images)
       output = output.gsub(%r{(srcset=["'])/(\d{4}/[^"']+)["']}) do
         md = Regexp.last_match
+        match_count += 1
         quote = md[1][-1, 1]
         "#{md[1]}#{prefix_clean}/#{md[2]}#{quote}"
       end
 
-      post.output = output if output != original_output
+      if match_count > 0
+        post.output = output
+        Jekyll.logger.info 'ImagePrefix:',
+                           "Rewrote #{match_count} URLs in '#{post.data['title']}'"
+      end
     end
   end
 end
