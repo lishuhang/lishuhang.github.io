@@ -1,3 +1,9 @@
+{%- comment -%}
+  Image URL construction (v1.16, 2026-07-24):
+  Use site.image_prefixes to build full image URLs from relative paths.
+  Replaces the old _plugins/image_prefix.rb plugin.
+{%- endcomment -%}
+{%- assign img_prefix = site.image_prefixes.first.prefix -%}
 <article class="post-card"
          data-year="{{ post.date | date: '%Y' }}"
          data-tags="{{ post.tags | join: ',' }}"
@@ -6,8 +12,10 @@
          data-url="{{ post.url | relative_url }}">
   <a href="{{ post.url | relative_url }}" class="post-card-link">
     {% if post.image %}
+    {%- assign card_path = post.image | remove_first: '/' -%}
+    {%- assign card_url = img_prefix | append: card_path -%}
     <div class="post-card-thumb">
-      <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=400&h=260&output=jpg&q=80&fit=cover" data-original="{{ post.image | absolute_url }}" alt="{{ post.title }}" loading="lazy">
+      <img src="https://images.weserv.nl/?url={{ card_url | url_encode }}&w=400&h=260&output=jpg&q=80&fit=cover" data-original="{{ card_url }}" alt="{{ post.title }}" loading="lazy">
     </div>
     {% endif %}
     <div class="post-card-body">

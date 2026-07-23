@@ -2,6 +2,13 @@
 layout: base
 ---
 
+{%- comment -%}
+  Image URL construction (v1.16, 2026-07-24):
+  Use site.image_prefixes to build full image URLs from relative paths.
+  Replaces the old _plugins/image_prefix.rb plugin.
+{%- endcomment -%}
+{%- assign img_prefix = site.image_prefixes.first.prefix -%}
+
 <!-- Featured 轮播（最新 5 篇带 #featured 标签） -->
 {% assign featured_posts = '' | split: '' %}
 {% for post in site.posts %}
@@ -16,7 +23,9 @@ layout: base
     <a href="{{ post.url | relative_url }}" class="featured-slide{% if forloop.first %} active{% endif %}">
       <div class="featured-slide-img">
         {% if post.image %}
-        <img src="https://images.weserv.nl/?url={{ post.image | absolute_url | url_encode }}&w=900&h=500&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
+        {%- assign feat_path = post.image | remove_first: '/' -%}
+        {%- assign feat_url = img_prefix | append: feat_path -%}
+        <img src="https://images.weserv.nl/?url={{ feat_url | url_encode }}&w=900&h=500&output=jpg&q=80&fit=cover" alt="{{ post.title }}" loading="lazy">
         {% else %}
         <div class="featured-slide-placeholder"></div>
         {% endif %}

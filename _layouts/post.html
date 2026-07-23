@@ -2,6 +2,14 @@
 layout: base
 ---
 
+{%- comment -%}
+  Image URL construction (v1.16, 2026-07-24):
+  page.image is stored as relative path /YYYY/MM/DD/slug/NN.ext
+  We prepend the prefix from site.image_prefixes to form the full URL.
+  This replaces the old _plugins/image_prefix.rb plugin.
+{%- endcomment -%}
+{%- assign img_prefix = site.image_prefixes.first.prefix -%}
+
 <div class="article-detail">
   <!-- 标题区 -->
   <header class="article-header">
@@ -29,18 +37,23 @@ layout: base
 
   <!-- 题图 -->
   {% if page.image and page.image != '/' %}
+  {%- assign img_path = page.image | remove_first: '/' -%}
+  {%- assign cover_url = img_prefix | append: img_path -%}
   <div class="article-featured-image">
-    <img src="https://images.weserv.nl/?url={{ page.image | absolute_url | url_encode }}&output=jpg&q=80"
+    <img src="https://images.weserv.nl/?url={{ cover_url | url_encode }}&output=jpg&q=80"
          alt="{{ page.title }}"
          loading="lazy"
          fetchpriority="low"
-         data-original="{{ page.image | absolute_url }}">
+         data-original="{{ cover_url }}">
   </div>
   {% endif %}
 
   <!-- 正文 -->
   <article class="article-content">
-    {{ content }}
+    {%- comment -%} Rewrite content image URLs: src="/YYYY/..." → src="prefix/YYYY/..." {%- endcomment -%}
+    {%- capture src_old -%}src="/2{%- endcapture -%}
+    {%- capture src_new -%}src="{{ img_prefix }}2{%- endcapture -%}
+    {{ content | replace: src_old, src_new }}
   </article>
 
   <!-- 分享 -->

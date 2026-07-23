@@ -2,6 +2,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  {%- comment -%}
+    SEO image override (v1.16, 2026-07-24):
+    jekyll-seo-tag uses absolute_url on page.image, producing URLs without
+    /img/ (e.g., https://lishuhang.me/2026/... instead of .../img/2026/...).
+    We inject the correct og:image BEFORE {% seo %} so social platforms
+    pick up the right URL. jekyll-seo-tag will skip og:image if one exists.
+  {%- endcomment -%}
+  {% if page.image and page.image != '/' %}
+  {%- assign img_prefix = site.image_prefixes.first.prefix -%}
+  {%- assign og_img_path = page.image | remove_first: '/' -%}
+  {%- assign og_image_url = img_prefix | append: og_img_path -%}
+  <meta property="og:image" content="{{ og_image_url }}">
+  <meta name="twitter:image" content="{{ og_image_url }}">
+  {% endif %}
   {% seo %}
   {% if site.robots %}<meta name="robots" content="{{ site.robots }}">{% endif %}
 
