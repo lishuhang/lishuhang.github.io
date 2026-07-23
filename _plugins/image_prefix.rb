@@ -13,15 +13,6 @@
 #     (from layout's absolute_url filter on page.image)
 #   - weserv.nl proxy URLs containing lishuhang.me/YYYY/...
 #
-# Previous attempts (all failed):
-#   - Generator with priority :low → ran after seo-tag cached the image
-#   - :pre_render hook → ran after seo-tag's :pre_render (registration order)
-#   - :post_init hook → post.content not reliably available
-#   - Generator with priority :high → rewrote post.content but Jekyll's
-#     renderer re-read content, so the rewrite was lost
-#   - :post_render with only relative path regex → didn't catch absolute URLs
-#     produced by layout's absolute_url filter
-#
 # Config format in _config.yml:
 #   image_prefixes:
 #     - range: [null, "2026-07"]
@@ -70,15 +61,17 @@ module Jekyll
 
       prefix_clean = prefix.chomp('/')
       # Extract the host from prefix (e.g., "https://lishuhang.me" from
-      # "https://lishuhang.me/img/") for matching absolute URLs
+      # "https://lishuhang.me/img/")
       host = prefix_clean.sub(%r{/img$}, '')
+      encoded_host = host.gsub('/', '%2F').gsub(':', '%3A')
 
       match_count = 0
 
-      # ── 1. Rewrite relative paths: src="/YYYY/..." ──
+      # ── 1. Rewrite relative paths: attr="/YYYY/..." ──
       # These come from markdown ![](...) converted by kramdown
       %w[src data-original srcset data-src data-lazy].each do |attr|
-        output = output.gsub(%r{(#{attr}=["'])/(\d{4}/[^"']+)["']}) do
+        pattern = %r{(#{attr}=["'])/(\d{4}/[^"']+)["']}
+        output = output.gsub(pattern) do |m|
           md = Regexp.last_match
           match_count += 1
           quote = md[1][-1, 1]
@@ -86,25 +79,21 @@ module Jekyll
         end
       end
 
-      # ── 2. Rewrite absolute URLs missing /img/: host/YYYY/... → host/img/YYYY/... ──
+      # ── 2. Rewrite absolute URLs: host/YYYY/... → host/img/YYYY/... ──
       # These come from layout's absolute_url filter on page.image
-      # Match: https://lishuhang.me/2026/... but NOT https://lishuhang.me/img/2026/...
-      # and NOT https://lishuhang.me/assets/... etc.
-      output = output.gsub(%r{(#{Regexp.escape(host)})/(\d{4}/\d{2}/[^"'\s<>]+)}) do
+      # Use negative lookahead (?!img/) to skip URLs that already have /img/
+      pattern2 = %r{(#{Regexp.escape(host)})/(?!(?:img/|assets/|posts/|page/))(\d{4}/\d{2}/[^"'\s<>]+)}
+      output = output.gsub(pattern2) do |m|
         md = Regexp.last_match
-        # Skip if already has /img/ after host
-        next md[0] if md[2].start_with?('img/')
         match_count += 1
         "#{md[1]}/img/#{md[2]}"
       end
 
       # ── 3. Rewrite URL-encoded absolute URLs in weserv.nl proxy ──
       # weserv proxy: url=https%3A%2F%2Flishuhang.me%2F2026%2F...
-      # We need to insert %2Fimg%2F after lishuhang.me%2F
-      encoded_host = Regexp.escape(host.gsub('/', '%2F').gsub(':', '%3A'))
-      output = output.gsub(%r{(#{encoded_host})%2F(\d{4}%2F\d{2}%2F[^&"'\s<>]+)}) do
+      encoded_pattern = %r{(#{Regexp.escape(encoded_host)})%2F(?!(?:img%2F))(\d{4}%2F\d{2}%2F[^&"'\s<>]+)}
+      output = output.gsub(encoded_pattern) do |m|
         md = Regexp.last_match
-        next md[0] if md[2].start_with?('img%2F')
         match_count += 1
         "#{md[1]}%2Fimg%2F#{md[2]}"
       end
@@ -112,16 +101,12 @@ module Jekyll
       if match_count > 0
         post.output = output
         @rewrite_count += match_count
-        Jekyll.logger.debug 'ImagePrefix:',
-                            "Rewrote #{match_count} URLs in '#{post.data['title']}'"
       end
     end
   end
 end
 
 # :post_render hook — rewrite image URLs in the final rendered HTML.
-# This fires after kramdown converts markdown to HTML AND after the layout
-# is applied, so we catch ALL image URLs (content + cover + weserv proxy).
 Jekyll::Hooks.register :posts, :post_render do |post|
   Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
 end
