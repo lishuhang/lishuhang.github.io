@@ -3,7 +3,7 @@ layout: post
 title: "“中国版Mythos”：比得上吗，来得及吗？"
 date: 2026-06-25
 categories: AI
-tags: [AI]
+tags: [AI, featured]
 image: /2026/06/25/zhong-guo-ban-mythos-bi-de/01.jpg
 ---
 
