@@ -3,7 +3,7 @@ layout: post
 title: "价值700亿的美式世界杯：一场教科书般的赛事运营手册"
 date: 2026-07-20
 categories: 传媒
-tags: [传媒]
+tags: [传媒, featured]
 image: /2026/07/20/jia-zhi-700-yi-de-mei/01.png
 ---
 
