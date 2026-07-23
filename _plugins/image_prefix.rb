@@ -118,14 +118,22 @@ end
 # :post_render hook — rewrite image URLs in the final rendered HTML.
 # This fires after kramdown has converted markdown ![](...) to <img src="...">,
 # so we can reliably rewrite the HTML attributes.
+$post_render_count = 0
+$post_render_nil_count = 0
+
 Jekyll::Hooks.register :posts, :post_render do |post|
+  $post_render_count += 1
   output = post.output
   if output.nil? || output.empty?
-    Jekyll.logger.warn 'ImagePrefix:',
-                       "post_render: post.output is nil/empty for #{post.data['title']}"
+    $post_render_nil_count += 1
   else
     Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
   end
+end
+
+Jekyll::Hooks.register :site, :post_write do |site|
+  Jekyll.logger.info 'ImagePrefix:',
+                     "post_render fired #{$post_render_count} times (nil output: #{$post_render_nil_count})"
 end
 
 Jekyll::Hooks.register :site, :after_init do |site|
