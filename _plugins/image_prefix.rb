@@ -119,7 +119,13 @@ end
 # This fires after kramdown has converted markdown ![](...) to <img src="...">,
 # so we can reliably rewrite the HTML attributes.
 Jekyll::Hooks.register :posts, :post_render do |post|
-  Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
+  output = post.output
+  if output.nil? || output.empty?
+    Jekyll.logger.warn 'ImagePrefix:',
+                       "post_render: post.output is nil/empty for #{post.data['title']}"
+  else
+    Jekyll::ImagePrefix.rewrite_html_output(post, post.site)
+  end
 end
 
 Jekyll::Hooks.register :site, :after_init do |site|
