@@ -124,13 +124,22 @@ image_proxy: "https://images.weserv.nl/?url="
 # repo), change the prefix for the corresponding date range. All posts in
 # that date range will automatically use the new prefix.
 #
-# Format: range = [start_YYYYMM, end_YYYYMM)
+# Format: range = [start_YYYY-MM, end_YYYY-MM)
 #   null start = -infinity, null end = +infinity
 image_prefixes:
   # Posts store relative paths: /YYYY/MM/DD/slug/NN.ext
   # Plugin combines: prefix + path → full URL
   # To migrate: change prefix for the corresponding date range
-  - range: [null, "2026-07"]
+  # prefix 供页面展示；upload 供 keepitrun 在上传前选择仓库。
+  - range: [null, "2026-08"]
     prefix: "https://lishuhang.me/img/"
+    upload:
+      repository: "lishuhang/img"
+      branch: "master"
+      path_prefix: ""
   - range: ["2026-08", null]
     prefix: "https://lishuhang.me/img/"
+    upload:
+      repository: "lishuhang/img"
+      branch: "master"
+      path_prefix: ""
