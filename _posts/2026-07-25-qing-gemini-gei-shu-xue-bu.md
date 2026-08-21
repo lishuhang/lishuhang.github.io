@@ -4,7 +4,7 @@ title: "请Gemini，给数学不及格的文科生讲解王虹的菲尔兹奖"
 date: 2026-07-25
 categories: AI
 tags: [AI]
-image: /2026/07/25/qing-gemini-gei-shu-xue-bu/01.png
+image: /2026/07/25/qing-gemini-gei-shu-xue-bu/01.jpg
 ---
 
 *——这还能降低AI幻觉？*
@@ -935,10 +935,10 @@ CT扫描的原理（拉东变换），本质上就是从各个不同的角度（
 
 🔈
 
-![配图2](/2026/07/25/qing-gemini-gei-shu-xue-bu/02.png)
+![配图2](/2026/07/25/qing-gemini-gei-shu-xue-bu/02.jpg)
 
 ![配图3](/2026/07/25/qing-gemini-gei-shu-xue-bu/03.gif)
 
-![配图4](/2026/07/25/qing-gemini-gei-shu-xue-bu/04.png)
+![配图4](/2026/07/25/qing-gemini-gei-shu-xue-bu/04.jpg)
 
 ![配图5](/2026/07/25/qing-gemini-gei-shu-xue-bu/05.jpg)
