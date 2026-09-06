@@ -3,7 +3,7 @@ layout: post
 title: "我们就是会不由自主地宽容豆包"
 date: 2026-08-12
 categories: AI
-tags: [AI]
+tags: [AI, featured]
 image: /2026/08/12/wo-men-jiu-shi-hui-bu/01.jpg
 ---
 

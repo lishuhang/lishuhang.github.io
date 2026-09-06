@@ -3,7 +3,7 @@ layout: post
 title: "从“大连没有湖南台”到甘肃卫视四省退网，落地费博弈20年浮沉"
 date: 2026-08-31
 categories: 传媒
-tags: [传媒]
+tags: [传媒, featured]
 image: /2026/08/31/cong-da-lian-mei-you-hu/01.jpg
 ---
 

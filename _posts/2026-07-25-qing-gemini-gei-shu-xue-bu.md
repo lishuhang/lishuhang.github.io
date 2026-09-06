@@ -3,7 +3,7 @@ layout: post
 title: "请Gemini，给数学不及格的文科生讲解王虹的菲尔兹奖"
 date: 2026-07-25
 categories: AI
-tags: [AI]
+tags: [AI, featured]
 image: /2026/07/25/qing-gemini-gei-shu-xue-bu/01.jpg
 ---
 
