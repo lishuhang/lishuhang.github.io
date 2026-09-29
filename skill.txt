@@ -1,4 +1,8 @@
 ---
+layout: null
+permalink: /skill.md
+---
+---
 name: lishuhang-me
 description: 查询与阅读「航通社」（书航的博客 lishuhang.me，含每日 AIGC 早报）的文章时使用。提供全站 JSON 索引、免费 MCP 与全文获取规则。
 version: 1.0.0
