@@ -26,6 +26,9 @@
   <!-- RSS 自动发现 -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ '/feed.xml' | relative_url }}">
 
+  <!-- AI agent 入口（llms.txt v2：describedby 指向全站 agent 说明与索引） -->
+  <link rel="describedby" type="text/plain" href="{{ '/llms.txt' | relative_url }}">
+
   <!-- 结构化数据 (JSON-LD) -->
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title | jsonify }}","url":"{{ site.url | jsonify }}","description":"{{ site.description | jsonify }}"}

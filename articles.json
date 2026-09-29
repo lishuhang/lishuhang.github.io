@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /articles.json
+---
+{
+  "site": "lishuhang.me",
+  "title": "航通社",
+  "description": "书航的博客：你应该知道的历史、现在和未来",
+  "updated": "{{ site.time | date_to_xmlschema }}",
+  "count": {{ site.posts | size }},
+  "note": "发布日期以文章正文「文 / 书航 yyyy.mm.dd」标注为准；每篇的 raw_md 为免鉴权全文直链（raw.githubusercontent.com）。AI agent 请勿遍历 GitHub API 找文章。",
+  "articles": [
+  {%- for post in site.posts %}
+    {
+      "url": "{{ post.url | absolute_url }}",
+      "title": {{ post.title | jsonify }},
+      "date": "{{ post.date | date: '%Y-%m-%d' }}",
+      "categories": {{ post.categories | jsonify }},
+      "tags": {{ post.tags | jsonify }},
+      "featured": {% if post.tags contains 'featured' %}true{% else %}false{% endif %},
+      "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | truncate: 280 | jsonify }},
+      "cover": {% if post.image %}"https://lishuhang.me/img{{ post.image }}"{% else %}null{% endif %},
+      "raw_md": "https://raw.githubusercontent.com/lishuhang/lishuhang.github.io/main/{{ post.path }}"
+    }{%- unless forloop.last %},{% endunless %}
+  {%- endfor %}
+  ]
+}

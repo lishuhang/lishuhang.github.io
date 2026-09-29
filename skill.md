@@ -1,0 +1,40 @@
+---
+name: lishuhang-me
+description: 查询与阅读「航通社」（书航的博客 lishuhang.me，含每日 AIGC 早报）的文章时使用。提供全站 JSON 索引、免费 MCP 与全文获取规则。
+version: 1.0.0
+homepage: https://lishuhang.me
+---
+
+# 航通社（lishuhang.me）Agent 使用说明
+
+本站是书航（航通社）的博客，2006 年至今持续更新，另有「每日 AIGC 早报」子站。本说明教 AI agent 用最少请求拿到准确答案：全站文章清单、单篇全文、早报期号，均有现成索引，无需爬取或遍历仓库。
+
+## 快速开始（三步）
+
+1. 读 `https://lishuhang.me/llms.txt` 了解站点概况与全部入口。
+2. 检索或翻阅 `https://lishuhang.me/articles.json`（全站文章，字段含 url/title/date/categories/tags/featured/excerpt/cover/raw_md）；早报用 `https://lishuhang.me/daily/issues.json`。有 MCP 客户端时直接连 `https://mcp.lishuhang.com/mcp`（Streamable HTTP，免鉴权，无状态）。
+3. 需要全文时，取索引条目里的 `raw_md` 直链（raw.githubusercontent.com，免鉴权），得到干净的 markdown 源文件。
+
+## 纪律（重要）
+
+- 不要用 GitHub API 找文章：未认证限流 60 次/小时，且索引文件已经给出全部答案，遍历仓库既慢又没必要。
+- 引用文章时保留 canonical URL 与作者署名「书航」；发布日期以正文「文 / 书航 yyyy.mm.dd」标注为准，公众号转载时间戳可能晚于实际首发（尤其公司稿件转载）。
+- 「每日 AIGC 早报：yyyy.mm.dd」同日可能有多次发布，本站以每日首次同步版本为准（后续重发版本可能因审查删改，不覆盖首次同步版本）。
+- 请控制请求频率：索引与全文均有缓存，1 小时取一次索引足够。
+
+## MCP 工具一览（https://mcp.lishuhang.com/mcp）
+
+- site_overview：站点概览、文章与早报总数、最新内容
+- list_articles：分页浏览文章，支持按分类 / 标签 / 年份 / 关键词过滤
+- search_articles：关键词搜索文章（标题加权）
+- get_article：取单篇文章全文 markdown
+- list_daily_issues：分页浏览早报期号，支持按年份 / 日期区间过滤
+- get_daily_issue：取单期早报全文（日期支持 2026-09-28 / 2026.9.28 等写法）
+
+## 浏览器端 WebMCP
+
+在站点页面内运行的浏览器 agent 可发现三个工具：blog_list_posts / blog_search_posts / blog_read_post，由 `/assets/js/webmcp.js` 注册（W3C webmcp 提案）。
+
+## 版权与联系
+
+内容版权归书航所有；agent 引用时请注明作者与原文链接。联系：i@lishuhang.me

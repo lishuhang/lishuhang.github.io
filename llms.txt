@@ -1,0 +1,33 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# 航通社（lishuhang.me）
+
+> 书航的博客：你应该知道的历史、现在和未来。全站 {{ site.posts | size }} 篇文章（2006 年至今），另有「每日 AIGC 早报」子站（https://lishuhang.me/daily/）。
+> 给 AI agent：查询本站内容请使用下列结构化索引与 MCP 工具，一查即答；不要遍历 GitHub 仓库（未认证 API 限流 60 次/小时，必然失败），也不必整站抓取 HTML。
+
+## 文章索引
+
+- [全站文章 JSON 索引](https://lishuhang.me/articles.json): 全部 {{ site.posts | size }} 篇；字段 url / title / date / categories / tags / featured / excerpt / cover / raw_md
+- [每日 AIGC 早报 JSON 索引](https://lishuhang.me/daily/issues.json): 全部期号；同日重发不覆盖，以每日首次同步版本为准
+
+## 内容获取
+
+- [文章全文 raw markdown](https://raw.githubusercontent.com/lishuhang/lishuhang.github.io/main/_posts/): 索引的 raw_md 字段已给出每篇免鉴权直链，无需遍历
+- [早报源文件仓库](https://github.com/lishuhang/daily): _posts/YYYY-MM-DD-daily.md
+- [RSS（最新 20 条）](https://lishuhang.me/feed.xml)
+- [早报 RSS（最新 20 条）](https://lishuhang.me/daily/feed.xml)
+- [Sitemap](https://lishuhang.me/sitemap.xml)
+
+## Agent 服务
+
+- [MCP Server](https://mcp.lishuhang.com/mcp): Streamable HTTP、免鉴权、无状态；工具 site_overview / list_articles / search_articles / get_article / list_daily_issues / get_daily_issue
+- [skill.md](https://lishuhang.me/skill.md): 教 agent 使用本站的说明卡
+- [WebMCP](https://lishuhang.me/assets/js/webmcp.js): 浏览器端工具注册脚本（blog_list_posts / blog_search_posts / blog_read_post）
+
+## Optional
+
+- [关于书航](https://lishuhang.me/about/)
+- [图片库](https://lishuhang.me/photos/)
+- [元数据口径] 发布日期以文章正文「文 / 书航 yyyy.mm.dd」标注为准，公众号转载时间戳可能晚于实际首发
