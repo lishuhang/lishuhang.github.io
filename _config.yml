@@ -85,6 +85,10 @@ robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-previ
 twitter:
   username: lishuhang
 
+# Include dot-directories that must ship with the site
+include:
+  - .well-known
+
 # Exclude from build
 exclude:
   - Gemfile
@@ -92,6 +96,8 @@ exclude:
   - node_modules
   - README.md
   - .gitignore
+  - docs
+  - tmp
 
 # ============================================================
 # Giscus comments

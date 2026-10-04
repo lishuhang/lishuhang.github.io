@@ -29,6 +29,43 @@
   <!-- AI agent 入口（llms.txt v2：describedby 指向全站 agent 说明与索引） -->
   <link rel="describedby" type="text/plain" href="{{ '/llms.txt' | relative_url }}">
 
+  <!-- MCP 服务器提示（后端 MCP：Streamable HTTP、免鉴权；工具清单见 llms.txt） -->
+  <link rel="mcp" href="https://mcp.lishuhang.com/mcp">
+
+  <!-- WebMCP 静态工具声明（HTTP 直取通道，供 agent/爬虫不经 JS 注册即可发现；
+       浏览器端注册脚本为 /assets/js/webmcp.js，扫描引导页见 /.well-known/webmcp.json） -->
+  <script id="webmcp" type="application/json">
+  {
+    "spec": "webmcp/0.1",
+    "name": "航通社",
+    "url": "https://lishuhang.me",
+    "mcp": "https://mcp.lishuhang.com/mcp",
+    "tools": [
+      {
+        "name": "blog_get_index",
+        "description": "获取航通社（lishuhang.me，书航的博客）全站文章的 JSON 索引，含每篇的 url、标题、日期、分类、标签、摘要（excerpt）与原始 Markdown 免鉴权直链（raw_md）。适合一次性获取全站文章目录。",
+        "url": "/articles.json",
+        "method": "GET"
+      },
+      {
+        "name": "blog_get_post_markdown",
+        "description": "按源文件名获取航通社某篇文章的原始 Markdown 全文。文件名可从 blog_get_index 返回的 raw_md 字段解析得到。",
+        "url": "https://raw.githubusercontent.com/lishuhang/lishuhang.github.io/main/_posts/{path}",
+        "method": "GET",
+        "parameters": [
+          { "name": "path", "type": "string", "description": "文章源文件名，如 2026-09-18-ai-duan-pian-da-sai-xian.md", "required": true }
+        ]
+      },
+      {
+        "name": "blog_get_agent_guide",
+        "description": "获取航通社给 AI agent 的使用说明（llms.txt），包含后端 MCP 服务器地址（https://mcp.lishuhang.com/mcp）、结构化索引、skill.md、RSS 等全部 agent 入口。",
+        "url": "/llms.txt",
+        "method": "GET"
+      }
+    ]
+  }
+  </script>
+
   <!-- 结构化数据 (JSON-LD) -->
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title | jsonify }}","url":"{{ site.url | jsonify }}","description":"{{ site.description | jsonify }}"}

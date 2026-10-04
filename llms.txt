@@ -24,7 +24,8 @@ permalink: /llms.txt
 
 - [MCP Server](https://mcp.lishuhang.com/mcp): Streamable HTTP、免鉴权、无状态；工具 site_overview / list_articles / search_articles / get_article / list_daily_issues / get_daily_issue
 - [skill.md](https://lishuhang.me/skill.md): 教 agent 使用本站的说明卡
-- [WebMCP](https://lishuhang.me/assets/js/webmcp.js): 浏览器端工具注册脚本（blog_list_posts / blog_search_posts / blog_read_post）
+- [WebMCP](https://lishuhang.me/assets/js/webmcp.js): 浏览器端工具注册脚本（blog_list_posts / blog_search_posts / blog_read_post），站点所有页面均注册，数据按需加载
+- [WebMCP 静态声明](https://lishuhang.me/.well-known/webmcp.json): 站点与工具的机器可读声明（webmcp/0.1，含扫描引导页）
 
 ## Optional
 
