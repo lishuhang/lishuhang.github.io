@@ -48,3 +48,22 @@
   扫首页 + 最多 5 个后续页；工具执行与全站覆盖不在本次测试范围。
 - 评分：C=浏览器拒绝注册；B-=schema/execute 无效；B=缺描述；A-=用途重叠/描述不清。
   静态声明与 JS 注册的工具名刻意错开，避免 "同名不同义" 触发 Uncertain evidence。
+
+## 验证与扫描结果（2026-10-04）
+
+- 浏览器实测（agent-browser，WebMCP-enabled Chromium）：
+  - 首页与文章页均注册成功：`window.__WEBMCP__ = {registered:true, ok:3, fail:0}`，
+    控制台输出 "[webmcp] 已向浏览器 Agent 注册 3 个博客工具"
+  - `document.modelContext.getTools()` 返回 3 工具，annotations.readOnlyHint=true
+  - 端到端调用：blog_list_posts total=1458；blog_search_posts("大连") 命中正确；
+    blog_read_post 读 2006 年文章返回标题+全文；文章页按需加载索引成功
+  - 页面 UI 无损：轮播/卡片/搜索/侧栏正常，控制台无报错
+- webmcp.com Live scan（邮箱 lishuhang@gmail.com）：
+  - **GRADE A+ · No issues found · 6 pages inspected · 3 tools detected**
+  - Directory listing 请求已受理，待 webmcp.com 人工审核后出现在目录
+  - 此前状态：no-tools（ReferenceError 导致零注册）
+- 附带修复：assets/data/posts.js 的 cover URL 丢失 /img/ 前缀（与 head.html v1.16
+  og:image 问题同源，absolute_url 所致）——站内标签/年份/搜索视图缩略图 404、
+  WebMCP 工具输出 cover 404，现对齐 home.html 的 image_prefix 拼装方式
+- lookup API（https://webmcp.com/api/v1/lookup?url=https://lishuhang.me）在收录审核
+  通过前返回 supported:false，属预期；审核通过后 webmcp.com/?q=lishuhang 可查
