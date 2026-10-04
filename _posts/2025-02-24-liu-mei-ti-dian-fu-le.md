@@ -1,7 +1,7 @@
 ---
 categories: 文章
 date: 2025-02-24
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/02/24/01.jpg
+image: /2025/02/24/01.jpg
 layout: post
 tags: [传媒]
 title: 流媒体颠覆了电视台，然后又“复刻”了电视台
@@ -21,7 +21,7 @@ title: 流媒体颠覆了电视台，然后又“复刻”了电视台
 
 国内业界其实也对FAST商业模式早有研究，乃至直接用在了对外传播上。中央广播电视总台更于2024年8月推出中国首个FAST制播平台，首批上线「hi Drama!」影视剧频道和「hi Life!」生活纪录频道，与玻利维亚等国共同启动优秀国剧的海外传播。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/02/24/02.png)
+![](/2025/02/24/02.png)
 
 以下就让我们一窥这种“复古风”电视模式的究竟，看看它除了海外市场之外，是否也会影响我们手中的遥控器。  
 
@@ -35,7 +35,7 @@ Horowitz Research执行副总裁Adriana Waterston指出，「FAST实际上是点
 
 FAST让大平台及中型免费平台重复利用片库历史内容，也给了新闻和体育节目新的生命。BBC新闻频道通过AMC Networks落地美国，将其美国覆盖量翻倍。几大新闻网络都推出了可在YouTube免费观看的24小时新闻频道。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/02/24/03.png)
+![](/2025/02/24/03.png)
 
 体育节目作为内容库“皇冠上的明珠”，也在积极拥抱FAST模式。NBA与Roku合作推出首个体育FAST频道，Amagi报告称FAST体育内容收视率同比激增150%。最值得一提的就是今年“超级碗”，因为Tubi在不用流媒体订阅的情况下免费转播了整场比赛，使得超级碗收视率再创历史新高。  
 
@@ -47,7 +47,7 @@ Amagi报告显示，北美市场体育FAST频道收视增长达三位数，欧�
 
 例如Fubo TV的「即时头条」功能，用AI剪辑福克斯、CNN等同题新闻片段，实现跨平台内容聚合。这种「货架扩展能力」使FAST频道数量呈指数增长——Amagi数据显示，2023年新开频道贡献了30%的收视增长。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/02/24/04.png)
+![](/2025/02/24/04.png)
 
 广告动态插入技术使BBC在不重建分发网络的前提下实现新的商业化方式。迪士尼借FAST将ESPN用户流失的压力转化为广告收入，近1/3 Disney+用户选择含广告套餐，贡献60%新增订阅。  
 

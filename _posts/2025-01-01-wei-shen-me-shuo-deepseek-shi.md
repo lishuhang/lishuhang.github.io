@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/01/01.jpg
+image: /2025/01/01/01.jpg
 layout: post
 tags: [AI]
 title: 为什么说DeepSeek是2025年的Kimi

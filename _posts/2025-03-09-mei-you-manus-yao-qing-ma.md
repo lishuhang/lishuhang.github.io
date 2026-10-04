@@ -1,7 +1,7 @@
 ---
 categories: 文章
 date: 2025-03-09
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/09/01.png
+image: /2025/03/09/01.png
 layout: post
 tags: [公告]
 title: 没有 Manus 邀请码，但是有（50个）Monica 邀请码
@@ -24,19 +24,19 @@ title: 没有 Manus 邀请码，但是有（50个）Monica 邀请码
 
 https://monica.im/invitation?c=ZBN5ZG0Y
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/09/02.png)
+![](/2025/03/09/02.png)
 
 以下重点讲一下国内版。
 
 国外版Monica可以自主选择各种不同的大模型API组合来完成任务，而且设置了“智能体商店”，这里指类似GPTs的提示词和/或工作流封装。
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/09/03.png)
+![](/2025/03/09/03.png)
 
 Monica的国外版（完全体）类似Quora做的Poe，用一个一站式的付费方式，来搭配使用各种模型，像deep claude那种你就不用到处买API自己搭建，降低了门槛。Monica的智能体构建过程跟扣子（Coze）也有点像，而且避免了大厂产品只能捆在豆包或通义环境内的不足。
 
 但国内版由于合规原因，目前仅仅接入了一个大模型，就是DeepSeek-R1。而智能体也没有商店，但是可以自己构造，方法和国外版是一样的，做好后还不能对外分享。
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/09/04.png)
+![](/2025/03/09/04.png)
 
 你可能会问，如果国内不支持多模型切换，只支持R1，这相对于元宝和百度官网等已经接入R1的聊天框，又有什么显著的优点？
 

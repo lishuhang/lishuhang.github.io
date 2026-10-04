@@ -1,7 +1,7 @@
 ---
 categories: 文章
 date: 2025-03-26
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/03/26/01.png
+image: /2025/03/26/01.png
 layout: post
 tags: [传媒]
 title: Netflix对游戏行业下重注，多管齐下开启“赛马”机制
@@ -41,7 +41,7 @@ Alain Tascan对彭博社表示，这款游戏的类型和平台不匹配。“�
 
 Netflix游戏部门本次宣布要布局的四个重点领域——派对游戏，儿童游戏，叙事游戏和"主流"游戏——这些领域非常广泛，似乎涵盖了整个游戏行业，可以看作是在进入行业前期，用来试水的一种“赛马”机制。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/26/02.png)
+![](/2025/03/26/02.png)
 
 本周公布的《Spirit Crossing》是一款"大规模合作生活模拟"游戏——也就是类似《动森》的互动和开放世界性质游戏，玩家可以在其中建造村庄、社交和一起探索。  
 
@@ -59,7 +59,7 @@ Spry Fox联合创始人Dave Edery说：“Netflix足够大，也足够成功，�
 
 Netflix的新计划是，坚持仅在电视和手机上使用自己的应用程序，这样用户可以避免下载、安装和运行的麻烦，而且可以直接接触和利用现有的3亿订阅用户。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/26/03.jpg)
+![](/2025/03/26/03.jpg)
 
 有用户报告称，Netflix 的云游戏内容传输质量非常好，有人建议 Netflix 以 1080p 分辨率播放游戏，质量甚至超过某些有线电视提供商。随着 Netflix 继续扩大其游戏业务，这一技术优势可能意义重大。  
 
@@ -83,7 +83,7 @@ Tascan说，Netflix的游戏也需要找到自己的那款《纸牌屋》——�
 
 Apple Arcade 等竞争对手直接受到 Netflix 游戏推广的影响。一些用户认为“如果苹果想保持竞争力，就应该加大投资。”实际上，苹果的内容服务作为给手机硬件必要的增值业务，一直以来都承受亏损压力。Apple TV+已经在砸钱换市场，还能剩下多少精力在游戏方面，也很难说。  
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/03/26/04.png)
+![](/2025/03/26/04.png)
 
 行业对 Netflix 游戏计划的反应褒贬不一。一些批评者质疑 Netflix 高管是否真正了解游戏市场，将他们的做法描述为“以最愚蠢的方式追逐潮流”。  
 

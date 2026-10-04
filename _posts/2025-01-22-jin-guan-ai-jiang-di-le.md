@@ -1,7 +1,7 @@
 ---
 categories: 
 date: 2025-01-25
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/01/0118-d.jpg
+image: /2025/01/0118-d.jpg
 layout: post
 tags: [AI]
 title: 尽管AI降低了学习成本，人们依旧懒得学习

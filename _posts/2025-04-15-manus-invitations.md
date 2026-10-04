@@ -4,14 +4,14 @@ title: 进读者群送3个Manus邀请码
 date: 2025-04-15
 categories: 文章
 tags: [公告]
-image: https://raw.githubusercontent.com/lishuhang/img/master/2025/04/15/00.jpg
+image: /2025/04/15/00.jpg
 ---
 
 航通社向读者赠送3个Manus邀请码，可用于Manus国际版（manus.im）的激活和使用。请参阅 [没有 Manus 邀请码，但是有（50个）Monica 邀请码](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650665589&idx=1&sn=7ce2281a486fb779db52e4c9426f1603&scene=142#wechat_redirect) 以及 [Manus合伙人，一个古典产品经理](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650665569&idx=1&sn=b47d285b725f6ee02a32378e8dbcf1c0&scene=142#wechat_redirect) 。
 
 ⚠ 4月20日（周日）晚9点开奖，如群内参与人数达到50人提前自动开奖
 
-![](https://raw.githubusercontent.com/lishuhang/img/master/2025/04/15/01.jpg)
+![](/2025/04/15/01.jpg)
 
 注册成功后赠送1000积分，以及通过使用邀请码赠送500积分；实测每个任务消耗的积分，视其复杂程度在200-900积分不等。
 
