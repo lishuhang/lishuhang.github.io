@@ -5,6 +5,7 @@ date: 2019-01-22
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/61321063"
+image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
@@ -34,6 +35,8 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 如果你不熟悉的话，不要贸然在手机应用商店搜索名字下载，而是采用下面说的这个方法，以确保自己下载到的是正确的软件，而不是仿冒的：
 
 使用手机自带的浏览器去 [http://www.searchcraft.cn/](http://www.searchcraft.cn/) ，或者把这个网址复制下来，找到微信的“文件传输助手”，粘贴并发给自己，然后点一下聊天气泡里的链接。
+
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg)
 
 *(如果你正在微信看这篇文章，长按上图识别二维码也可进入。)*
 
