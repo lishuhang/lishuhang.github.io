@@ -5,10 +5,12 @@ date: 2019-01-22
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/61321063"
-image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
+image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.png
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
+
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/01.png)
 
 *（这是用很短时间赶出来的文章，所以排版可能不太讲究，见谅。）*
 
@@ -24,6 +26,8 @@ image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
 
 可以使用俗称“油猴”的 **Greasemonkey** 脚本。在桌面系统（Windows / Mac / Linux）直接使用 Chrome 浏览器或者给 Edge / Firefox 安装 Greasemonkey 扩展，然后去这个网站 [https://greasyfork.org](https://greasyfork.org) 。
 
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/02.jpg)
+
 在搜索框中搜索“百家号”，并选择几个脚本安装试试。在尝试下一个脚本之前，最好禁用或者卸载前一个。
 
 也可以点搜索框正下方几个网址当中的 [http://baidu.com](http://baidu.com) 来看所有针对 *.[http://baidu.com](http://baidu.com) 域名起作用的脚本，也许会有其它新的发现。
@@ -36,7 +40,7 @@ image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
 
 使用手机自带的浏览器去 [http://www.searchcraft.cn/](http://www.searchcraft.cn/) ，或者把这个网址复制下来，找到微信的“文件传输助手”，粘贴并发给自己，然后点一下聊天气泡里的链接。
 
-![](/2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg)
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/03.jpg)
 
 *(如果你正在微信看这篇文章，长按上图识别二维码也可进入。)*
 
@@ -54,9 +58,13 @@ image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
 
 如果你足够细心的话，你会发现现在百度搜索结果分类选择的栏目，原本是“**新闻**”，而现在变成了“**资讯**”，在这个“资讯”里几乎全都是来自百家号的结果。
 
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/04.jpg)
+
 但实际上，百度仍有传统的“新闻”栏目可以使用。
 
 可以在浏览器（最好是电脑而不是手机）输入 [https://news.baidu.com](https://news.baidu.com) 进入，也可以在百度首页右上角找“新闻”。
+
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/05.jpg)
 
 在这个“百度新闻”页面顶部的搜索框，找到的结果基本没有来自百家号的。
 
@@ -66,15 +74,21 @@ image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.jpg
 
 下面跟我来一起做一下：例如搜索今天其中一个新闻关键字“小区配套幼儿园”，找到一个结果，标题是“教育部:小区幼儿园应严格办成公办园或普惠性民办园”。
 
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/06.jpg)
+
 在标题不远处，可以看到以绿色文字显示的网址是以 [http://baijiahao.baidu.com/](http://baijiahao.baidu.com/)开头的。这些点开以后都是“百家号”。
 
 点开文章，发现作者是“中国新闻网”，这个网站可以直接在百度搜索关键字“中国新闻网”并找到标注“官网”条目的链接进入，网址是 [http://www.chinanews.com](http://www.chinanews.com) 。文中配图也可以看到“中新网”的网址是 [http://chinanews.com](http://chinanews.com) 。
+
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/07.jpg)
 
 那么，接下来我们用原结果的标题加上 site 语法，就可以找到该条新闻在原发媒体“中国新闻网”的链接地址。关键词是：
 
 > 教育部:小区幼儿园应严格办成公办园或普惠性民办园 site:[http://chinanews.com](http://chinanews.com)
 
 也就是，site 后面加一个英文冒号 : 再加去掉了 http 和 www 的网址，中间不要加空格。把这一串文字附在新闻标题后面，与标题之间空一格即可。
+
+![](/2019/01/22/6-zhong-ban-fa-rang-ni/08.jpg)
 
 这样，我们看到第一条结果就是非“百家号”的网址了：[http://www.chinanews.com/sh/2018/11-28/8687513.shtml](http://www.chinanews.com/sh/2018/11-28/8687513.shtml) 。
 
