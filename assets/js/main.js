@@ -290,10 +290,22 @@
       return;
     }
 
+    // 无过滤参数分支（裸 ?p=N 或首页无参数）
     displayedPosts = allPosts;
     currentPage = urlPage;
-    renderPageButtons(document.getElementById('pagination'), allPosts.length, currentPage);
-    if (urlPage > 1) renderPage();
+    // home.html 末尾的内联脚本在 location.search 非空时（包括裸 ?p=N）会把
+    // #postsContainer 隐藏并显示 #loadingHint。这里必须撤销：隐藏加载提示、恢复容器显示，
+    // 否则直接访问 ?p=N 时文章一直被隐藏，表现为卡在“正在筛选文章”。
+    if (loadingHint) loadingHint.style.display = 'none';
+    container.style.display = '';
+    // 预渲染只含第 1 页卡片。深于第 1 页（?p=N, N>1）需要清空并重渲染对应页；
+    // renderPage() 内部会经 setTimeout 重建翻页按钮。第 1 页（含首页无参数与 ?p=1）
+    // 直接复用预渲染卡片，仅补翻页按钮，保留预渲染行为。
+    if (urlPage > 1) {
+      renderPage();
+    } else {
+      renderPageButtons(document.getElementById('pagination'), allPosts.length, currentPage);
+    }
   }
 
   /* 浏览器前进/后退时，按 URL 恢复页码 */
