@@ -4,6 +4,7 @@ title: "在云栖大会上，我看到了基于 yunos 的 Smartisan OS 真机"
 date: 2017-10-12
 categories: 文章
 tags: [科技]
+image: /2017/10/12/zai-yun-qi-da-hui-shang/01.jpg
 source: "https://zhuanlan.zhihu.com/p/30072806"
 ---
 
@@ -28,3 +29,7 @@ Smartisan OS 曾经自己做过针对少数手机的适配，包括当时三星�
 至少到目前，还没有迹象显示锤子自己的手机硬件，会改用 yunos 内核。那将导致对一些系统级应用的主动权的丧失。自己的手机依然用自己的内核，这应该是老罗最后的坚持吧。
 
 不知道下列厂商有多少会采用基于 yunos 的 Smartisan OS：
+
+![](/2017/10/12/zai-yun-qi-da-hui-shang/01.jpg)
+
+![](/2017/10/12/zai-yun-qi-da-hui-shang/02.jpg)
