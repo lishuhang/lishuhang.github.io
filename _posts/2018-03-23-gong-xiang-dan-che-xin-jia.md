@@ -4,12 +4,12 @@ title: "共享单车新加坡出海成绩单：投放量不如国内三线城市
 date: 2018-03-23
 categories: 文章
 tags: [科技]
-image: /2018/03/23/gong-xiang-dan-che-xin-jia/01.png
+image: /2018/03/23/gong-xiang-dan-che-xin-jia/01.jpg
 ---
 
 点击【航通社】👆订阅公众号
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKiczymc16d923w5qibs720tKrUiaOcWzKHVL3Z3MwiaFjClpKRHlsE5fIADnhpnWTaMLGz3YtxFfzOjA/640?wx_fmt=jpeg)
+![](/2018/03/23/gong-xiang-dan-che-xin-jia/01.jpg)
 
 本文首发于动点科技
 
@@ -20,8 +20,6 @@ image: /2018/03/23/gong-xiang-dan-che-xin-jia/01.png
 被中国称为“新四大发明”之一的共享单车，在海外市场探索的情况到底怎样呢？
 
 此前在美国、日本等不同市场都有相应的观察出炉，通过新加坡 20 日的一条新闻，我们有机会了解一下共享单车在新加坡的发展情况。
-
-![](/2018/03/23/gong-xiang-dan-che-xin-jia/01.png)
 
 新加坡为共享单车企业发牌 集体规范用户停放
 
@@ -42,8 +40,6 @@ image: /2018/03/23/gong-xiang-dan-che-xin-jia/01.png
 今后，只有能妥善管理乱停车问题，确保运作良好的经营者，才能继续扩大车辆投放的规模。
 
 而如果有新的经营者想要进入，政府在考虑令其在固定区域内试运行，以少量的车辆证实可以有效管理之后，才决定是否发放正式牌照。
-
-![](/2018/03/23/gong-xiang-dan-che-xin-jia/02.png)
 
 6 家企业一共投放 10 万台车 只有一半有效利用
 
@@ -71,8 +67,6 @@ ofo 和摩拜截至去年 10 月，在新加坡投放各约 1 万台车。此外
 
 然而即使是这样的投放量都让新加坡人感到治理的压力，这就是上述新的修正法案出台的背景。
 
-![](/2018/03/23/gong-xiang-dan-che-xin-jia/03.png)
-
 设置“黄格子”公共停车处 先扫二维码再停车
 
 新加坡解决单车乱停放问题的手段比我们更先进吗？
@@ -99,9 +93,7 @@ ofo 和摩拜截至去年 10 月，在新加坡投放各约 1 万台车。此外
 
 对此，多位区议员同样建议从执法处罚方面加大力度，比如增加罚款，或者勒令参加社区服务等等。
 
-![](/2018/03/23/gong-xiang-dan-che-xin-jia/04.jpg)
-
-![](/2018/03/23/gong-xiang-dan-che-xin-jia/05.jpg)
+![](/2018/03/23/gong-xiang-dan-che-xin-jia/02.jpg)
 
 ～欢迎转发到朋友圈～
 
