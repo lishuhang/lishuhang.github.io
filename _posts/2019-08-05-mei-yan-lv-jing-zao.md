@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "_美颜滤镜：造福中国女性的伟大发明"
+title: "美颜滤镜：造福中国女性的伟大发明"
 date: 2019-08-05
 categories: 文章
 tags: [科技]
-image: /2019/08/05/_-mei-yan-lv-jing-zao/01.jpg
+image: /2019/08/05/mei-yan-lv-jing-zao/01.jpg
 ---
 
-![](/2019/08/05/_-mei-yan-lv-jing-zao/01.jpg)
+![](/2019/08/05/mei-yan-lv-jing-zao/01.jpg)
 
 书航 8 月 5 日发于北京
 
@@ -101,6 +101,6 @@ B 站男观众可以说是未来构成一种全新的，更健康的审美观的
 
 [2] https://hot.cnbeta.com/articles/funny/863251.htm
 
-![](/2019/08/05/_-mei-yan-lv-jing-zao/02.png)
+![](/2019/08/05/mei-yan-lv-jing-zao/02.jpg)
 
-![](/2019/08/05/_-mei-yan-lv-jing-zao/03.png)
+![](/2019/08/05/mei-yan-lv-jing-zao/03.png)
