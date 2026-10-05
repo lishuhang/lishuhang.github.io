@@ -4,12 +4,12 @@ title: "“我做人清清白白的，所以隐私什么的无所谓啦”"
 date: 2018-03-27
 categories: 文章
 tags: [科技]
-image: /2018/03/27/wo-zuo-ren-qing-qing-bai/01.png
+image: /2018/03/27/wo-zuo-ren-qing-qing-bai/01.jpg
 ---
 
 点上面的蓝字 👆航通社 订阅我们
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKMVDlzGY40aicr1tWPdERrqZMYSydyRyyd2u4kvibYayA9CuOewn8iaXmty4Mmk5mhZRpiclYrVvtleQ/640?wx_fmt=jpeg)
+![](/2018/03/27/wo-zuo-ren-qing-qing-bai/01.jpg)
 
 本文首发于    航通社 (ID:lifeissohappy) 微博：@lishuhang原创文章，未经授权，请勿转载
 
@@ -20,8 +20,6 @@ image: /2018/03/27/wo-zuo-ren-qing-qing-bai/01.png
 只是这并不妨碍“中国人更愿意用隐私换便利”这句话成为今日在科技圈中刷屏的金句，也在人们近两年对百度各种所作所为的批判上新增了一笔。
 
 ——但李彦宏说的明明没错呀。
-
-![](/2018/03/27/wo-zuo-ren-qing-qing-bai/01.png)
 
 “成为网红，我们不收推广费”
 
@@ -50,10 +48,6 @@ PornHub把Deepfakes视频和所谓“复仇车”（Revenge Porn）相提并论�
 “上传有风险，注意保护隐私，你的影片可能会被其他人下载或转发，成为网红我们不负责任(当然也不收推广费)！”
 
 儿童色情和暴力内容，因为当地法律的规管，可能该网站不得不低头。但对于其他事情，说轻描淡写的提示都算抬举，简直是幸灾乐祸。隐私？你自己保护不好，别怪我哟。
-
-![](/2018/03/27/wo-zuo-ren-qing-qing-bai/02.png)
-
-![](/2018/03/27/wo-zuo-ren-qing-qing-bai/03.png)
 
 只有“谋财害命”才能让隐私泄露被我们关注
 
@@ -93,6 +87,6 @@ Reddit等平台撤下Deepfakes的讨论也不是主动为之，但欧美国家�
 
 [1] http://finance.sina.com.cn/meeting/2018-03-26/doc-ifysqfnf8646820.shtml[2] https://motherboard.vice.com/en_us/article/59kzx3/targets-of-fake-porn-deepfakes-are-at-the-mercy-of-big-platforms[3] http://ent.sina.com.cn/y/ygangtai/2018-03-19/doc-ifyskeuc0391595.shtml
 
-![](/2018/03/27/wo-zuo-ren-qing-qing-bai/04.png)
+![](/2018/03/27/wo-zuo-ren-qing-qing-bai/02.jpg)
 
 ～欢迎转发到朋友圈～商业转载和引用请在公众号对话框输入关键字【转载】
