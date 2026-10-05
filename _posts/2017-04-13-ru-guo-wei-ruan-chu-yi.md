@@ -4,6 +4,7 @@ title: "如果微软出一台基于Windows 10 Cloud的漂亮笔记本，你们�
 date: 2017-04-13
 categories: 文章
 tags: [科技]
+image: /2017/04/13/ru-guo-wei-ruan-chu-yi/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26345499"
 ---
 

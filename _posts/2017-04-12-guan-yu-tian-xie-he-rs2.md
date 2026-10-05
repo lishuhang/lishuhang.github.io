@@ -4,6 +4,7 @@ title: "关于天蝎和RS2，我们讲了什么......"
 date: 2017-04-12
 categories: 文章
 tags: [科技]
+image: /2017/04/12/guan-yu-tian-xie-he-rs2/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26329479"
 ---
 

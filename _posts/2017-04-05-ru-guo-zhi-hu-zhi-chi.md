@@ -4,6 +4,7 @@ title: "如果知乎支持充话费了，请不要吃惊"
 date: 2017-04-05
 categories: 文章
 tags: [科技]
+image: /2017/04/05/ru-guo-zhi-hu-zhi-chi/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26176398"
 ---
 
