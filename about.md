@@ -18,4 +18,16 @@ permalink: /about/
 
 作者还在[“新闻实验室会员通讯”Newsletter 担任客座作者](https://newsletter.newslab.info/author/shuhang/)，不定期撰写新闻传播学分析文章，欢迎读者订阅支持。
 
-联系方式：i@lishuhang.me
+航通社微信公众号：lifeissohappy 或在微信搜一搜：航通社
+
+[小红书](https://www.xiaohongshu.com/user/profile/678b50bb000000000e012a3c) [B站](https://space.bilibili.com/158159) [知乎](https://www.zhihu.com/people/lishuhang) [微博](https://weibo.com/u/5747564766)
+
+航通社助理微信号：hangtongshe
+
+- 加读者群请附言：航通社读者进群
+- 商务合作请附言：航通社合作 + 单位名
+- 转载事宜请附言：航通社文章转载
+
+商务合作联系：coop@lishuhang.me
+
+其他事情联系：i@lishuhang.me
