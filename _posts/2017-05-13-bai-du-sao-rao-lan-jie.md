@@ -4,6 +4,7 @@ title: "百度骚扰拦截应用在香港被指泄露隐私：重要人物手机
 date: 2017-05-13
 categories: 文章
 tags: [科技]
+image: /2017/05/13/bai-du-sao-rao-lan-jie/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26889791"
 ---
 
@@ -22,3 +23,5 @@ Du Caller 用户数据会直接被上传到百度在北京的服务器。用户�
 香港私隐专员公署曾提示，使用不在香港的管辖区之内的产品，争议解决不适用香港法律，维权会较为艰难。
 
 [动点科技](http://cn.technode.com/post/2017-05-13/du-caller-hk-breach/)
+
+![](/2017/05/13/bai-du-sao-rao-lan-jie/02.jpg)
