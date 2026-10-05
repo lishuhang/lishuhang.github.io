@@ -4,6 +4,7 @@ title: "肯德基的“天使餐厅”，对盲人不友好的滴滴及优步中
 date: 2016-11-08
 categories: 文章
 tags: [科技]
+image: /2016/11/08/ken-de-ji-de-tian-shi/01.jpg
 source: "https://zhuanlan.zhihu.com/p/23504830"
 ---
 
