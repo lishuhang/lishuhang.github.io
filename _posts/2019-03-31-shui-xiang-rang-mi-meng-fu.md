@@ -4,12 +4,15 @@ title: "谁想让咪蒙复活，谁就没有头脑"
 date: 2019-03-31
 categories: 文章
 tags: [科技]
+image: /2019/03/31/shui-xiang-rang-mi-meng-fu/01.jpg
 source: "https://zhuanlan.zhihu.com/p/61322467"
 ---
 
 本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
 
 *航通社作者 书航 3 月 31 日发于北京*
+
+![图片](/2019/03/31/shui-xiang-rang-mi-meng-fu/01.jpg)
 
 3 月 30 日，咪蒙团队的公司宣告解散，每一个员工都收到了一张由“咪蒙幼稚园”发布的“毕业证”：
 

@@ -4,6 +4,7 @@ title: "cnBeta.COM 第五次改版公告"
 date: 2017-03-31
 categories: 文章
 tags: [科技]
+image: /2017/03/31/cnbetacom-di-wu-ci-gai-ban/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26123750"
 ---
 
