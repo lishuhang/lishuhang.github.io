@@ -7,7 +7,7 @@ tags: [科技]
 image: /2017/12/26/shen-xian-da-jia-bai-xing/01.jpg
 ---
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHLVCIiaJV2Bic5ogSjyuhk0SobqZXhVz8GBvaJID4tYA3BURibJMh71H4sZIRKEAibssF5jwqwWCmM96Q/0?wx_fmt=jpeg)
+![](/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg)
 
 文|书航
 
@@ -56,5 +56,3 @@ image: /2017/12/26/shen-xian-da-jia-bai-xing/01.jpg
 大喊周叔叔在盯着我们看的是人民，那些希望把孩子的小鸡鸡亮出来的家长也是人民。只有等到人民达成一致意见了，才能对摄像头厂商进行有效影响，否则厂商到底是听哪一拨人民的呢？
 
 很可惜，现在是神仙打架，百姓打酱油，连挑动群众斗群众这一步都算不上。
-
-![](/2017/12/26/shen-xian-da-jia-bai-xing/01.jpg)
