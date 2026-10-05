@@ -5,11 +5,13 @@ date: 2021-12-30
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/451862144"
----
 image: /2021/12/30/duan-ping-wei-shen-me-jian/01.jpg
+---
 
 
 航通社 · 短评beta
+
+![](/2021/12/30/duan-ping-wei-shen-me-jian/01.jpg)
 
 *问题其实糟糕得多，因为我们在讨论的并不是**社会最底层。*
 
