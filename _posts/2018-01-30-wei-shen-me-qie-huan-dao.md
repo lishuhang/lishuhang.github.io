@@ -4,6 +4,7 @@ title: "为什么切换到“地址”栏的键盘快捷键很奇怪？"
 date: 2018-01-30
 categories: 文章
 tags: [科技]
+image: /2018/01/30/wei-shen-me-qie-huan-dao/01.jpg
 source: "https://zhuanlan.zhihu.com/p/33399681"
 ---
 
@@ -27,6 +28,8 @@ Windows Vista 及以前的资源管理器和 IE 共用一个外壳/Shell，所�
 
 早期一个版本的 QQ 在部分电脑上只要装好第一次运行，就会提醒你“截图热键被系统占用”，你需要手动更换一个键位组合或者放弃用键盘调用该功能。
 
+![](/2018/01/30/wei-shen-me-qie-huan-dao/01.jpg)
+
 但对于系统应用之间，是严格不允许出现热键冲突问题的，好在系统级应用可以优先抢占一部分热键。
 
 也由于第三方浏览器有很多键使用不了，所以只能去找更冷门的键位组合，在 Firefox 等浏览器中地址栏热键是 Ctrl + L。在高冷了很多很多很多很多年以后，IE 同时支持用 Alt + D 和 Ctrl + L 定位到地址栏。
@@ -34,6 +37,8 @@ Windows Vista 及以前的资源管理器和 IE 共用一个外壳/Shell，所�
 对于这两种快捷键用法，群众褒贬不一，有人认为微软的 Alt + D 因为用单手就能摁住，所以相对更好用一些。而 Office 2007 开始引入的 Ribbon 界面 [2] 和后来的 UWP 应用，则都是面向图形界面和触屏用户的，对快捷键的设置也就越来越随性了。
 
 不管怎样，至少在现阶段，键盘依然是众多要使用电脑的工种效率最高的输入方式。对我们码字的和程序猴子们，那自然是不言而喻；而就算你平时是修图的，给你一套这样的 PS 快捷键速查键盘贴 [3] ，相信你也会运指如飞，大大提高工作效率吧。
+
+![](/2018/01/30/wei-shen-me-qie-huan-dao/02.jpg)
 
 [1] [https://blogs.msdn.microsoft.com/oldnewthing/20170314-00](https://blogs.msdn.microsoft.com/oldnewthing/20170314-00)
 [2] [https://cn.technode.com/post/2017-10-04/hts-171004/](https://cn.technode.com/post/2017-10-04/hts-171004/)
