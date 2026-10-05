@@ -5,11 +5,14 @@ date: 2019-01-14
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/54871084"
+image: /2019/01/14/xi-gao-zhe-jian-xiao-shi/01.jpg
 ---
 
 本文为 **航通社 **原创文章，未经授权，禁止转载。航通社微信：**lifeissohappy **微博：**@航通社**
 
 > 航通社作者 书航 1 月 14 日发于广州
+
+![](/2019/01/14/xi-gao-zhe-jian-xiao-shi/01.jpg)
 
 这本应是又一次激动人心的大爆发，就像《异烟肼倒逼中国养狗文明进步》《疫苗之王》《这块屏幕可能改变命运》或者《百亿保健帝国权健》曾做过的那样。
 
