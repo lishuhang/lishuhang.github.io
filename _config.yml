@@ -98,6 +98,7 @@ exclude:
   - .gitignore
   - docs
   - tmp
+  - 书摘
 
 # ============================================================
 # Giscus comments
