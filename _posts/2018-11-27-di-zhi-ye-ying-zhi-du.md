@@ -4,9 +4,10 @@ title: "抵制也应“制度化”"
 date: 2018-11-27
 categories: 文章
 tags: [随笔]
+image: /2018/11/27/di-zhi-ye-ying-zhi-du/01.jpg
 ---
 
-![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fxmfqx9an6j20zk0ire1s.jpg)
+![图片](/2018/11/27/di-zhi-ye-ying-zhi-du/01.jpg)
 
 最近，“抵制”是一个热词。甚至有人讲，今后说不准啥时候，吃麦当劳的汉堡，喝可口可乐，或者穿耐克鞋，就“不爱国”了。
 
