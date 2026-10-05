@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "_微软牵手三星：再造一个“温特尔”联盟"
+title: "微软牵手三星：再造一个“温特尔”联盟"
 date: 2019-08-08
 categories: 文章
 tags: [科技]
-image: /2019/08/08/_-wei-ruan-qian-shou-san/01.jpg
+image: /2019/08/08/wei-ruan-qian-shou-san/01.jpg
 ---
 
-![](/2019/08/08/_-wei-ruan-qian-shou-san/01.jpg)
+![](/2019/08/08/wei-ruan-qian-shou-san/01.jpg)
 
 虽然三星手机在中国的市场份额很低，但是在全球范围来看，三星依旧是不可小觑的主流厂商。
 
@@ -49,7 +49,7 @@ Galaxy Book S 预定于今年秋季上市，售价 999 美元起，届时也将�
 
 当时你会很容易在大多数品牌电脑上，同时发现两个熟悉的贴纸：
 
-![](/2019/08/08/_-wei-ruan-qian-shou-san/02.jpg)
+![](/2019/08/08/wei-ruan-qian-shou-san/02.jpg)
 
 而当时反映软件跟硬件并驾齐驱，同步升级的状态，也被总结为“安迪-比尔”定律（Andy and Bill's Law）。它的完整表述是：“Andy gives, Bill takes away”（安迪给多少，比尔拿走多少）。
 
@@ -99,6 +99,6 @@ Galaxy Book S 预定于今年秋季上市，售价 999 美元起，届时也将�
 
 [1] https://www.zdnet.com/article/samsung-to-bundle-your-phone-with-its-galaxy-note-10-as-part-of-its-extended-microsoft-partnership/[2] https://blogs.windows.com/windowsexperience/2019/08/07/microsoft-and-samsung-partner-to-empower-you-to-achieve-more/
 
-![](/2019/08/08/_-wei-ruan-qian-shou-san/03.png)
+![](/2019/08/08/wei-ruan-qian-shou-san/03.jpg)
 
-![](/2019/08/08/_-wei-ruan-qian-shou-san/04.png)
+![](/2019/08/08/wei-ruan-qian-shou-san/04.png)
