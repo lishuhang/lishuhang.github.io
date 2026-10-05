@@ -5,7 +5,10 @@ date: 2018-12-31
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/53748841"
+image: /2018/12/31/2019-nian-xin-nian-xian-ci/01.jpg
 ---
+
+![图片](/2018/12/31/2019-nian-xin-nian-xian-ci/01.jpg)
 
 本文为 **航通社 **原创文章，未经授权，禁止转载。航通社微信：**lifeissohappy **微博：**@航通社**
 
