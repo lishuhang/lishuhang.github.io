@@ -72,7 +72,7 @@ Bang 两个操作方式。我认为Big Bang精确模拟了鼠标操作，One Ste
 
 这都是锤子一己之力做不到的。他“对奄奄一息的电脑平台补上最后几刀”的广告语，也显然夸张。但是，锤子体现了自己力所能及范围内的最大诚意。我个人觉得与其他把发布会门票收入捐给OpenSSL，还不如捐助有理想有抱负的团队，加速包括码字儿后台在内的一切办公环境的移动化，真正实现带着手机办公，把电脑收起来的目标。
 
-[新浪（独家，禁止转载）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2016-10-19/pid_8508749.htm)
+[新浪（独家，禁止转载）](http://tech.sina.com.cn/zl/post/detail/it/2016-10-19/pid_8508749.htm)
 
 
 

@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19636599"
 
 
 
-在TechCrunch上海峰会上，[联合创始人Keith Teare对我回忆起迈克尔·阿灵顿](https://link.zhihu.com/?target=http%3A//techcrunch.cn/2013/11/20/keith-teare/)：
+在TechCrunch上海峰会上，[联合创始人Keith Teare对我回忆起迈克尔·阿灵顿](http://techcrunch.cn/2013/11/20/keith-teare/)：
 
 
 
@@ -55,7 +55,7 @@ source: "https://zhuanlan.zhihu.com/p/19636599"
 
 
 
-——[不能为钱，也不能为人们的认同自降身价](https://link.zhihu.com/?target=http%3A//weiwuhui.com/5727.html)。写专栏一定是内因驱动的，是你自己想写才可以。
+——[不能为钱，也不能为人们的认同自降身价](http://weiwuhui.com/5727.html)。写专栏一定是内因驱动的，是你自己想写才可以。
 
 
 
@@ -89,6 +89,6 @@ source: "https://zhuanlan.zhihu.com/p/19636599"
 
 既不想被垃圾文章污染又不想对大牌作者跪舔，读者们，你们难道不应该拿出自己的实际行动（$$$），来支持给你们写出好文章的人吗？
 
-题图：[Flickr](https://link.zhihu.com/?target=http%3A//www.flickr.com/photos/42931449%40N07/5263541791/in/photolist-9282Ax-dhBKVo-dhBxmU-dhBM2F-dhBwvj-dhBJQ8-dhBxeW-dhBKPw-dhBNyg-dhBCth-dhBhet-dhBvRT-dhBw3n-dhBwan-dhBPbm-dhBPfN-dhBx6W-dhBhnZ-dhBFfh-dhBG7E-dhBFcs-dhBHh2-dhByN4-dhBG44-dhBukT-dhBGQw-dhBBD1-dhByeK-dhByDP-dhBH8Z-dhBhYY-dhByZC-dhByY5-dhBCcs-dhBupT-9X5niu-dhBhyX-8sJPtK-hyMGk2-7JddDu-asYndC-dRjpem-hyLh4G-hyL1Un-hyLe5A-hyMEaF-hyLeux-hyLcbV-hyLasK-hyMQbT-hyLRrm)
+题图：[Flickr](http://www.flickr.com/photos/42931449@N07/5263541791/in/photolist-9282Ax-dhBKVo-dhBxmU-dhBM2F-dhBwvj-dhBJQ8-dhBxeW-dhBKPw-dhBNyg-dhBCth-dhBhet-dhBvRT-dhBw3n-dhBwan-dhBPbm-dhBPfN-dhBx6W-dhBhnZ-dhBFfh-dhBG7E-dhBFcs-dhBHh2-dhByN4-dhBG44-dhBukT-dhBGQw-dhBBD1-dhByeK-dhByDP-dhBH8Z-dhBhYY-dhByZC-dhByY5-dhBCcs-dhBupT-9X5niu-dhBhyX-8sJPtK-hyMGk2-7JddDu-asYndC-dRjpem-hyLh4G-hyL1Un-hyLe5A-hyMEaF-hyLeux-hyLcbV-hyLasK-hyMQbT-hyLRrm)
 
-*[极客公园](https://link.zhihu.com/?target=http%3A//www.geekpark.net/read/view/195237)*
+*[极客公园](http://www.geekpark.net/read/view/195237)*

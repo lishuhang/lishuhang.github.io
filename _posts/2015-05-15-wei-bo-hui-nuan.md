@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20031406"
 ---
 
-[新浪 2015 年第一季度净营收 1.846 亿美元](https://link.zhihu.com/?target=http%3A//tech.sina.cn/i/gn/2015-05-15/detail-icczmvup1732730.d.html%3F) ，较上年同期增长 8%。新浪应占净亏损为 1030 万美元； [微博净营收 9630 万美元](https://link.zhihu.com/?target=http%3A//tech.sina.cn/i/gn/2015-05-15/detail-iavxeafs7518570.d.html%3F) ，较上年同期增长 43%，微博应占净亏损为 290 万美元，较上年同期减少 94%。
+[新浪 2015 年第一季度净营收 1.846 亿美元](http://tech.sina.cn/i/gn/2015-05-15/detail-icczmvup1732730.d.html?) ，较上年同期增长 8%。新浪应占净亏损为 1030 万美元； [微博净营收 9630 万美元](http://tech.sina.cn/i/gn/2015-05-15/detail-iavxeafs7518570.d.html?) ，较上年同期增长 43%，微博应占净亏损为 290 万美元，较上年同期减少 94%。
 
 去年这个时候业界对于微博是一片看衰的气氛，新浪微博的活跃度在 2012 年中期到达顶峰，此后数次第三方机构发布的分析数据，都指出微博的活跃用户数在下降，但是新浪一直对外否认这个说法。从财报来看，微博应该到了一个从谷底反弹的水平。
 
@@ -27,4 +27,4 @@ source: "https://zhuanlan.zhihu.com/p/20031406"
 
 我的结论是，去年微博管理层应该确实受到了“看衰”评论的影响，那些评论认为微博不能仅仅依靠广告和营销来获得营收，而微博在广告之外的盈利能力孱弱，所以前景堪忧。但是在经过一段时间的实践之后，微博发现自己根本无法寻求其他方向的突破，所以只能把重心更加放在扩展新的广告和营销模式上面。而专注的探索也是微博最近回暖的一个原因。
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-05-15/zaobao0515/)*
+*[动点科技](http://cn.technode.com/post/2015-05-15/zaobao0515/)*

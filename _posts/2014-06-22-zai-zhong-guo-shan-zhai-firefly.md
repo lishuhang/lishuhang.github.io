@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/19784290"
 
 不管是从搜索结果对接的应用种类，还是从识别技术来说。要想让摄像头搜索实现更好的结果，开放是唯一的选择。开放平台也成为做一个山寨版的仅有出路。你可以和十几个小厂商一起推出自己的Firefly，只需要技术和应用两边都对接上API就可以——但是这样做好像也没什么意思。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140620/016205.htm)
+[腾讯科技](http://tech.qq.com/a/20140620/016205.htm)
 
-题图：到底有多少个语音助手？[答案见此](https://link.zhihu.com/?target=http%3A//www.pc6.com/pc/azyyzs/)
+题图：到底有多少个语音助手？[答案见此](http://www.pc6.com/pc/azyyzs/)

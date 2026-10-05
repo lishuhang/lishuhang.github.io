@@ -158,7 +158,7 @@ Cotton 绝非孤军奋战，他代表了美国保守势力的想法，而这种�
 
 这么一直斗争下去，绝对不会有任何赢家的。
 
-就像*航通社（ID：lifeissohappy）*在《[中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5Mjg1ODIxMQ%3D%3D%26mid%3D2650659657%26idx%3D1%26sn%3D81657e62d4817e759a99fd8e1083427c%26chksm%3Dbe96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5%26scene%3D21%23wechat_redirect)》中提到的，“整个行业需要借此反思，知耻后勇，在科技创新这种攻坚战上认真起来，做好落后别人20年的准备。”
+就像*航通社（ID：lifeissohappy）*在《[中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659657&idx=1&sn=81657e62d4817e759a99fd8e1083427c&chksm=be96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5&scene=21#wechat_redirect)》中提到的，“整个行业需要借此反思，知耻后勇，在科技创新这种攻坚战上认真起来，做好落后别人20年的准备。”
 
 但是，这种攻坚战，这种补齐芯片短板，我们为的应该是不受制于人，为的是能平等参与市场竞争，而决不能为的是今后有机会“不买苹果”。
 
@@ -166,27 +166,27 @@ Cotton 绝非孤军奋战，他代表了美国保守势力的想法，而这种�
 
 希望 Tom Cotton 这位反面教材，能让更多人体会到这一点。
 
-[1] [https://www.weibo.com/ttarticle/p/show?id=2309404232991630044158](https://link.zhihu.com/?target=https%3A//www.weibo.com/ttarticle/p/show%3Fid%3D2309404232991630044158)
+[1] [https://www.weibo.com/ttarticle/p/show?id=2309404232991630044158](https://www.weibo.com/ttarticle/p/show?id=2309404232991630044158)
 
-[2] [https://www.bloomberg.com/news/articles/2018-04-25/fbi-is-said-to-probe-huawei-for-possible-sanctions-violations](https://link.zhihu.com/?target=https%3A//www.bloomberg.com/news/articles/2018-04-25/fbi-is-said-to-probe-huawei-for-possible-sanctions-violations)
+[2] [https://www.bloomberg.com/news/articles/2018-04-25/fbi-is-said-to-probe-huawei-for-possible-sanctions-violations](https://www.bloomberg.com/news/articles/2018-04-25/fbi-is-said-to-probe-huawei-for-possible-sanctions-violations)
 
-[3] [http://www.nbd.com.cn/articles/2018-04-26/1211763.html](https://link.zhihu.com/?target=http%3A//www.nbd.com.cn/articles/2018-04-26/1211763.html)
+[3] [http://www.nbd.com.cn/articles/2018-04-26/1211763.html](http://www.nbd.com.cn/articles/2018-04-26/1211763.html)
 
-[4] [https://www.cotton.senate.gov/?p=about](https://link.zhihu.com/?target=https%3A//www.cotton.senate.gov/%3Fp%3Dabout)
+[4] [https://www.cotton.senate.gov/?p=about](https://www.cotton.senate.gov/?p=about)
 
-[5] [http://www.foxnews.com/opinion/2018/04/16/hostile-powers-like-russia-and-china-threaten-us-communications-networks-enough.html](https://link.zhihu.com/?target=http%3A//www.foxnews.com/opinion/2018/04/16/hostile-powers-like-russia-and-china-threaten-us-communications-networks-enough.html)
+[5] [http://www.foxnews.com/opinion/2018/04/16/hostile-powers-like-russia-and-china-threaten-us-communications-networks-enough.html](http://www.foxnews.com/opinion/2018/04/16/hostile-powers-like-russia-and-china-threaten-us-communications-networks-enough.html)
 
-[6] [https://www.theverge.com/2018/1/9/16871538/huawei-ces-2018-event-ceo-richard-yu-keynote-speech](https://link.zhihu.com/?target=https%3A//www.theverge.com/2018/1/9/16871538/huawei-ces-2018-event-ceo-richard-yu-keynote-speech)
+[6] [https://www.theverge.com/2018/1/9/16871538/huawei-ces-2018-event-ceo-richard-yu-keynote-speech](https://www.theverge.com/2018/1/9/16871538/huawei-ces-2018-event-ceo-richard-yu-keynote-speech)
 
-[7] [https://www.phonearena.com/news/Poll-results-politics-be-damned-we-want-that-Huawei-P20-Pro_id104393](https://link.zhihu.com/?target=https%3A//www.phonearena.com/news/Poll-results-politics-be-damned-we-want-that-Huawei-P20-Pro_id104393)
+[7] [https://www.phonearena.com/news/Poll-results-politics-be-damned-we-want-that-Huawei-P20-Pro_id104393](https://www.phonearena.com/news/Poll-results-politics-be-damned-we-want-that-Huawei-P20-Pro_id104393)
 
-[8] [https://ca.reuters.com/article/idCAKCN1G70MV-OCATC](https://link.zhihu.com/?target=https%3A//ca.reuters.com/article/idCAKCN1G70MV-OCATC)
+[8] [https://ca.reuters.com/article/idCAKCN1G70MV-OCATC](https://ca.reuters.com/article/idCAKCN1G70MV-OCATC)
 
 ---
 
 **推荐阅读**
 
-[中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5Mjg1ODIxMQ%3D%3D%26mid%3D2650659657%26idx%3D1%26sn%3D81657e62d4817e759a99fd8e1083427c%26chksm%3Dbe96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5%26scene%3D21%23wechat_redirect)
+[中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659657&idx=1&sn=81657e62d4817e759a99fd8e1083427c&chksm=be96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5&scene=21#wechat_redirect)
 
 *～欢迎转发到朋友圈～
 商业转载和引用

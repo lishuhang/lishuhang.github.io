@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/19916121"
 
 所以可以说，酷派大神的存在感非常稀薄，同时我们也不知道他是在闷声发大财，还是在艰难挣扎。关于酷派与 360 之间的联合，只能说在目前还看不出来有任何值得乐观的地方，只能期待未来有更多的事实可以披露。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-16/360-coolpad/)
+[动点科技](http://cn.technode.com/post/2014-12-16/360-coolpad/)

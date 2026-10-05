@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/22611736"
 
 
 
-完整原文请看：[http://cn.technode.com/post/2016-09-24/ex-the-verge-deputy-editor-secretly-worked-for-apple/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-24/ex-the-verge-deputy-editor-secretly-worked-for-apple/)
+完整原文请看：[http://cn.technode.com/post/2016-09-24/ex-the-verge-deputy-editor-secretly-worked-for-apple/](http://cn.technode.com/post/2016-09-24/ex-the-verge-deputy-editor-secretly-worked-for-apple/)
 
 微信公众号 lifeissohappy
 

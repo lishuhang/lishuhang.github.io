@@ -13,15 +13,15 @@ source: "https://zhuanlan.zhihu.com/p/20117993"
 
 如果你不亲自过来一下的话，你很难说服自己去相信这种改变，因为它距离你实在是太遥远，直到你真正的听见了那些人所说的英语——带着浓厚的印度口音。
 
-在本次 MWC 的展馆当中，有一个可能处于角落，并且不太有中国人会感兴趣的展区。这是印度第二大智能手机制造商 Intex Technologies。你可以把它看作是印度的海尔或者海信。 [自 1996 年到现在，公司已经有 20 年的历史](https://link.zhihu.com/?target=http%3A//www.intex.in/AboutUs/Index) ，除了生产手机之外，还生产电视机、音响、洗衣机等系列家电产品，还包括 IT 设备。公司在 2015 年 6 月份的手机出货量达到 210 万台，在全印度的市场占有率达到 10.5%，是近几个月来的最高水平。在 2015 到 2016 财年，公司预计共销售 1300 万台手机。
+在本次 MWC 的展馆当中，有一个可能处于角落，并且不太有中国人会感兴趣的展区。这是印度第二大智能手机制造商 Intex Technologies。你可以把它看作是印度的海尔或者海信。 [自 1996 年到现在，公司已经有 20 年的历史](http://www.intex.in/AboutUs/Index) ，除了生产手机之外，还生产电视机、音响、洗衣机等系列家电产品，还包括 IT 设备。公司在 2015 年 6 月份的手机出货量达到 210 万台，在全印度的市场占有率达到 10.5%，是近几个月来的最高水平。在 2015 到 2016 财年，公司预计共销售 1300 万台手机。
 
-因为在其他家电方面的积累，目前 Intex 一共拥有 8000 家直营店和超过 1000 个经销商。公司计划在印度开设 400 家名为“智能世界”的旗舰店，其中 30 家已经开业。在手机方面，Intex 其实默默地持有多项创新，包括开发了具有 30 天超长待机，采用 Firefox OS 的低价智能手机。公司还开发了一款可以支持 22 种印度本地语言的应用“[matrabhasha](https://link.zhihu.com/?target=http%3A//www.bgr.in/news/intex-introduces-matrabhasha-a-multi-lingual-app-on-its-aqua-marvel-and-aqua-3-2-smartphones/)”。
+因为在其他家电方面的积累，目前 Intex 一共拥有 8000 家直营店和超过 1000 个经销商。公司计划在印度开设 400 家名为“智能世界”的旗舰店，其中 30 家已经开业。在手机方面，Intex 其实默默地持有多项创新，包括开发了具有 30 天超长待机，采用 Firefox OS 的低价智能手机。公司还开发了一款可以支持 22 种印度本地语言的应用“[matrabhasha](http://www.bgr.in/news/intex-introduces-matrabhasha-a-multi-lingual-app-on-its-aqua-marvel-and-aqua-3-2-smartphones/)”。
 
 这一次，他们带来的是与 Jolla 以及其操作系统 Sailfish OS 达成授权合作伙伴的消息。Intex 的新款手机将是第一个正式面世的搭载 Sailfish OS 2.0 的设备。
 
 **Sailfish OS：MeeGo 的浴火重生**
 
-我们最早知道 [Jolla 这个名字](https://link.zhihu.com/?target=http%3A//jolla.com/) ，是在诺基亚刚刚决定将它不太成气的孩子 MeeGo 逐出家门的时候。其实 MeeGo 系统本质上挺好的，到现在 N9 都被很多老诺粉经常提起。因为配备了这个系统，它还被冠以“不跟随”的名号。然而 N9 用生命证明了至少在中国的操作系统混战中，应用数量是一个决定性的因素。因为没有开发商愿意跟进，MeeGo 什么都做不了，最后不得不被打入冷宫。不仅如此，它还被生父诺基亚给抛弃了。
+我们最早知道 [Jolla 这个名字](http://jolla.com/) ，是在诺基亚刚刚决定将它不太成气的孩子 MeeGo 逐出家门的时候。其实 MeeGo 系统本质上挺好的，到现在 N9 都被很多老诺粉经常提起。因为配备了这个系统，它还被冠以“不跟随”的名号。然而 N9 用生命证明了至少在中国的操作系统混战中，应用数量是一个决定性的因素。因为没有开发商愿意跟进，MeeGo 什么都做不了，最后不得不被打入冷宫。不仅如此，它还被生父诺基亚给抛弃了。
 
 ![](/2015/07/18/shou-ji-cao-zuo-xi-tong/01.jpg)
 
@@ -75,13 +75,13 @@ Jolla 方面在介绍过程中说，Sailfish OS 有自己的软件商店 Sailfis
 
 > “现在印度的电子商务正在由移动驱动，我们看到超过 75%的销售都是通过移动平台进行。我们对于成为 Jolla 全球首批合作伙伴感到很激动，对 Sailfish India 生态系统获得全国用户支持充满信心。”
 
-印度人非常热爱音乐和板球，时报互联网公司同时拥有 [http://Gaana.com](https://link.zhihu.com/?target=http%3A//Gaana.com) 和 [http://Cricbuzz.com](https://link.zhihu.com/?target=http%3A//Cricbuzz.com) 两家专业门户网站。同样是轻轻一划屏幕，两个网站的内容就会出现。
+印度人非常热爱音乐和板球，时报互联网公司同时拥有 [http://Gaana.com](http://Gaana.com) 和 [http://Cricbuzz.com](http://Cricbuzz.com) 两家专业门户网站。同样是轻轻一划屏幕，两个网站的内容就会出现。
 
 ![](/2015/07/18/shou-ji-cao-zuo-xi-tong/08.jpg)
 
 时报互联网公司的营销负责人 Pratik Mazumder 表示：
 
-> “我们相信 Sailfish OS 在操作系统当中的用户界面，可以给我们更加充分的展示空间，特别是我们的 [http://Gaana.com](https://link.zhihu.com/?target=http%3A//Gaana.com) 和 [http://crizbuzz.com](https://link.zhihu.com/?target=http%3A//crizbuzz.com) 服务作为合作伙伴区域的一部分，在操作系统当中占有举足轻重的位置。”
+> “我们相信 Sailfish OS 在操作系统当中的用户界面，可以给我们更加充分的展示空间，特别是我们的 [http://Gaana.com](http://Gaana.com) 和 [http://crizbuzz.com](http://crizbuzz.com) 服务作为合作伙伴区域的一部分，在操作系统当中占有举足轻重的位置。”
 
 Jolla 执行主席 Dr. Antti Saarnio 总结说：
 
@@ -115,6 +115,6 @@ Karan Khara 说：“对电商而言，直接嵌入操作系统级别的专属�
 
 在之前的互联网时代，我们说美国领先中国 5-10 年，在美国取经回中国，把美国的商业模式复制到中国，成为很多创业者成功的原因。这也诞生了一个“C2C”——Copy To China 的名词。也许，是时候来个“CFC”——Copy From China 了。中国的更多操作移动互联网的经验，带去印度这样的市场，会带来怎样的变化都是想想都让人兴奋的。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-18/sailfish-os-debut-for-indian-market/)
+[动点科技](http://cn.technode.com/post/2015-07-18/sailfish-os-debut-for-indian-market/)
 
 ![](/2015/07/18/shou-ji-cao-zuo-xi-tong/10.jpg)

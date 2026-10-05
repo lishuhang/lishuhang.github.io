@@ -39,6 +39,6 @@ source: "https://zhuanlan.zhihu.com/p/20335794"
 
 不过，也许我本人的想象力的缺乏，就好像100多年前美国专利局说当今世界所有应该发明出来的东西，都已经被发明出来了一样。对于未来的想象激进或是保守，是对人类发展前景乐观或者悲观的一个指示器。至少在接下来几年时间里，双11可以继续激发中国各种基础设施的潜能，为经济发展提供更稳定的支持力量，对这一点，我还是乐见其成的。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/227546)
+[百度百家](http://lishuhang.baijia.baidu.com/article/227546)
 
 ![](/2015/11/12/shuang-11-zheng-chong-fen-ji/01.jpg)

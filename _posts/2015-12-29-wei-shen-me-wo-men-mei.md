@@ -31,6 +31,6 @@ source: "https://zhuanlan.zhihu.com/p/20454614"
 
 我们目前至少能做到在面对多大的腕儿面前也不怯场，我觉得是个很不错的起点。我相信今后动点若有对锤子的报道，也会属于“不鸣则已，一鸣惊人”的类型。我们眼中全球第二好的科技媒体（第一是 TechCrunch:P），怎么能缺席呢，是吧。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-29/a-smartisan-brief-without-technode/)
+[动点科技](http://cn.technode.com/post/2015-12-29/a-smartisan-brief-without-technode/)
 
 ![](/2015/12/29/wei-shen-me-wo-men-mei/01.jpg)

@@ -23,4 +23,4 @@ source: "https://zhuanlan.zhihu.com/p/19784259"
 
 其实，亚马逊新手机的卖点不止Firefly一个。它还提供不限量的图片存储空间和1年的金牌会员捆绑，加上超低的售价。也许，看得见摸得着的实惠才是真正驱动手机销量的功臣。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-19/amazon-fire-phone/)
+[动点科技](http://cn.technode.com/post/2014-06-19/amazon-fire-phone/)

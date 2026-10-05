@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/19997325"
 
 在像我家这样的地方，莆田系不依赖网络，而使用线下手段营销的状况，还将持续很长时间。甚至，因为城市规模未来也不会扩张太大，为了缩短时空距离而创造的互联网服务，可能将始终没有用武之地。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20150408/018028.htm)
+[腾讯科技](http://tech.qq.com/a/20150408/018028.htm)

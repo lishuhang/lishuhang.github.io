@@ -21,8 +21,8 @@ source: "https://zhuanlan.zhihu.com/p/32950513"
 
 Ketchapp 精选小游戏将由Ketchapp微信公众号独家提供（微信公众号：Ketchapp开趣宝），用户关注该微信公众号后，可了解Ketchapp在微信小游戏的更多进展。
 
-[cnBeta.COM](https://link.zhihu.com/?target=http%3A//hot.cnbeta.com/articles/game/689329%3Fforce%3D1)
+[cnBeta.COM](http://hot.cnbeta.com/articles/game/689329?force=1)
 
 **相关文章:**
 
-[微信“跳一跳”被指抄袭育碧游戏“欢乐跳瓶”](https://link.zhihu.com/?target=http%3A//hot.cnbeta.com/articles/game/685545.htm)
+[微信“跳一跳”被指抄袭育碧游戏“欢乐跳瓶”](http://hot.cnbeta.com/articles/game/685545.htm)

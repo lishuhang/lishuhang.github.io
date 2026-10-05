@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/22492954"
 ---
 
-> 名为“科技老罗”的微信公众号 [表示](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NTE3Mzc1OQ%3D%3D%26mid%3D2648715090%26idx%3D1%26sn%3D9bdef4ed2a055a812d7e3e0fc2f6a579%26chksm%3D87601542b0179c547960738ebb626c82da3cbfff8f2dc6c7afcf9ea5bca2a245bf30fcfc0d5b) ：
+> 名为“科技老罗”的微信公众号 [表示](http://mp.weixin.qq.com/s?__biz=MzA3NTE3Mzc1OQ==&mid=2648715090&idx=1&sn=9bdef4ed2a055a812d7e3e0fc2f6a579&chksm=87601542b0179c547960738ebb626c82da3cbfff8f2dc6c7afcf9ea5bca2a245bf30fcfc0d5b) ：
 >
 >
 >
@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/22492954"
 >
 > 然而他整篇文章唯一有用的信息就是这么一句没头没脑的“知情人士”，其真实性高度存疑。
 
-完整原文请看：[http://cn.technode.com/post/2016-09-18/rumor-leeco-amazon-china/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-18/rumor-leeco-amazon-china/)
+完整原文请看：[http://cn.technode.com/post/2016-09-18/rumor-leeco-amazon-china/](http://cn.technode.com/post/2016-09-18/rumor-leeco-amazon-china/)
 
 
 

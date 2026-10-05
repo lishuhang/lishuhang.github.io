@@ -69,7 +69,7 @@ LinkedIn是一个职场社交网络。微软本身就做过很多次社交的尝
 
 
 
-由MSN升级到[http://Start.com](https://link.zhihu.com/?target=http%3A//Start.com)，再转变为Windows Live，微软最有希望转型社交的门户网站业务十几年来就这么一点点被搞黄了，最终并入Windows部门之下——顺便还为微软在民间开辟了一个名叫“改名部”的部门。
+由MSN升级到[http://Start.com](http://Start.com)，再转变为Windows Live，微软最有希望转型社交的门户网站业务十几年来就这么一点点被搞黄了，最终并入Windows部门之下——顺便还为微软在民间开辟了一个名叫“改名部”的部门。
 
 
 
@@ -131,6 +131,6 @@ Weiner公开信说：“无论是工作被取代，技能出现差距，年轻�
 
 ——醒醒，在替代工人工作的所有机器里，微软怎么也得占很大一部分。现在我只希望LinkedIn及时把握由职业教育转向通识教育的机会，争取在人类都不用上班的美好未来，把自己的目标从对人的职场培训，转向帮助人们走向自我实现。
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//cj.sina.com.cn/article/pc_detail/16303)
+[新浪（独家）](http://cj.sina.com.cn/article/pc_detail/16303)
 
 ![](/2016/06/14/wei-ruan-ling-ying-da-xi/01.png)

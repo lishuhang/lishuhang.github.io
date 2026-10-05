@@ -31,4 +31,4 @@ RadioShack 是接替 Circuit City(电路城) 成为全美第二大电器零售�
 
 尽管和中关村卖场的自作自受相比，Radioshack 更显无辜，但在网购电子产品的浪潮面前，它们还是殊途同归，走向终结。北京时间今天早上，RadioShack 请求破产法院批准向骨干员工发放 300 万美元的奖金，以求在未来的拍卖中抬高报价同时防止人才流失。这也许是这家差一点熬成百年老店的连锁业者能做的最后一件事了。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-02-11/radioshack-bankruptcy)
+[动点科技](http://cn.technode.com/post/2015-02-11/radioshack-bankruptcy)

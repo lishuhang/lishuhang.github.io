@@ -59,4 +59,4 @@ source: "https://zhuanlan.zhihu.com/p/19937661"
 
 这就是砍掉其他所有中间商和“二传手”的“亚马逊模式”。当企业有机会直接面对潜在用户的时候，我想整个新闻和媒体业的格局都将从此不再一样。这样的变化，就可能在2015年之内开始。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/43038)
+[百度百家](http://lishuhang.baijia.baidu.com/article/43038)

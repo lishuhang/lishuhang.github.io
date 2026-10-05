@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20285631"
 ---
 
-9 月 16 日，马云在北京师范大学宣布以他的名字命名的“乡村教师计划”和“乡村教师奖”的启动。会上，教师代表和学生代表提出了 5 个问题，马云分别对这 5 个问题作了解答。当时的语音记录分 5 篇发布给大家（[第一篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-18/mayun-rural-teacher-speech-1/) 、 [第二篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-25/mayun-rural-teacher-speech-2/) 、 [第三篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-09/mayun-rural-teacher-speech-3/)），每一篇对应一个提问以及马云的回答。这是第四篇。
+9 月 16 日，马云在北京师范大学宣布以他的名字命名的“乡村教师计划”和“乡村教师奖”的启动。会上，教师代表和学生代表提出了 5 个问题，马云分别对这 5 个问题作了解答。当时的语音记录分 5 篇发布给大家（[第一篇](http://cn.technode.com/post/2015-09-18/mayun-rural-teacher-speech-1/) 、 [第二篇](http://cn.technode.com/post/2015-09-25/mayun-rural-teacher-speech-2/) 、 [第三篇](http://cn.technode.com/post/2015-10-09/mayun-rural-teacher-speech-3/)），每一篇对应一个提问以及马云的回答。这是第四篇。
 
 **问题四**
 

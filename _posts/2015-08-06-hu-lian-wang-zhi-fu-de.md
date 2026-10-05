@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/20147784"
 
 即使是拥有网商银行和微众银行的阿里及腾讯，应该也没想过有一天自己的银行需要背离纯互联网运作的初衷，而被迫去开设线下网点这回事。 **不管新规出发点如何，它目前已经蜕变为畸形维护传统银行利益的工具，和限制社会阶层流动，造成阶层歧视的因素。这样的规定，在出台前的确应该三思。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-05/prove-yourself/)
+[动点科技](http://cn.technode.com/post/2015-08-05/prove-yourself/)
 
 ![](/2015/08/06/hu-lian-wang-zhi-fu-de/01.jpg)

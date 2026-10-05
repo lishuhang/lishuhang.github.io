@@ -101,6 +101,6 @@ source: "https://zhuanlan.zhihu.com/p/20927582"
 
 但是我对此有足够的理由乐观，因为改变正是在人们不经意的时候发生的。当人们都习惯了改变的时候，改变就会在不经意间发生。我们提高了对人工智能的期许——这就意味着我们原先期待的其实已经实现，人工智能的进步其实早已发生。
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0519/07/BNDOQ9SQ000948V8.html)
+[网易科技](http://tech.163.com/16/0519/07/BNDOQ9SQ000948V8.html)
 
 ![](/2016/05/19/bu-zai-shi-wei-lai-ren/01.jpg)

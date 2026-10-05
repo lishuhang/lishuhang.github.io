@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/20269026"
 >
 > 各种存储设备的视角也要保持一致。视频文件和光盘是正视，硬盘、存储卡和DV等都是侧视，看着当然会显得十分不规整。
 
-2015年10月13日：[微软为Windows 10 Build 10565带来全新的设备图标](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/438267.htm)
+2015年10月13日：[微软为Windows 10 Build 10565带来全新的设备图标](http://www.cnbeta.com/articles/438267.htm)
 
 微软仍在不停改进Windows 10操作系统的图标，在最新的10565编译版本中，我们终于在设备管理器中看到了与系统相处得更加和谐的图标样式。
 

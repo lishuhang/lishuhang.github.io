@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/24859772"
 ---
 
-Opera 为依然报有情怀的用户推出了一个概念版浏览器叫做 [Opera Neon](https://link.zhihu.com/?target=http%3A//www.opera.com/neon)。（官方介绍视频：[YouTube](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3Dt4MikGVvQOA)，[秒拍](https://link.zhihu.com/?target=http%3A//video.weibo.com/player/1034%3A02fb8ba3c49723ad7034755c77f88d75/v.swf)）
+Opera 为依然报有情怀的用户推出了一个概念版浏览器叫做 [Opera Neon](http://www.opera.com/neon)。（官方介绍视频：[YouTube](https://www.youtube.com/watch?v=t4MikGVvQOA)，[秒拍](http://video.weibo.com/player/1034:02fb8ba3c49723ad7034755c77f88d75/v.swf)）
 
 打开这款浏览器，我们会看到一个很大的工作区，你最好将浏览器窗口最大化到全屏使用，因为在工作区里面每一个页面的小窗口拥有单独的最大化和最小化按钮。
 
@@ -17,4 +17,4 @@ Opera Neon 支持类似微软 Edge 浏览器一样的区域截图方式，但是
 
 Opera Neon 还不支持插件。因此在宣传视频底下最多的网友留言都是在问如何找到广告屏蔽插件 ADBlock Plus。但是即使找到了插件，他们也不一定会把它当主力浏览器，只是说这对于电脑初学者以及老年人来说，是一款很友好的浏览器，可以给他们试一试。
 
-全文：[http://cn.technode.com/post/2017-01-13/opera-neon/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-01-13/opera-neon/)
+全文：[http://cn.technode.com/post/2017-01-13/opera-neon/](http://cn.technode.com/post/2017-01-13/opera-neon/)

@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/24215605"
 
 所以，如果“知乎”无论如何都适应不了一些大V挑剔的口味，而这边恰好又有一个服务的更好的平台，跳过去也不奇怪。**大V在问答平台之间流动本来就应该是像主播毁约跳槽一样常见的事。**只是，百度本身的糟糕声誉可能成为他们过来的一个大障碍，“这届百度公关”可得加油了。
 
-全文参见动点：[http://cn.technode.com/post/2016-12-06/baidu-pai-vs-zhihu/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-12-06/baidu-pai-vs-zhihu/)
+全文参见动点：[http://cn.technode.com/post/2016-12-06/baidu-pai-vs-zhihu/](http://cn.technode.com/post/2016-12-06/baidu-pai-vs-zhihu/)

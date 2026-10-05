@@ -47,9 +47,9 @@ source: "https://zhuanlan.zhihu.com/p/22482316"
 
 就在这样的一个夜晚，我想起了一点 9 年前的往事，然后我似乎就明白了问题的答案。
 
-*题图：2007 年 10 月的文化广场，《加油！好男儿》赤峰应援活动举办地。图来自  [新浪博客](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_4edae48101000aqb.html)*
+*题图：2007 年 10 月的文化广场，《加油！好男儿》赤峰应援活动举办地。图来自  [新浪博客](http://blog.sina.com.cn/s/blog_4edae48101000aqb.html)*
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-17/9-years-ago/)
+[动点科技](http://cn.technode.com/post/2016-09-17/9-years-ago/)
 
 > 微信公众号 lifeissohappy
 >

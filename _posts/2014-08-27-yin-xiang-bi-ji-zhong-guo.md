@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19835809"
 ---
 
-今日印象笔记（Evernote）向其用户发送电子邮件，表示[他们在中国的商店](https://link.zhihu.com/?target=https%3A//app.yinxiang.com/market)已经开启。
+今日印象笔记（Evernote）向其用户发送电子邮件，表示[他们在中国的商店](https://app.yinxiang.com/market)已经开启。
 
 在国外的Evernote Market模式刚推出的时候，TechCrunch等媒体已经有过详尽的分析。他们销售的产品，包括印象笔记的高级账户，以及随附的一些软件产品，也包括触控笔等等硬件产品，甚至是实体文具和背包这些生活方式用品。这些产品，一定要强调是他们与设计师共同协作所定制的产品，只在这个市场上卖——本次印象笔记在中国的市场，还推出了一个在中国市场首发的产品，是一个笔筒。
 
@@ -31,4 +31,4 @@ Evernote和Paper在中国都发展了非常多的付费人群——这也是罕�
 
 Evernote和Paper的例子，会带给我们一个更大的命题，就是：如何能够成功地赚到那些愿意为非必须的小东西付钱，以提高自己生活质量的人们的钱？这钱赚得既容易，又爽快，还能够为自己带来好名声。我觉得更多的创业公司应该想想打这些人的主意。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-27/evernote-china-market/)
+[动点科技](http://cn.technode.com/post/2014-08-27/evernote-china-market/)

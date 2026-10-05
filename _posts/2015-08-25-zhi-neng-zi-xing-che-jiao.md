@@ -27,10 +27,10 @@ source: "https://zhuanlan.zhihu.com/p/20182330"
 
 我想可能也会有一些车厂突出他们在造车方面的专业背景，但是至少在目前来看，最大的几家自行车厂商，还不会轻易的放下架子去跟互联网厂商合作， **因为可能还没有这个必要** 。作为一项运动的自行车，始终是小圈子人的游戏，这些人有一套自己的规则，并且可以断定，他们当中绝大多数人电脑都玩不转，并且不把智能当回事。
 
-在我 [批评过智能水杯](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-22/you-may-really-need-a-smart-water-bottle-or-maybe-not/) 之后，没想到此风愈演愈烈，现在已经蔓延到了书桌。据说桌子可以发出声音来监控你以一种固定的坐姿坐太久。这种风潮可能还将继续下去，但是对于我来说，某个大件是自己的身体要使用，或者有古老的标准，我还是会信任传统厂家。我对于那些打着智能和互联网思维旗号的东西，依然会抱有一种天生的不信任，它们需要用实力来说服我。
+在我 [批评过智能水杯](http://cn.technode.com/post/2015-07-22/you-may-really-need-a-smart-water-bottle-or-maybe-not/) 之后，没想到此风愈演愈烈，现在已经蔓延到了书桌。据说桌子可以发出声音来监控你以一种固定的坐姿坐太久。这种风潮可能还将继续下去，但是对于我来说，某个大件是自己的身体要使用，或者有古老的标准，我还是会信任传统厂家。我对于那些打着智能和互联网思维旗号的东西，依然会抱有一种天生的不信任，它们需要用实力来说服我。
 
 *此车的骑行感受请听下回分解。*
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-21/old-fashioned-bike/)
+[动点科技](http://cn.technode.com/post/2015-08-21/old-fashioned-bike/)
 
 ![](/2015/08/25/zhi-neng-zi-xing-che-jiao/01.jpg)

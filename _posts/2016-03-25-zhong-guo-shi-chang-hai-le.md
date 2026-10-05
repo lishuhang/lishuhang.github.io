@@ -57,6 +57,6 @@ source: "https://zhuanlan.zhihu.com/p/20673215"
 
 我觉得，很快可能会出现另外一家公司，在中国市场攻城略地，慢慢地把中国作为完全的发展重心，盖过在世界其他地区的风光。是的——有这样危险的公司，正是苹果。
 
-[新浪](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-03-25/pid_8505232.htm)
+[新浪](http://tech.sina.com.cn/zl/post/detail/i/2016-03-25/pid_8505232.htm)
 
 ![](/2016/03/25/zhong-guo-shi-chang-hai-le/01.jpg)

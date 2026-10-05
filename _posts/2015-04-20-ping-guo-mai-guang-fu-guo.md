@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20008334"
 ---
 
-差不多可以说答案揭晓了。苹果在当地时间4月20日发布了[《2015环境责任报告》](https://link.zhihu.com/?target=http%3A//images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf)。与此同时，包括中国在内的全球官网头条也从Apple Watch换成了[环境责任专页](https://link.zhihu.com/?target=http%3A//www.apple.com/cn/environment/)。放在标题位置的太阳能电池板照片的文字说明是：
+差不多可以说答案揭晓了。苹果在当地时间4月20日发布了[《2015环境责任报告》](http://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf)。与此同时，包括中国在内的全球官网头条也从Apple Watch换成了[环境责任专页](http://www.apple.com/cn/environment/)。放在标题位置的太阳能电池板照片的文字说明是：
 
 
 
@@ -33,4 +33,4 @@ source: "https://zhuanlan.zhihu.com/p/20008334"
 
 从这一意义上讲，尽管苹果直接投资环保的幻想可以说破灭了，光伏和环保相关从业者依然可以谨慎乐观——这都得看其它大企业是否愿意走和苹果一样的道路，花钱买新能源作为对其能源消耗的“转移支付”措施。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/54447)
+[百度百家](http://lishuhang.baijia.baidu.com/article/54447)

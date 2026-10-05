@@ -13,7 +13,7 @@ source: "https://zhuanlan.zhihu.com/p/19839686"
 
 我一看他刚拆下来的卡片，瞬间就明白了：这是一张**中国移动**的TD-LTE 4G SIM卡，上面一个大大的“和”字。
 
-我就把他的iPad的语言调成英文（他原来是使用瑞典语）进去看了看，发现他的设置一切正常，又查了查他的产品型号，发现是iPad Air。到网上一搜，这篇文章轻松就出来了：[iPad Air及新iPad mini不支持中移动4G TD-LTE网络](https://link.zhihu.com/?target=http%3A//news.zol.com.cn/article/186997.html)
+我就把他的iPad的语言调成英文（他原来是使用瑞典语）进去看了看，发现他的设置一切正常，又查了查他的产品型号，发现是iPad Air。到网上一搜，这篇文章轻松就出来了：[iPad Air及新iPad mini不支持中移动4G TD-LTE网络](http://news.zol.com.cn/article/186997.html)
 
 > 根据香港媒体的报道，港版iPad Air以及新iPad mini均不支持中国移动的4G TD-LTE网络！而且我们可以确定的是，**其他地区销售的iPad Air和iPad mini也是不支持移动4G的！**
 >
@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/19839686"
 
 因为懒得换号，我大学时的手机卡还一直用到现在。卡面上印着动感地带的标志，开启手机后盖就足以让我陷入怀旧的沉思之中。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-01/ipad-china-mobile-4g/)
+[动点科技](http://cn.technode.com/post/2014-09-01/ipad-china-mobile-4g/)

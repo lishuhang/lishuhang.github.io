@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20011435"
 ---
 
-今天我想说一下国内和国外双重标准的事情。熟悉我的人可能都知道，我是非常讨厌 360、腾讯、金山这些卫士管家类东西的。原因也非常简单，就像一位网友曾经说过的那样，你装上一个，他们一家子最后都会跟着来。所以我一般都是在 [征服美丽少女](https://link.zhihu.com/?target=http%3A//vdisk.weibo.com/s/pzt4fARUZp1)（误）的时候才让她们装 360，以节省我自己的时间。
+今天我想说一下国内和国外双重标准的事情。熟悉我的人可能都知道，我是非常讨厌 360、腾讯、金山这些卫士管家类东西的。原因也非常简单，就像一位网友曾经说过的那样，你装上一个，他们一家子最后都会跟着来。所以我一般都是在 [征服美丽少女](http://vdisk.weibo.com/s/pzt4fARUZp1)（误）的时候才让她们装 360，以节省我自己的时间。
 
 ![](/2015/04/24/360-ji-lian-xiang-hou-you/01.jpg)
 
@@ -21,7 +21,7 @@ duang！这就是 360 专门针对国际市场推出的 Total Security。
 
 ![](/2015/04/24/360-ji-lian-xiang-hou-you/03.jpg)
 
-最后，当我在官网中找到 [这个链接](https://link.zhihu.com/?target=http%3A//www.360totalsecurity.com/en/blog/how-to-uninstall-360-total-security/) 的时候，它彻底的感动了我……
+最后，当我在官网中找到 [这个链接](http://www.360totalsecurity.com/en/blog/how-to-uninstall-360-total-security/) 的时候，它彻底的感动了我……
 
 ![](/2015/04/24/360-ji-lian-xiang-hou-you/04.jpg)
 
@@ -41,4 +41,4 @@ duang！这就是 360 专门针对国际市场推出的 Total Security。
 
 互联网存在的一个重要意义就是沟通不同国家、地区，缩短地域之间形成的天然障碍，促进人与人的交流。因此更符合互联网精神的做法，自然是提供尽可能全球一致的产品和服务。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-24/zaobao0424/)
+[动点科技](http://cn.technode.com/post/2015-04-24/zaobao0424/)

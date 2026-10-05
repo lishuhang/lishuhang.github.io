@@ -11,9 +11,9 @@ source: "https://zhuanlan.zhihu.com/p/20134747"
 
 **1、版本号问题**
 
-首先，有一些媒体提到了为何版本号直接到 10 而不是 9。这跟 Windows Vista 到 7 不一样，因为 Vista 的版本号正是 6。[BBC 认为](https://link.zhihu.com/?target=http%3A//www.bbc.com/news/technology-33637586) ，这是为了跳过人们对 Windows 8 比较失败的联想，并且让人和 Mac OS X 联系起来，进行直接对比。
+首先，有一些媒体提到了为何版本号直接到 10 而不是 9。这跟 Windows Vista 到 7 不一样，因为 Vista 的版本号正是 6。[BBC 认为](http://www.bbc.com/news/technology-33637586) ，这是为了跳过人们对 Windows 8 比较失败的联想，并且让人和 Mac OS X 联系起来，进行直接对比。
 
-而 [新浪科技的编辑](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/n/digital_QA/Windows__10.html) 似乎得到了独家消息：因为有一些软件在判断操作系统版本的时候，遇到“Windows 9”会判定为 95 或者 98，以兼容性角度出发，才选择了 10。
+而 [新浪科技的编辑](http://tech.sina.com.cn/n/digital_QA/Windows__10.html) 似乎得到了独家消息：因为有一些软件在判断操作系统版本的时候，遇到“Windows 9”会判定为 95 或者 98，以兼容性角度出发，才选择了 10。
 
 虽然很让人好奇如果到 Windows 20 的时候是不是也会跳过去，但是好像我们已经没有这个机会了。因为，Windows 10 有可能是从版本号来说最后一个大版本 Windows，在此之后，将不断的推出具有微小功能改进的新版本，就像苹果的 MAC 系统一样，它的大版本号始终停留在 OS X。不如说，Windows 10 也将会最后演变成一个商标。
 
@@ -31,7 +31,7 @@ Windows 8 是一个很明确的想要为带触摸的平板电脑设计的系统�
 
 相比之下，8.1 的手势需要在手指移动到屏幕上某个位置的同时，眼睛要盯着屏幕。比如说呼出多任务切换界面，是从屏幕的左侧边缘向右滑动一点点，再弹回去。这个“一点点”到什么程度？你眼睛必须看着屏幕。相比之下，苹果的几个手势操作是非常自然和顺畅的，即使只摸到了屏幕，也可以进行类似操作。也许这就是在触屏时代的“盲打”。
 
-所以在经历了如此之多的问题之后，Windows 8 已经成为了一个不管什么人都不会太好评的系统，成为 Windows Vista 一样的滑铁卢，也就是一个历史的定论了。[The Verge 的主笔沃伦写道](https://link.zhihu.com/?target=http%3A//www.theverge.com/2015/7/28/9045331/microsoft-windows-10-review) ：
+所以在经历了如此之多的问题之后，Windows 8 已经成为了一个不管什么人都不会太好评的系统，成为 Windows Vista 一样的滑铁卢，也就是一个历史的定论了。[The Verge 的主笔沃伦写道](http://www.theverge.com/2015/7/28/9045331/microsoft-windows-10-review) ：
 
 > “微软曾经有先把事情搞砸，再在下一个版本当中把我们拯救回来的传统。Windows 7 拯救了 Vista 用户……Windows XP 拯救了 Me 用户……现在 10 就是来把我们从 8.1 的噩梦当中拯救出来的。”
 
@@ -47,9 +47,9 @@ Windows 8 是一个很明确的想要为带触摸的平板电脑设计的系统�
 
 在最新的用于正式发布的 Windows 10（版本号 10240）当中，现在已经可以非常顺畅的打开统一应用了，以至于我使用内部自带的 Groove 音乐程序，替代了原先的 QQ 影音，成为默认播放音频文件的选择（不过请原谅，视频播放器我还是用不习惯）。自带的看图软件，跟上几个版本的图片查看器相比，加入了图片美化的功能，这些功能之前只有通过下载 Windows Essentials 增强包才能做到。
 
-跟上几代系统相比，邮件、日历和人脉 3 个应用得到了界面升级，使用起来也更加赏心悦目。不过很显然 [ZDNet 的编辑](https://link.zhihu.com/?target=http%3A//www.zdnet.com/article/goodbye-windows-8-hello-windows-10/) 并不喜欢这个改变，他希望能够保留传统的收件箱，而不是都汇总成会话模式。他说：“在微软提供这个功能选项之前，我将永远不会使用自带的邮件客户端。”（顺带一提，无法访问 Gmail 的用户，可以使用这个自带邮件客户端，毫无压力的添加 Hotmail 和国内邮箱。）
+跟上几代系统相比，邮件、日历和人脉 3 个应用得到了界面升级，使用起来也更加赏心悦目。不过很显然 [ZDNet 的编辑](http://www.zdnet.com/article/goodbye-windows-8-hello-windows-10/) 并不喜欢这个改变，他希望能够保留传统的收件箱，而不是都汇总成会话模式。他说：“在微软提供这个功能选项之前，我将永远不会使用自带的邮件客户端。”（顺带一提，无法访问 Gmail 的用户，可以使用这个自带邮件客户端，毫无压力的添加 Hotmail 和国内邮箱。）
 
-在这一切的铺垫下，大量 x86 附件被砍掉。希望下次能继续砍掉剩下的几个，比如画图（可被替换成 Fresh Paint）和写字板（可被替换成 OneNote）。统一应用的推广，正如我之前所说的那样， [促进了微软对生态圈的开发和控制](https://link.zhihu.com/?target=http%3A//www.businessinsider.com.au/windows-10-store-shortcoming-2015-7%3Fop%3D1) ，应用商店也会越来越有用。开发统一应用比 x86 难度明显降低，还可以方便移植到 iOS 和 Android，希望有更多开发者能加入进来吧。
+在这一切的铺垫下，大量 x86 附件被砍掉。希望下次能继续砍掉剩下的几个，比如画图（可被替换成 Fresh Paint）和写字板（可被替换成 OneNote）。统一应用的推广，正如我之前所说的那样， [促进了微软对生态圈的开发和控制](http://www.businessinsider.com.au/windows-10-store-shortcoming-2015-7?op=1) ，应用商店也会越来越有用。开发统一应用比 x86 难度明显降低，还可以方便移植到 iOS 和 Android，希望有更多开发者能加入进来吧。
 
 ![](/2015/07/29/shu-hang-de-windows-10-dian/04.jpg)
 
@@ -83,6 +83,6 @@ Windows 8 是一个很明确的想要为带触摸的平板电脑设计的系统�
 
 ——大概是这样吧。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-29/windows-10-review/)
+[动点科技](http://cn.technode.com/post/2015-07-29/windows-10-review/)
 
 ![](/2015/07/29/shu-hang-de-windows-10-dian/07.jpg)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/61322467"
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://link.zhihu.com/?target=https%3A//weibo.com/lishuhang/)**
+本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
 
 *航通社作者 书航 3 月 31 日发于北京*
 
@@ -19,11 +19,11 @@ source: "https://zhuanlan.zhihu.com/p/61322467"
 
 去年下半年开始，有多个曾叱咤风云的 IP 因内容违规被严肃整顿，但处罚力度和后续影响各不相同。有些如“陈一发儿”彻底消失，有些如“暴走大事件”则在蛰伏后，还能以乖宝宝的身份复出。显然，咪蒙属于其中最惨的那一部分。
 
-上周二，一位咪蒙团队的前员工“俞二花”发文怀念已经被彻底消音，不得转世的前东家：《[致咪蒙：谢谢你给我的光荣](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ)》。
+上周二，一位咪蒙团队的前员工“俞二花”发文怀念已经被彻底消音，不得转世的前东家：《[致咪蒙：谢谢你给我的光荣](https://mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ)》。
 
 > 所以这次出来找工作，我开的工资很高，虽然我不会发朋友圈跟人说，我拿多少。但我就是想跟自己较劲，想证明咪蒙的人有多专业，咪蒙的人三观有多正，咪蒙的人，不是谁都能要得起的。说到这的时候，我实在忍不住，在这个资深媒体人面前哭了起来。
 
-[https://mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ)
+[https://mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ](https://mp.weixin.qq.com/s/jiMTbq2LJGeQeREDaiFJQQ)
 
 但是除了该文下面被筛选过的评论之外，我在其它地方看到的对该文的反映则继续褒贬不一。显然一篇文章不足以说服谁，即使作者本来就没想着要说服谁。
 
@@ -35,7 +35,7 @@ source: "https://zhuanlan.zhihu.com/p/61322467"
 
 > 她（霍姆斯）告诉前同事说，自己在街上会遇到祝福者跟她打招呼，他们都坚定地支持她重新振作起来。这种境遇跟她的很多老同事形成了鲜明对比。跟我对话过的前 Theranos 员工讲述的都是自己的恐怖故事，说自己离开公司总是没有办法找到工作，因为自己的简历上已经留有一个永久性的污点。
 
-[http://tech.qq.com/a/20190314/004795.htm](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20190314/004795.htm)
+[http://tech.qq.com/a/20190314/004795.htm](http://tech.qq.com/a/20190314/004795.htm)
 
 咪蒙团队的普通员工，可能同样无法在自己的简历中避免这个“永久性的污点”，长期受到困扰却难以自我证明，就像上文作者和前 Theranos 员工经历的一样。
 
@@ -63,14 +63,14 @@ source: "https://zhuanlan.zhihu.com/p/61322467"
 
 道路千万条，安全第一条。我倾向于相信咪蒙并未受到过足够多的关于内容安全生产的培训，她从“南方系”获得的经验并不完整。如果咪蒙自己也对红线有清晰认知，后面的事情应该有机会避免。
 
-2017年我写过一篇《[假记者的价值观](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5Mjg1ODIxMQ%3D%3D%26mid%3D2650659036%26idx%3D1%26sn%3D52efcf925acb321e60d58fe592e3296b%26scene%3D21%23wechat_redirect)》，里面就写到，对新形态的媒体而言，**在严肃媒体锻炼过的媒体人的一个重要意义就是充当把关人**。合规要求越高，他们越重要。
+2017年我写过一篇《[假记者的价值观](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659036&idx=1&sn=52efcf925acb321e60d58fe592e3296b&scene=21#wechat_redirect)》，里面就写到，对新形态的媒体而言，**在严肃媒体锻炼过的媒体人的一个重要意义就是充当把关人**。合规要求越高，他们越重要。
 
 > 像一点资讯、快手等平台聘请老记者负责内容，我看到的更多是老总对新闻行业不理解，指望他们增加平台影响力和提升流量。
 > 记者一方则是带着新闻理想的抱负过去，这容易造成期待的相互错位。他们不适合接着做编辑，因为手下已经不存在记者；也不适合做产品经理，做管理，那些他们都不熟悉。
 > 平台们的“首席内容官”应该有，但不应该是虚衔，也不应该完全回归传统媒体的价值观，而是更多基于风控目的——我们做的内容是否合法合规？是否侵犯企业权益、读者权益？是否影响了产品的调性统一？如何规避风险？
 > 积极的价值观，恰好体现在消极的防御当中。
 
-[https://mp.weixin.qq.com/s/2FrHV_sBnfngWNFPDl-0CA](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/2FrHV_sBnfngWNFPDl-0CA)
+[https://mp.weixin.qq.com/s/2FrHV_sBnfngWNFPDl-0CA](https://mp.weixin.qq.com/s/2FrHV_sBnfngWNFPDl-0CA)
 
 咪蒙团队的员工起初或许是无辜的，而且他们确实锻炼了一部分对内容创业者而言可贵的才华——即使“才华有限”。然而，他们必须为了今后的新生活和新开始，重建自己的价值观，并只能以自己的力量度过难关，等待风暴过去。没有别的办法。
 
@@ -82,7 +82,7 @@ source: "https://zhuanlan.zhihu.com/p/61322467"
 
 > 俄罗斯人说，那些不后悔苏联解体的人没有心，那些当真后悔苏联解体的人没有脑子。我们不会后悔苏联的解体，我们只是陈述事实并知道我们需要向前看，而不是向后看。我们不会让过去拖累我们，阻止我们继续前进。我们知道自己应该走到哪里，但我们的行动必须有个前提——清楚的理解过去到底发生了什么。
 
-[http://en.kremlin.ru/events/president/transcripts/page/327](https://link.zhihu.com/?target=http%3A//en.kremlin.ru/events/president/transcripts/page/327)
+[http://en.kremlin.ru/events/president/transcripts/page/327](http://en.kremlin.ru/events/president/transcripts/page/327)
 
 是的，“谁不为咪蒙解散而惋惜，谁就没有良心；**谁想让咪蒙复活，谁就没有头脑**。”
 

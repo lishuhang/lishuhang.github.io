@@ -39,4 +39,4 @@ source: "https://zhuanlan.zhihu.com/p/19926449"
 
 等政府不像现在这么“日理万机”的时候，让专业的人来做需要专业能力的事，也许对安全真正“永不懈怠”的追求，就有达到的一天。而在此之前，我们每一个人能做到的最简单的行动就是——别去人多的地方。
 
-[新浪专栏](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-01-01/pid_8468069.htm)
+[新浪专栏](http://tech.sina.com.cn/zl/post/detail/i/2015-01-01/pid_8468069.htm)

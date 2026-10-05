@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/19728328"
 
 做得越高端越好，越贵越好。反正你产量低，吸取几个众筹以后出货时候被骂惨了的硬件创业公司的教训吧
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/11938)
+[百度百家](http://lishuhang.baijia.baidu.com/article/11938)

@@ -13,4 +13,4 @@ source: "https://zhuanlan.zhihu.com/p/23676587"
 >
 > 一直以来，Slack 坚称自己的护城河在于有超过数百款企业以及个人开发者为其量身打造的应用。问题的关键在于，Slack 现有的那些机器人都是制作起来非常简单的，就像是 iOS App Store 刚刚推出初期几个月的状况一样，不断的有个人开发者为其推出一款又一款重复的闹钟，日程设定，以及计算器这样的小工具，而没有一个真正具有震撼意义的大事件产生。Slack 还没有来得及迎来这个关键的转折点，就遭遇了来自竞争对手的强大阻击。
 
-全文：[http://cn.technode.com/post/2016-11-15/slack-s-maginot-line/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-11-15/slack-s-maginot-line/)
+全文：[http://cn.technode.com/post/2016-11-15/slack-s-maginot-line/](http://cn.technode.com/post/2016-11-15/slack-s-maginot-line/)

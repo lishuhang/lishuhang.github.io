@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/19938119"
 
 3000元左右的市场其实最早应该是锤子想要打开的，结果它只是启发了友商，确实让人扼腕。厌倦了1999的用户们，可能会在今年见证3000元价位再度成为手机竞争的一个新热点。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20150119/014146.htm%23)
+[腾讯科技](http://tech.qq.com/a/20150119/014146.htm#)

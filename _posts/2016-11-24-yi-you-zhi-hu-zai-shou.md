@@ -17,4 +17,4 @@ source: "https://zhuanlan.zhihu.com/p/23912722"
 >
 > 这次投资使得知识付费领域重演了在打车应用、O2O、在线旅游、在线视频等领域频繁上演的“行业老大和老二在同一体系之下”的局面，距离转变成“老大吞并老二”的结局，似乎也为时不远。
 
-全文：[http://cn.technode.com/post/2016-11-24/fenda-get-new-venture-from-tencent/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-11-24/fenda-get-new-venture-from-tencent/)
+全文：[http://cn.technode.com/post/2016-11-24/fenda-get-new-venture-from-tencent/](http://cn.technode.com/post/2016-11-24/fenda-get-new-venture-from-tencent/)

@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/26123750"
 
 各位亲爱的访客朋友：
 
-正如大家所看到的，中文业界资讯站 [http://cnBeta.COM](https://link.zhihu.com/?target=http%3A//cnBeta.COM) 从 2017 年 2 月 23 日开始进行了一次全新的改版，整个网站的面貌焕然一新。**今天我们宣布本次改版试运行阶段圆满结束，新版正式发布。**这是继 2007 年第三版，2013 年第四版之后，cnBeta 的又一次主要网站版本升级。
+正如大家所看到的，中文业界资讯站 [http://cnBeta.COM](http://cnBeta.COM) 从 2017 年 2 月 23 日开始进行了一次全新的改版，整个网站的面貌焕然一新。**今天我们宣布本次改版试运行阶段圆满结束，新版正式发布。**这是继 2007 年第三版，2013 年第四版之后，cnBeta 的又一次主要网站版本升级。
 
 
 
@@ -47,13 +47,13 @@ cnBeta 能在漫长年代坚持至今，因为其报道和编译具有以下的�
 
 成立 13 年有余的 cnBeta 业已成为科技业界的“常青树”与“活化石”。**我们坚持用小而美的团队合作，忠实记录时代，发掘技术和人性之美。**我们坚持十几年的优秀传统将始终如一，也会不断为 CB 注入全新的内涵。这是一场无比激动人心的旅程，它将持续我们 CBer 的一生，也希望它能始终令人安心，伴您左右。
 
-欢迎您继续通过 [联系我们](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/page/contact/) 页面列出的咨询方式，告诉我们您对新版的意见、建议和期待。
+欢迎您继续通过 [联系我们](http://www.cnbeta.com/page/contact/) 页面列出的咨询方式，告诉我们您对新版的意见、建议和期待。
 
 **谢谢大家对 cnBeta 的关注和支持！**
 
 *LJ 执笔
 *
 
-*[http://cnBeta.COM](https://link.zhihu.com/?target=http%3A//cnBeta.COM) 全体成员*
+*[http://cnBeta.COM](http://cnBeta.COM) 全体成员*
 
 *2017.4.1![](/2017/03/31/cnbetacom-di-wu-ci-gai-ban/01.jpg)*

@@ -42,4 +42,4 @@ source: "https://zhuanlan.zhihu.com/p/19936313"
 
 **当“罢工”这个暌违已久的词语重新出现的时候，我们看似弱小的力量已经不再微小。难得媒体都能同声同气地声讨旧式垄断出租车行业的运营模式，我们应该借助这一机会，团结起来！是时候向垄断的旧式出租车模式说再见了！**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-01-14/chinese-taxi-drivers-strike/)
+[动点科技](http://cn.technode.com/post/2015-01-14/chinese-taxi-drivers-strike/)

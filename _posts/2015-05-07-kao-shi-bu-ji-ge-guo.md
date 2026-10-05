@@ -43,7 +43,7 @@ source: "https://zhuanlan.zhihu.com/p/20023609"
 
 我们很难想象有人说自己是数学博士，却连最简单的1+1=2都不会算。而三大测试对于当代杀毒软件来说，就是1+1=2这么最基本的问题。它们的目的很简单：**我看到的是什么样的软件，你们给用户的就应该是什么样的软件；我感受到的杀毒标准是怎样的，你们给用户的安全防范也应该是怎样的。**然而很可惜，360和腾讯——根据这些评测的官方公告来讲——似乎都没有达到这个目的。
 
-说这三大测试是世界上最权威的安全软件测试，自然也会有一些厂商不认同，也当然有知名厂商选择了主动退出，但是它们退出的原因各不相同。赛门铁克在2012年一次测试中得分垫底，甚至差于几乎被当成笑话的微软免费杀毒软件Security Essential，[此后声明“测试规则存在误导”而退出](https://link.zhihu.com/?target=http%3A//community.norton.com/en/forums/why-norton-not-participating-av-comparatives-testing)。而Comodo则是[2011年12月对AV-C测试捐款50000美元，成为其第三方监督员](https://link.zhihu.com/?target=https%3A//www.melih.com/2011/12/07/comodo-agrees-to-pay-50000-to-av-comparatives-org-for-test-auditing-validation/)，自然无法再作为运动员身份参加测试。**因为“欺骗”和“造假”这样的理由而被公开谴责和取消成绩的情况，在测试历史上是很少见的。**
+说这三大测试是世界上最权威的安全软件测试，自然也会有一些厂商不认同，也当然有知名厂商选择了主动退出，但是它们退出的原因各不相同。赛门铁克在2012年一次测试中得分垫底，甚至差于几乎被当成笑话的微软免费杀毒软件Security Essential，[此后声明“测试规则存在误导”而退出](http://community.norton.com/en/forums/why-norton-not-participating-av-comparatives-testing)。而Comodo则是[2011年12月对AV-C测试捐款50000美元，成为其第三方监督员](https://www.melih.com/2011/12/07/comodo-agrees-to-pay-50000-to-av-comparatives-org-for-test-auditing-validation/)，自然无法再作为运动员身份参加测试。**因为“欺骗”和“造假”这样的理由而被公开谴责和取消成绩的情况，在测试历史上是很少见的。**
 
 如果不是国情问题，那为啥会接连有两家中国企业遭受同样的待遇呢？
 
@@ -55,4 +55,4 @@ source: "https://zhuanlan.zhihu.com/p/20023609"
 
 所以，要是马上国内要出一个自己的安全评测，我丝毫都不会奇怪——只是，因为全球卷考不过，就来个各国自主命题，以掩盖自己和外国学生之间的差距，何必呢。
 
-[新浪专栏](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-05-07/pid_8478166.htm)
+[新浪专栏](http://tech.sina.com.cn/zl/post/detail/i/2015-05-07/pid_8478166.htm)

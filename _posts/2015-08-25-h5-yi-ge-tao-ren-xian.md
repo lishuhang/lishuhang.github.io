@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/20182320"
 
 在一阵窃窃私语之后翻译更正成了 HTML5，沃兹对这个问题依然一头雾水，最后就只说 App Store 模式很成功。也不知他现在是不是已经明白了这个提问的真实含义。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-20/h5-is-not-html5/)
+[动点科技](http://cn.technode.com/post/2015-08-20/h5-is-not-html5/)
 
 ![](/2015/08/25/h5-yi-ge-tao-ren-xian/01.jpg)

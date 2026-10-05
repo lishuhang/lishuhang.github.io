@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/22829726"
 ---
 
-**本文发布于 [新浪专栏](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-10-09/pid_8508673.htm) 时有修改，此为原文。新浪专栏为独家稿件，发布版本及本文禁止任何形式转载。**
+**本文发布于 [新浪专栏](http://tech.sina.com.cn/zl/post/detail/i/2016-10-09/pid_8508673.htm) 时有修改，此为原文。新浪专栏为独家稿件，发布版本及本文禁止任何形式转载。**
 
 北上广深几大城市同步出台了对国家关于网约车相关规定的具体实施细则的草案，其中，京沪两地方案设置了司机户籍限制，明显的体现出了扶植本地人就业，给外地人设置准入门槛的态度，引发了业界和用户的强烈反弹。
 
@@ -37,7 +37,7 @@ source: "https://zhuanlan.zhihu.com/p/22829726"
 
 果真如此，相信这不仅对于我们外地来的人，而且对于当地人，甚至对于我们整个国家，都没有什么好处。
 
-[新浪 （独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-10-09/pid_8508673.htm)
+[新浪 （独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-10-09/pid_8508673.htm)
 
 
 

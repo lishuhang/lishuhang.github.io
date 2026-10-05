@@ -69,7 +69,7 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 
 香港大学新闻及传媒研究中心助理教授傅景华进行的一项研究表明，新浪微博上大约有1000万用户创造了该平台上94%的信息，约2亿用户大多时候仅仅转发这些内容。
 
-[《每日电讯报》与中国华东师范大学](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-02-07/it-looks-like-there-really-has-been-a-mass-exodus-of-sina-weibo-users-but-its-still-not-clear-why/)分析了2011-2013年160万新浪微博用户的活动，得出活跃用户减少了43%；“高度活跃”区域则下降了74%。
+[《每日电讯报》与中国华东师范大学](http://cn.technode.com/post/2014-02-07/it-looks-like-there-really-has-been-a-mass-exodus-of-sina-weibo-users-but-its-still-not-clear-why/)分析了2011-2013年160万新浪微博用户的活动，得出活跃用户减少了43%；“高度活跃”区域则下降了74%。
 
 据报道，微博所谓“僵尸粉丝”已形成一条产业链，网络商店上有贩卖僵尸粉丝的商家，以0.2元人民币一个粉丝的价格贩卖僵尸粉丝。但新浪现在已经会对僵尸粉丝进行审查和删除，产业链也面临断裂。
 
@@ -93,7 +93,7 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 
 由于缺乏游戏运营方面的经验，游戏（包括移动游戏）为微博平台可贡献的价值并没有充分挖掘，2012和2013年，游戏贡献的收入占比仅为19.3%和12.2%，分别为1270万美元和2290万美元，贡献的收入规模十分低。
 
-[i美股研报据此认为](https://link.zhihu.com/?target=http%3A//xueqiu.com/8689584849/28713344)，移动端用户和移动端收入规模不成比例，移动端产生商业模式，很大程度上将取决于信息流广告模式是否能规模化，根本还是要看精准性能否提升。
+[i美股研报据此认为](http://xueqiu.com/8689584849/28713344)，移动端用户和移动端收入规模不成比例，移动端产生商业模式，很大程度上将取决于信息流广告模式是否能规模化，根本还是要看精准性能否提升。
 
 **4、监管**
 
@@ -127,22 +127,22 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 
 以下是微博开通的国家和地区分站的不完全列表，加粗的是特别投入力量运营的重点分站：
 
-- **[http://us.weibo.com](https://link.zhihu.com/?target=http%3A//us.weibo.com)（北美站）**
-- [http://au.weibo.com](https://link.zhihu.com/?target=http%3A//au.weibo.com)（澳洲站）
-- [http://nz.weibo.com](https://link.zhihu.com/?target=http%3A//nz.weibo.com)（新西兰站）
-- [http://uk.weibo.com](https://link.zhihu.com/?target=http%3A//uk.weibo.com)（英国站）
-- [http://de.weibo.com](https://link.zhihu.com/?target=http%3A//de.weibo.com)（德国站）
-- **[http://hk.weibo.com](https://link.zhihu.com/?target=http%3A//hk.weibo.com)（香港站）**
-- **[http://tw.weibo.com](https://link.zhihu.com/?target=http%3A//tw.weibo.com)（台湾站）**
-- [http://jp.weibo.com](https://link.zhihu.com/?target=http%3A//jp.weibo.com)（日本站）
-- [http://kr.weibo.com](https://link.zhihu.com/?target=http%3A//kr.weibo.com)（韩国站）
-- [http://sg.weibo.com](https://link.zhihu.com/?target=http%3A//sg.weibo.com)（新加坡站）
-- **[http://my.weibo.com](https://link.zhihu.com/?target=http%3A//my.weibo.com)（大马站）**
-- [http://th.weibo.com](https://link.zhihu.com/?target=http%3A//th.weibo.com)（泰国站）
+- **[http://us.weibo.com](http://us.weibo.com)（北美站）**
+- [http://au.weibo.com](http://au.weibo.com)（澳洲站）
+- [http://nz.weibo.com](http://nz.weibo.com)（新西兰站）
+- [http://uk.weibo.com](http://uk.weibo.com)（英国站）
+- [http://de.weibo.com](http://de.weibo.com)（德国站）
+- **[http://hk.weibo.com](http://hk.weibo.com)（香港站）**
+- **[http://tw.weibo.com](http://tw.weibo.com)（台湾站）**
+- [http://jp.weibo.com](http://jp.weibo.com)（日本站）
+- [http://kr.weibo.com](http://kr.weibo.com)（韩国站）
+- [http://sg.weibo.com](http://sg.weibo.com)（新加坡站）
+- **[http://my.weibo.com](http://my.weibo.com)（大马站）**
+- [http://th.weibo.com](http://th.weibo.com)（泰国站）
 
 2013年7月23日，新浪微博宣布接入Facebook平台，支持海外用户通过facebook帐号登录新浪微博。其自称“中国首家接入facebook的大型社交平台”。
 
-[我们之前的报道指出](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2013-12-03/sina-weibo-enters-twitters-turf-in-southeast-asia-suicidal-or-genius/)，2013年12月，东南亚用户占到新浪微博总计海外市场用户量的25%。新浪微博在新加坡的主要用户是在海外的中国大陆用户，也包括来自台湾和马来西亚的用户。
+[我们之前的报道指出](http://cn.technode.com/post/2013-12-03/sina-weibo-enters-twitters-turf-in-southeast-asia-suicidal-or-genius/)，2013年12月，东南亚用户占到新浪微博总计海外市场用户量的25%。新浪微博在新加坡的主要用户是在海外的中国大陆用户，也包括来自台湾和马来西亚的用户。
 
 **（2）投资者态度**
 
@@ -150,7 +150,7 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 
 更重要的是，市场的看衰还受到人人网表现低迷的影响，之前它顶着“中国的Facebook+Groupon”的光环上市，而微博似乎刻意无视，宣传其为“全球范围内首家上市的中文社交媒体”。
 
-[搜狐IT指出](https://link.zhihu.com/?target=http%3A//it.sohu.com/20140417/n398364926.shtml)，路演中，亚洲的投资机构因为质疑微博的活跃度下降，对于投资新浪微博并不感冒，部分投资机构给出的估值甚至低至34.5亿美元（低于发行价估值下限）。反而是美国的投资机构有些还认为新浪微博不错，当然也有些人认为新浪微博的收入增长过于依赖阿里巴巴。路演下来，新浪微博的认购情况并不佳，据说刚刚完成认购任务，远远低于之前去哪儿、58同城超额认购十几倍乃至几十倍的火爆情况。
+[搜狐IT指出](http://it.sohu.com/20140417/n398364926.shtml)，路演中，亚洲的投资机构因为质疑微博的活跃度下降，对于投资新浪微博并不感冒，部分投资机构给出的估值甚至低至34.5亿美元（低于发行价估值下限）。反而是美国的投资机构有些还认为新浪微博不错，当然也有些人认为新浪微博的收入增长过于依赖阿里巴巴。路演下来，新浪微博的认购情况并不佳，据说刚刚完成认购任务，远远低于之前去哪儿、58同城超额认购十几倍乃至几十倍的火爆情况。
 
 除微博外，另一家新浪占大股东的乐居（NYSE:LEJU）也在昨夜上市，收11.86美元，涨18.6%，盘中不稳，几度破发。乐居定价10美元，发行数量1000万股。
 
@@ -160,8 +160,8 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 - 2009年上半年，饭否的用户从30万激增到100万。
 - 2009年7月，中国关闭了包括饭否、叽歪在内的大多数微博。中国大陆境外的知名微博服务，如Twitter、Facebook和Plurk也无法访问。新浪CEO曹国伟将这事视为一个机会。
 - 2009年8月28日，新浪启动微博测试，成为国内最早推出微博服务的门户网站。
-- 2011年3月23日，新浪微博启用国内最短的域名[http://t.cn](https://link.zhihu.com/?target=http%3A//t.cn)提供短链接服务取代[http://sinaurl.cn](https://link.zhihu.com/?target=http%3A//sinaurl.cn)，实现短链接服务的升级。
-- 2011年4月7日，新浪微博正式启用新域名[http://weibo.com](https://link.zhihu.com/?target=http%3A//weibo.com)，被戏称为“面包牌面包”。
+- 2011年3月23日，新浪微博启用国内最短的域名[http://t.cn](http://t.cn)提供短链接服务取代[http://sinaurl.cn](http://sinaurl.cn)，实现短链接服务的升级。
+- 2011年4月7日，新浪微博正式启用新域名[http://weibo.com](http://weibo.com)，被戏称为“面包牌面包”。
 - 2011年4月21日，新浪CEO曹国伟入选《时代》周刊最具影响力人物100强。
 - 2011年5月13日，新浪微博加V认证在线系统正式上线，V认证不再需要单独人工审核。
 - 2012年4月，新浪微博宣布推出广告平台，全面启动商业化。
@@ -176,6 +176,6 @@ source: "https://zhuanlan.zhihu.com/p/19730381"
 
 （石剑、李欣对本文亦有贡献）
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-04-18/weibo-ipo-first-day-gained-19-percent/)
+[动点科技](http://cn.technode.com/post/2014-04-18/weibo-ipo-first-day-gained-19-percent/)
 
 ps. 对这里的各位看官，本文提到的可能是大家都知道的事情，如果里面有一部分是大家不知道的那就太好了；如果里面有些事情是我不知道的，**请联系我**

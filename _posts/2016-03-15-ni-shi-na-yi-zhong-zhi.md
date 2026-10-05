@@ -33,8 +33,8 @@ source: "https://zhuanlan.zhihu.com/p/20648238"
 
 *题图：维基百科*
 
-*你觉得自己是哪一种知乎用户？我这儿正好有  [一张调查问卷](https://link.zhihu.com/?target=http%3A//www.sojump.com/m/6781664.aspx%3F) ，你看到问题时候可能已经心里有数。这个问卷是为了一份硕士论文设计的，论文作者承诺对你的信息保密。*
+*你觉得自己是哪一种知乎用户？我这儿正好有  [一张调查问卷](http://www.sojump.com/m/6781664.aspx?) ，你看到问题时候可能已经心里有数。这个问卷是为了一份硕士论文设计的，论文作者承诺对你的信息保密。*
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-15/zhihu-pyramid-of-needs/)*
+*[动点科技](http://cn.technode.com/post/2016-03-15/zhihu-pyramid-of-needs/)*
 
 ![](/2016/03/15/ni-shi-na-yi-zhong-zhi/01.jpg)

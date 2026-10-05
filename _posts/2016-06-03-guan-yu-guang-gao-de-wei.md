@@ -37,7 +37,7 @@ source: "https://zhuanlan.zhihu.com/p/21295759"
 
 其实这些发展中国家的互联网市场的成长，一直令人印象深刻。早在一两年前，我就读过一个案例，有地方上网的人不多，连发传单成本都很高，所以他们想出了一个绝妙的主意，就是让当地的民众拨打一个电话号码——但不要接通，直接挂断。过几分钟之后，这个电话会回拨给机主，然后以语音的形式向他们播放广告内容。这样的话，民众不花钱就可以获知这些广告信息。
 
-像Facebook这样的巨头也推出了免费的互联网计划（也即[http://Internet.org](https://link.zhihu.com/?target=http%3A//Internet.org)），但是因为流量仅限制于几个网站而被印度政府叫停，理由是违反了网络中立的原则。从这里就可以看出，（任何国家都一样）政府很显然希望在互联网战略上再稍微保守一点，或者至少把主动权牢牢地控制在自己手中。但是企业们总会想办法突破一些规则的缺口去发展。
+像Facebook这样的巨头也推出了免费的互联网计划（也即[http://Internet.org](http://Internet.org)），但是因为流量仅限制于几个网站而被印度政府叫停，理由是违反了网络中立的原则。从这里就可以看出，（任何国家都一样）政府很显然希望在互联网战略上再稍微保守一点，或者至少把主动权牢牢地控制在自己手中。但是企业们总会想办法突破一些规则的缺口去发展。
 
 目前，不仅仅是美国巨头，中国的一些大公司也争相进入印度市场。如果把中国现在已经极其发达的各种广告形式，特别是跟中国的内容创业大潮相结合的各种软广告带到印度人的面前，那情境，怎一个爽字了得？
 
@@ -57,11 +57,11 @@ source: "https://zhuanlan.zhihu.com/p/21295759"
 
 不管你是创业者，自媒体，广告主还是普通的消费者／用户，要面对这样的一个未来，你都准备好了吗？
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//d.tech.sina.com.cn/contribute/post/detail/i/2016-06-03/pid_8507619.htm)
+[新浪（独家）](http://d.tech.sina.com.cn/contribute/post/detail/i/2016-06-03/pid_8507619.htm)
 
 [请去隔壁专栏给我赞赏](https://zhuanlan.zhihu.com/p/21295219#tipjar)
 
-> **微信公众号 [lifeissohappy](https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/tXXC2nrEeScGrT659yCn)**
+> **微信公众号 [lifeissohappy](http://weixin.qq.com/r/tXXC2nrEeScGrT659yCn)**
 >
 >
 >

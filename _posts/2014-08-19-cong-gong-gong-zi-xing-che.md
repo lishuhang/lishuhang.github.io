@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/19829176"
 
 我想，这才是汽车在“分享经济”时代的正确使用方法。
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/14/0819/08/A40EM5D9000915BF.html)
+[网易科技](http://tech.163.com/14/0819/08/A40EM5D9000915BF.html)
 
-题图：[北京公共自行车开放租赁](https://link.zhihu.com/?target=http%3A//china.huanqiu.com/hot/2012-10/3182045.html)
+题图：[北京公共自行车开放租赁](http://china.huanqiu.com/hot/2012-10/3182045.html)

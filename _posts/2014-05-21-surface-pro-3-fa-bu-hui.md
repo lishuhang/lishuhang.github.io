@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19757575"
 ---
 
-在[锤子的发布会](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-21/smartisan-t1-launch/)结束之后，大概在北京时间十一点多，微软Surface Pro 3的发布会也开始了。与锤子的宏大规模，甚至连门票都开始卖了的情景相比，这个发布会是在一个小范围内，以至于做讲解的微软人员可以把平板拿下来放到所有参会者的手中让他们去把玩。主要选择的参会对象也都是媒体人员。
+在[锤子的发布会](http://cn.technode.com/post/2014-05-21/smartisan-t1-launch/)结束之后，大概在北京时间十一点多，微软Surface Pro 3的发布会也开始了。与锤子的宏大规模，甚至连门票都开始卖了的情景相比，这个发布会是在一个小范围内，以至于做讲解的微软人员可以把平板拿下来放到所有参会者的手中让他们去把玩。主要选择的参会对象也都是媒体人员。
 
 历史上Surface曾经到达了这么一种惨状，也就是卖一台亏一台的程度。微软借助很多机会给人们赠送免费的上一代Surface——不然就只能积压在库房里面。所以有一段时间当微软的开发者还是挺“实惠”的。
 
@@ -25,4 +25,4 @@ Surface出来的时候分为两种类型，一种是只能够运行RT系统，�
 
 由此，Surface也站在了跟Air一样的起跑线上，也是在Windows之外还可以另行另外一套系统，而另一套系统也确实有值得夸耀的地方——那就是触摸。这种重新定位之下，很期待这类产品上市之后，对苹果的便携办公产品线产生冲击，促使双方同时都能生产出更好的设备。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-21/surface-pro-3-launch/)
+[动点科技](http://cn.technode.com/post/2014-05-21/surface-pro-3-launch/)

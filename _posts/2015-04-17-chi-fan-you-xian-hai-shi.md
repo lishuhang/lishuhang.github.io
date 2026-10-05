@@ -7,9 +7,9 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20005230"
 ---
 
-印度最近也跟美国一样开始执行网络中立政策。所谓网络中立的主要目的，是防止运营商以一些特殊的流量包形式，对某些大型的应用倾斜，比如说推出针对某种应用的免流量政策，使得其他的应用难以获得新用户。这本来是为了防止厂商与运营商勾结垄断的一件好事， [但是印度有一些公司却被迫因此退出了由 Facebook 发起的公益项目 internet.org](https://link.zhihu.com/?target=http%3A//qz.com/384865/facebooks-internet-org-is-falling-apart-in-india-as-the-country-debates-net-neutrality/)。当网络中立问题涉及到发展中国家的时候，就变成了一个吃饭优先还是公平优先的问题了。
+印度最近也跟美国一样开始执行网络中立政策。所谓网络中立的主要目的，是防止运营商以一些特殊的流量包形式，对某些大型的应用倾斜，比如说推出针对某种应用的免流量政策，使得其他的应用难以获得新用户。这本来是为了防止厂商与运营商勾结垄断的一件好事， [但是印度有一些公司却被迫因此退出了由 Facebook 发起的公益项目 internet.org](http://qz.com/384865/facebooks-internet-org-is-falling-apart-in-india-as-the-country-debates-net-neutrality/)。当网络中立问题涉及到发展中国家的时候，就变成了一个吃饭优先还是公平优先的问题了。
 
-[http://internet.org](https://link.zhihu.com/?target=http%3A//internet.org) 运动本意是让那些掏不起上网费的用户，可以使用免费的方式浏览一部分网页内容。比如说运营商可以向交不起上网费的用户免费开放 facebook 网站的浏览资格。这实际上是一种网络平权运动，使得没有办法交网费的人，也可以享受一定程度的互联网服务，让他们的起点达到公平。这对于来自贫穷家庭的孩子来说是尤其重要的。
+[http://internet.org](http://internet.org) 运动本意是让那些掏不起上网费的用户，可以使用免费的方式浏览一部分网页内容。比如说运营商可以向交不起上网费的用户免费开放 facebook 网站的浏览资格。这实际上是一种网络平权运动，使得没有办法交网费的人，也可以享受一定程度的互联网服务，让他们的起点达到公平。这对于来自贫穷家庭的孩子来说是尤其重要的。
 
 没有人会真正的无私奉献，这种免费的活动一般都是需要服务提供商来赞助的，Facebook 正是因为有钱才牵头了这个运动。而作为补偿，这些免费用户第一个接触到的网站就得是 Facebook。
 
@@ -21,4 +21,4 @@ source: "https://zhuanlan.zhihu.com/p/20005230"
 
 从源头来思考这个问题，那么网络中立政策很显然就不应该适用于那些连话费都交不起的人。所以实现网络中立政策的地方，应该对由企业牵头的公益性服务采取豁免。等到那些接受免费网络服务的人逐渐的成长起来，具有付费能力的时候，之前的免费上某个网站的业务也就不适用于他们。
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-17/zaobao0417/)*
+*[动点科技](http://cn.technode.com/post/2015-04-17/zaobao0417/)*

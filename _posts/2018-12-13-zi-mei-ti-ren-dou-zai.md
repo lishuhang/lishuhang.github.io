@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/52315724"
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@航通社](https://link.zhihu.com/?target=https%3A//weibo.com/lishuhang/)**
+本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@航通社](https://weibo.com/lishuhang/)**
 
 艺名“六小龄童”的章老师金莱先生，最近火了。他被网民尊称一句“六老师”，他的语录金句被结合起来，诞生了一门“新学科”——“六学”。
 

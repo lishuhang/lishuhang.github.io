@@ -7,9 +7,9 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20105153"
 ---
 
-7 号有媒体曝出 [一个研究机构 Slice 对 Apple Watch 销量的估计](https://link.zhihu.com/?target=http%3A//digi.163.com/15/0709/14/AU3CBV6300162OUT.html) ，确实令人大跌眼镜，说是 Apple Watch 的销量自开卖第一个星期以来已经锐减 90%。4 月 10 日 Apple Watch 上市一个星期之内，苹果卖出了 150 万只手表，平均每日约 20 万只。现在，Apple Watch 在美国市场的日均销量不足 2 万只，有的时候甚至不足 1 万只。
+7 号有媒体曝出 [一个研究机构 Slice 对 Apple Watch 销量的估计](http://digi.163.com/15/0709/14/AU3CBV6300162OUT.html) ，确实令人大跌眼镜，说是 Apple Watch 的销量自开卖第一个星期以来已经锐减 90%。4 月 10 日 Apple Watch 上市一个星期之内，苹果卖出了 150 万只手表，平均每日约 20 万只。现在，Apple Watch 在美国市场的日均销量不足 2 万只，有的时候甚至不足 1 万只。
 
-这个结论让很多人开始怀疑，苹果一直坚持的进入手表行业的决策是否是正确的。当然，捍卫苹果理论的 [AppleInsider 网站也反驳说](https://link.zhihu.com/?target=http%3A//appleinsider.com/articles/15/07/08/apple-watch-collapsing-sales-report-actually-shows-apple-is-crushing-smartwatch-sector) Slice 报告的调查方式是有问题的，这一调查是采用了从用户电子邮箱当中获得的订单邮件的分析，并没有包括线下卖场，同时对于网店的分析，也只把亚马逊一家纳入。该网站同时还进行包括其他智能手表和手环如 Pebble，Fitbit 的销量分析，这些产品因为已经推出一段时间，拥有更多的线下渠道，所以在没有被计入其他渠道的情况下，就会少算很多。
+这个结论让很多人开始怀疑，苹果一直坚持的进入手表行业的决策是否是正确的。当然，捍卫苹果理论的 [AppleInsider 网站也反驳说](http://appleinsider.com/articles/15/07/08/apple-watch-collapsing-sales-report-actually-shows-apple-is-crushing-smartwatch-sector) Slice 报告的调查方式是有问题的，这一调查是采用了从用户电子邮箱当中获得的订单邮件的分析，并没有包括线下卖场，同时对于网店的分析，也只把亚马逊一家纳入。该网站同时还进行包括其他智能手表和手环如 Pebble，Fitbit 的销量分析，这些产品因为已经推出一段时间，拥有更多的线下渠道，所以在没有被计入其他渠道的情况下，就会少算很多。
 
 ![](/2015/07/09/apple-watch-xiao-liang-yi-yun/01.jpg)
 
@@ -33,6 +33,6 @@ Slice 认为，Apple Watch 目前的供货程度正在改观，但是这并不�
 
 可以说手表确实是苹果一个探路的东西，相比苹果历史上最成功的产品来说，推出的时候并不是最成熟的时机。这反映了他们在决策上可能会有些草率。但是我们并非苹果管理层本人，无法确定真相是否如此。也许从另一个角度来说，当第二代手表上市的时候，我们没准才会发现苹果现在的布局，其实背后是一片良苦用心。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-09/apple-watch-sales-2015-mid/)
+[动点科技](http://cn.technode.com/post/2015-07-09/apple-watch-sales-2015-mid/)
 
 ![](/2015/07/09/apple-watch-xiao-liang-yi-yun/03.jpg)

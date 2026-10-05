@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/20557252"
 
 在艾瑞近期的几篇数据报告中，今日头条的 DAU（日活跃用户）只有几百万，和其他第三方数据报告的 3000 万以上的数字大相径庭。所以，只存在两种可能：艾瑞数据造假或者其他数据报告共同造假。
 
-如今  [大家看到的艾瑞官方回应](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-02-04/toutiao-iresearch-data/) 已经是措辞极为美化的版本，此前双方高层的火药味非常浓厚。
+如今  [大家看到的艾瑞官方回应](http://cn.technode.com/post/2016-02-04/toutiao-iresearch-data/) 已经是措辞极为美化的版本，此前双方高层的火药味非常浓厚。
 
 今日头条合伙人张利东：
 
@@ -27,7 +27,7 @@ source: "https://zhuanlan.zhihu.com/p/20557252"
 
 > 一鸣兄，今天立春，据说立春决定一年的运势，别吵架，别生气，和和气气高高兴兴地度过这一天，非常重要。这就给一年开个好兆头。一点资讯在过去一年发展迅猛，尽管数据还未被很多调研公司充分呈现，但我相信时间也相信产品本身的先进。我真心希望，在移动互联网的世界，经咱们大家伙的共同努力，有精彩的新闻头条，海量信息的发布和获取更有一点不同。开心些，祝福创业路上每个人在猴年好运气。
 
-此时我不禁想起  [自己两年前的一次采访](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-03-31/chinabang-talkingdata/) 。当时同样做数据分析和报告的 TalkingData 获得动点颁发的 ChinaBang 奖项。CEO 崔晓波认为，“中立性”指的是不切入与数据相关的其他行业，成为广告公司，游戏发行公司等等角色。
+此时我不禁想起  [自己两年前的一次采访](http://cn.technode.com/post/2014-03-31/chinabang-talkingdata/) 。当时同样做数据分析和报告的 TalkingData 获得动点颁发的 ChinaBang 奖项。CEO 崔晓波认为，“中立性”指的是不切入与数据相关的其他行业，成为广告公司，游戏发行公司等等角色。
 
 崔晓波认为仅靠忠实地生成数据也会提供自身的商业价值，同时对于有一部分发布报告的机构，“我不觉得它们是数据公司，我会认为他们是‘数据包装公司’。”
 
@@ -49,7 +49,7 @@ source: "https://zhuanlan.zhihu.com/p/20557252"
 >
 >
 >
-> 有一家旅游行业的公司（在这里我就不点名了），他们觉得他们很吃亏，不管是在设备覆盖率，还是活跃度这些指标上都比另一家要高得多，但是   [市面上所有的报告](https://link.zhihu.com/?target=http%3A//www.199it.com/archives/139119.html)  都说他们低，而在研究机构 E 的报告当中更低。他们就跑到我们这里来寻求帮助。我们在自己的平台去跑一圈数据验证一下，然后发现他们所说的数据是比对方要高三倍。所以结合当时的热点问题，我们在元旦时候就出了一个   [旅游行业的定向报告](https://link.zhihu.com/?target=http%3A//blog.talkingdata.net/%3Fp%3D1452)  ，然后   [反映出了他们所涉及的情况](https://link.zhihu.com/?target=http%3A//hot.qunar.com/news_nr.php%3Fid%3D1752)  。我们要讲究说真话，因为我们认为做数据是关乎道德的事情。
+> 有一家旅游行业的公司（在这里我就不点名了），他们觉得他们很吃亏，不管是在设备覆盖率，还是活跃度这些指标上都比另一家要高得多，但是   [市面上所有的报告](http://www.199it.com/archives/139119.html)  都说他们低，而在研究机构 E 的报告当中更低。他们就跑到我们这里来寻求帮助。我们在自己的平台去跑一圈数据验证一下，然后发现他们所说的数据是比对方要高三倍。所以结合当时的热点问题，我们在元旦时候就出了一个   [旅游行业的定向报告](http://blog.talkingdata.net/?p=1452)  ，然后   [反映出了他们所涉及的情况](http://hot.qunar.com/news_nr.php?id=1752)  。我们要讲究说真话，因为我们认为做数据是关乎道德的事情。
 >
 >
 >
@@ -91,6 +91,6 @@ source: "https://zhuanlan.zhihu.com/p/20557252"
 >
 > 只要我们可以为数据本身找到很好的变现渠道，我们就不需要通过编制报告来赚钱，这样的话就从根本上杜绝了数据屈从于资本作假的可能性。
 
-*题图： [TalkingData 宣布获得由麦顿资本领投，软银中国资本参与的 B 轮融资](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-29/talkingdata-round-b-interview/) 时，崔晓波（左一）和麦顿负责人回答媒体提问。*
+*题图： [TalkingData 宣布获得由麦顿资本领投，软银中国资本参与的 B 轮融资](http://cn.technode.com/post/2014-09-29/talkingdata-round-b-interview/) 时，崔晓波（左一）和麦顿负责人回答媒体提问。*
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-02-04/talkingdata-comment-on-web-reports/)![](/2016/02/04/tou-tiao-kai-si-ai-rui/01.jpg)*
+*[动点科技](http://cn.technode.com/post/2016-02-04/talkingdata-comment-on-web-reports/)![](/2016/02/04/tou-tiao-kai-si-ai-rui/01.jpg)*

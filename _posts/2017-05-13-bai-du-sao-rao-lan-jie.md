@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/26889791"
 ---
 
-2016 年，[百度面向国际市场推出 Du Caller 应用](https://link.zhihu.com/?target=http%3A//tech.ifeng.com/a/20161212/44513266_0.shtml) ，可以在 Android 系统过滤潜在的垃圾电话，鉴定未知号码。[香港有机构“传真社”发现](https://link.zhihu.com/?target=https%3A//www.factwire.org/single-post/2017/05/13/%25E7%2599%25BE%25E5%25BA%25A6%25E6%2597%2597%25E4%25B8%258B%25E6%2587%2589%25E7%2594%25A8%25E7%25A8%258B%25E5%25BC%258F%25E6%25B6%2589%25E4%25BE%25B5%25E7%25A7%2581%25E9%259A%25B1-%25E4%25B8%25AD%25E6%25B8%25AF%25E9%25AB%2598%25E5%25AE%2598%25E6%2589%258B%25E6%25A9%259F%25E8%2599%259F%25E7%25A2%25BC%25E5%25A4%2596%25E6%25B4%25A9) 这款 Du Caller 在安装之后，可以随意查询用户自行录入的机主信息。
+2016 年，[百度面向国际市场推出 Du Caller 应用](http://tech.ifeng.com/a/20161212/44513266_0.shtml) ，可以在 Android 系统过滤潜在的垃圾电话，鉴定未知号码。[香港有机构“传真社”发现](https://www.factwire.org/single-post/2017/05/13/%E7%99%BE%E5%BA%A6%E6%97%97%E4%B8%8B%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%B6%89%E4%BE%B5%E7%A7%81%E9%9A%B1-%E4%B8%AD%E6%B8%AF%E9%AB%98%E5%AE%98%E6%89%8B%E6%A9%9F%E8%99%9F%E7%A2%BC%E5%A4%96%E6%B4%A9) 这款 Du Caller 在安装之后，可以随意查询用户自行录入的机主信息。
 
 本来这个功能设置是为了方便标注推销电话，快递送餐等等，但是也有一些人会非常仔细的标注来电者的名称和职位，这就导致了一些真实人物的手机号码泄露。实际上，即使自己没有装过，都会可能被自己好友或者交换过号码的联系人外泄，因为该应用会引导用户标记自己接听的陌生来电。
 
@@ -21,4 +21,4 @@ Du Caller 用户数据会直接被上传到百度在北京的服务器。用户�
 
 香港私隐专员公署曾提示，使用不在香港的管辖区之内的产品，争议解决不适用香港法律，维权会较为艰难。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-05-13/du-caller-hk-breach/)
+[动点科技](http://cn.technode.com/post/2017-05-13/du-caller-hk-breach/)

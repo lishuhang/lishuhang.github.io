@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20706411"
 ---
 
-3月初，[焰火工坊CEO娄池向新浪科技表示](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/it/2016-03-02/doc-ifxpvysv5080679.shtml)，担忧消费者被“劣币”和噱头伤害，最终导致整个VR行业迅速沉寂。他说，在一个仍在打基础，技术还不成熟的新兴行业，如果消费者最先接触到的是体验非常差的VR产品，负面印象难以抹去，对行业会是沉重打击。娄池说，VR硬件企业已经从2014年的200多家下降到2015年的50-60家，今年最终能活下来的估计也就5-6家左右。
+3月初，[焰火工坊CEO娄池向新浪科技表示](http://tech.sina.com.cn/it/2016-03-02/doc-ifxpvysv5080679.shtml)，担忧消费者被“劣币”和噱头伤害，最终导致整个VR行业迅速沉寂。他说，在一个仍在打基础，技术还不成熟的新兴行业，如果消费者最先接触到的是体验非常差的VR产品，负面印象难以抹去，对行业会是沉重打击。娄池说，VR硬件企业已经从2014年的200多家下降到2015年的50-60家，今年最终能活下来的估计也就5-6家左右。
 
 国内VR行业目前存在多方面的问题，其中有一部分企业直接拿国外产品来山寨，硬件用户体验十分糟糕。这个问题我们按下不表，主要来说一下现在依然无米下炊的VR产业，如何一步一步积累足够多的内容，不至于倒在“黎明前的黑暗”里。
 
@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/20706411"
 
 VR内容一方面需要从头开始制作，另一方面也可以从现有产品的转制开始。因为目前一部分VR设备可以直接向下兼容2D视频资源，这也使得现有的一些2D内容所有者能画出VR大饼，也成就了乐视和暴风的股价上涨。但是单纯看一场巨幕电影显然不足以称为VR。
 
-早在十多年前就诞生的拍摄360度全景照片的技术，现在已经普及，街景地图遍地都有。现在各种媒体制作的第一批虚拟现实内容，包括纽约时报探访特朗普选战现场和叙利亚危机，[日本广播协会（NHK）采访福岛灾后重建](https://link.zhihu.com/?target=http%3A//www.nhk.or.jp/d-navi/vr/)，以及[国内的记者两会时拍摄人民大会堂](https://link.zhihu.com/?target=http%3A//n.sinaimg.cn/mobileh5/greathallofthepeople-sinaphoto360/GreatHallOfThePeople/index_4.html)，全都是把360度全景图片转换成了VR资源。
+早在十多年前就诞生的拍摄360度全景照片的技术，现在已经普及，街景地图遍地都有。现在各种媒体制作的第一批虚拟现实内容，包括纽约时报探访特朗普选战现场和叙利亚危机，[日本广播协会（NHK）采访福岛灾后重建](http://www.nhk.or.jp/d-navi/vr/)，以及[国内的记者两会时拍摄人民大会堂](http://n.sinaimg.cn/mobileh5/greathallofthepeople-sinaphoto360/GreatHallOfThePeople/index_4.html)，全都是把360度全景图片转换成了VR资源。
 
 ![](/2016/04/04/cong-ling-kai-shi-chuang-zuo/01.jpg)
 
@@ -61,10 +61,10 @@ VR内容一方面需要从头开始制作，另一方面也可以从现有产品
 
 
 
-在一次开发者活动上，[Oculus 故事工作室的创始人 Max Planck](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/mobile/n/n/2016-03-18/doc-ifxqnski7700201.shtml) 希望带领开发者重温100多年前电影诞生的历史。由“万花筒”、“拉洋片”过渡到现在纷繁复杂的叙事语言，是一个循序渐进的过程。他强调，开发者不要一开始就去制作很长的、开放性的、有着大量互动的体验，而是应该一步一步向前走。首先，他们应专注于简短的、更为精致的体验。
+在一次开发者活动上，[Oculus 故事工作室的创始人 Max Planck](http://tech.sina.com.cn/mobile/n/n/2016-03-18/doc-ifxqnski7700201.shtml) 希望带领开发者重温100多年前电影诞生的历史。由“万花筒”、“拉洋片”过渡到现在纷繁复杂的叙事语言，是一个循序渐进的过程。他强调，开发者不要一开始就去制作很长的、开放性的、有着大量互动的体验，而是应该一步一步向前走。首先，他们应专注于简短的、更为精致的体验。
 
 相应的，如果VR发展果真可以遵循当年电影工业的节奏，那出现我们现在想像不到的突破性叙事语言，似乎等个十几年就能出来了吧？
 
-[Tech2IPO](https://link.zhihu.com/?target=http%3A//tech2ipo.com/10028812)
+[Tech2IPO](http://tech2ipo.com/10028812)
 
 ![](/2016/04/04/cong-ling-kai-shi-chuang-zuo/06.jpg)

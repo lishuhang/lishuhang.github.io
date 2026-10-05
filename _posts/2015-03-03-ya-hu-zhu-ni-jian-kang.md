@@ -9,15 +9,15 @@ source: "https://zhuanlan.zhihu.com/p/19966275"
 
 过去一天当中最重大的科技新闻是
 
-[纳斯达克指数再度冲上 5000 点](https://link.zhihu.com/?target=http%3A//www.usatoday.com/story/money/2015/03/02/nasdaq-5000-technology-stocks-internet/24061919/)
+[纳斯达克指数再度冲上 5000 点](http://www.usatoday.com/story/money/2015/03/02/nasdaq-5000-technology-stocks-internet/24061919/)
 
 ，这已经是
 
-[世纪之交的互联网泡沫之后](https://link.zhihu.com/?target=http%3A//www.people.com.cn/GB/channel3/24/20000310/15004.html)
+[世纪之交的互联网泡沫之后](http://www.people.com.cn/GB/channel3/24/20000310/15004.html)
 
 再难得一见的景象。这让我联想到一些有关于“我们从哪里来”以及“我们到何处去”的事情。
 
-互联网的日子简直是“神仙日子”，为啥？因为“天上一日，地下一年”。如果一家公司有 10 年历史已经算是人间百岁老寿星了， [而 20 年坚持下来的雅虎](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/374079.htm)简直就是互联网界资深老妖精+活化石。
+互联网的日子简直是“神仙日子”，为啥？因为“天上一日，地下一年”。如果一家公司有 10 年历史已经算是人间百岁老寿星了， [而 20 年坚持下来的雅虎](http://www.cnbeta.com/articles/374079.htm)简直就是互联网界资深老妖精+活化石。
 
 这 20 年，雅虎不是没有过危机时刻。2008 年 2 月 1 日，微软宣布计划以每股 31 美元，总共约 446 亿美元现金和股票，收购雅虎全部已经发行普通股，如果并购成功，这将是继时代华纳并购美国在线（AOL）以来史上第二大并购案。但是雅虎并不满意微软的收购计划，认为低估了雅虎的价值。同时雅虎试图与 Google 结盟，以此作为微软收购的另外选择。
 
@@ -35,7 +35,7 @@ source: "https://zhuanlan.zhihu.com/p/19966275"
 
 ![](/2015/03/03/ya-hu-zhu-ni-jian-kang/01.jpg)
 
-（2014.10 统计，[来源](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20141022/021144.htm)）
+（2014.10 统计，[来源](http://tech.qq.com/a/20141022/021144.htm)）
 
 而梅姐具体做的，就是改变了雅虎的结构，让收购的小型互联网公司在雅虎羽翼下独立成长，把它们的总体成就算作公司的成就，也就是给公司换血，替代门户和搜索广告这两项传统业务的重心。
 
@@ -45,4 +45,4 @@ source: "https://zhuanlan.zhihu.com/p/19966275"
 
 和每个经历过雅虎初创时候互联网样子的老网民一样，我深深感谢雅虎中国（在 1990 年代是总公司直属运营）给我带来互联网启蒙的乐趣，感谢雅虎写进了中国最大互联网企业之一阿里巴巴的历史，甚至感谢从雅虎走出的周鸿祎，给我们科技记者带来了无穷无尽的新闻富矿。雅虎，敬你一杯，祝你健康长寿！
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-03-03/zaobao0303/)*
+*[动点科技](http://cn.technode.com/post/2015-03-03/zaobao0303/)*

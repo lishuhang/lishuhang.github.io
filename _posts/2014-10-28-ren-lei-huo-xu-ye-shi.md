@@ -57,4 +57,4 @@ source: "https://zhuanlan.zhihu.com/p/19879139"
 
 现代机器人特别向着人工智能和自我繁殖这两个方向发展，是将机器人塑造的越来越像是我们自己的努力。这个时代很可能加速来临。我们的社会准备好迎接这一切了吗？
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/33940)
+[百度百家](http://lishuhang.baijia.baidu.com/article/33940)

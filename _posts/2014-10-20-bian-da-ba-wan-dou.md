@@ -49,4 +49,4 @@ source: "https://zhuanlan.zhihu.com/p/19873363"
 
 也许，那就是创业公司的“青春”吧。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-10-20/keep-calm-and-growing-up/)
+[动点科技](http://cn.technode.com/post/2014-10-20/keep-calm-and-growing-up/)

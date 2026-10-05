@@ -7,9 +7,9 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/24861869"
 ---
 
-鸟叔推出的第二首主打单曲 [《绅士》](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/av1084468/) 虽然也获得了不错的播放次数，仅仅四天时间播放量就过亿，超过了当年江南 style 的增长速度，但是此后却高开低走，后继乏力。鸟叔在接受商业活动、采访的时候，依然是以江南 style 作为主打。他的第三首新歌也遥遥无期。
+鸟叔推出的第二首主打单曲 [《绅士》](http://www.bilibili.com/video/av1084468/) 虽然也获得了不错的播放次数，仅仅四天时间播放量就过亿，超过了当年江南 style 的增长速度，但是此后却高开低走，后继乏力。鸟叔在接受商业活动、采访的时候，依然是以江南 style 作为主打。他的第三首新歌也遥遥无期。
 
-现在尽管[《I like OJ》](https://link.zhihu.com/?target=http%3A//www.bilibili.com/video/av7928845/)在 7 日上线后的五天之内播放次数超过 500 万次，但是这同样是因为人们尝鲜，想要看一看这位吃了苹果和菠萝的怪人又拿什么水果开涮的猎奇心理。所以，我们都得等着瞧他在这首橙汁之后的下一首歌表现如何。
+现在尽管[《I like OJ》](http://www.bilibili.com/video/av7928845/)在 7 日上线后的五天之内播放次数超过 500 万次，但是这同样是因为人们尝鲜，想要看一看这位吃了苹果和菠萝的怪人又拿什么水果开涮的猎奇心理。所以，我们都得等着瞧他在这首橙汁之后的下一首歌表现如何。
 
 从 PPAP 和江南 Style 流行的过程可以发现，PPAP 火爆的关键节点是贾斯汀·比伯给他点赞，此后所有的明星，甚至特朗普都从他的孙女嘴里得知了这首歌。而当年江南 style 的走红也是同样因为比伯的经纪人、以及说唱歌手提潘等率先发现，并且在圈内流传。
 
@@ -17,4 +17,4 @@ source: "https://zhuanlan.zhihu.com/p/24861869"
 
 安迪. 沃霍尔曾经说，在未来每个人都有 15 分钟的成名时间。如果要想让一个人火爆一次，那没有什么问题，但如果想持续火爆，你必须成为圈内的一份子，到哪都一样。
 
-全文：[http://cn.technode.com/post/2017-01-13/ppap-i-like-oj/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-01-13/ppap-i-like-oj/)
+全文：[http://cn.technode.com/post/2017-01-13/ppap-i-like-oj/](http://cn.technode.com/post/2017-01-13/ppap-i-like-oj/)

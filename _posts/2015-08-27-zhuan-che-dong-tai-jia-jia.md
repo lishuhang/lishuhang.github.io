@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/20185038"
 
 我在之前也提到过，不管是专车，快车还是顺风车服务，只有等到他们完全有能力替代全市所有的出租车系统的时候，他们才真正具有跟政府议价的能力。然而能力越大，责任越大。他们既然可以逼迫所有的传统出租车司机停驶，那么，在人民真正需要他的时候，他也应该担负起作为公共服务的责任。同样也是在那个时候，我们除了坐快车或顺风车之外，再也没有了坐回传统出租车的选择——只有在那个时候，我们抱怨加价是霸王条款，才是正当合理的诉求。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/149326)
+[百度百家](http://lishuhang.baijia.baidu.com/article/149326)
 
 ![](/2015/08/27/zhuan-che-dong-tai-jia-jia/01.jpg)

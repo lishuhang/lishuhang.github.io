@@ -79,4 +79,4 @@ source: "https://zhuanlan.zhihu.com/p/19796078"
 
 广电似乎正在替他们做出选择——如果习惯了原来的节目，就用那些节目继续下去也无所谓。似乎确实如此；可我只是觉得，他们理应拥有更好的选择。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-08/devices-contents-and-licenses/)
+[动点科技](http://cn.technode.com/post/2014-07-08/devices-contents-and-licenses/)

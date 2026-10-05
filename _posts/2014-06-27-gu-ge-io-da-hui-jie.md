@@ -51,4 +51,4 @@ Metro设计风格是需要大量的空间和留白来显出层次感，iOS 7设�
 
 所以如果这样考虑的话，采取像谷歌这样直接移植的方式，可以让PC做的事情保持最多，也让人们在PC平台上继续保持更高的生产率。毕竟，那些专门为触摸所设计的游戏，你移植到电脑上也玩不了。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-26/google-io-interface-updates/)
+[动点科技](http://cn.technode.com/post/2014-06-26/google-io-interface-updates/)

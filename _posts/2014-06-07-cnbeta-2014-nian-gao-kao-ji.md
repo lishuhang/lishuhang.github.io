@@ -49,4 +49,4 @@ source: "https://zhuanlan.zhihu.com/p/19772281"
 
 *2014.6.7*
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/299107.htm)
+[cnBeta](http://www.cnbeta.com/articles/299107.htm)

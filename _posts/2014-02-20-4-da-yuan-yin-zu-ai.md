@@ -59,10 +59,10 @@ IE 的发家史很多人都已经了解，微软是通过在操作系统中捆�
 
 但是根据上面所说的几点，可以说，这些宣传战役是完全没有触及要害。加入与操作融合更自然的插件平台，不再试图“教育用户”将桌面和平板浏览体验统一，可能是更好的开始，这会让有心回到 IE 的用户不必因为使用上的不习惯望而却步。
 
-[财经网](https://link.zhihu.com/?target=http%3A//column.caijing.com.cn/2014-02-19/113932825.html)
+[财经网](http://column.caijing.com.cn/2014-02-19/113932825.html)
 
 
 
 题图：
 
-[IE官方微博](https://link.zhihu.com/?target=http%3A//weibo.com/1972770433/AwEKwggd5)
+[IE官方微博](http://weibo.com/1972770433/AwEKwggd5)

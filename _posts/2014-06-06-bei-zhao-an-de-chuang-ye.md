@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19771540"
 ---
 
-动点科技“招安”系列报道今日继续（[阿里篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-04-29/zhaoan-series-alibaba/)；[百度篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-15/zhaoan-series-baidu/)）。本周我们关注的是围绕在腾讯身边的创业公司的故事，包括Foxmail，易迅和搜狗。
+动点科技“招安”系列报道今日继续（[阿里篇](http://cn.technode.com/post/2014-04-29/zhaoan-series-alibaba/)；[百度篇](http://cn.technode.com/post/2014-05-15/zhaoan-series-baidu/)）。本周我们关注的是围绕在腾讯身边的创业公司的故事，包括Foxmail，易迅和搜狗。
 
 在几年前，腾讯给人留下一种“铁蹄踏过，寸草不生”的印象。凡是被腾讯看上的公司，几乎没有一个有好下场。本文试图通过三个结论，说明这种印象其实很大程度上被夸大了。
 
@@ -73,8 +73,8 @@ source: "https://zhuanlan.zhihu.com/p/19771540"
 
 我们的第三个结论：在注资搜狗时，腾讯尚未完成其收购和投资策略的真正转变。
 
-动点科技之前曾经[专门写过一篇比较长的文章](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-03-06/tencent-from-copycat-to-big-buyer/)，详细地分析了腾讯投资策略的这种转变。
+动点科技之前曾经[专门写过一篇比较长的文章](http://cn.technode.com/post/2014-03-06/tencent-from-copycat-to-big-buyer/)，详细地分析了腾讯投资策略的这种转变。
 
-【专题】“招安”系列报道：[阿里篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-04-29/zhaoan-series-alibaba/)[百度篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-15/zhaoan-series-baidu/)
+【专题】“招安”系列报道：[阿里篇](http://cn.technode.com/post/2014-04-29/zhaoan-series-alibaba/)[百度篇](http://cn.technode.com/post/2014-05-15/zhaoan-series-baidu/)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-06/zhaoan-series-tencent/)
+[动点科技](http://cn.technode.com/post/2014-06-06/zhaoan-series-tencent/)

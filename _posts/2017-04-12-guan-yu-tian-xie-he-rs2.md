@@ -12,12 +12,12 @@ source: "https://zhuanlan.zhihu.com/p/26329479"
 参考内容：
 
 - [如何评价2017年4月6日 DF（Digital Foundry）独家公布的天蝎座的参数配置及其内容？](https://www.zhihu.com/question/58121851/answer/155742953)
-- [Inside the next Xbox: Project Scorpio tech revealed](https://link.zhihu.com/?target=http%3A//www.eurogamer.net/articles/digitalfoundry-2017-project-scorpio-tech-revealed)
-- [Windows 10 新界面 Project NEON 或将拥有半透明开始菜单](https://link.zhihu.com/?target=http%3A//livesino.net/archives/9663.live)
-- [微软 4 月 11 日正式推送 Windows 10 Creators Update](https://link.zhihu.com/?target=http%3A//livesino.net/archives/9653.live)
+- [Inside the next Xbox: Project Scorpio tech revealed](http://www.eurogamer.net/articles/digitalfoundry-2017-project-scorpio-tech-revealed)
+- [Windows 10 新界面 Project NEON 或将拥有半透明开始菜单](http://livesino.net/archives/9663.live)
+- [微软 4 月 11 日正式推送 Windows 10 Creators Update](http://livesino.net/archives/9653.live)
 
 收听方式：
 
-- Windows Phone和安卓用户请使用泛用型播客来订阅我们的播客，点击[此处](https://link.zhihu.com/?target=http%3A//www.lizhi.fm/rss/1815202.xml)进行订阅；
-- iOS用户请直接从iTunes中搜索LiveFM播客，或者[点击此处](https://link.zhihu.com/?target=https%3A//itunes.apple.com/cn/podcast/livefm-zhong-wen-zai-xian-ting/id1114541523%25253Fmt%25253D2)打开iTunes市场；
+- Windows Phone和安卓用户请使用泛用型播客来订阅我们的播客，点击[此处](http://www.lizhi.fm/rss/1815202.xml)进行订阅；
+- iOS用户请直接从iTunes中搜索LiveFM播客，或者[点击此处](https://itunes.apple.com/cn/podcast/livefm-zhong-wen-zai-xian-ting/id1114541523%253Fmt%253D2)打开iTunes市场；
 - 网易云音乐和各大播客APP请直接在应用中搜索“LiveFM”

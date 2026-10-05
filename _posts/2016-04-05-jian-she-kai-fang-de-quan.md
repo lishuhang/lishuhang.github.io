@@ -57,6 +57,6 @@ source: "https://zhuanlan.zhihu.com/p/20704855"
 
 为了建造一个学习型的社会，大学必须发挥它能做的全部贡献。而建设一个开放的，全民学习的大学，是我能想到的通往学习型社会的最好途径。
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-04-05/pid_8505719.htm)
+[新浪（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-04-05/pid_8505719.htm)
 
 ![](/2016/04/05/jian-she-kai-fang-de-quan/01.jpg)

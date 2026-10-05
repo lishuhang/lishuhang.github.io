@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20004287"
 ---
 
-*2015 年，那是一个春天，有一位姓丁的男人，[在接受总理访问的时候画了一个圈](https://link.zhihu.com/?target=http%3A//politics.people.com.cn/n/2015/0415/c70731-26845015.html) ……*
+*2015 年，那是一个春天，有一位姓丁的男人，[在接受总理访问的时候画了一个圈](http://politics.people.com.cn/n/2015/0415/c70731-26845015.html) ……*
 
 > “不过，现在我们的流量费很贵，1G 就要 70 元，我觉得这可能会成为一个障碍。”丁磊说。
 >
@@ -15,7 +15,7 @@ source: "https://zhuanlan.zhihu.com/p/20004287"
 >
 > 李克强当即对有关部门负责人说，可以研究如何把流量费降下来，“薄利多销”。
 
-所以今天我就看到了 [工信部对于总理发话的具体的一个回应](https://link.zhihu.com/?target=http%3A//epaper.bjnews.com.cn/html/2015-04/16/content_572155.htm%3Fdiv%3D-1) 。
+所以今天我就看到了 [工信部对于总理发话的具体的一个回应](http://epaper.bjnews.com.cn/html/2015-04/16/content_572155.htm?div=-1) 。
 
 > 对于社会关注“手机流量资费贵和网速慢”，昨晚，工信部表示，工信部一直与相关部委共同深入落实“宽带中国战略”，推动企业加大网络投资、降低手机流量资费。为落实李克强总理指示，工信部将加大今年宽带专项行动中“加快 4G 建设”、“大幅提升网速”等工作的力度，使老百姓上网速度更快，价格更优惠。
 
@@ -31,4 +31,4 @@ source: "https://zhuanlan.zhihu.com/p/20004287"
 
 仅仅要实现这样的愿望也是挺困难的，希望总理的呼吁可以加快这愿望实现的进程。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-16/zaobao0416/)
+[动点科技](http://cn.technode.com/post/2015-04-16/zaobao0416/)

@@ -25,6 +25,6 @@ source: "https://zhuanlan.zhihu.com/p/20138561"
 
 如果有创业者在面对 VC 的时候捂着盖着，想不能把点子告诉投资人，怕他们用执行力抄一个出来，那他们还用微信做业务交流，在这种情境下就显得有些可笑。因为对 VC 隐瞒其实也真没什么用，点子从各种意义上都是最不值钱的。过了这么久都没有出现泄密导致的损失，也只能说明根本就没什么秘密可言。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-31/enterprise-im-security/)
+[动点科技](http://cn.technode.com/post/2015-07-31/enterprise-im-security/)
 
 ![](/2015/07/31/qi-ye-she-jiao-he-xie/01.jpg)

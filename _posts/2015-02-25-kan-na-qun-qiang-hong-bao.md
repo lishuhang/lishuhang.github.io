@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/19961833"
 
 朋友们，为了面子发红包的时候可一定要警惕——其实人家发回来的时候，你把相同钱数的包退回去不就结了嘛？
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-02-25/war-of-hongbao-2015/)
+[动点科技](http://cn.technode.com/post/2015-02-25/war-of-hongbao-2015/)

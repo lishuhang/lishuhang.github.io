@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/22595029"
 >
 > 目前，锤子自称有信心在年底前开发布会公布下一版新机型。但是，吃瓜群众们正揪着三星爆炸不放，根本没多少心思放在锤子上面。对于自称自带粉丝可以替代所有科技媒体宣传，因此和媒体关系搞的很僵的老罗而言，从聚光灯中走下来恐怕是更恐怖的事。
 
-完整全文请点击：[http://cn.technode.com/post/2016-09-23/smartisan-xiaomi-merge-gossip/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-23/smartisan-xiaomi-merge-gossip/)
+完整全文请点击：[http://cn.technode.com/post/2016-09-23/smartisan-xiaomi-merge-gossip/](http://cn.technode.com/post/2016-09-23/smartisan-xiaomi-merge-gossip/)
 
 
 

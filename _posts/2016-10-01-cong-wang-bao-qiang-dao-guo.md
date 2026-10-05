@@ -125,7 +125,7 @@ source: "https://zhuanlan.zhihu.com/p/22722406"
 
 兴许，微信首次刊登朋友圈广告时候的办法可以作为最佳参考：传说，一部分“土豪”看到了高大上的宝马广告，普通群众则只能看见“可口可乐”广告……那么，你想成为《经济学人》还是杜蕾斯，也当然全看你自己的选择，并无高下之分。
 
-[百度德尔塔俱乐部公众号（微信：delta-2013）](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NzAzNDUwNA%3D%3D%26mid%3D2650019571%26idx%3D1%26sn%3Dc6ca8ee5daed3c4df4fd619e279c8d6f)
+[百度德尔塔俱乐部公众号（微信：delta-2013）](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650019571&idx=1&sn=c6ca8ee5daed3c4df4fd619e279c8d6f)
 
 
 

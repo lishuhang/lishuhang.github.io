@@ -9,11 +9,11 @@ source: "https://zhuanlan.zhihu.com/p/20132382"
 
 一切的开始和其他任何成功的众筹项目一样，直到4天之后戛然而止。
 
-[在众筹网站Kickstarter上的明星项目Dot耳机](https://link.zhihu.com/?target=https%3A//www.kickstarter.com/projects/sospeciallabs/dot-worlds-smallest-bluetooth-headset)，2015年7月7日开始众筹。短短三天内已经获得3086名支持者，他们本打算3万美元的筹资目标也超额的完成到了291349美元。
+[在众筹网站Kickstarter上的明星项目Dot耳机](https://www.kickstarter.com/projects/sospeciallabs/dot-worlds-smallest-bluetooth-headset)，2015年7月7日开始众筹。短短三天内已经获得3086名支持者，他们本打算3万美元的筹资目标也超额的完成到了291349美元。
 
 这个明星项目Dot号称是世界上最小的蓝牙耳机。没错，它就只有耳机本体，只是一个入耳式耳机能够做到的最小厚度。两个耳机之间没有线连接，里面的小型电池可以听大概一个小时的音乐，而如果时不时的把它摘下来放到耳机套里——同时也是一个无线充电装置，那么最多可以维持6个小时的音乐，9个小时的待机接听电话。它的重量只有3.5克，考究的黑色磨砂外壳配上银色的金属边框，入耳的一面甚至还比不上你手指甲大。也许除了怕这东西会跑步时候滑落弄丢之外，一切都是非常完美的选择。
 
-Dot的建议零售价是99美元。公司还承诺会在今年年底推出该扬声器的立体声版本，建议零售价是149美元。然而好梦到此为止——人们在另外一个网站发现了一款名叫Enjoyou的耳机，**跟Dot的设计都不能说是相似了——而是一模一样。**销售者是**中国“深圳市谱华高科电子有限公司”**，[他们在类似阿里巴巴的海外批发网站globalsources展开该耳机批发](https://link.zhihu.com/?target=http%3A//enjoyou.manufacturer.globalsources.com/si/6008849353407/pdtl/Bluetooth-headset/1105713585/Bluetooth-Headset.htm)，最低进货1000套起，**而批发价只有——你猜是多少？——16美元。**
+Dot的建议零售价是99美元。公司还承诺会在今年年底推出该扬声器的立体声版本，建议零售价是149美元。然而好梦到此为止——人们在另外一个网站发现了一款名叫Enjoyou的耳机，**跟Dot的设计都不能说是相似了——而是一模一样。**销售者是**中国“深圳市谱华高科电子有限公司”**，[他们在类似阿里巴巴的海外批发网站globalsources展开该耳机批发](http://enjoyou.manufacturer.globalsources.com/si/6008849353407/pdtl/Bluetooth-headset/1105713585/Bluetooth-Headset.htm)，最低进货1000套起，**而批发价只有——你猜是多少？——16美元。**
 
 ![](/2015/07/28/zhong-guo-chuang-zao-dao-di/01.jpg)
 
@@ -29,7 +29,7 @@ Dot的建议零售价是99美元。公司还承诺会在今年年底推出该扬
 
 放眼整个国外众筹领域，我们会看到更多触目惊心的案例。那些短时间内筹得大量资金的移动电源，插座，手机壳，以及其他各种各样的感应器和小型装置，其设计和制造全都来自深圳。然而经过高雅的包装之后，它们却改头换面并课以不可思议的高价。
 
-所以，站在美国人的角度，[数码资讯网站digital trends在知道了来龙去脉之后](https://link.zhihu.com/?target=http%3A//www.digitaltrends.com/music/kickstarter-vigilantes-dot-earbuds/)，把在Kickstarter喷的那些人称为“暴徒”，说“因为这些喷子们毁掉了一个好端端的众筹项目”。
+所以，站在美国人的角度，[数码资讯网站digital trends在知道了来龙去脉之后](http://www.digitaltrends.com/music/kickstarter-vigilantes-dot-earbuds/)，把在Kickstarter喷的那些人称为“暴徒”，说“因为这些喷子们毁掉了一个好端端的众筹项目”。
 
 然而在我看来，恰巧相反。“暴徒”们做的对，而**这个很不巧曝光的例子，说明了众筹对于产品真正原创者惨无人道的剥削。只是因为它以进货方式输出，而并未要求利益更丰厚的特许授权费，就允许分销商把批发16美元的东西炒到99美元，且差价他们会完全据为己有。**
 
@@ -47,6 +47,6 @@ Dot的丑闻至少可以从一个侧面向你解释，现在不仅仅是中国�
 
 当然在Kickstarter现在来自中国的项目其实不少，中国公司也积极借助了解本地市场的本地办公室，让自己在国外更“接地气”。希望这可以给一些有原创能力的中国公司一个提醒：**你们距离成为让全球都尊敬和憧憬的企业，没准只有一步之遥。**
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2015-07-28/pid_8484119.htm)（独家供稿 请勿转载）
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/it/2015-07-28/pid_8484119.htm)（独家供稿 请勿转载）
 
 ![](/2015/07/28/zhong-guo-chuang-zao-dao-di/02.jpg)

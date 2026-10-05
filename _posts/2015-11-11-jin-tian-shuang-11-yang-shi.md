@@ -99,6 +99,6 @@ source: "https://zhuanlan.zhihu.com/p/20333479"
 
 画面以天猫的双 11 官方宣传片的节选做结，最后贴上了“1111，电商搅动世界”的标语。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-11-11/cctv2-1111-doc/)
+[动点科技](http://cn.technode.com/post/2015-11-11/cctv2-1111-doc/)
 
 ![](/2015/11/11/jin-tian-shuang-11-yang-shi/26.jpg)

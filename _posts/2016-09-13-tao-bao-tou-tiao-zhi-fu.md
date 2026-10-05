@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/22437960"
 
 所以，如果你是一个喜欢写点评的达人，作为有能力生产文章的作者，今后你可以把这个兴趣变成白花花的银子了。但是，是选择跟平台签独家合约，还是选择把文章发布在尽可能多的平台上，这是一个需要认真对待的问题。我个人的意见是，尽可能的发布到所有平台，这会对长远发展更有利。即使短期收益不如买断那么高，但是可以避免在一棵树上吊死的风险。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-13/dianping9/)
+[动点科技](http://cn.technode.com/post/2016-09-13/dianping9/)
 
 > 微信公众号 lifeissohappy
 >

@@ -25,4 +25,4 @@ source: "https://zhuanlan.zhihu.com/p/20027464"
 
 所以也许，正是坚持呈现原有版式与否，造就了“重新排版”和“降低亮度”两种解决黑暗环境阅读的办法，而“重新排版”正在占据上风。这必须要感谢中国比其他地方残酷得多的应用竞争环境，让开发者都得变着法子讨好用户。未来也许会有更多此类经验经过中国用户的检验，慢慢地被世界其他地方所接受。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-05-11/zaobao0511/)
+[动点科技](http://cn.technode.com/post/2015-05-11/zaobao0511/)

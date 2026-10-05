@@ -117,6 +117,6 @@ source: "https://zhuanlan.zhihu.com/p/20156449"
 
 以上就是这场让所有被阿里邀请来的媒体记者都感到啼笑皆非的发布会的全过程。 **我们的记者生涯还从没看到过这么神秘的发布会行程，这让我有一种深刻的参与感，似乎共同经历了创造历史的过程一样——当然，这同样是一种错觉。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-11/behind-alibaba-suning-press-conf/)
+[动点科技](http://cn.technode.com/post/2015-08-11/behind-alibaba-suning-press-conf/)
 
 ![](/2015/08/11/ni-men-a-li-ren-zhen/09.jpg)

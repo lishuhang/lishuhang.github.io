@@ -66,6 +66,6 @@ source: "https://zhuanlan.zhihu.com/p/20179606"
 
 看到最后就附赠一个惊喜发现： **9.0 出来时候大受吐槽的手势密码功能已经回来了！** 点击 **头像-设置-账户安全-手势** ，设置好的手势密码 **只在查看余额和账单时候启用** ，既保护了隐私又不影响你把支付宝当微信用。但出于可以理解的原因，从没看到过支付宝高调宣传过手势密码的回归：）。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-24/my-alipay-account-was-stolen/)
+[动点科技](http://cn.technode.com/post/2015-08-24/my-alipay-account-was-stolen/)
 
 ![](/2015/08/24/jin-tian-wo-de-zhi-fu/02.jpg)

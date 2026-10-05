@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19817043"
 ---
 
-*编者按：上周，一篇名为[《一个90后创业者血与泪的教训》](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-05/a-fail-startup-by-a-post-90s-founder/)的自述在科技创业圈广为流传，动点科技特别采访了文章作者，现居浙江杭州的华旭东，请他谈了自己创业经历的更多细节故事。我们分享与他的采访记录，希望读者可以从中有更多的心得体会。[阅读原文请点此处](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-05/a-fail-startup-by-a-post-90s-founder/)。*
+*编者按：上周，一篇名为[《一个90后创业者血与泪的教训》](http://cn.technode.com/post/2014-08-05/a-fail-startup-by-a-post-90s-founder/)的自述在科技创业圈广为流传，动点科技特别采访了文章作者，现居浙江杭州的华旭东，请他谈了自己创业经历的更多细节故事。我们分享与他的采访记录，希望读者可以从中有更多的心得体会。[阅读原文请点此处](http://cn.technode.com/post/2014-08-05/a-fail-startup-by-a-post-90s-founder/)。*
 
 一年前，90后华旭东开始自己的第一次互联网创业，并在半年后失败收场，欠下了一大笔债。现在，他在杭州本地一家移动互联网创业公司做市场工作。上周，他以网名“华生”写的名为《一个90后创业者血与泪的教训》的文章，在科技媒体和朋友圈争相转发，引起很大反响。
 
@@ -117,4 +117,4 @@ source: "https://zhuanlan.zhihu.com/p/19817043"
 
 *编注：本文已经经过采访对象的彻底审核。*
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-05/interview-post-90s-fail-founder/)
+[动点科技](http://cn.technode.com/post/2014-08-05/interview-post-90s-fail-founder/)

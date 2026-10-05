@@ -54,4 +54,4 @@ Edge 的 logo 是跟 ie 标志长得差不多的，并获得了如此评价：
 
 Windows XP 此刻依然运行在全球不知多少的电脑上，人们对于 PC 的使用心态是复杂而纠结的。如果 Windows 10 这一仗不能打赢的话，PC 使用者的分化将会更为严重，对这个复杂的烂摊子，微软将更没有办法管理。所以，让我们和微软官方一样，都翘首期盼着 Windows 10 能够好好的处理以上所有问题，给我们一个让人眼前一亮的答案。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-30/zaobao0430/)
+[动点科技](http://cn.technode.com/post/2015-04-30/zaobao0430/)

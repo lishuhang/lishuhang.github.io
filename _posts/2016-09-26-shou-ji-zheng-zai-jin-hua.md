@@ -97,7 +97,7 @@ Pay（支付）成为手机行业炙手可热的关键字。Apple Pay、Samsung 
 
 手机以及未来可能的出现的各种个人计算设备，都将带领人类走向成熟得明天，并且去探索更远，更大的未知。
 
-[百度德尔塔俱乐部(公众号：delta-2013)](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NzAzNDUwNA%3D%3D%26mid%3D2650019554%26idx%3D1%26sn%3Dd7b05480e005cec089b78ce1d4c11bb7%26chksm%3D87589385b02f1a935bb84e3d46c8d03d566fd52edec5f25b077be75c87632d01f96cc40c0ab9%26mpshare%3D1%26scene%3D1%26srcid%3D0926SnPHVCjoYfoPgO1VeLFX%23rd)
+[百度德尔塔俱乐部(公众号：delta-2013)](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650019554&idx=1&sn=d7b05480e005cec089b78ce1d4c11bb7&chksm=87589385b02f1a935bb84e3d46c8d03d566fd52edec5f25b077be75c87632d01f96cc40c0ab9&mpshare=1&scene=1&srcid=0926SnPHVCjoYfoPgO1VeLFX#rd)
 
 
 

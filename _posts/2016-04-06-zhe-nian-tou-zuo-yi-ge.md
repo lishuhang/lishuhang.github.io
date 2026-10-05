@@ -109,6 +109,6 @@ Jay Z一年多以前斥资5600万美元收购Tidal。但收购完成后，Tidal�
 
 Tidal目前为止的所有遭遇只是再一次证明，打铁还需自身硬，当无法阻挡的滚滚洪流前来的时候，自己没做好准备，那就别怪机会白白溜走了。
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-04-06/pid_8505720.htm)
+[新浪（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-04-06/pid_8505720.htm)
 
 ![](/2016/04/06/zhe-nian-tou-zuo-yi-ge/01.jpg)

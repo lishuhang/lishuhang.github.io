@@ -41,4 +41,4 @@ cnBeta 编辑团队全体成员
 
 2014.1.1
 
-题图：[盖茨基金会首页](https://link.zhihu.com/?target=http%3A//www.gatesfoundation.org/)
+题图：[盖茨基金会首页](http://www.gatesfoundation.org/)

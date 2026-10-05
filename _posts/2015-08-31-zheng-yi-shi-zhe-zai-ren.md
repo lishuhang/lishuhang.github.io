@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/20191963"
 
 如果按照这种分法的话，破坏性的黑客无疑是属于混乱善良，而最适合整个社会长久发展下去的状态，也许是绝对中立。或者可以说，对这个世界本身，并没有好与坏可言，只是存在于世界上的不同的人，才会有基于自己立场的好坏之分。尽管这可能并不是最好的状态，却是最有利于稳定的状态。在一个稳定的社会当中，我们每一个人才更有机会获得自身更好的发展。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-31/what-is-justice/)
+[动点科技](http://cn.technode.com/post/2015-08-31/what-is-justice/)
 
 ![](/2015/08/31/zheng-yi-shi-zhe-zai-ren/02.jpg)

@@ -145,7 +145,7 @@ source: "https://zhuanlan.zhihu.com/p/22610688"
 
 在现在摩拜已经成为市政公共自行车的补充，而无力颠覆之的前提下，进一步利用创新带来的政府关系红利，填补市政公共自行车不能到达的死角，哪怕这看上去没有那么互联网+，对摩拜而言也是一个好得多的活法。
 
-[新浪](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-09-25/pid_8508596.htm)
+[新浪](http://tech.sina.com.cn/zl/post/detail/i/2016-09-25/pid_8508596.htm)
 
 > 微信公众号 lifeissohappy
 >

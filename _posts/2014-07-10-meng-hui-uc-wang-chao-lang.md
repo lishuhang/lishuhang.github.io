@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19798183"
 ---
 
-（[请看上篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-08/the-tale-of-longmaster-1/)）
+（[请看上篇](http://cn.technode.com/post/2014-07-08/the-tale-of-longmaster-1/)）
 
 **分家在十月**
 
@@ -21,15 +21,15 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 山东人董冠杰和河南人张宏涛在2003年加入了UC，董担任产品经理角色，主要是运营，张则主要负责技术。这两个人在UC转到新浪旗下的时代，自主研发了更高画质的“多媒体宽屏语音技术”。
 
-2005年，王伟想约董、张二人一起离开新浪二次创业，但这两人却觉得自己没有在UC项目上获得收益分享，只拿到了几千股新浪期权，不愿再跟原来的老板。两人一合计，凑了10万元钱，[于2005年11月做起了在线音乐互动平台呱呱](https://link.zhihu.com/?target=http%3A//news.iheima.com/show-6-38356-1.html)。
+2005年，王伟想约董、张二人一起离开新浪二次创业，但这两人却觉得自己没有在UC项目上获得收益分享，只拿到了几千股新浪期权，不愿再跟原来的老板。两人一合计，凑了10万元钱，[于2005年11月做起了在线音乐互动平台呱呱](http://news.iheima.com/show-6-38356-1.html)。
 
 ![](/2014/07/10/meng-hui-uc-wang-chao-lang/06.jpg)
 
 *呱呱的界面*
 
-从那时开始，本来由UC处于绝对领跑地位的视频聊天室技术，开始流落四方。现在，9158和多玩YY成为这一领域的业界翘楚；移动互联网领域，唱吧正在复制虚拟KTV的传奇。而新浪UC改为新浪Show，[其技术还是由9158来支持的](https://link.zhihu.com/?target=http%3A//vv.show.sina.com.cn/)。
+从那时开始，本来由UC处于绝对领跑地位的视频聊天室技术，开始流落四方。现在，9158和多玩YY成为这一领域的业界翘楚；移动互联网领域，唱吧正在复制虚拟KTV的传奇。而新浪UC改为新浪Show，[其技术还是由9158来支持的](http://vv.show.sina.com.cn/)。
 
-这几年中，UC还稍微活动了一两下：2009年中美海底光缆断裂，据报道可以支持多个聊天工具登陆协议的[UC注册用户上升40%](https://link.zhihu.com/?target=http%3A//www.techweb.com.cn/news/2009-08-20/429179.shtml)；2010年3Q大战，UC和网易泡泡拉广告想要[抢食“艰难的决定”后出走的用户](https://link.zhihu.com/?target=http%3A//www.cqwb.com.cn/cqwb/html/2010-11/04/content_239884.htm)。然后，再无声息。
+这几年中，UC还稍微活动了一两下：2009年中美海底光缆断裂，据报道可以支持多个聊天工具登陆协议的[UC注册用户上升40%](http://www.techweb.com.cn/news/2009-08-20/429179.shtml)；2010年3Q大战，UC和网易泡泡拉广告想要[抢食“艰难的决定”后出走的用户](http://www.cqwb.com.cn/cqwb/html/2010-11/04/content_239884.htm)。然后，再无声息。
 
 **午夜悄悄话**
 
@@ -103,17 +103,17 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 
 其实朗玛的业绩还算是非常不错的，目前市值超过50亿元，还曾在2012年进入福布斯《中国潜力上市公司100强》榜单第二名。只是它目前似乎已经来到了营收增长趋缓、盈利能力下滑的拐点。
 
-[根据朗玛信息财报](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2014-06-27/05329462371.shtml)，2013财年营收1.52亿元，同比增长0.75%；净利润5630万元，同比下降35.86%；今年一季度营收3604万元，同比减少15.09%；净利润1268万元，同比下滑31.9%。
+[根据朗玛信息财报](http://tech.sina.com.cn/i/2014-06-27/05329462371.shtml)，2013财年营收1.52亿元，同比增长0.75%；净利润5630万元，同比下降35.86%；今年一季度营收3604万元，同比减少15.09%；净利润1268万元，同比下滑31.9%。
 
 这几年，移动互联网正加速在低收入人群中普及，除了打电话给远方的温柔声音之外，人们有了更多的廉价娱乐手段。未来，语音增值业务也难逃像“统一消息系统”那样的过渡性产品的命运。
 
-2013年6月，朗玛推出“[捧我网](https://link.zhihu.com/?target=http%3A//www.peng5.com/)”。据称，这个网站“是朗玛公司全新打造的跨越电信网和互联网平台的新一代大型语音交友娱乐社区，用户通过浏览器访问网站，不需要安装任何客户端软件，就可以进入到丰富多彩的语音世界当中，与全国各地乃至世界各地的朋友们尽情聊天交流感情，参与各类互动游戏。”
+2013年6月，朗玛推出“[捧我网](http://www.peng5.com/)”。据称，这个网站“是朗玛公司全新打造的跨越电信网和互联网平台的新一代大型语音交友娱乐社区，用户通过浏览器访问网站，不需要安装任何客户端软件，就可以进入到丰富多彩的语音世界当中，与全国各地乃至世界各地的朋友们尽情聊天交流感情，参与各类互动游戏。”
 
 ![](/2014/07/10/meng-hui-uc-wang-chao-lang/10.jpg)
 
 *捧我网*
 
-在朗玛信息的股民讨论版里，有人说捧我网的人气不旺，“[才10来个主播同时在线,不能达到100个主播同时在线](https://link.zhihu.com/?target=http%3A//irm.cninfo.com.cn/ircs/interaction/viewQuestionForSzse.do%3FquestionId%3D2509119)”；“[用户少，主播少，消费者（主动买卡刷礼物者）就更少之又少](https://link.zhihu.com/?target=http%3A//www.gudahu.com/hudong_246455.html)”。
+在朗玛信息的股民讨论版里，有人说捧我网的人气不旺，“[才10来个主播同时在线,不能达到100个主播同时在线](http://irm.cninfo.com.cn/ircs/interaction/viewQuestionForSzse.do?questionId=2509119)”；“[用户少，主播少，消费者（主动买卡刷礼物者）就更少之又少](http://www.gudahu.com/hudong_246455.html)”。
 
 如今，提起UC，人们想到的是一家浏览器公司，它属于总部在杭州的阿里，而不是总部在贵州的朗玛；键入wangwei，第一个联想词不是王伟而是王微，他做了一个中国人去的第二多的视频网站。
 
@@ -136,4 +136,4 @@ source: "https://zhuanlan.zhihu.com/p/19798183"
 - 2012年2月在深交所创业板上市
 - 2014年6月6.5亿元全资收购39健康网运营商
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-10/the-tale-of-longmaster-2/)
+[动点科技](http://cn.technode.com/post/2014-07-10/the-tale-of-longmaster-2/)

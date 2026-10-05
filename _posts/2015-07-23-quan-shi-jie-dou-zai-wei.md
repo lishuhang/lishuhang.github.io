@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/20126092"
 
 **所以我觉得，现在对于大家都能负担的起的低空飞行设备——无人机纳入监管，并使之脱敏，一定会迫使相关监管部门开始认真思考放开低空空域的问题，为今后实现个人的飞行梦做准备。今后，个人飞行设备比如小飞机和飞行背包一定会走向普及，立体交通将是未来缓解交通压力，拉近城市间距离的有效手段。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-23/airplane/)
+[动点科技](http://cn.technode.com/post/2015-07-23/airplane/)
 
 ![](/2015/07/23/quan-shi-jie-dou-zai-wei/01.jpg)
 

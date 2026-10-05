@@ -33,6 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/20182337"
 
 你可能会奇怪这篇文章和科技有什么关系—— **然而如果你对智能自行车动心了，那这篇文章无疑是你应该关注的，因为再智能的车，首先也得是一辆自行车。在帝都的大街上骑自行车，差不多也就是这样的体验啦。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-25/riding-in-beijing/%23comments)
+[动点科技](http://cn.technode.com/post/2015-08-25/riding-in-beijing/#comments)
 
 ![](/2015/08/25/zai-di-du-de-da-jie/01.jpg)

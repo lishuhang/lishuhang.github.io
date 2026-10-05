@@ -27,6 +27,6 @@ source: "https://zhuanlan.zhihu.com/p/20078668"
 
 至少，如果能够解决Google Play的问题，那么Android Wear系统也可以顺利入华，采用这个系统的几款手表也很值得我们期待。到时候不管是BAT的任何一家，都将会给这款手表提供最基本的应用支持。我们不必担心同时带着两三只不同家的手表去逛街的问题。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-19/zaobao0619/)
+[动点科技](http://cn.technode.com/post/2015-06-19/zaobao0619/)
 
 ![](/2015/06/19/zhong-guo-xu-yao-yi-ge/01.jpg)

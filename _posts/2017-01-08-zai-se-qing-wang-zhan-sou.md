@@ -15,4 +15,4 @@ PornHub也许是唯一可以名正言顺出现在新闻报道里的色情网站�
 
 PornHub 是一个有科技含量，有理想，有追求的色情网站。他们利用海量受众群体所做的一些社会试验都极大地引发了社会反响。他们除了最早引入 VR，还想上太空拍摄性爱影片，并为此发起了一次众筹。最近，他们联合知名音乐人为性爱影片创作原创配乐，开创了流量变现沟通音乐产业的新模式，可以说前途一片光明。
 
-全文：[http://cn.technode.com/post/2017-01-08/pornhub-vr-porn-report/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-01-08/pornhub-vr-porn-report/)
+全文：[http://cn.technode.com/post/2017-01-08/pornhub-vr-porn-report/](http://cn.technode.com/post/2017-01-08/pornhub-vr-porn-report/)

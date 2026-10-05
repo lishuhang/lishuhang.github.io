@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20005356"
 
 长远来看，对“犯罪”行为由简单的一刀切变成多样化的对待，量刑和所犯罪行相适应，以及积极帮助罪犯重返社会等方面，还有很多事情要做。这些重担要想让专车来承担，对它实在是太沉重。
 
-*[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/15/0417/11/ANDBFO68000948V8.html)*
+*[网易科技](http://tech.163.com/15/0417/11/ANDBFO68000948V8.html)*

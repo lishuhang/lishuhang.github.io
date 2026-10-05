@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19911715"
 ---
 
-今天凌晨， [网易选在大家都熟睡的时候发了一份声明](https://link.zhihu.com/?target=http%3A//finance.sina.com.cn/stock/usstock/newstock/20141210/052221038263.shtml) 。在陌陌选择赴美上市，并且公开招股书之后的一个月，网易表示，陌陌的创始人唐岩是违反了网易的竞业限制，偷取公司机密，并且在此期间还因为生活作风问题被拘留。网易还表示保留就此问题追究法律责任的权利。
+今天凌晨， [网易选在大家都熟睡的时候发了一份声明](http://finance.sina.com.cn/stock/usstock/newstock/20141210/052221038263.shtml) 。在陌陌选择赴美上市，并且公开招股书之后的一个月，网易表示，陌陌的创始人唐岩是违反了网易的竞业限制，偷取公司机密，并且在此期间还因为生活作风问题被拘留。网易还表示保留就此问题追究法律责任的权利。
 
 印象中，网易从来没有做过这样的事情。
 
@@ -41,10 +41,10 @@ source: "https://zhuanlan.zhihu.com/p/19911715"
 
 相关阅读：
 
-南都周刊： [陌陌 CEO 唐岩：23 岁痞子到 35 岁的 20 亿美元 CEO](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2014-09-02/17379590972.shtml)
+南都周刊： [陌陌 CEO 唐岩：23 岁痞子到 35 岁的 20 亿美元 CEO](http://tech.sina.com.cn/i/2014-09-02/17379590972.shtml)
 
-第一财经日报： [性情中人唐岩和他的陌陌: 我没混过黑社会](https://link.zhihu.com/?target=http%3A//finance.sina.com.cn/stock/usstock/newstock/20141210/054221038344.shtml)
+第一财经日报： [性情中人唐岩和他的陌陌: 我没混过黑社会](http://finance.sina.com.cn/stock/usstock/newstock/20141210/054221038344.shtml)
 
-题图： [新浪微博 @Miss 罡](https://link.zhihu.com/?target=http%3A//weibo.com/1773906155/BA5267O83)
+题图： [新浪微博 @Miss 罡](http://weibo.com/1773906155/BA5267O83)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-10/to-netease/)
+[动点科技](http://cn.technode.com/post/2014-12-10/to-netease/)

@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/19665373"
 
 我在 @腾讯微信团队 的官方新浪微博
 
-[找到了这么一段对话](https://link.zhihu.com/?target=http%3A//weibo.com/1930378853/AtPUkibTy)
+[找到了这么一段对话](http://weibo.com/1930378853/AtPUkibTy)
 
 。（题图）
 
@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/19665373"
 
 是啊，得用市场份额和营收来证明。
 
-*[极客公园](https://link.zhihu.com/?target=http%3A//www.geekpark.net/read/view/197435)*
+*[极客公园](http://www.geekpark.net/read/view/197435)*

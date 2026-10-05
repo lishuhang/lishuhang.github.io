@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/20451381"
 
 12 月 23 日，乐视发布了手机式 VR（虚拟现实）头盔 LeVR COOL1，售价为 149 元。另外，乐视还公布了其 VR 战略，今后将发布第三方手机通用的终端以及 VR 一体机产品。
 
-正如动点编辑刘晨所言， [这一周有三场与 VR 有关的发布会](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-23/vr/) ，真真是“你方唱罢我登台”。在虚拟现实竞争不断加速的背景下，一些行业规矩也正在通过自发调整而定型。
+正如动点编辑刘晨所言， [这一周有三场与 VR 有关的发布会](http://cn.technode.com/post/2015-12-23/vr/) ，真真是“你方唱罢我登台”。在虚拟现实竞争不断加速的背景下，一些行业规矩也正在通过自发调整而定型。
 
 **乐视自带屏幕头显跳票**
 
@@ -55,6 +55,6 @@ source: "https://zhuanlan.zhihu.com/p/20451381"
 
 现在让我们回到乐视（300104）。在 VR 内容库的建设方面，乐视表示将覆盖电影、演唱会、教育、旅游、极限运动、新闻纪实、游戏等领域。凭借与乐视其他子生态——乐视影业、乐视体育、乐视音乐、乐视自制等的协作，以及与大量第三方内容商的合作，打造 VR 内容库。和之前几次发布会一样，他们表示将以价值链垂直整合的理念，把内容源、平台、终端打通。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-28/vr-competition/)
+[动点科技](http://cn.technode.com/post/2015-12-28/vr-competition/)
 
 ![](/2015/12/28/xu-ni-xian-shi-xing-ye/01.jpg)

@@ -41,6 +41,6 @@ source: "https://zhuanlan.zhihu.com/p/20698907"
 
 时光已经进入了 21 世纪的第二个 10 年，公共交通工具配备无线网络连接，应该是一个被提上议事日程的问题了。希望有人大代表，政协委员提出这一提议，让 WiFi 成为公交标配，给市民生活带来更多方便。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-01/why-travel-without-wifi/)
+[动点科技](http://cn.technode.com/post/2016-04-01/why-travel-without-wifi/)
 
 ![](/2016/04/01/rang-wifi-cheng-wei-gong-gong/01.jpg)

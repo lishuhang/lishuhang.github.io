@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19672232"
 ---
 
-在纽交所周四交易中，[Twitter股价大幅下跌24.16%，收于50.03美元，导致98亿美元的市值蒸发。](https://link.zhihu.com/?target=http%3A//tech.163.com/14/0207/08/9KFHP0NQ000915BF.html)
+在纽交所周四交易中，[Twitter股价大幅下跌24.16%，收于50.03美元，导致98亿美元的市值蒸发。](http://tech.163.com/14/0207/08/9KFHP0NQ000915BF.html)
 
 Twitter去年11月上市时发行价为26美元。去年12月下旬，因投资者押注该社交媒体平台可能像Facebook那样得到普及，其股价创下了74.73美元的历史最高值。
 
@@ -37,7 +37,7 @@ Twitter和微博在这一点的区别有点像微软和苹果，一个选择尽�
 
 因为营收是由广告贡献的，所以现在的财报营收数字无法证明长期的潜力，长期来看，如何保证广告效果才是最直接关系到盈利能力的问题。如果广告主发现他们在不同平台的投资效果不同，现在投到Twitter的广告费，也可以随时撤回。
 
-在Facebook和Google已经开始探索串联用户在自己平台的社交活动，[测试广告印象数和销量直接挂钩的广告产品](https://link.zhihu.com/?target=http%3A//techcrunch.cn/2013/12/15/facebook-custom-audiences-measurement/)时，Twitter能做的广告形式还相当有限，并且没有什么想象空间。
+在Facebook和Google已经开始探索串联用户在自己平台的社交活动，[测试广告印象数和销量直接挂钩的广告产品](http://techcrunch.cn/2013/12/15/facebook-custom-audiences-measurement/)时，Twitter能做的广告形式还相当有限，并且没有什么想象空间。
 
 用户在Twitter上发布信息，其本意就是“表现”，为了让更多人看到（自己美好的一面），所以就算Twitter能够深度挖掘数据，这个数据的起点也不一定就是准确的。而作为人们一种生活方式的Facebook或者Google+更容易收集人们的“真言”甚至“失言”，对广告的数据挖掘更有价值。
 
@@ -51,4 +51,4 @@ Facebook Paper代表社交消息的重新排列，Breaking News是来自门户�
 
 总之，Twitter在各种社交行驶中，是最接近媒体的一种形态。所以现在部分投资者对Twitter持悲观态度，其实也就证明了他们对于全体可以被称为“媒体”的东西的总体悲观态度。如果Twitter可以找到盈利出路，同样对痛苦挣扎度日的媒体也是一盏指路明灯。
 
-*[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140208/005504.htm)*
+*[腾讯科技](http://tech.qq.com/a/20140208/005504.htm)*

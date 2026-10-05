@@ -69,4 +69,4 @@ source: "https://zhuanlan.zhihu.com/p/19897209"
 
 其次，**支付宝进入澳洲需要有本地支付牌照，通过收购 Paypang “陪伴”是快速进入澳洲市场的有效方式。**并且从官方资料看，“陪伴”是被阿里收购，但收购金额和细节均不详。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-11-19/trip-to-aus-2/)
+[动点科技](http://cn.technode.com/post/2014-11-19/trip-to-aus-2/)

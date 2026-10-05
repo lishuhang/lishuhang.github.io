@@ -37,4 +37,4 @@ TOS的出现主要是为了给腾讯本身省去麻烦，而非腾讯所述的�
 
 阿里和百度目前已经都拥有各自和TOS相对应的解决方案，分别是阿里云OS和百度硬件开放平台。如果不同厂家之间的门户之争提升到固件/OS级别，就会加速中小厂商“站队”的脚步，从而重演手机开发者在iOS、Android、WP等系统间站队的一幕，甚至可以期待同一款硬件推出“腾讯版”、“百度版”和“阿里版”的情形。到那时，硬件系统的相互独立和碎片化程度将会恶化，而不是相反。
 
-*[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/55631)*
+*[百度百家](http://lishuhang.baijia.baidu.com/article/55631)*

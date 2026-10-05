@@ -39,6 +39,6 @@ source: "https://zhuanlan.zhihu.com/p/20049146"
 
 **“反正虚伪的表象感觉也是完全一样的，这跟我真正用那个东西没有什么区别。”他们会说，“我宁可活在这样的表象当中——如果表象比较便宜，或者不用钱的话。”**
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/15/0529/08/AQP5G3QV000948V8.html)
+[网易科技](http://tech.163.com/15/0529/08/AQP5G3QV000948V8.html)
 
 来自知乎问题：[知乎可以弥补家庭贫富造成的一个人跟他人在眼界上的差距吗？](http://www.zhihu.com/question/27934825/answer/49322086)

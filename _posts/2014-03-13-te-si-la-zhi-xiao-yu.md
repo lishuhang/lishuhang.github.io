@@ -15,7 +15,7 @@ source: "https://zhuanlan.zhihu.com/p/19700666"
 
 美国现在的汽车分销商每年销售1000多万台汽车，贡献了各州税收收入的超过20%，提供了了8%的零售业就业岗位。NADA有近百年的历史，在全美各州政府扎根很深，当地许多组织有利益关系。
 
-具体到新泽西州的个案，[《Business Insider》报道称](https://link.zhihu.com/?target=http%3A//www.businessinsider.com/how-tesla-got-outspent-and-outgunned-in-jersey-2014-3)新泽西州的汽车经销商协会向当地政治家和政党捐助了696749美元的政治游说捐款，而特斯拉这边的游说费用为0。
+具体到新泽西州的个案，[《Business Insider》报道称](http://www.businessinsider.com/how-tesla-got-outspent-and-outgunned-in-jersey-2014-3)新泽西州的汽车经销商协会向当地政治家和政党捐助了696749美元的政治游说捐款，而特斯拉这边的游说费用为0。
 
 不管是亚马逊面对的图书出版市场，还是iTunes面对的唱片销售市场，或者是小米面对的中国手机市场，没有一家公司像特斯拉这样，遇到的是汽车工业这样的关乎国计民生，拥有百年历史，且关系盘根错节的老牌行业。横在汽车改革家穆斯克面前的最大障碍，不是技术，不是资金，而是历史遗留，政府压力和民众就业问题。
 
@@ -33,6 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/19700666"
 
 既然各方都有各方的立场，那就请大家往各自的方向，好好努力吧。颠覆一个旧世界本来就不是什么容易差事，最终形成的新世界，一定是各方利益平衡和妥协的结果，哪怕代价再惨重，也没办法。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140313/005440.htm)
+[腾讯科技](http://tech.qq.com/a/20140313/005440.htm)
 
 题图：NADA logo

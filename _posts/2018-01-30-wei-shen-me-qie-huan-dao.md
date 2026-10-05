@@ -35,8 +35,8 @@ Windows Vista 及以前的资源管理器和 IE 共用一个外壳/Shell，所�
 
 不管怎样，至少在现阶段，键盘依然是众多要使用电脑的工种效率最高的输入方式。对我们码字的和程序猴子们，那自然是不言而喻；而就算你平时是修图的，给你一套这样的 PS 快捷键速查键盘贴 [3] ，相信你也会运指如飞，大大提高工作效率吧。
 
-[1] [https://blogs.msdn.microsoft.com/oldnewthing/20170314-00](https://link.zhihu.com/?target=https%3A//blogs.msdn.microsoft.com/oldnewthing/20170314-00)
-[2] [https://cn.technode.com/post/2017-10-04/hts-171004/](https://link.zhihu.com/?target=https%3A//cn.technode.com/post/2017-10-04/hts-171004/)
-[3] [http://enfuzed.com/adobe-creative-suite-keyboard-shortcuts/](https://link.zhihu.com/?target=http%3A//enfuzed.com/adobe-creative-suite-keyboard-shortcuts/)
+[1] [https://blogs.msdn.microsoft.com/oldnewthing/20170314-00](https://blogs.msdn.microsoft.com/oldnewthing/20170314-00)
+[2] [https://cn.technode.com/post/2017-10-04/hts-171004/](https://cn.technode.com/post/2017-10-04/hts-171004/)
+[3] [http://enfuzed.com/adobe-creative-suite-keyboard-shortcuts/](http://enfuzed.com/adobe-creative-suite-keyboard-shortcuts/)
 
 *原创文章 未经授权 请勿转载 本文首发于 微信公众号：航通社（ID:lifeissohappy)  微博：@lishuhang*

@@ -49,6 +49,6 @@ source: "https://zhuanlan.zhihu.com/p/21391688"
 
 今后，便利店的销售可能会进一步萎缩到主要在夜间10点钟以后，作为超市和快递小哥休息这段时间的唯一供应，并且在夜生活比较频繁的点设立。而对于夜间需求不多的社区便利店，有收缩战线的可能。
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0621/15/BQ3GIIM300097UF6.html)
+[网易科技](http://tech.163.com/16/0621/15/BQ3GIIM300097UF6.html)
 
 ![](/2016/06/21/wo-er-ma-jing-dong-shi/01.png)

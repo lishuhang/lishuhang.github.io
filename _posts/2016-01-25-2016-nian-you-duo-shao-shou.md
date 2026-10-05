@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20525004"
 ---
 
-> 我曾经写过一篇“[软件应不应该升级到最新版](https://link.zhihu.com/?target=http%3A//www.geekpark.net/topics/187221)”，结合今天这篇一同服用，风味更佳。
+> 我曾经写过一篇“[软件应不应该升级到最新版](http://www.geekpark.net/topics/187221)”，结合今天这篇一同服用，风味更佳。
 
 最近回家，爸妈又在抱怨手机存储空间已满。父亲的老红米手机存储空间有16G，尽管有存储卡，他自己也会清除手机垃圾，但现在光应用本身就塞满了机器。我也没有什么好办法解决，打算删掉手机上的大部分应用。
 
@@ -55,6 +55,6 @@ source: "https://zhuanlan.zhihu.com/p/20525004"
 
 *题图：读到最底下你才会知道为啥我放这张图。图/Microsoft*
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-01-25/pid_8501081.htm)
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2016-01-25/pid_8501081.htm)
 
 ![](/2016/01/25/2016-nian-you-duo-shao-shou/01.jpg)

@@ -9,9 +9,9 @@ source: "https://zhuanlan.zhihu.com/p/20097124"
 
 **阳歌：如果迅雷主营业务仍是视频，卖给小米是它最好的选择**
 
-昨（1）日[迅雷CEO邹胜龙发表一篇英文文章](https://link.zhihu.com/?target=http%3A//www.weibo.com/5634323049/Cp7rBkvMb%3F)，但是他的目的并不是为了跟雷军秀自己的英文水平，而是为了对[《福布斯》杂志网站的一篇专栏文章](https://link.zhihu.com/?target=http%3A//www.forbes.com/sites/dougyoung/2015/06/29/xiaomi-boosts-xunlei-ties-buyout-offer-coming/)提出澄清。[这篇专栏表示](https://link.zhihu.com/?target=http%3A//www.youngchinabiz.com/zh/20150702xiaomi/)，迅雷现在进行的业务模式跟小米的需求非常契合，因此，现在迅雷被小米收购的可能性正在上升。
+昨（1）日[迅雷CEO邹胜龙发表一篇英文文章](http://www.weibo.com/5634323049/Cp7rBkvMb?)，但是他的目的并不是为了跟雷军秀自己的英文水平，而是为了对[《福布斯》杂志网站的一篇专栏文章](http://www.forbes.com/sites/dougyoung/2015/06/29/xiaomi-boosts-xunlei-ties-buyout-offer-coming/)提出澄清。[这篇专栏表示](http://www.youngchinabiz.com/zh/20150702xiaomi/)，迅雷现在进行的业务模式跟小米的需求非常契合，因此，现在迅雷被小米收购的可能性正在上升。
 
-这篇专栏的作者是阳歌(Doug Young)。他是一个在中国工作的美国人，他现在在复旦新闻学院。在给福布斯写专栏之前，他曾经是长期的路透社记者。他并且开设有[微博](https://link.zhihu.com/?target=http%3A//weibo.com/youngchinabiz)和微信公众账号，[并有自己的网站](https://link.zhihu.com/?target=http%3A//www.youngchinabiz.com/zh/)。
+这篇专栏的作者是阳歌(Doug Young)。他是一个在中国工作的美国人，他现在在复旦新闻学院。在给福布斯写专栏之前，他曾经是长期的路透社记者。他并且开设有[微博](http://weibo.com/youngchinabiz)和微信公众账号，[并有自己的网站](http://www.youngchinabiz.com/zh/)。
 
 我是在三四年前在网易工作的时候认识他的，那个时候我是负责联系科技专栏作者的，而现在我自己成为了专栏作者——当初自己所服务的对象。阳歌当时也把自己的专栏同时发表到网易，我就负责联系他撰写新专栏和发表稿费的事宜。
 
@@ -71,4 +71,4 @@ DY：没错，尽管小米会在迅雷不愿意的情况下，决定寻找另外
 
 *(以上文本已经过阳歌审阅)*
 
-*[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-07-03/pid_8482283.htm)（所有新浪专栏均为独家，请勿转载）![](/2015/07/03/fu-bu-si-zhuan-lan-zuo/01.jpg)*
+*[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2015-07-03/pid_8482283.htm)（所有新浪专栏均为独家，请勿转载）![](/2015/07/03/fu-bu-si-zhuan-lan-zuo/01.jpg)*

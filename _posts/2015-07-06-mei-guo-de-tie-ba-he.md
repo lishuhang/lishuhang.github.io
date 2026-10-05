@@ -31,6 +31,6 @@ Reddit 使用的是英文，而英文是世界上用途最广泛的语言，所�
 
 刚刚就是这样的一个国家，度过了自己的 239 岁生日。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-06/zaobao0706/)
+[动点科技](http://cn.technode.com/post/2015-07-06/zaobao0706/)
 
 ![](/2015/07/06/mei-guo-de-tie-ba-he/01.jpg)

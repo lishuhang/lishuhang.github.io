@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19922128"
 ---
 
-上周末，海盗湾在瑞典警方打击下再次关闭，在过去海盗湾曾无数次被关闭，又无数次重开。不过这次有所不同，因为海盗湾网站的源代码首次被开源，以 The Open Bay 的名字 [放到 Github 上供人下载](https://link.zhihu.com/?target=https%3A//github.com/isohuntto/openbay) 。同时可以下载的还有全站所包含的大概 800 万个种子文件，供你建立你自己的海盗湾备份。
+上周末，海盗湾在瑞典警方打击下再次关闭，在过去海盗湾曾无数次被关闭，又无数次重开。不过这次有所不同，因为海盗湾网站的源代码首次被开源，以 The Open Bay 的名字 [放到 Github 上供人下载](https://github.com/isohuntto/openbay) 。同时可以下载的还有全站所包含的大概 800 万个种子文件，供你建立你自己的海盗湾备份。
 
 在自己的服务器上下载并且部署源码包之后，就可以导入海盗湾建站以来至今的种子文件，并且建立一个界面一致的搜索引擎。但是有几个限制，用户不能添加或者上传新的种子文件，也不能够对现有的种子进行评论。它只是目前为止存储的海盗湾上的所有文件的一个快照而已。
 
@@ -19,4 +19,4 @@ source: "https://zhuanlan.zhihu.com/p/19922128"
 
 有试用 The Open Bay 的媒体指出，大量雷同备份站点的出现，可能带来的问题是以后将很难找到优质的种子。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-23/the-open-bay/)
+[动点科技](http://cn.technode.com/post/2014-12-23/the-open-bay/)

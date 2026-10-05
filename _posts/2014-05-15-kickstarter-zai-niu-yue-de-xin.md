@@ -75,4 +75,4 @@ David介绍，房子的左右两边是一家具有多年历史的德国铅笔工
 
 访问的时间虽然很短暂，但是我们感觉这是简直想让大家集体跳槽的办公室。也许你有很多钱可以租到豪华的办公室，但其实怎样把办公室装修成自己和员工都喜欢的样子，其实还是一门学问。而这样让人垂涎的办公室，其实也就是支持全世界的人们创意和美梦成真的动力所在。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-09/kickstarter-headquarters-in-nyc/)
+[动点科技](http://cn.technode.com/post/2014-05-09/kickstarter-headquarters-in-nyc/)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20158614"
 ---
 
-相信大家都看过 [阿里和苏宁发布会的全程记录](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-11/behind-alibaba-suning-press-conf/) 了。除了“我和张董一起进来的时候，感觉就像是结婚一样”这种名言警句之外，还有什么比较重要的细节？现场问答环节又提出了怎样的问题？以下就再为大家做一次梳理。
+相信大家都看过 [阿里和苏宁发布会的全程记录](http://cn.technode.com/post/2015-08-11/behind-alibaba-suning-press-conf/) 了。除了“我和张董一起进来的时候，感觉就像是结婚一样”这种名言警句之外，还有什么比较重要的细节？现场问答环节又提出了怎样的问题？以下就再为大家做一次梳理。
 
 **马云** ：我和张董我们两个月就见过两次，主要是双方年轻人做的决定。
 

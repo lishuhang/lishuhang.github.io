@@ -55,6 +55,6 @@ PC时代DIY的精髓就是在机身不替换的情况下替换内部的零件，
 
 至少现在已经做出的模块化手机跟这个目标相差还太远了。就像我上面所说的，模块跟背夹电池等等之间的区别是如此之大，以至于其架构可能都需要推倒重来。
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2016-06-22/pid_8507779.htm)
+[新浪（独家）](http://tech.sina.com.cn/zl/post/detail/it/2016-06-22/pid_8507779.htm)
 
 ![](/2016/06/22/mo-kuai-hua-shou-ji-gen/01.png)

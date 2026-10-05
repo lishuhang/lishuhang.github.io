@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/26345499"
 ---
 
-（话说我在写这篇文章的同时，在Windows Central上发现了这篇文章[If not phones, Microsoft needs another device category to ensure Windows success](https://link.zhihu.com/?target=http%3A//www.windowscentral.com/microsoft-needs-new-category-windows-10%3Futm_medium%3Dslider%26utm_campaign%3Dnavigation%26utm_source%3Dwp)，不要太巧啊。。。，所以直接用了他们这篇文章的题图，23333）
+（话说我在写这篇文章的同时，在Windows Central上发现了这篇文章[If not phones, Microsoft needs another device category to ensure Windows success](http://www.windowscentral.com/microsoft-needs-new-category-windows-10?utm_medium=slider&utm_campaign=navigation&utm_source=wp)，不要太巧啊。。。，所以直接用了他们这篇文章的题图，23333）
 
 今天和朋友聊天，谈到了微软刚刚确定的5.2新品发布会上的种种可能，在讨论中我自己有个强烈的预感，感觉微软会自己出一个基于Windows 10 Cloud OS的笔记本，以期应对Chrome OS + Android带来的危险。当然今天所写的文字完全是我自己的想象（YY），如果真的和后面发布的产品形态类似，则纯属偶然！（逃
 

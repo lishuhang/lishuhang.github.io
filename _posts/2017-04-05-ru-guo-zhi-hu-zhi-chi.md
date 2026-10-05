@@ -53,4 +53,4 @@ source: "https://zhuanlan.zhihu.com/p/26176398"
 
 而这绝对是一条正确的路线。大家都来做各种头条的最大原因，是头条占用了用户们的所谓“国民总时间”。只要一个应用能够足够多的占用用户的时间，在这里面能够完成他所有的需求，那么它到底是不是一个真的头条，这一点并不重要。**也许今后我们还可以在知乎里面买东西，交手机话费等等——如果它真的这样做了，请千万不要为此感到惊奇。**
 
-[新浪](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2017-04-05/pid_8510406.htm)
+[新浪](http://tech.sina.com.cn/zl/post/detail/i/2017-04-05/pid_8510406.htm)

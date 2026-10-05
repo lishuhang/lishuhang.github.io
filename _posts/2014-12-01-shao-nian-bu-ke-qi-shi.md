@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19905603"
 ---
 
-你的朋友圈是否被 [一篇叫做《少年不可欺》的文章](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA5NTQxNTQxMA%3D%3D%26mid%3D202185703%26idx%3D1%26sn%3D860cbbdbd773d050e906c842be611956%26scene%3D2%26from%3Dtimeline%26isappinstalled%3D0%23rd) 刷屏了？
+你的朋友圈是否被 [一篇叫做《少年不可欺》的文章](http://mp.weixin.qq.com/s?__biz=MzA5NTQxNTQxMA==&mid=202185703&idx=1&sn=860cbbdbd773d050e906c842be611956&scene=2&from=timeline&isappinstalled=0#rd) 刷屏了？
 
 一个 19 岁的少年和他的同伴，拍了一部把小东西送上太空的影片，然后发现自己的创意被优酷和陌陌合拍的广告片给盗用，随后怒从朋友圈病毒传播。这是一个以个人微小的力量反抗强权，容易获得大家共鸣，让大家义愤填膺，传播起来却也安全无忧的故事。因为优酷和陌陌先后服软，而更加证明了事情曾经存在过，因此有更多的人出来转发。类似“财经郎眼”这样的大 V 转发，使得文章到达了比一般互联网从业者更广泛的人群。
 

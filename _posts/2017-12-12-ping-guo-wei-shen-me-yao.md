@@ -7,13 +7,13 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/31929545"
 ---
 
-[苹果确认收购英国音乐识别应用 Shazam](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-12-12/apple-shazam-acquisition/)，如果 TechCrunch 的报道准确的话，该交易的金额大概是 4 亿美元，而不是最近估值的 10 亿美元。
+[苹果确认收购英国音乐识别应用 Shazam](http://cn.technode.com/post/2017-12-12/apple-shazam-acquisition/)，如果 TechCrunch 的报道准确的话，该交易的金额大概是 4 亿美元，而不是最近估值的 10 亿美元。
 
 那么，苹果收购 Shazam 或此类听歌识曲应用的原因在哪？为什么选择的是 Shazam 而不是其他同类产品？这个金额又是怎么定下来的？
 
 首先， **苹果在听歌识曲方面的选择余地不多** ，基本只有两家——除了 Shazam 还有一个叫 SoundHound。后者最初的网页版叫 Midomi，大概都在 10 年前推出，需要利用网页 Flash 插件录音，主打通过哼唱来识别歌曲，不过那时的准确率比现在低得多，更像是玩具。
 
-两者起先都对识别功能按曲收费。在 2001 年，SoundHound 和 Shazam 都已经采取了测试版免费的方式，其中 Shazam 允许免费用户标记 5 首歌曲。有国外的应用评测网站 MakeUseOf， [对这两款软件做了一次对比评测](https://link.zhihu.com/?target=http%3A//www.makeuseof.com/tag/shazam-soundhound-perfect-song-identifier/) 。
+两者起先都对识别功能按曲收费。在 2001 年，SoundHound 和 Shazam 都已经采取了测试版免费的方式，其中 Shazam 允许免费用户标记 5 首歌曲。有国外的应用评测网站 MakeUseOf， [对这两款软件做了一次对比评测](http://www.makeuseof.com/tag/shazam-soundhound-perfect-song-identifier/) 。
 
 除了一些在表面功夫上的差异，比如用户界面，以及免费幅度大小——SoundHound 当时采取全面开放免费，并设置广告条的方式，在最关键的识别准确率方面，文章做出了这样的判断：
 
@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/31929545"
 
 现在要允许 Siri 更准确的听歌识曲，就可以帮助更多用户及时接触和到达这些音乐。这对于挖掘曲库的潜在价值，以及进行所谓个性化音乐推送，都有很大的意义。
 
-在竞争对手方面，微软小娜联合国内的网易云音乐，在 Windows 开始菜单集成了听歌识曲功能。而小娜的国外曲目是直接来自微软自己的名叫 Groove 的音乐服务。IT 之家毫不客气地说“ [英文成功率很高，中文歌曲全部哑火](https://link.zhihu.com/?target=https%3A//www.ithome.com/html/win10/207325.htm) ”。
+在竞争对手方面，微软小娜联合国内的网易云音乐，在 Windows 开始菜单集成了听歌识曲功能。而小娜的国外曲目是直接来自微软自己的名叫 Groove 的音乐服务。IT 之家毫不客气地说“ [英文成功率很高，中文歌曲全部哑火](https://www.ithome.com/html/win10/207325.htm) ”。
 
 国内的音乐软件自己开发的识别功能，情况又有所不同。因为这些音乐 App 背后都至少有阿里和腾讯这样的巨头撑腰。而各家巨头开发的人工智能和语音识别技术，都是在集团内部通用的。所以，这是泛用性的人工智能应用，跟一开始开发就为了识别歌曲而生的 SoundHound 和 Shazam 在发展路径上有明显的区别。
 

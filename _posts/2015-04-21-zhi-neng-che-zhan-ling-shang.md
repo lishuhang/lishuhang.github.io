@@ -21,4 +21,4 @@ source: "https://zhuanlan.zhihu.com/p/20008430"
 
 如果买车真的不再成为大众如买房一般的硬性需求，而是成为一种个性化和偏奢侈的享受，现在汽车厂商的互联网化尝试，很可能蜕变为一道“马其诺防线”。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-21/zaobao0421/)
+[动点科技](http://cn.technode.com/post/2015-04-21/zaobao0421/)

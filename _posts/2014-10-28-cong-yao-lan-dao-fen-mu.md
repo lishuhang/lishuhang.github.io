@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19879455"
 ---
 
-10月中下旬是[阿里的大日子](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-10-21/alipay-aliyun-2014/)。在连续几天的发布会和活动过后，阿里IPO后的一些发展布局，也逐渐的清晰起来。
+10月中下旬是[阿里的大日子](http://cn.technode.com/post/2014-10-21/alipay-aliyun-2014/)。在连续几天的发布会和活动过后，阿里IPO后的一些发展布局，也逐渐的清晰起来。
 
 创造了全球史上最大规模IPO的阿里巴巴，人们对它的定义是这样的：它是全球仅次于亚马逊，规模第二大的在线百货商店和批发市场，拥有一个纵贯全国，并与世界很多国家相连的物流网络，还有自己的支付平台，商业贷款、保险以至银行业，手持全国规模数一数二的货币基金，在全国一二线的城市实现了完全覆盖，并且正在三四线城市和农村刷墙。而在未来，这个庞然大物也将让海外的用户一起用上自己的服务，就像现在全球都在用亚马逊和Paypal一样。
 
@@ -49,4 +49,4 @@ source: "https://zhuanlan.zhihu.com/p/19879455"
 
 即使你用的产品和服务牌子多种多样——如果都可以通过阿里来获得，那你也确实可以说，你的人生被阿里巴巴给承包了。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-10-28/alibaba-means-everything/)
+[动点科技](http://cn.technode.com/post/2014-10-28/alibaba-means-everything/)

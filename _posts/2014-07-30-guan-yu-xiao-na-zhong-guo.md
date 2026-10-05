@@ -67,7 +67,7 @@ A：我觉得挺有必要的。上海明天27到33度，多云转阵雨，未雨
 
 **6、Cortana需要你预先为她设定什么，她才能个性化的为你服务？**
 
-如果呼出方式是点击开始屏幕的Cortana图标，那么她会显示“今日一览”画面，相当于Google Now和百度手机客户端的卡片。里面的绝大多数内容都是由bing搜索提供的，少数功能有第三方提供商，天气是来自中国天气网（[http://weather.com.cn](https://link.zhihu.com/?target=http%3A//weather.com.cn)），航班信息是来自飞常准。点击详情会进入移动网页，但在一开始，这些数据都会被格式化，以统一的样式引用。
+如果呼出方式是点击开始屏幕的Cortana图标，那么她会显示“今日一览”画面，相当于Google Now和百度手机客户端的卡片。里面的绝大多数内容都是由bing搜索提供的，少数功能有第三方提供商，天气是来自中国天气网（[http://weather.com.cn](http://weather.com.cn)），航班信息是来自飞常准。点击详情会进入移动网页，但在一开始，这些数据都会被格式化，以统一的样式引用。
 
 这些卡片信息可以在“Cortana的笔记本”中调整，其实就是右上角的菜单键：
 
@@ -141,4 +141,4 @@ Cortana本次除在中国外，也在英国发布Beta版；接下来会在加拿
 
 ![](/2014/07/30/guan-yu-xiao-na-zhong-guo/20.jpg)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-30/cortana-china/)
+[动点科技](http://cn.technode.com/post/2014-07-30/cortana-china/)

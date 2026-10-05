@@ -35,6 +35,6 @@ source: "https://zhuanlan.zhihu.com/p/19692669"
 
 但是总体上来说，这台平板给机上的乘客带去了相当大的欢乐。因为我乘坐的是支线飞机，而且中间会经停一站到呼和浩特，那一段的票价只有三百多块钱，所以在那里面有一些平时更有可能会在长途客车上看到的乘客，甚至也包括一些说蒙语的人。就连他们也指着自己看不懂的视频和画面赞不绝口。
 
-海航旗下的喜乐航公司专门负责这个pad的开发和运营。根据[官方介绍](https://link.zhihu.com/?target=http%3A//www.xilehang.com/company.html)，目前他们的产品已经在海航旗下13家航空公司的300余架飞机之内布设。这个Pad最早在2013年5月就在部分飞机上部署了，在[2013年10月他们开始铺设机舱内部的wifi](https://link.zhihu.com/?target=http%3A//www.traveldaily.cn/article/76983.html)。此前在2013年2月1日，海航的无线网络还成功地接到了地面，完成了在空中发微博的测试飞行。
+海航旗下的喜乐航公司专门负责这个pad的开发和运营。根据[官方介绍](http://www.xilehang.com/company.html)，目前他们的产品已经在海航旗下13家航空公司的300余架飞机之内布设。这个Pad最早在2013年5月就在部分飞机上部署了，在[2013年10月他们开始铺设机舱内部的wifi](http://www.traveldaily.cn/article/76983.html)。此前在2013年2月1日，海航的无线网络还成功地接到了地面，完成了在空中发微博的测试飞行。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-03-03/hna-capital-airpad/)
+[动点科技](http://cn.technode.com/post/2014-03-03/hna-capital-airpad/)

@@ -270,6 +270,7 @@
 
     var params = new URLSearchParams(window.location.search);
     var tag = params.get('tag'), year = params.get('year'), search = params.get('search');
+    var urlPage = parseInt(params.get('p')) || 1;
     if (!allPosts.length) return;
 
     if (tag || year || search) {
@@ -280,7 +281,7 @@
         var q = search.toLowerCase();
         displayedPosts = allPosts.filter(function(p) { return p.t.toLowerCase().indexOf(q) !== -1 || p.e.toLowerCase().indexOf(q) !== -1; });
       }
-      currentPage = 1;
+      currentPage = urlPage;
       container.style.display = '';
       container.innerHTML = '';
       if (loadingHint) loadingHint.style.display = 'none';
@@ -290,9 +291,15 @@
     }
 
     displayedPosts = allPosts;
-    currentPage = 1;
-    renderPageButtons(document.getElementById('pagination'), allPosts.length, 1);
+    currentPage = urlPage;
+    renderPageButtons(document.getElementById('pagination'), allPosts.length, currentPage);
+    if (urlPage > 1) renderPage();
   }
+
+  /* 浏览器前进/后退时，按 URL 恢复页码 */
+  window.addEventListener('popstate', function() {
+    if (window.__POSTS__) location.reload();
+  });
 
   function renderPage() {
     var container = document.getElementById('postsContainer');
@@ -327,6 +334,8 @@
       return;
     }
     if (noResults) noResults.style.display = 'none';
+    var maxPage = Math.ceil(total / PAGE_SIZE);
+    if (currentPage > maxPage) currentPage = maxPage;
 
     var start = (currentPage - 1) * PAGE_SIZE;
     var end = Math.min(start + PAGE_SIZE, total);
@@ -336,22 +345,31 @@
     setTimeout(function() { renderPageButtons(_pe, _t, _c); }, 0);
   }
 
+  /* 构造可定位的翻页 URL：首页 ?p=N；带过滤参数时保留并追加 ?year=2016&p=N 等 */
+  function buildPageUrl(n) {
+    var params = new URLSearchParams(window.location.search);
+    if (n > 1) params.set('p', n); else params.delete('p');
+    var qs = params.toString();
+    return qs ? (location.pathname + '?' + qs) : location.pathname;
+  }
+
   function renderPageButtons(el, total, current) {
     if (!el) return;
     var tp = Math.ceil(total / PAGE_SIZE);
     if (tp <= 1) { el.innerHTML = ''; return; }
     var h = '';
-    h += current > 1 ? '<a href="#" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 上一页</a>' : '<span class="pagination-btn pagination-disabled">\u2190 上一页</span>';
+    h += current > 1 ? '<a href="' + buildPageUrl(current - 1) + '" class="pagination-btn" data-page="' + (current - 1) + '">\u2190 上一页</a>' : '<span class="pagination-btn pagination-disabled">\u2190 上一页</span>';
     var s = Math.max(1, current - 2), e = Math.min(tp, current + 2);
-    if (s > 1) { h += '<a href="#" class="pagination-btn" data-page="1">1</a>'; if (s > 2) h += '<span class="pagination-ellipsis">\u2026</span>'; }
-    for (var i = s; i <= e; i++) h += i === current ? '<span class="pagination-btn pagination-current">' + i + '</span>' : '<a href="#" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
-    if (e < tp) { if (e < tp - 1) h += '<span class="pagination-ellipsis">\u2026</span>'; h += '<a href="#" class="pagination-btn" data-page="' + tp + '">' + tp + '</a>'; }
-    h += current < tp ? '<a href="#" class="pagination-btn" data-page="' + (current + 1) + '">下一页 \u2192</a>' : '<span class="pagination-btn pagination-disabled">下一页 \u2192</span>';
+    if (s > 1) { h += '<a href="' + buildPageUrl(1) + '" class="pagination-btn" data-page="1">1</a>'; if (s > 2) h += '<span class="pagination-ellipsis">\u2026</span>'; }
+    for (var i = s; i <= e; i++) h += i === current ? '<span class="pagination-btn pagination-current">' + i + '</span>' : '<a href="' + buildPageUrl(i) + '" class="pagination-btn" data-page="' + i + '">' + i + '</a>';
+    if (e < tp) { if (e < tp - 1) h += '<span class="pagination-ellipsis">\u2026</span>'; h += '<a href="' + buildPageUrl(tp) + '" class="pagination-btn" data-page="' + tp + '">' + tp + '</a>'; }
+    h += current < tp ? '<a href="' + buildPageUrl(current + 1) + '" class="pagination-btn" data-page="' + (current + 1) + '">下一页 \u2192</a>' : '<span class="pagination-btn pagination-disabled">下一页 \u2192</span>';
     el.innerHTML = h;
     el.querySelectorAll('a[data-page]').forEach(function(btn) {
       btn.addEventListener('click', function(ev) {
         ev.preventDefault();
         currentPage = parseInt(this.dataset.page);
+        history.pushState({}, '', buildPageUrl(currentPage));
         renderPage();
         updateFeaturedVisibility();
         window.scrollTo({ top: 0, behavior: 'smooth' });

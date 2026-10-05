@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 但是，刷屏的化学反应在两三个小时后骤然转向。财新传媒记者王和岩质疑文章主要内容出自《财新周刊》的系列报道，这些报道均需付费订阅才可阅读。“自媒体时代就可以不采访不花成本，躺着吃别的媒体的报道了吗？”
 
-（ [https://www.guancha.cn/politics/2019_01_13_486695.shtml](https://link.zhihu.com/?target=https%3A//www.guancha.cn/politics/2019_01_13_486695.shtml) ）
+（ [https://www.guancha.cn/politics/2019_01_13_486695.shtml](https://www.guancha.cn/politics/2019_01_13_486695.shtml) ）
 
 《甘柴劣火》本来可能再次引发由“草根”舆论倒逼高层关注的奇迹，却日益演变为混杂洗稿、抄袭、版权等议题的一地鸡毛。想必甘肃官场和舆论场本来对可能到来的疾风骤雨战战兢兢，现在估计是大大的松了一口气。
 
@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 11 岁的小海伦得知此事时惊恐不安，并且很长时间都不敢再写字。她也因此付出了代价：让非常器重她的校长大感失望和羞辱，她“失掉了一位最好的朋友”并被迫转学。
 
-（ [https://en.wikipedia.org/wiki/Helen_Keller](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Helen_Keller) ）
+（ [https://en.wikipedia.org/wiki/Helen_Keller](https://en.wikipedia.org/wiki/Helen_Keller) ）
 
 但这并没有妨碍凯勒成为可能是世界上最著名的盲/聋人，成为教育家、慈善家和政治活动家，出了 12 本书，并在 87 岁高龄辞世。当年这篇文章所落下的恩怨，写入了她的生平，但其实也没有像幽灵一般伴随她的一生，她并没有因此被“打倒”。
 
@@ -49,7 +49,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 《三生三世十里桃花》的主题曲《凉凉》被义愤填膺的网友改编为《抄抄》，讽刺原著作者唐七的疑似剽窃行为。网络文学是洗稿的一个重灾区，而由此引发的斗智斗勇，也让网友发明了“调色盘”技术，以判断并非大段完全照搬，而是调换了同义词和颠倒词序的写法。
 
-（ [https://baike.baidu.com/item/%E8%B0%83%E8%89%B2%E7%9B%98/18060430](https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E8%25B0%2583%25E8%2589%25B2%25E7%259B%2598/18060430) ）
+（ [https://baike.baidu.com/item/%E8%B0%83%E8%89%B2%E7%9B%98/18060430](https://baike.baidu.com/item/%E8%B0%83%E8%89%B2%E7%9B%98/18060430) ）
 
 调色盘的发明对网文行业的重大意义，差不多相当于洛阳铲之于考古。
 
@@ -69,7 +69,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 即便如此，TC 中国也不得不在一开始就宣布跟 36kr 打一仗，以促使他们停止直接编译 TechCrunch 美国网站的文章。
 
-（ [https://techcrunch.cn/2014/01/20/36kr-stop-stealing-techcrunchs-posts/](https://link.zhihu.com/?target=https%3A//techcrunch.cn/2014/01/20/36kr-stop-stealing-techcrunchs-posts/) ）
+（ [https://techcrunch.cn/2014/01/20/36kr-stop-stealing-techcrunchs-posts/](https://techcrunch.cn/2014/01/20/36kr-stop-stealing-techcrunchs-posts/) ）
 
 此事当时引出了千奇百怪的众生相，既有报纸和媒体人的声援，也有“这破网站速度慢样子丑翻译质量还差，为啥不让做的更好的 36kr 去翻”这样的论调。
 
@@ -83,13 +83,13 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 当然也有不甘沉沦的受害者，真的去“秋菊打官司”。2016 年 5 月，霍炬以个人名义状告“差评”洗稿，成为国内首个所谓“高级抄袭”的相关诉讼案例，不过一审败诉。
 
-（ [https://mp.weixin.qq.com/s/QOlQCqjsCCWHQPNR_KvgBQ](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5MTE4Nzk1NA%3D%3D%26mid%3D2650741795%26idx%3D1%26sn%3D69da9d2a0ff0bfba5d0d544a5c079f0f%26scene%3D21%23wechat_redirect) ）
+（ [https://mp.weixin.qq.com/s/QOlQCqjsCCWHQPNR_KvgBQ](https://mp.weixin.qq.com/s?__biz=MjM5MTE4Nzk1NA==&mid=2650741795&idx=1&sn=69da9d2a0ff0bfba5d0d544a5c079f0f&scene=21#wechat_redirect) ）
 
 而江苏的《现代快报》则前前后后花了三年时间，就今日头条未经授权转载 4 篇报纸稿件起诉，终于在去年胜诉，4 篇稿件赔了 10 万元。
 
 甚至于《现代快报》在今年 1 月 8 号还开了个专门的《现代快报判例的现实意义和司法价值》圆桌论坛，请大家一同为这一多年不遇的沉冤得雪鼓掌。
 
-（ [https://mp.weixin.qq.com/s/PVBCkTj_qPwgTjtDK82CIQ](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1MDU4OTA0Mg%3D%3D%26mid%3D2247488850%26idx%3D1%26sn%3D52469d4844b1350f473e317c87cbfbb0%26scene%3D21%23wechat_redirect) ）
+（ [https://mp.weixin.qq.com/s/PVBCkTj_qPwgTjtDK82CIQ](https://mp.weixin.qq.com/s?__biz=MzI1MDU4OTA0Mg==&mid=2247488850&idx=1&sn=52469d4844b1350f473e317c87cbfbb0&scene=21#wechat_redirect) ）
 
 霍炬和《现代快报》都认为自己抱着“不成功便成仁”的心思去打官司，都觉得自己的努力将作为中国法制历史上的一个里程碑。
 
@@ -115,11 +115,11 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 被微信官方剥夺了原创标权限和赞赏功能的“呦呦鹿鸣”依然留下了诸多支持者的留言，例如“同行间的仇恨是赤裸裸的”“几千人的打赏被平台无耻退还，我们愿意给，我们愿意支持一个有良知有侠义的君子，尔等滚蛋”。
 
-（ [https://mp.weixin.qq.com/s/QYrwbfH-SlVmQ83fHD5DsA](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5ODAzNTc2NA%3D%3D%26mid%3D2652878178%26idx%3D1%26sn%3Dbad92f7335a1f319db90d1a261e05fc1%26scene%3D21%23wechat_redirect) ）
+（ [https://mp.weixin.qq.com/s/QYrwbfH-SlVmQ83fHD5DsA](https://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA==&mid=2652878178&idx=1&sn=bad92f7335a1f319db90d1a261e05fc1&scene=21#wechat_redirect) ）
 
 一年后回头看，“周冲的影像声色”依然保持“笔耕不辍”，文章阅读量和活跃度也没有明显减少；大半年后回头看，“差评”也还在持续过去的“文风”，并不断探索新的增长和创收模式。就在昨天，差评宣布推出自营数码产品品牌“TEGIC”，首款产品是一根数据线。
 
-（ [https://mp.weixin.qq.com/s/nCBybRj5fkzeooNKDqCnRw](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA5NDc1NzQ4MA%3D%3D%26mid%3D2653359197%26idx%3D1%26sn%3Dccee1952fa37beb8f05f2318980a6924%26scene%3D21%23wechat_redirect) ）
+（ [https://mp.weixin.qq.com/s/nCBybRj5fkzeooNKDqCnRw](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2653359197&idx=1&sn=ccee1952fa37beb8f05f2318980a6924&scene=21#wechat_redirect) ）
 
 **而“呦呦鹿鸣”甚至都不用等很久来看到自己声誉的“反转”**。蓝鲸财经转述了媒体界朋友圈里的一些“辩护”声音。例如野马财经创始人李晓晔说：
 
@@ -129,7 +129,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 > “把张育群和黄志杰高薪招到财新去，专门负责洗稿。自己洗自己的稿，就完美滴解决了合法性和传播性的冲突问题，不会被人说不道德了。”
 
-（ [http://www.lanjinger.com/news/detail?id=103235](https://link.zhihu.com/?target=http%3A//www.lanjinger.com/news/detail%3Fid%3D103235) ）
+（ [http://www.lanjinger.com/news/detail?id=103235](http://www.lanjinger.com/news/detail?id=103235) ）
 
 黄志杰曾任新华社《瞭望东方周刊》主笔、《网络传播》执行主编、无界新闻执行主编。航通社作者看到这个履历的时候，曾经问相熟的朋友：
 
@@ -157,7 +157,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 根据方可成“新闻实验室”的综述，2018 年，国外《连线》《大西洋月刊》和彭博社等，国内《南方周末》推出付费会员制，加入了《纽约时报》《华盛顿邮报》《财新》和台湾《天下杂志》等组成的付费订阅行列。
 
-（ [https://mp.weixin.qq.com/s/GuGoalmQFMqnoyouxwARyg](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5NDEwNjQ0MQ%3D%3D%26mid%3D2654281699%26idx%3D1%26sn%3D355329da967c2da2d75133ae22ca41a8%26scene%3D21%23wechat_redirect) ）
+（ [https://mp.weixin.qq.com/s/GuGoalmQFMqnoyouxwARyg](https://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654281699&idx=1&sn=355329da967c2da2d75133ae22ca41a8&scene=21#wechat_redirect) ）
 
 如果不是原来的模式难以为继，相信没什么报刊乐意选择如此“自绝于人民”的办法，毕竟付费墙阻挡的其实是文章进一步在大众舆论流传，和塑造影响力，扩大潜在用户群的可能。
 
@@ -175,7 +175,7 @@ source: "https://zhuanlan.zhihu.com/p/54871084"
 
 例如，有的网站以富媒体形式存储文章，其中引用的视频需要托管于自己的服务器或自己买的云上，付费意味着肯定要看到 1080p 的高清版本，而这样带来的带宽费用，常常被付费模式的观察者们忽略。
 
-（ [https://techcrunch.com/2018/05/06/subscription-hell/](https://link.zhihu.com/?target=https%3A//techcrunch.com/2018/05/06/subscription-hell/) ）
+（ [https://techcrunch.com/2018/05/06/subscription-hell/](https://techcrunch.com/2018/05/06/subscription-hell/) ）
 
 赚辛苦钱的传统媒体，和红红火火的洗稿熟手之间，形成了极其鲜明的反差。
 

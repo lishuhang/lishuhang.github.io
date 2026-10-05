@@ -23,6 +23,6 @@ source: "https://zhuanlan.zhihu.com/p/21394950"
 
 当然，也有一种可能性不低的选择，就是浓眉大眼的神舟也去主攻手机……不过现阶段至少它的重心还在PC这边。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-06-21/hasee-mid-2016/)
+[动点科技](http://cn.technode.com/post/2016-06-21/hasee-mid-2016/)
 
 ![](/2016/06/21/zhe-me-duo-nian-le-zhe/01.png)

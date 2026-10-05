@@ -53,4 +53,4 @@ source: "https://zhuanlan.zhihu.com/p/19978839"
 
 ![](/2015/03/17/xiao-hun-de-12306-yan-zheng/07.jpg)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-03-17/zaobao0317/)
+[动点科技](http://cn.technode.com/post/2015-03-17/zaobao0317/)

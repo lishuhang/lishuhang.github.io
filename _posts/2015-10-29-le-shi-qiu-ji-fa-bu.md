@@ -37,6 +37,6 @@ source: "https://zhuanlan.zhihu.com/p/20305074"
 
 说到底，乐视也是一家符合商业规律的公司，他们所做的一切商业抉择，现在来看，始终没有超出我们之前所见过的范畴。至今为止，太阳之下，并无新事。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-29/letv-2015-fall-media-conf/)
+[动点科技](http://cn.technode.com/post/2015-10-29/letv-2015-fall-media-conf/)
 
 ![](/2015/10/29/le-shi-qiu-ji-fa-bu/01.jpg)

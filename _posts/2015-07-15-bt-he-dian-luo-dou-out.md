@@ -27,6 +27,6 @@ source: "https://zhuanlan.zhihu.com/p/20113025"
 
 也许如果把我们直接传送到 10 年或者 20 年以后，那个时候的人们使用电脑或者说获得资讯的方式，将会让我们更加不可想象。让我唯一可以肯定的一点就是，不管时代怎么变迁，**色情内容依然是人们最愿意传播的东西。它将一直作为推动技术进步的源动力之一。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-15/btout/)
+[动点科技](http://cn.technode.com/post/2015-07-15/btout/)
 
 ![](/2015/07/15/bt-he-dian-luo-dou-out/01.jpg)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/21421380"
 ---
 
-一篇来自界面自媒体JMedia的文章《[90后靠谱度为负 他们真该洗洗睡啦！](https://link.zhihu.com/?target=http%3A//www.jiemian.com/article/644797.html%23pll)》不仅被@新闻晨报等微博大号引用，还出现在了界面官方公众号的推送里面。所以，值得为对此文的几点不同意见，专门写一篇来讲讲。
+一篇来自界面自媒体JMedia的文章《[90后靠谱度为负 他们真该洗洗睡啦！](http://www.jiemian.com/article/644797.html#pll)》不仅被@新闻晨报等微博大号引用，还出现在了界面官方公众号的推送里面。所以，值得为对此文的几点不同意见，专门写一篇来讲讲。
 
 
 
@@ -190,7 +190,7 @@ source: "https://zhuanlan.zhihu.com/p/21421380"
 
 针对雇主一方，世界是你们的，也是我们的，但终究是他们丫儿挺的。所以就像你把握市场动态一样，针对公司内部的形态，也作出敏捷的改变吧。
 
-[界面](https://link.zhihu.com/?target=http%3A//www.jiemian.com/article/713801.html)
+[界面](http://www.jiemian.com/article/713801.html)
 
 题图：Pixabay
 

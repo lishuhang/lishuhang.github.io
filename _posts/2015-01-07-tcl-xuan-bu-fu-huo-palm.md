@@ -15,9 +15,9 @@ Palm 品牌将由 TCL 美国子公司独立运营，产品定位于创新性的�
 
 目前还没有针对 Palm 品牌的详细发展计划和产品策略。TCL 通讯 CEO 郭爱平称 Palm 今年年底能够推出新品，产品将会面向全球市场。
 
-本次针对 Palm 品牌的交易是 2014 年 10 月开始的，到现在宣布完成。当时，惠普将 Palm 商标售予 TCL 设立的一家壳公司，金额没有披露。从那开始，Palm 官网就一直呈现 [一个品牌重塑的倒计时牌](https://link.zhihu.com/?target=http%3A//mynewpalm.com/) 。
+本次针对 Palm 品牌的交易是 2014 年 10 月开始的，到现在宣布完成。当时，惠普将 Palm 商标售予 TCL 设立的一家壳公司，金额没有披露。从那开始，Palm 官网就一直呈现 [一个品牌重塑的倒计时牌](http://mynewpalm.com/) 。
 
-[TCL 的官方声明同时也对外披露](https://link.zhihu.com/?target=http%3A//www.theverge.com/2014/12/31/7474965/hp-sells-palm-acatel-one-touch-tcl) ，称根据产品所拥有的庞大粉丝群体，这将会“转型为业界最大的众包项目”（“That’s why TCL has set the direction to rebuild the brand involving Palm’s very own community, making it the largest scale crowd-sourced project ever seen in the industry.”）。这是一个提示，但目前我们还不知道其真正的含义。
+[TCL 的官方声明同时也对外披露](http://www.theverge.com/2014/12/31/7474965/hp-sells-palm-acatel-one-touch-tcl) ，称根据产品所拥有的庞大粉丝群体，这将会“转型为业界最大的众包项目”（“That’s why TCL has set the direction to rebuild the brand involving Palm’s very own community, making it the largest scale crowd-sourced project ever seen in the industry.”）。这是一个提示，但目前我们还不知道其真正的含义。
 
 美国方面对于 TCL 的主要认识，是销售低价的电视机而为人所知，与阿尔卡特合资的手机项目也很不错。在前 iPhone 时代，Palm 一直是智能手机界的一个标杆，曾经推出数款在市场上热销的机器，进入惠普门下之后又推出了基于自有 WebOS 系统的其他几款手机，但是因为塑造生态链失败，而导致整个产品线失败，因此被惠普雪藏。整个公司也因此错失了近几年移动互联网发展的大好时机。
 
@@ -27,4 +27,4 @@ Palm 品牌将由 TCL 美国子公司独立运营，产品定位于创新性的�
 
 也许有可能，我们会看到内装有安卓操作系统的 Palm 手机出现。而且因为只是收购品牌，TCL 也会利用自家跟阿尔卡特合作的生产线。如果是这样造出来的 Palm 手机，你会买吗？
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-01-07/tcl-bought-palm/)
+[动点科技](http://cn.technode.com/post/2015-01-07/tcl-bought-palm/)

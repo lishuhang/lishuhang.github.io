@@ -14,7 +14,7 @@ source: "https://zhuanlan.zhihu.com/p/22631755"
 >
 > 我期待的一种筛选方式是勾选“正在营业”，退而求其次也可以勾选“24小时营业”，同时，如果我所在的位置距离饭馆有1小时车程，那么距离下班时间还有1小时就会提醒我“今天可能来不及了”。要知道，现在地图当中赶公交地铁的时候都会提醒你“可能错过末班车”或者“首班车尚未发出”，其实时间是一个非常重要的指标。
 
-[动点](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-27/seeking-for-24h-restaurant/)
+[动点](http://cn.technode.com/post/2016-09-27/seeking-for-24h-restaurant/)
 
 
 

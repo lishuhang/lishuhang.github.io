@@ -7,23 +7,23 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20021332"
 ---
 
-为移动开发者提供内测应用分发的服务 [Fir.im](https://link.zhihu.com/?target=http%3A//fir.im/) 最近遇到了麻烦，有人借用其平台托管有恶意代码的 APP，并将短网址以骚扰短信形式发出。有用户把手机截图发到微博，并引发一些公安官微转发。
+为移动开发者提供内测应用分发的服务 [Fir.im](http://fir.im/) 最近遇到了麻烦，有人借用其平台托管有恶意代码的 APP，并将短网址以骚扰短信形式发出。有用户把手机截图发到微博，并引发一些公安官微转发。
 
-动点就此询问了 [http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 创始人王猛，他表示，[http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 将最快在本周加入病毒查杀功能，从服务器端检测提交的应用是否有恶意代码，从而为最终用户提供更好的安全保障。
+动点就此询问了 [http://Fir.im](http://Fir.im) 创始人王猛，他表示，[http://Fir.im](http://Fir.im) 将最快在本周加入病毒查杀功能，从服务器端检测提交的应用是否有恶意代码，从而为最终用户提供更好的安全保障。
 
 王猛指出，软件下载到手机之后，杀毒软件也会及时查杀病毒并提示用户，用户养成安装安全软件的习惯，那么软件下载页面就不会成为用户的最后一道防线。
 
 王猛指出，现在系统中已经有成熟的权限控制措施，未来视情况需要，可能会关闭目前的公开下载通道，以进一步提升骗子的作案成本。目前，公司的帐号管理系统已封禁 161 个恶意开发者帐号。
 
-[正如动点之前所介绍的](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-08-01/fir-im/) ，Fir.im 解决的问题是，在一款 iOS／Android 应用上架应用商店之前进行反复测试的过程中，如何更便捷地将测试应用发送给测试者。只要将应用上传到 FIR.im，网站会自动为这个应用生成一个短链接。任何得到这一短链接的人，只要用 iPhone 打开这一短链接，就能将应用下载到手机上。从上传到下载，整个过程最短只用两分钟。
+[正如动点之前所介绍的](http://cn.technode.com/post/2014-08-01/fir-im/) ，Fir.im 解决的问题是，在一款 iOS／Android 应用上架应用商店之前进行反复测试的过程中，如何更便捷地将测试应用发送给测试者。只要将应用上传到 FIR.im，网站会自动为这个应用生成一个短链接。任何得到这一短链接的人，只要用 iPhone 打开这一短链接，就能将应用下载到手机上。从上传到下载，整个过程最短只用两分钟。
 
 ![](/2015/05/05/firim-hui-ying-zang-ying-yong/01.jpg)
 
-面对本次对服务的滥用行为，[Fir.im 创始人王猛表示](https://link.zhihu.com/?target=http%3A//weibo.com/1642587442/CgioGvx7I%3Ffrom%3Dpage_1005051642587442_profile%26wvr%3D6%26mod%3Dweibotime) ：
+面对本次对服务的滥用行为，[Fir.im 创始人王猛表示](http://weibo.com/1642587442/CgioGvx7I?from=page_1005051642587442_profile&wvr=6&mod=weibotime) ：
 
 > 最近我们平台出现许多恶意程序 我们也安排同事实时甄别 一经发现立即删除并提交给各地警方取证
 
-[官方微博也发出通知](https://link.zhihu.com/?target=http%3A//weibo.com/firim) ：
+[官方微博也发出通知](http://weibo.com/firim) ：
 
 > 前阵子确实存在一些不法分子上传脏应用的现象，我们已经安排专门的同事进行监控，发现后立即强行删除。另外，测试用户也可随时将涉黄、涉毒、盗版应用、积分墙应用等发送邮件到 dev@fir.im 进行举报。
 >
@@ -45,7 +45,7 @@ A：嗯，我们在跟杀毒厂商谈合作，很快就会加上病毒扫描功�
 
 A：一个都没有。或者我觉得病毒的目标用户没有（对恶意短信的）识别能力。
 
-**Q：我看到很多公安官微都转发了有 [http://fir.im](https://link.zhihu.com/?target=http%3A//fir.im) 网址的图片，这样会让不知道 [http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 的群众对你们产生先入为主的印象吗？有必要找这些官微去澄清吗？**
+**Q：我看到很多公安官微都转发了有 [http://fir.im](http://fir.im) 网址的图片，这样会让不知道 [http://Fir.im](http://Fir.im) 的群众对你们产生先入为主的印象吗？有必要找这些官微去澄清吗？**
 
 A：我觉得赶紧上线查杀功能是更直接的办法。
 
@@ -61,20 +61,20 @@ A：大概 1 个月前，我们已经发现零星的，然后我们加了封号�
 
 A：邮箱一般都是 163 的，然后邮箱都是乱七八糟的 id，IP 基本都是来自广西。
 
-**Q：目前 [http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 没有自己的查毒，所以要依靠用户手机的杀毒软件，但全程 https 会不会对手机上杀毒软件的产生迷惑呢？是否可以说打开网页后 [http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 自己的把关成为最后一道防线？**
+**Q：目前 [http://Fir.im](http://Fir.im) 没有自己的查毒，所以要依靠用户手机的杀毒软件，但全程 https 会不会对手机上杀毒软件的产生迷惑呢？是否可以说打开网页后 [http://Fir.im](http://Fir.im) 自己的把关成为最后一道防线？**
 
 A：这个不会的，文件是在下载后安装时被杀毒软件扫描的。所以手机如果装了杀毒软件，是可以查杀的。
 
-**Q：[http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 方面的查毒功能最快什么时候上线？**
+**Q：[http://Fir.im](http://Fir.im) 方面的查毒功能最快什么时候上线？**
 
-A：我要求同事这周上线。当然前提是商务方面需要和几家病毒厂商达成一致。杀毒上线以前，我们会在网站下载页面（类似 [http://fir.im/](https://link.zhihu.com/?target=http%3A//fir.im/)*** 这样的网址）加上提醒。
+A：我要求同事这周上线。当然前提是商务方面需要和几家病毒厂商达成一致。杀毒上线以前，我们会在网站下载页面（类似 [http://fir.im/](http://fir.im/)*** 这样的网址）加上提醒。
 
 **Q：你们现在有开发者帐号加 V 制度么？**
 
 A：还没有，也在讨论中。目前我们有各种开发者的权限控制：公开下载，密码下载和仅团队内部下载。如果形势所需，我们会关闭公开下载，只允许团队内部的人下载。这样骗子就没办法让用户去下载了，因为下载门槛太高。
 
-**Q：关闭公开下载是需要团队成员都在 [http://Fir.im](https://link.zhihu.com/?target=http%3A//Fir.im) 注册么？**
+**Q：关闭公开下载是需要团队成员都在 [http://Fir.im](http://Fir.im) 注册么？**
 
 A：不只是注册，还需要开发者把用户加入到团队内部，而骗子不知道用户的 id，所以这个环就闭不上。
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-05-05/fir-im-vs-malware/)*
+*[动点科技](http://cn.technode.com/post/2015-05-05/fir-im-vs-malware/)*

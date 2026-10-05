@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/19845786"
 
 很难说Apple Pay会不会成为一个分水岭——这套支付标准有可能推广起来很困难，就算不会失败，也不会特别成功。而以后苹果更可能很难再推动其他的单一标准，而是必须遵循已有的行业规范。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140910/002538.htm)
+[腾讯科技](http://tech.qq.com/a/20140910/002538.htm)

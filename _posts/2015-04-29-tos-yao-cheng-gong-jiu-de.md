@@ -29,4 +29,4 @@ source: "https://zhuanlan.zhihu.com/p/20015952"
 
 从这样的历史来看，TOS若能成功的最大关键，就在于腾讯能够在背后给予多大程度的整合性支持，而不仅仅是提供一个很好的系统或接口这么简单。背靠整个腾讯这棵大树，TOS才能有机会发展下去。
 
-*[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/15/0429/09/AOBVECKK000948V8.html)*
+*[网易科技](http://tech.163.com/15/0429/09/AOBVECKK000948V8.html)*

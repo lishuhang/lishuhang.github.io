@@ -55,7 +55,7 @@ source: "https://zhuanlan.zhihu.com/p/19884941"
 
 是的，我终于弄明白了库克这条新闻为什么对我而言听起来如此亲切。原来它让我想起了自己小时候家里给买的枕边读物，是这本书中我印象最为深刻的一个片段。
 
-下面，我愿意带着大家一起来读一下《钢铁是怎样炼成的》这本书中，[描写列宁去世之后所发生的事情](https://link.zhihu.com/?target=http%3A//www.newxue.com/baike/12456508475194_8.html)：
+下面，我愿意带着大家一起来读一下《钢铁是怎样炼成的》这本书中，[描写列宁去世之后所发生的事情](http://www.newxue.com/baike/12456508475194_8.html)：
 
 > “同志们！全世界无产阶级的领袖列宁逝世了。我们党遭受了无法弥补的损失——那位缔造了布尔什维克党并教育她同敌人进行毫不妥协斗争的人跟我们永别了……**党和阶级的领袖的逝世应该是一种召唤，召唤无产阶级的优秀儿女加入我们的队伍**……”
 >
@@ -89,4 +89,4 @@ source: "https://zhuanlan.zhihu.com/p/19884941"
 
 有更多的人受到这样的召唤，开始为LGBT群体和其他人群完全平等的未来而奋斗，投身于属于我们这个时代的革命故事中去。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-11-04/tim-cook-is-calling/)
+[动点科技](http://cn.technode.com/post/2014-11-04/tim-cook-is-calling/)

@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/20121656"
 
 向上流动又分为两种情况，一种是**在自己的公司之内拥有稳定的职业发展路径**，另外一种则是**通过不断跳槽，让自己的每一次改变都为下一次的升级做准备**。我们耳熟能详的美国梦，一般都表明了从最基层一直奋斗，最终能够跃升到社会顶层的传奇故事，并且一直传递的是一种奋斗就有可能成功的观念。而这种观念也贯彻在任何一个人数很多的（劳动力密集的）企业中。
 
-[![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/01.jpg)【不明觉厉】丹东妹纸打鸡血了 笑抽过去了~~丹东阿里郎风采展示！—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XNTAxODE2NzE2.html?from=s1.8-1-1.2](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTAxODE2NzE2.html%3Ffrom%3Ds1.8-1-1.2)
+[![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/01.jpg)【不明觉厉】丹东妹纸打鸡血了 笑抽过去了~~丹东阿里郎风采展示！—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XNTAxODE2NzE2.html?from=s1.8-1-1.2](http://v.youku.com/v_show/id_XNTAxODE2NzE2.html?from=s1.8-1-1.2)
 
 连锁餐厅麦当劳和肯德基来到中国的时候，也把他们的招聘理念带到了中国。到现在，很多追随他们模式的快餐厅在招募新人的海报里，总附带一个阶梯状的“职业生涯”图示。
 
@@ -41,6 +41,6 @@ source: "https://zhuanlan.zhihu.com/p/20121656"
 
 当然，包括希拉里在内，绝大多数候选人都会赞同严格控制Uber这样的共享经济。但是我想他们所希望的，只不过是**由共享或按需经济指数级增长，而引发的大规模工人失业和社会动荡，不要发生在他们的任期当中**。正是带着这样的一种略显自私的情绪，我想可能绝大部分政治家们都希望掐灭共享经济的火花。然而，由技术革命所带来的社会变化，是否一定是革命先驱们必须要亲自解决的问题？这就见仁见智了。毕竟，在改良蒸汽机之后出现的卢德运动，并没有要求瓦特们“还我血汗钱”。
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-07-21/pid_8483636.htm)（作者独家授权新浪网使用，请勿转载）
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2015-07-21/pid_8483636.htm)（作者独家授权新浪网使用，请勿转载）
 
 ![](/2015/07/21/zheng-zai-xiao-shi-de-zhi/03.jpg)

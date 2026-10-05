@@ -13,16 +13,16 @@ source: "https://zhuanlan.zhihu.com/p/22162789"
 
 参考资料：
 
-[微软“金钥迷案”引发业界恐慌：安全专家在播客节目澄清](https://link.zhihu.com/?target=http%3A//bbs.wfun.com/thread-942160-1-1.html)
-[提升用户DPI缩放体验，微软详细阐述Win10周年更新DPI技术改进](https://link.zhihu.com/?target=http%3A//bbs.wfun.com/thread-942197-1-1.html)
-[IDF 2016: Big News, New Products You May Have Missed](https://link.zhihu.com/?target=https%3A//newsroom.intel.com/chip-shots/idf-2016-big-news-new-products-you-may-have-missed/)
-[Intel Core迟来5年的对手：AMD正式发布Zen架构处理器](https://link.zhihu.com/?target=http%3A//www.ithome.com/html/digi/250656.htm)
-[Intel与ARM达成授权协议：未来有望代工苹果A系列处理器](https://link.zhihu.com/?target=http%3A//www.ithome.com/html/it/250003.htm)
-[Windows 10 Redstone 2:Everything We Know (So Far)](https://link.zhihu.com/?target=http%3A//www.windowscentral.com/windows-10-redstone-2)
-[Microsoft says this might be the last console generation](https://link.zhihu.com/?target=https%3A//www.engadget.com/2016/08/17/microsoft-aaron-greenberg-qa-project-scorpio-vr/%3Fsr_source%3DTwitter)
+[微软“金钥迷案”引发业界恐慌：安全专家在播客节目澄清](http://bbs.wfun.com/thread-942160-1-1.html)
+[提升用户DPI缩放体验，微软详细阐述Win10周年更新DPI技术改进](http://bbs.wfun.com/thread-942197-1-1.html)
+[IDF 2016: Big News, New Products You May Have Missed](https://newsroom.intel.com/chip-shots/idf-2016-big-news-new-products-you-may-have-missed/)
+[Intel Core迟来5年的对手：AMD正式发布Zen架构处理器](http://www.ithome.com/html/digi/250656.htm)
+[Intel与ARM达成授权协议：未来有望代工苹果A系列处理器](http://www.ithome.com/html/it/250003.htm)
+[Windows 10 Redstone 2:Everything We Know (So Far)](http://www.windowscentral.com/windows-10-redstone-2)
+[Microsoft says this might be the last console generation](https://www.engadget.com/2016/08/17/microsoft-aaron-greenberg-qa-project-scorpio-vr/?sr_source=Twitter)
 
 收听方法：
 
-- Windows Phone和安卓用户请使用泛用型播客来订阅我们的播客，[点击此处进行订阅](https://link.zhihu.com/?target=http%3A//www.lizhi.fm/rss/1815202.xml)；
-- iOS用户请直接从iTunes中搜索LiveFM播客，或者[点击此处](https://link.zhihu.com/?target=https%3A//itunes.apple.com/cn/podcast/livefm-zhong-wen-zai-xian-ting/id1114541523%253Fmt%253D2)打开iTunes市场；
+- Windows Phone和安卓用户请使用泛用型播客来订阅我们的播客，[点击此处进行订阅](http://www.lizhi.fm/rss/1815202.xml)；
+- iOS用户请直接从iTunes中搜索LiveFM播客，或者[点击此处](https://itunes.apple.com/cn/podcast/livefm-zhong-wen-zai-xian-ting/id1114541523%3Fmt%3D2)打开iTunes市场；
 - 荔枝FM、喜马拉雅和网易云音乐请直接在应用中搜索“LiveFM”

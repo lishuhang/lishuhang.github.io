@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/25440230"
 
 微信不管以何种形式实现内容付费，其意义都是 **让付费墙方式普及到全国最大的一批内容创作者群体，蔓延到那些除了微信公号，别的什么都不知道的普通作者当中。**
 
-在期待微信早日开通付费阅读的人群里，有不少选择了另一款能够基本达到付费效果的替代应用—— [小密圈](https://link.zhihu.com/?target=https%3A//www.xiaomiquan.com/) 。小密圈运行一年多，付费群成长喜人，其中《选·美》停止了付费的会员通讯订阅之后，取消了每期精心编辑成文的通讯编辑，而用户粘性不减反增。
+在期待微信早日开通付费阅读的人群里，有不少选择了另一款能够基本达到付费效果的替代应用—— [小密圈](https://www.xiaomiquan.com/) 。小密圈运行一年多，付费群成长喜人，其中《选·美》停止了付费的会员通讯订阅之后，取消了每期精心编辑成文的通讯编辑，而用户粘性不减反增。
 
 实践证明，**截至目前的内容付费，更多的是针对作为人格而存在的个人品牌资源的一种回报**，是一种粉丝经济的变种。**内容付费对于大多数入场者来说都属于一次性收割**。有一些内容输出者并不具备持续可盈利性，读者付了一年的费用订阅之后，发现头几期没有什么用，他可能一辈子都不会再接触这个人的内容。
 
@@ -19,4 +19,4 @@ source: "https://zhuanlan.zhihu.com/p/25440230"
 
 对这些人，即使迟迟不开放付费阅读功能也没啥可怕的，**利用好目前已经开放的单篇文章打赏功能已经足够。实在不行，微信放文章摘要，阅读原文跳转到微博，或者自建的付费墙，也不费事**。
 
-全文：[http://cn.technode.com/post/2017-02-26/wechat-articles-paid-subscription/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-02-26/wechat-articles-paid-subscription/)
+全文：[http://cn.technode.com/post/2017-02-26/wechat-articles-paid-subscription/](http://cn.technode.com/post/2017-02-26/wechat-articles-paid-subscription/)

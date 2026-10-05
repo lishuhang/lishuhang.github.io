@@ -53,4 +53,4 @@ Mac是为了挑战当年IBM PC小山一样厚的说明书，繁难的操作和�
 
 而Apple Watch呢？它让我想起苹果的一款失败作品——Newton平板电脑。它实在太复杂了，以至于没有人能够记住。苹果这次往Apple Watch里面塞进了太多太多的东西，唯独忘记了塞进一样最重要的——它存在的意义。
 
-[财经网](https://link.zhihu.com/?target=http%3A//column.caijing.com.cn/20140915/3698094.shtml)
+[财经网](http://column.caijing.com.cn/20140915/3698094.shtml)

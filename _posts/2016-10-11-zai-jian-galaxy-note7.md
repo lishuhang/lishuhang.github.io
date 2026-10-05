@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/22868602"
 >  Galaxy Note7
 > 爆炸事件已经十余起，但仅有两三个主动联系外媒的受害者获得了国外媒体的报道，甚至容易给国外用户造成这即使在中国也属于偶发事件的错觉。
 
-完整全文请看：[http://cn.technode.com/post/2016-10-11/galaxy-note-7-in-deadpool/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-10-11/galaxy-note-7-in-deadpool/)
+完整全文请看：[http://cn.technode.com/post/2016-10-11/galaxy-note-7-in-deadpool/](http://cn.technode.com/post/2016-10-11/galaxy-note-7-in-deadpool/)
 
 
 

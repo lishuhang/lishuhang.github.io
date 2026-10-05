@@ -35,7 +35,7 @@ Android系统的相对开放造成了大量的不安全因素，而为了贪图�
 
 我想在未来，跟手机厂商深度合作共同应对潜在的安全隐患，总比自己默默努力要好得多，也更容易让用户放心。这一次，我选择相信支付宝，但是也仅此一次，下不为例。把自己能落人口实的地方都改好，其他人就算想质疑，恐怕也完全找不到突破口。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/329272)
+[百度百家](http://lishuhang.baijia.baidu.com/article/329272)
 
 题图 / WikiPedia
 

@@ -140,7 +140,7 @@ source: "https://zhuanlan.zhihu.com/p/22295189"
 
 至于我们每一个年轻人自己能做的，恐怕也就是曾经听过无数次的那个最简单的忠告——常回家看看。教父母上网，花时间给他们耐心讲解，这些也许只是一个契机，让你增加与家庭的沟通，改善两代人之间的关系。也许，当你试图重新开始了解自己的父母，倾听和感受他们的内心世界的时候，一片新的天地会随之打开；而如果你恰好自己也为人父母，这种感动和理解的交相融合，也能成为你生命中一次最宝贵的体验。
 
-[百度德尔塔公众号](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NzAzNDUwNA%3D%3D%26mid%3D2650019444%26idx%3D1%26sn%3D484367a4f5090805eff5caabdc06ee9a%26scene%3D1%26srcid%3D0902HrB6CID45NtSFElfHvZi%23rd)
+[百度德尔塔公众号](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650019444&idx=1&sn=484367a4f5090805eff5caabdc06ee9a&scene=1&srcid=0902HrB6CID45NtSFElfHvZi#rd)
 
 > 微信公众号 lifeissohappy
 >

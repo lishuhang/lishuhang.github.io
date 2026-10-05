@@ -17,4 +17,4 @@ source: "https://zhuanlan.zhihu.com/p/19855416"
 
 ![](/2014/09/24/dui-fu-ge-jia-a-li/04.jpg)
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-24/gejia-vs-alibaba/)*
+*[动点科技](http://cn.technode.com/post/2014-09-24/gejia-vs-alibaba/)*

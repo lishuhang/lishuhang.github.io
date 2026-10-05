@@ -65,28 +65,28 @@ cnBeta 编辑团队
 
 **本站历年高考寄语：**
 
-2005：[一些祝福...](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/7659.htm)
+2005：[一些祝福...](http://www.cnbeta.com/articles/7659.htm)
 
-2006：[cnBeta全体成员预祝考生们实现梦想！](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/12072.htm)
+2006：[cnBeta全体成员预祝考生们实现梦想！](http://www.cnbeta.com/articles/12072.htm)
 
-2006：[闲话: 谁道闲情抛却久……](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/11992.htm)
+2006：[闲话: 谁道闲情抛却久……](http://www.cnbeta.com/articles/11992.htm)
 
-2007：[互动：高考对您意味着什么？](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/27880.htm)
+2007：[互动：高考对您意味着什么？](http://www.cnbeta.com/articles/27880.htm)
 
-2008：[cnBeta 新闻团队祝全国考生08高考顺利](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/57414.htm)
+2008：[cnBeta 新闻团队祝全国考生08高考顺利](http://www.cnbeta.com/articles/57414.htm)
 
-2009：[我们的祝福来自五湖四海](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/85973.htm)
+2009：[我们的祝福来自五湖四海](http://www.cnbeta.com/articles/85973.htm)
 
-2010：[万语千言汇成的温暖诗篇](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/113092.htm)
+2010：[万语千言汇成的温暖诗篇](http://www.cnbeta.com/articles/113092.htm)
 
-2011：[献给即将握住自己命运的孩子们](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/144979.htm)
+2011：[献给即将握住自己命运的孩子们](http://www.cnbeta.com/articles/144979.htm)
 
-2012：[笑对人生梦](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/191089.htm)
+2012：[笑对人生梦](http://www.cnbeta.com/articles/191089.htm)
 
-2013：[青春追梦，永不放弃](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/240199%3Fforce%3D1)
+2013：[青春追梦，永不放弃](http://www.cnbeta.com/articles/240199?force=1)
 
-2014：[选择与幸福](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/299107.htm)
+2014：[选择与幸福](http://www.cnbeta.com/articles/299107.htm)
 
-2015：[大学的用处](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/400431.htm)
+2015：[大学的用处](http://www.cnbeta.com/articles/400431.htm)
 
 *图片/Wikipedia![](/2016/06/06/cnbeta-2016-nian-gao-kao-ji/01.png)*

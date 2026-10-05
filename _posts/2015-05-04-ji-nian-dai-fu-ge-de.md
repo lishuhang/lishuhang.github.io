@@ -9,11 +9,11 @@ source: "https://zhuanlan.zhihu.com/p/20020239"
 
 小长假之后我们进入了夏半年，很多场所开始调整营业时间，早上 6 点不到阳光也已经洒在你我身上。然而有一位硅谷人却无法继续见到冉冉初升的太阳。前天，戴夫·戈德伯格（Dave Goldberg）意外身故，他是 SurveyMonkey 的 CEO，是硅谷资格最老的创业者之一，他更为人所知的身份是 Facebook 现任 COO 谢丽尔·桑德伯格（Sheryl Sandburg）的丈夫。
 
-诚如 [《财富》杂志刊文所言](https://link.zhihu.com/?target=http%3A//fortune.com/2015/05/02/remembering-dave-goldberg/) ：
+诚如 [《财富》杂志刊文所言](http://fortune.com/2015/05/02/remembering-dave-goldberg/) ：
 
 > “在接下来几天我们将听到有关周五以 47 岁年龄溘然长逝的戴夫·戈德伯格的如下描述：朋友、父亲、丈夫、兄弟、美国中西部生人、创业者、扑克玩家、真诚之人、投资人、创业导师。毫不夸张的说，戈德伯格是硅谷真正的成功人士之中最为人爱戴的之一。”
 
-戴夫（Dave）是对大卫（David）的更亲昵的称呼，因此就像 [Re/Code 编辑卡拉·斯伟莎（Kara Swisher）说的那样](https://link.zhihu.com/?target=http%3A//recode.net/2015/05/02/beloved-silicon-valley-entrepreneur-david-goldberg-dies-suddenly/) ，“没有人管他叫‘大卫’”，他让我们联想到《植物大战僵尸》当中豪爽却总会帮到你的那个“疯狂戴夫”。他拥有一个典范式美国梦所应该具备的全部特征——伟大的人格，亲善的态度，以及精巧的专业知识，也就是在创业领域拥有的长期经验和洞察力。也许还应该加上一点小小的个人爱好——他是一个有激情的扑克玩家。
+戴夫（Dave）是对大卫（David）的更亲昵的称呼，因此就像 [Re/Code 编辑卡拉·斯伟莎（Kara Swisher）说的那样](http://recode.net/2015/05/02/beloved-silicon-valley-entrepreneur-david-goldberg-dies-suddenly/) ，“没有人管他叫‘大卫’”，他让我们联想到《植物大战僵尸》当中豪爽却总会帮到你的那个“疯狂戴夫”。他拥有一个典范式美国梦所应该具备的全部特征——伟大的人格，亲善的态度，以及精巧的专业知识，也就是在创业领域拥有的长期经验和洞察力。也许还应该加上一点小小的个人爱好——他是一个有激情的扑克玩家。
 
 戈德伯格曾创办了 Launch Media，该公司 2001 年被雅虎收购，成为 Yahoo! Music 的前身，他本人也做到雅虎的副总裁。2009 年他加入 SurveyMonkey——这是成立于 1999 年的老牌在线调查网站，其同类产品包括出品 WordPress 的 Automattic 公司制造的 PollDaddy 等，并出任 CEO 直至生命最后一刻。
 
@@ -29,7 +29,7 @@ source: "https://zhuanlan.zhihu.com/p/20020239"
 
 > “首先为失败做好准备，然后等着失败从不发生，并为此感到惊喜吧。”
 
-现在，无数青年在大众创业的号角下投入竞技场， [不禁让人担心他们空有一腔热血，却只好涂在地上](https://link.zhihu.com/?target=http%3A//view.inews.qq.com/a/20150503A000EU00) ；然而见惯了失败的“老油条”又纷纷龟缩进安全的壳里，就算是硅谷自己，投资方向也是日渐保守。戈德伯格这般“永远年轻，永远热泪盈眶”的状态，无形中让人产生一种憧憬。
+现在，无数青年在大众创业的号角下投入竞技场， [不禁让人担心他们空有一腔热血，却只好涂在地上](http://view.inews.qq.com/a/20150503A000EU00) ；然而见惯了失败的“老油条”又纷纷龟缩进安全的壳里，就算是硅谷自己，投资方向也是日渐保守。戈德伯格这般“永远年轻，永远热泪盈眶”的状态，无形中让人产生一种憧憬。
 
 也许这也可以说成“向前一步（Lean In）”——这正是戈德伯格那位著名的妻子的书名。如果让他来回答“老婆比老公出名/赚钱多是怎样一种体验？”这样的问题，他也许会说，既然两人的价值观高度一致，别的又算的了什么？
 
@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/20020239"
 
 在他去世时，媒体并非都在用“Facebook COO 之夫”来称呼他，而是用他自己的头衔和昵称，这也许是对他们夫妻长期工作的一种认同。
 
-戈德伯格在江湖呆了很久，但思维从不僵化。他熟悉行业的最新趋势，并且真诚的对创业新秀给予帮助。之前接受彭博社采访时他就对 Pandora 等音乐初创公司可能对传统唱片工业的影响侃侃而谈。而后他又进入 Startup Grind 当导师。[Startup Grind 的马里安·加兹迪克（Marian Gazdik）说道](https://link.zhihu.com/?target=https%3A//www.linkedin.com/pulse/rip-dave-goldberg-here-why-world-miss-you-marian-gazdik)：
+戈德伯格在江湖呆了很久，但思维从不僵化。他熟悉行业的最新趋势，并且真诚的对创业新秀给予帮助。之前接受彭博社采访时他就对 Pandora 等音乐初创公司可能对传统唱片工业的影响侃侃而谈。而后他又进入 Startup Grind 当导师。[Startup Grind 的马里安·加兹迪克（Marian Gazdik）说道](https://www.linkedin.com/pulse/rip-dave-goldberg-here-why-world-miss-you-marian-gazdik)：
 
 > 在 Startup Grind 我们遇到很多极度成功和有趣的创业者，但戴夫仍可脱颖而出。他有一颗最宽广的心！他喜欢帮助创业者，努力回报，以及无私分享经验，只有很少的人才做的到。创业领域都对他的洞见喜爱不已，对他善良的心灵深怀感激。
 
@@ -49,4 +49,4 @@ source: "https://zhuanlan.zhihu.com/p/20020239"
 
 可能正因如此，我自己始终没有用“戴夫”称呼他——因为我其实并不熟悉他的故事。我期待有朝一日，我自己可以讲一个我熟悉的，同时也是我尊敬的前辈的故事，给大家听。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-05-04/zaobao0504/)
+[动点科技](http://cn.technode.com/post/2015-05-04/zaobao0504/)

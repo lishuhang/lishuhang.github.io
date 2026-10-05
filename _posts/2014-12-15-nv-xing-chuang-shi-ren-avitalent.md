@@ -89,4 +89,4 @@ source: "https://zhuanlan.zhihu.com/p/19915386"
 
 *剧情片。揭露人性，一两个小时看完可以让你思考很多的那种。*
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-15/female-founder-avitalent/)
+[动点科技](http://cn.technode.com/post/2014-12-15/female-founder-avitalent/)

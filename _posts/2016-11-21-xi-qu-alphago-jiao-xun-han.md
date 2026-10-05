@@ -11,6 +11,6 @@ source: "https://zhuanlan.zhihu.com/p/23834864"
 >
 >
 >
-> 3 月底，韩国总统朴槿惠召集韩国的科技界精英和政府高级官员在首尔举行会谈，会谈结束后便宣布 [将在人工智能领域投入 30 亿美元资金](https://link.zhihu.com/?target=http%3A//tech.ifeng.com/a/20160322/41567312_0.shtml) ，全力追赶其他 AI 强国。这项有点疯狂的投资计划，非常符合韩国人（在我心目中）一惊一咋的性格。
+> 3 月底，韩国总统朴槿惠召集韩国的科技界精英和政府高级官员在首尔举行会谈，会谈结束后便宣布 [将在人工智能领域投入 30 亿美元资金](http://tech.ifeng.com/a/20160322/41567312_0.shtml) ，全力追赶其他 AI 强国。这项有点疯狂的投资计划，非常符合韩国人（在我心目中）一惊一咋的性格。
 
-全文：[http://cn.technode.com/post/2016-11-21/exobrain/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-11-21/exobrain/)
+全文：[http://cn.technode.com/post/2016-11-21/exobrain/](http://cn.technode.com/post/2016-11-21/exobrain/)

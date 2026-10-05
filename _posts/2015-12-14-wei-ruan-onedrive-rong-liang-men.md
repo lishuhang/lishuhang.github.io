@@ -53,6 +53,6 @@ source: "https://zhuanlan.zhihu.com/p/20414875"
 
 这话对哪个世界的用户都适用。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-14/onedrive-problem/)
+[动点科技](http://cn.technode.com/post/2015-12-14/onedrive-problem/)
 
 ![](/2015/12/14/wei-ruan-onedrive-rong-liang-men/01.jpg)

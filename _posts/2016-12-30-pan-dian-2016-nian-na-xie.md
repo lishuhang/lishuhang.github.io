@@ -69,4 +69,4 @@ source: "https://zhuanlan.zhihu.com/p/24651639"
 
 智能硬件、金融、医疗、交通等行业监管渐严，“虚火”消退；大数据、人工智能、VR/AR等领域普及加速，方兴未艾。初创公司应该仔细分析这些细分行业的不同趋势，为自己选择一条合适的“赛道”，寻求发展机会。对于真正有实力，有信心的人来说，每一年都将是满怀希望的一年。
 
-[百度德尔塔俱乐部](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NzAzNDUwNA%3D%3D%26mid%3D2650019778%26idx%3D1%26sn%3D6b2d56c47e1ef7c2544afa757e70364b%26scene%3D0%23wechat_redirect)
+[百度德尔塔俱乐部](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650019778&idx=1&sn=6b2d56c47e1ef7c2544afa757e70364b&scene=0#wechat_redirect)

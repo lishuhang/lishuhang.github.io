@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19864866"
 ---
 
-Facebook的联合创始人马克·扎克伯格，[现在正在印度参加为期两天的Internet.org峰会](https://link.zhihu.com/?target=http%3A//timesofindia.indiatimes.com/tech/tech-news/Facebooks-Mark-Zuckerberg-in-India-today/articleshow/44740431.cms)，这是由Facebook主导的一个组织，其目的是希望让全球范围内还没有连上互联网的人能够上网。而扎克伯格继续在兜售他之前创建此组织的说法，也就是[互联网是一项基本人权](https://link.zhihu.com/?target=http%3A//timesofindia.indiatimes.com/tech/tech-news/Internet-connectivity-is-a-human-right-Facebook-CEO-Mark-Zuckerberg-says-in-India/articleshow/44748304.cms)。
+Facebook的联合创始人马克·扎克伯格，[现在正在印度参加为期两天的Internet.org峰会](http://timesofindia.indiatimes.com/tech/tech-news/Facebooks-Mark-Zuckerberg-in-India-today/articleshow/44740431.cms)，这是由Facebook主导的一个组织，其目的是希望让全球范围内还没有连上互联网的人能够上网。而扎克伯格继续在兜售他之前创建此组织的说法，也就是[互联网是一项基本人权](http://timesofindia.indiatimes.com/tech/tech-news/Internet-connectivity-is-a-human-right-Facebook-CEO-Mark-Zuckerberg-says-in-India/articleshow/44748304.cms)。
 
 根据官方统计，印度是FB现在按照人数计算第二大的市场。Facebook在全印度的社交网络渗透率，按照注册数量计算拥有全境社交网络用户的91%，账号活跃度则超过50%。其他一些印度人使用的社交网站包括LinkedIn以及Orkut等（后者最近被关闭了）。在印度缺乏一个本土的社交网络品牌，Facebook在印度的发展已经是非常成功。
 
@@ -25,6 +25,6 @@ Facebook的联合创始人马克·扎克伯格，[现在正在印度参加为期
 
 这是一个以国家为单位，涉及地球人口大概三分之一的对照组实验。如果Facebook在印度能够成功，这个实验的意义将会是非常重大以至于载入史册的。它会向我们证明，在IT领域，世界上只有两个国家：中国和外国。而中国的企业，也会在这个隔离与全球之外的飞地，享受着属于自己的成功……
 
-我们老板卢刚前几天刚从印度回来。他觉得，至少从饭菜干净卫生角度考虑，中国同等发展水平的地区也甩出印度几条街。看看[他的游记和感想](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-27/india-like-china-market-5-years-back/)吧。
+我们老板卢刚前几天刚从印度回来。他觉得，至少从饭菜干净卫生角度考虑，中国同等发展水平的地区也甩出印度几条街。看看[他的游记和感想](http://cn.technode.com/post/2014-09-27/india-like-china-market-5-years-back/)吧。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/mark-zuckerberg-in-india/)
+[动点科技](http://cn.technode.com/post/mark-zuckerberg-in-india/)

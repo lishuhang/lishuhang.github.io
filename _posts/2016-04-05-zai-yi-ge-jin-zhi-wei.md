@@ -81,6 +81,6 @@ source: "https://zhuanlan.zhihu.com/p/20706569"
 
 最后还要补充的就是，如果我们自己前往印度设立分公司或者办公室，也一定要注意人身安全。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-05/indian-women-s-condition/)
+[动点科技](http://cn.technode.com/post/2016-04-05/indian-women-s-condition/)
 
 ![](/2016/04/05/zai-yi-ge-jin-zhi-wei/01.jpg)

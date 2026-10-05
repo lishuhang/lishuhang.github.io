@@ -17,4 +17,4 @@ source: "https://zhuanlan.zhihu.com/p/23900663"
 >
 > 不过，《南华早报》今年9月关闭中文网的举动显然不利于上述目标的达成。该报虽然以英文为主，同时是香港销量最大的英文报纸之一，但中文报道和中文网专属记者同样也是具有影响力的媒体力量。业界分析认为，2015年12月阿里巴巴收购南早媒体业务之后，他们需要做出一定举动来确保这份资产在监管层面的安全性。但也有乐观的判断认为中文版关闭的让步有助于维持英文版的报道尺度和力度。
 
-全文：[http://cn.technode.com/post/2016-11-23/digg-gary-liu-scmp/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-11-23/digg-gary-liu-scmp/)
+全文：[http://cn.technode.com/post/2016-11-23/digg-gary-liu-scmp/](http://cn.technode.com/post/2016-11-23/digg-gary-liu-scmp/)

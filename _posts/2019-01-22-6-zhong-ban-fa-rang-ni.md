@@ -7,11 +7,11 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/61321063"
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://link.zhihu.com/?target=https%3A//weibo.com/lishuhang/)**
+本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
 
 *（这是用很短时间赶出来的文章，所以排版可能不太讲究，见谅。）*
 
-今天，[有文章讲了最近百度搜索结果中大量出现“百家号”，挤占曾经是“百花齐放”的多个不同网站的内容](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5NDEwNjQ0MQ%3D%3D%26mid%3D2654281772%26idx%3D1%26sn%3De6458c0f92121b67c8d3345e7d8fa2ba%26scene%3D21%23wechat_redirect)。
+今天，[有文章讲了最近百度搜索结果中大量出现“百家号”，挤占曾经是“百花齐放”的多个不同网站的内容](https://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&mid=2654281772&idx=1&sn=e6458c0f92121b67c8d3345e7d8fa2ba&scene=21#wechat_redirect)。
 
 这个问题的成因比较复杂，但简单地说，通过去年初过渡性的“熊掌号”和熊掌号团队解散之后合并到百家号这两步，百度就完成了对搜索结果和流量引导转移到百家号的转变。
 
@@ -21,11 +21,11 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 
 ## 1 选用浏览器插件
 
-可以使用俗称“油猴”的 **Greasemonkey** 脚本。在桌面系统（Windows / Mac / Linux）直接使用 Chrome 浏览器或者给 Edge / Firefox 安装 Greasemonkey 扩展，然后去这个网站 [https://greasyfork.org](https://link.zhihu.com/?target=https%3A//greasyfork.org) 。
+可以使用俗称“油猴”的 **Greasemonkey** 脚本。在桌面系统（Windows / Mac / Linux）直接使用 Chrome 浏览器或者给 Edge / Firefox 安装 Greasemonkey 扩展，然后去这个网站 [https://greasyfork.org](https://greasyfork.org) 。
 
 在搜索框中搜索“百家号”，并选择几个脚本安装试试。在尝试下一个脚本之前，最好禁用或者卸载前一个。
 
-也可以点搜索框正下方几个网址当中的 [http://baidu.com](https://link.zhihu.com/?target=http%3A//baidu.com) 来看所有针对 *.[http://baidu.com](https://link.zhihu.com/?target=http%3A//baidu.com) 域名起作用的脚本，也许会有其它新的发现。
+也可以点搜索框正下方几个网址当中的 [http://baidu.com](http://baidu.com) 来看所有针对 *.[http://baidu.com](http://baidu.com) 域名起作用的脚本，也许会有其它新的发现。
 
 ## 2 选用适合的手机 App
 
@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 
 如果你不熟悉的话，不要贸然在手机应用商店搜索名字下载，而是采用下面说的这个方法，以确保自己下载到的是正确的软件，而不是仿冒的：
 
-使用手机自带的浏览器去 [http://www.searchcraft.cn/](https://link.zhihu.com/?target=http%3A//www.searchcraft.cn/) ，或者把这个网址复制下来，找到微信的“文件传输助手”，粘贴并发给自己，然后点一下聊天气泡里的链接。
+使用手机自带的浏览器去 [http://www.searchcraft.cn/](http://www.searchcraft.cn/) ，或者把这个网址复制下来，找到微信的“文件传输助手”，粘贴并发给自己，然后点一下聊天气泡里的链接。
 
 *(如果你正在微信看这篇文章，长按上图识别二维码也可进入。)*
 
@@ -53,7 +53,7 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 
 但实际上，百度仍有传统的“新闻”栏目可以使用。
 
-可以在浏览器（最好是电脑而不是手机）输入 [https://news.baidu.com](https://link.zhihu.com/?target=https%3A//news.baidu.com) 进入，也可以在百度首页右上角找“新闻”。
+可以在浏览器（最好是电脑而不是手机）输入 [https://news.baidu.com](https://news.baidu.com) 进入，也可以在百度首页右上角找“新闻”。
 
 在这个“百度新闻”页面顶部的搜索框，找到的结果基本没有来自百家号的。
 
@@ -63,27 +63,27 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 
 下面跟我来一起做一下：例如搜索今天其中一个新闻关键字“小区配套幼儿园”，找到一个结果，标题是“教育部:小区幼儿园应严格办成公办园或普惠性民办园”。
 
-在标题不远处，可以看到以绿色文字显示的网址是以 [http://baijiahao.baidu.com/](https://link.zhihu.com/?target=http%3A//baijiahao.baidu.com/)开头的。这些点开以后都是“百家号”。
+在标题不远处，可以看到以绿色文字显示的网址是以 [http://baijiahao.baidu.com/](http://baijiahao.baidu.com/)开头的。这些点开以后都是“百家号”。
 
-点开文章，发现作者是“中国新闻网”，这个网站可以直接在百度搜索关键字“中国新闻网”并找到标注“官网”条目的链接进入，网址是 [http://www.chinanews.com](https://link.zhihu.com/?target=http%3A//www.chinanews.com) 。文中配图也可以看到“中新网”的网址是 [http://chinanews.com](https://link.zhihu.com/?target=http%3A//chinanews.com) 。
+点开文章，发现作者是“中国新闻网”，这个网站可以直接在百度搜索关键字“中国新闻网”并找到标注“官网”条目的链接进入，网址是 [http://www.chinanews.com](http://www.chinanews.com) 。文中配图也可以看到“中新网”的网址是 [http://chinanews.com](http://chinanews.com) 。
 
 那么，接下来我们用原结果的标题加上 site 语法，就可以找到该条新闻在原发媒体“中国新闻网”的链接地址。关键词是：
 
-> 教育部:小区幼儿园应严格办成公办园或普惠性民办园 site:[http://chinanews.com](https://link.zhihu.com/?target=http%3A//chinanews.com)
+> 教育部:小区幼儿园应严格办成公办园或普惠性民办园 site:[http://chinanews.com](http://chinanews.com)
 
 也就是，site 后面加一个英文冒号 : 再加去掉了 http 和 www 的网址，中间不要加空格。把这一串文字附在新闻标题后面，与标题之间空一格即可。
 
-这样，我们看到第一条结果就是非“百家号”的网址了：[http://www.chinanews.com/sh/2018/11-28/8687513.shtml](https://link.zhihu.com/?target=http%3A//www.chinanews.com/sh/2018/11-28/8687513.shtml) 。
+这样，我们看到第一条结果就是非“百家号”的网址了：[http://www.chinanews.com/sh/2018/11-28/8687513.shtml](http://www.chinanews.com/sh/2018/11-28/8687513.shtml) 。
 
-平时也可以用 hao123 或者 [http://265.com](https://link.zhihu.com/?target=http%3A//265.com) 这样的网址大全，查看你熟悉的一些新闻媒体的官方网站网址是什么。
+平时也可以用 hao123 或者 [http://265.com](http://265.com) 这样的网址大全，查看你熟悉的一些新闻媒体的官方网站网址是什么。
 
-在手机微信浏览器中，打开一个网页之后把这个网页拉到头部，再使劲往下拉，就会看到该网页来自什么网址。例如“网页由 [http://chinanews.com](https://link.zhihu.com/?target=http%3A//chinanews.com) 提供”这样。如此一来，你也可以知道文章是否来自百家号。
+在手机微信浏览器中，打开一个网页之后把这个网页拉到头部，再使劲往下拉，就会看到该网页来自什么网址。例如“网页由 [http://chinanews.com](http://chinanews.com) 提供”这样。如此一来，你也可以知道文章是否来自百家号。
 
-你可能会发现微信当中很多文章显示“网页由 [http://mp.weixin.qq.com](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com) 提供”，这是微信公众号的网址。你同样可以把该文章的标题拿出来搜索，看看还有其他什么网站转载或发布了这篇文章，你看到的这篇是否有删改，是否保留了作者的原意。
+你可能会发现微信当中很多文章显示“网页由 [http://mp.weixin.qq.com](http://mp.weixin.qq.com) 提供”，这是微信公众号的网址。你同样可以把该文章的标题拿出来搜索，看看还有其他什么网站转载或发布了这篇文章，你看到的这篇是否有删改，是否保留了作者的原意。
 
 ## 6 尝试百度以外的搜索引擎
 
-你可以注意到，我上面说了很多不同的方法让你可以躲开“百家号”，**但我是到了最后才建议**你采用**必应**（[http://bing.com](https://link.zhihu.com/?target=http%3A//bing.com)）、**搜狗**（[http://sogou.com](https://link.zhihu.com/?target=http%3A//sogou.com)）、**360搜索**（[http://so.com](https://link.zhihu.com/?target=http%3A//so.com)）、**神马**（[http://sm.cn](https://link.zhihu.com/?target=http%3A//sm.cn)）等等其他的搜索引擎的。**因为有的时候你可能就是喜欢用百度，或者因为种种原因，你用不了其他的**。
+你可以注意到，我上面说了很多不同的方法让你可以躲开“百家号”，**但我是到了最后才建议**你采用**必应**（[http://bing.com](http://bing.com)）、**搜狗**（[http://sogou.com](http://sogou.com)）、**360搜索**（[http://so.com](http://so.com)）、**神马**（[http://sm.cn](http://sm.cn)）等等其他的搜索引擎的。**因为有的时候你可能就是喜欢用百度，或者因为种种原因，你用不了其他的**。
 
 本文作为一篇面向零基础人士的指南，需要做到尽可能地浅显，所以**不会贸然建议大家更改传统使用百度的习惯**。
 
@@ -93,7 +93,7 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 
 此外，如果下次你遇到“如何写毕业论文”这样的“如何”“是什么”“为什么”“怎么办”类问题，也可以试试在**知乎**（[http://zhihu.com](http://zhihu.com)）搜索。
 
-其它可以尝试搜索的还有**豆瓣**（[http://douban.com](https://link.zhihu.com/?target=http%3A//douban.com)）**、时光网**（[http://mtime.com](https://link.zhihu.com/?target=http%3A//mtime.com)）、**马蜂窝**（[http://mafengwo.com](https://link.zhihu.com/?target=http%3A//mafengwo.com)）、**小红书**（[http://xiaohongshu.com](https://link.zhihu.com/?target=http%3A//xiaohongshu.com)）、**什么值得买**（[http://smzdm.com](https://link.zhihu.com/?target=http%3A//smzdm.com)）等，这些较大众搜索引擎相对更专业的站点可以涵盖衣食住行、生活起居的多个不同方面。
+其它可以尝试搜索的还有**豆瓣**（[http://douban.com](http://douban.com)）**、时光网**（[http://mtime.com](http://mtime.com)）、**马蜂窝**（[http://mafengwo.com](http://mafengwo.com)）、**小红书**（[http://xiaohongshu.com](http://xiaohongshu.com)）、**什么值得买**（[http://smzdm.com](http://smzdm.com)）等，这些较大众搜索引擎相对更专业的站点可以涵盖衣食住行、生活起居的多个不同方面。
 
 除了上述网站内自带的搜索框，当然也可以在百度等地使用 site 语法，例如“如何写毕业论文 site:zhihu.com”。
 

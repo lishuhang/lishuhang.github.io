@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/29202812"
 ---
 
-YouTube 历时数月的实验室改版，[终于正式推送给所有用户](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-08-30/youtube-new-logo-new-features/) ，过去几个月间测试的桌面端和移动端改进，可以纳入 YouTube 创立 12 年来最大的变革行列。
+YouTube 历时数月的实验室改版，[终于正式推送给所有用户](http://cn.technode.com/post/2017-08-30/youtube-new-logo-new-features/) ，过去几个月间测试的桌面端和移动端改进，可以纳入 YouTube 创立 12 年来最大的变革行列。
 
 这样说的理由是新版 Logo 的启用。自从 YouTube 诞生以来，它的标志一直没有经过大幅的变动，这是目前为止最大幅度的改变。本次改版其他内容主要是桌面端符合 Material Design 设计语言，加入深色背景的夜间模式，移动端只有小幅更新。
 

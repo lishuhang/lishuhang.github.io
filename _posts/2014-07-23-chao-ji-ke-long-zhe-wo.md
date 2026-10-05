@@ -7,11 +7,11 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19807689"
 ---
 
-在昨天的小米发布会之前，我们的合作伙伴 TechCrunch 作者 Matt Burns 在描述小米手环即将发布的消息时，[将其描述为 Supercloner ](https://link.zhihu.com/?target=http%3A//techcrunch.com/2014/07/09/chinese-supercloner-xiaomi-expected-to-release-a-fitness-tracker/)——我们的译者很给面子的[只是翻译成了“山寨者”](https://link.zhihu.com/?target=http%3A//techcrunch.cn/chinese-supercloner-xiaomi-expected-to-release-a-fitness-tracker/)，——并且向Fitbit（也包括Jawbone啥的）敲响警钟：小米打算抢走你们还没有插入的发展中市场，价格便宜量又足，铁蹄过处，寸草不生！
+在昨天的小米发布会之前，我们的合作伙伴 TechCrunch 作者 Matt Burns 在描述小米手环即将发布的消息时，[将其描述为 Supercloner ](http://techcrunch.com/2014/07/09/chinese-supercloner-xiaomi-expected-to-release-a-fitness-tracker/)——我们的译者很给面子的[只是翻译成了“山寨者”](http://techcrunch.cn/chinese-supercloner-xiaomi-expected-to-release-a-fitness-tracker/)，——并且向Fitbit（也包括Jawbone啥的）敲响警钟：小米打算抢走你们还没有插入的发展中市场，价格便宜量又足，铁蹄过处，寸草不生！
 
-嗯？这种“狗日的……”调调我总觉得好像在哪儿听过。不过，当初这一绰号的主人，现在正通过大量投资和收购初创公司，[来证明自己没有了那么外露的锋芒](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-03-06/tencent-from-copycat-to-big-buyer/)。兴许，雷军也期待着自己有钱养老之后，不再Clone，赚回生前身后名的日子早些到来。
+嗯？这种“狗日的……”调调我总觉得好像在哪儿听过。不过，当初这一绰号的主人，现在正通过大量投资和收购初创公司，[来证明自己没有了那么外露的锋芒](http://cn.technode.com/post/2014-03-06/tencent-from-copycat-to-big-buyer/)。兴许，雷军也期待着自己有钱养老之后，不再Clone，赚回生前身后名的日子早些到来。
 
-之前，在美国卖出17美元一个的，像图钉一样插在耳机插孔上的智能按键 Pressy，到了小米的手里变成了5块钱人民币一个的“米键”。[世界人民震惊了](https://link.zhihu.com/?target=http%3A//www.pingwest.com/chinas-copycat-culture-hurts-the-hardware-renaissance/)。所以 Matt Burns 的恐惧完全有迹可循。
+之前，在美国卖出17美元一个的，像图钉一样插在耳机插孔上的智能按键 Pressy，到了小米的手里变成了5块钱人民币一个的“米键”。[世界人民震惊了](http://www.pingwest.com/chinas-copycat-culture-hurts-the-hardware-renaissance/)。所以 Matt Burns 的恐惧完全有迹可循。
 
 不过，在文章下面的评论可不太友好。TechCrunch 不算是那种特别招评论的科技博客，出现十几条也算是讨论比较热烈的了，但却是一边倒的批评Matt，认为如果小米做别家做过的东西是Clone，那特斯拉和苹果都是更Super的Cloner，世界上没有公司可以幸免。
 
@@ -47,7 +47,7 @@ source: "https://zhuanlan.zhihu.com/p/19807689"
 
 ### **为什么有人抄袭Pressy却没有人抄袭“智能手机”**
 
-要怎样才能算分得清“抄袭”与“合理借鉴”之间的区别呢？有意见认为，区别就是把 Pressy 的耳机插孔按钮改成吸在墙壁上的按钮。[Flic 被作为“启发式创新”的例证来教育那些让硅谷颤抖的中国公司](https://link.zhihu.com/?target=http%3A//www.pingwest.com/copy-and-innovation-pressy/)。
+要怎样才能算分得清“抄袭”与“合理借鉴”之间的区别呢？有意见认为，区别就是把 Pressy 的耳机插孔按钮改成吸在墙壁上的按钮。[Flic 被作为“启发式创新”的例证来教育那些让硅谷颤抖的中国公司](http://www.pingwest.com/copy-and-innovation-pressy/)。
 
 然而，如果认为 Pressy 做了插在耳机插孔的按钮别家就不能做，这不就相当于 Fitbit 做了没有显示器的配戴在手腕上的手环，其他家就只能做智能脚环或者智能项圈么？
 
@@ -69,7 +69,7 @@ Pressy 如果被设定为一个全新的品类，那对于现在使用人群尚�
 
 而且，已经做成通用产品的企业，一样可以指摘别人是专利流氓。就像苹果在中国对小i机器人的版权方所做的指控那样，他们认为在中国所申请的“聊天机器人”专利是大而无当的，涵盖了太多可能的未来发展范围，申请裁定这个专利无效。当然最终是以失败而告终，小i的专利在中国继续有效。
 
-[我曾经分析过小i所提交的专利文件](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-11/siri-xiaoi/)，认为他提交的专利完全没有问题。的确Siri，Cortana甚至Google Now都可能被小i索取授权费——但这样只是让小i在中国化身成为另一个高通而已。我认为，如果没有这个专利，我会以为“聊天机器人”是一个实体的，泛着金属光泽的阿西莫一样的机器人，向我们打招呼。小i规定了这个聊天机器人是一段**程序**，这是该专利的精华。
+[我曾经分析过小i所提交的专利文件](http://cn.technode.com/post/2014-07-11/siri-xiaoi/)，认为他提交的专利完全没有问题。的确Siri，Cortana甚至Google Now都可能被小i索取授权费——但这样只是让小i在中国化身成为另一个高通而已。我认为，如果没有这个专利，我会以为“聊天机器人”是一个实体的，泛着金属光泽的阿西莫一样的机器人，向我们打招呼。小i规定了这个聊天机器人是一段**程序**，这是该专利的精华。
 
 你看，有的时候我们会说中国公司的抄袭无耻，显示了知识产权保护力度不够；另外一些时候我们又说大公司“专利流氓”，显示了知识产权保护的力度过了头。这当中的度在哪里？可能我们是根据个案分析的，并不存在一个整齐划一的标准。
 
@@ -77,7 +77,7 @@ Pressy 如果被设定为一个全新的品类，那对于现在使用人群尚�
 
 我们评价小米的行为，可能它做的完全一样，只是对象不同。**如果是对国内公司，因为大家手段都一样，你不这么做就是自寻死路，所以可以谅解？如果是对硅谷的初创公司，人家没钱也没有执行力，但拥有原创的创意，所以被扼杀在摇篮之中就是不可原谅？**
 
-要知道，我也可以在饭桌上想起10000个念头，只不过我的执行力和钱比Pressy们还要少。[对这种人有个称呼叫Wantrepreneur](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-25/how-to-validate-your-online-business-idea-in-48-hours/)，没人说一定要给他们时间和钱，还要让其他对手暂停发展，等着他做起来，大家再重启竞争。
+要知道，我也可以在饭桌上想起10000个念头，只不过我的执行力和钱比Pressy们还要少。[对这种人有个称呼叫Wantrepreneur](http://cn.technode.com/post/2014-06-25/how-to-validate-your-online-business-idea-in-48-hours/)，没人说一定要给他们时间和钱，还要让其他对手暂停发展，等着他做起来，大家再重启竞争。
 
 **我们同情和支持弱者，绝对不是因为弱者永远是对的，更不是因为有些弱者擅长讲故事，另一些则不太擅长。**
 
@@ -89,6 +89,6 @@ Pressy 如果被设定为一个全新的品类，那对于现在使用人群尚�
 
 如果你想看到一个既守规矩，又讲人情，出得谈判桌又入得饭桌的全球竞争机制，看到一个能够把中国和中国以外的世界融合起来的明天，所有人都应该从认同现状开始做起。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-07-23/supercloner/)
+[动点科技](http://cn.technode.com/post/2014-07-23/supercloner/)
 
 题图：Shutterstock

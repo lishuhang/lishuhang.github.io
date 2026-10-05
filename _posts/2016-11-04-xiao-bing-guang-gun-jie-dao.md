@@ -7,4 +7,4 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/23431088"
 ---
 
-> 动点科技 [http://t.cn/RVkEaFv](https://link.zhihu.com/?target=http%3A//t.cn/RVkEaFv)
+> 动点科技 [http://t.cn/RVkEaFv](http://t.cn/RVkEaFv)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19710251"
 ---
 
-2013年2月报道称[北京机动车是城市PM2.5的最大来源，约为四分之一](https://link.zhihu.com/?target=http%3A//www.chinanews.com/gn/2014/03-01/5898752.shtml)，油质不够高和长时间堵车造成的尾气空耗是主要原因。怎样让汽车少排放，不堵车？不少人将目光聚焦在智能交通上面。
+2013年2月报道称[北京机动车是城市PM2.5的最大来源，约为四分之一](http://www.chinanews.com/gn/2014/03-01/5898752.shtml)，油质不够高和长时间堵车造成的尾气空耗是主要原因。怎样让汽车少排放，不堵车？不少人将目光聚焦在智能交通上面。
 
 将不同的资源联系在一起，减少资源错配，就是通过所谓大数据和智能化来改造传统产业的一个最大效果。智能交通也是如此。智能交通的主要目的在于提高交通运输的效率，减少拥堵和减少交通事故。通俗的说，就是减少正在上路的汽车数量，减少汽车的空载率，还能确保人们安全准时到达目的地。
 
@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/19710251"
 
 如果公交车上是一个座位上坐一个人，没有人站着这样的状况，某些车型所产生的人均碳排放都要高于乘坐一般小轿车。只有现在这种人挤成沙丁鱼罐头的情况下，才能算出在人均碳排放量上的相对低值。
 
-2013年11月[《华商报》的报道称](https://link.zhihu.com/?target=http%3A//news.hsw.cn/system/2013/12/03/051809121_01.shtml)：
+2013年11月[《华商报》的报道称](http://news.hsw.cn/system/2013/12/03/051809121_01.shtml)：
 
 > “但从承载量上看，若以11米长的宇通空调车为例，每辆车有38个座位，满载时可以容纳80个人站立，即共可乘118人，按每辆车的车内面积为22平方米计算，那么公交车上，每平方米就要站近5个人，而5人，正是一辆小轿车的承载量。按一辆轿车乘坐4人计算，理论上一辆公交车抵30辆小轿车的运力，西安市公交总运力大于私家车。”
 
@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/19710251"
 
 但是就算如上种种都实现了——我们为什么会有那么多人一天要在城市当中的各个角落来回奔波呢，大家有没有想过这个问题？
 
-有多少工作已经逐渐变成我们在家中也可以完成？当我们不再一定需要公司电脑才能连接内网，而是[带着自己的设备来上班（BYOD）](https://link.zhihu.com/?target=http%3A//readwrite.com/2013/05/23/bring-your-own-device-byod-saves-companies-money-but-could-cost-users-big%23awesm%3D~oztXq6PeDNKh2j)的时候，那么是不是只要有互联网连接的地方就可以工作了？团队交流和合作，有多少已经从面对面的会议变成了使用Skype？我们能否让更多的人在家中工作——这样甚至他们都不一定非得到北上广深来定居？
+有多少工作已经逐渐变成我们在家中也可以完成？当我们不再一定需要公司电脑才能连接内网，而是[带着自己的设备来上班（BYOD）](http://readwrite.com/2013/05/23/bring-your-own-device-byod-saves-companies-money-but-could-cost-users-big#awesm=~oztXq6PeDNKh2j)的时候，那么是不是只要有互联网连接的地方就可以工作了？团队交流和合作，有多少已经从面对面的会议变成了使用Skype？我们能否让更多的人在家中工作——这样甚至他们都不一定非得到北上广深来定居？
 
 另外，满大街跑的物流快递，如果改采无人机的话，那么碳排放就是零。如果如同输油和输气那样使用管道来运送的话，那么碳排放也是零。这些都是正在探讨当中的，改善人力运输的不同方式之一。
 
@@ -49,8 +49,8 @@ source: "https://zhuanlan.zhihu.com/p/19710251"
 
 当我们发现交通很拥堵的时候，想着大家如何更快更安全到达，是交通运输该做的事。但我们其他人还有我们自己该做的事。我们得追根溯源地去想，如何不要让这么多人上路，如何让我们的人生，不是耗费在茫茫的车流之中，而是都花在春风得意马蹄疾的踏青路上。这才是我们要思考的问题。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140326/007099.htm)
+[腾讯科技](http://tech.qq.com/a/20140326/007099.htm)
 
 [能通过未来的智能交通来降低雾霾吗？](http://www.zhihu.com/question/23147185)
 
-题图：[Metropolitan Transportation Commission](https://link.zhihu.com/?target=http%3A//www.mtc.ca.gov/news/transactions/ta1205-0106/)
+题图：[Metropolitan Transportation Commission](http://www.mtc.ca.gov/news/transactions/ta1205-0106/)

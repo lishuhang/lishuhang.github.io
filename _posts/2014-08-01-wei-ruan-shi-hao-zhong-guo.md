@@ -41,4 +41,4 @@ source: "https://zhuanlan.zhihu.com/p/19814089"
 
 减少对大企业客户，尤其是政府，国企，央企客户的依赖，避免把自己的命运捆绑在国家的政治风向上，这才是微软转向对消费者示好的真实意图。只是，就现在Windows 8，Surface和Windows Phone悲剧般的占有率而言，这条路在中国，恐怕不是一般的难走。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140731/026129.htm)
+[腾讯科技](http://tech.qq.com/a/20140731/026129.htm)

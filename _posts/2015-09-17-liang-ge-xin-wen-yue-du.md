@@ -29,6 +29,6 @@ source: "https://zhuanlan.zhihu.com/p/20214637"
 
 在激起两朵水花后，人们的关注焦点迅速转移到了其他地方。到底怎样才能让人们始终记得自己，在新闻发生的时候永不缺席？我想对两家阅读器而言，这是一个需要永不停息探讨下去的课题。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-15/news-readers-press-conf/)
+[动点科技](http://cn.technode.com/post/2015-09-15/news-readers-press-conf/)
 
 ![](/2015/09/17/liang-ge-xin-wen-yue-du/01.jpg)

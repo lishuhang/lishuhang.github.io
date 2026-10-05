@@ -27,8 +27,8 @@ source: "https://zhuanlan.zhihu.com/p/20625618"
 
 要始终牢记这个普遍存在但很容易被我们忽略的真相——就像谷歌 Chrome 浏览器告诉你的那样，以下这些情况都会导致你的安全和隐私受到威胁：“收集或共享有关您的信息的网站；跟踪您访问的网页的互联网服务提供商或雇主；以提供免费表情符号的名义跟踪您击键情况的恶意软件；通过秘密代理进行监视的行为；还有……站在你身后偷窥屏幕的人”。
 
-题图：[YouTube 用户 Hak5](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D00CC-cTZbTA)
+题图：[YouTube 用户 Hak5](https://www.youtube.com/watch?v=00CC-cTZbTA)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-03-07/all-wifi-are-fxxxing-unsafe/)
+[动点科技](http://cn.technode.com/post/2016-03-07/all-wifi-are-fxxxing-unsafe/)
 
 ![](/2016/03/07/di-qiu-zhi-da-jing-rong/01.jpg)

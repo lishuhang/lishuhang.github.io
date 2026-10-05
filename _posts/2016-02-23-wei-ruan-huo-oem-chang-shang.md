@@ -35,6 +35,6 @@ Matebook公布的售价跟Surface Pro 4相比处于同一水平，高配还略�
 
 只是这“价格便宜量又足”的要求难免对PC厂商过于苛刻，原本它们赚钱就没以前那么容易，现在又必须让出更多的实惠，才能让消费者在“田牌”面前回心转意，估计这可能也不是希望做大PC盘子的微软的本来意愿吧。
 
-[新浪专栏（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2016-02-23/pid_8503232.htm)
+[新浪专栏（独家）](http://tech.sina.com.cn/zl/post/detail/it/2016-02-23/pid_8503232.htm)
 
 ![](/2016/02/23/wei-ruan-huo-oem-chang-shang/01.jpg)

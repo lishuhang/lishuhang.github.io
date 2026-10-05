@@ -55,6 +55,6 @@ source: "https://zhuanlan.zhihu.com/p/20135818"
 
 游戏也会有一些，其中的问题是，有些游戏是腾讯代理在中国发布的，所以我们需要跟相应游戏的开发者，比如制作公司或工作室进行协商。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/415761.htm)
+[cnBeta](http://www.cnbeta.com/articles/415761.htm)
 
 ![](/2015/07/29/teng-xun-wei-xin-nian-nei/01.jpg)

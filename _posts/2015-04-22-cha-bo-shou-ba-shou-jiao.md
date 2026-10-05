@@ -21,7 +21,7 @@ source: "https://zhuanlan.zhihu.com/p/20010247"
 
 好了，了解了背景资料，我们来手动做一个能实现这种功能的微博机器人：
 
-1、登录IFTTT [Put the internet to work for you.](https://link.zhihu.com/?target=https%3A//ifttt.com/)，点击“Create a Recipe”创建一个新的触发条件；
+1、登录IFTTT [Put the internet to work for you.](https://ifttt.com/)，点击“Create a Recipe”创建一个新的触发条件；
 
 2、点击“if this then that”当中的“this”；
 
@@ -49,7 +49,7 @@ source: "https://zhuanlan.zhihu.com/p/20010247"
 
 ![](/2015/04/22/cha-bo-shou-ba-shou-jiao/11.jpg)
 
-9、写上你要发出的话和可选配图。这里提供一下原版微博在每周五的萌猫图片的地址：[http://ww3.sinaimg.cn/large/4b91f9d5jw1ereocor6toj20fz0armz1.jpg](https://link.zhihu.com/?target=http%3A//ww3.sinaimg.cn/large/4b91f9d5jw1ereocor6toj20fz0armz1.jpg)
+9、写上你要发出的话和可选配图。这里提供一下原版微博在每周五的萌猫图片的地址：[http://ww3.sinaimg.cn/large/4b91f9d5jw1ereocor6toj20fz0armz1.jpg](http://ww3.sinaimg.cn/large/4b91f9d5jw1ereocor6toj20fz0armz1.jpg)
 
 ![](/2015/04/22/cha-bo-shou-ba-shou-jiao/12.jpg)
 
@@ -67,19 +67,19 @@ source: "https://zhuanlan.zhihu.com/p/20010247"
 
 其他几天的，可以依样一天做一个。这些条件可以叠加，不用担心前面的会失效。
 
-你还可以把做好的触发条件发布（Publish）出来，比如为了大家方便，我就发布了我刚做好的这个条件。 [点这里就可以一键用在你自己的微博上了](https://link.zhihu.com/?target=https%3A//ifttt.com/recipes/282054-) 。它可以让你在每周五早晨发布一条带有萌猫图片的微博提醒大家今天是星期五。
+你还可以把做好的触发条件发布（Publish）出来，比如为了大家方便，我就发布了我刚做好的这个条件。 [点这里就可以一键用在你自己的微博上了](https://ifttt.com/recipes/282054-) 。它可以让你在每周五早晨发布一条带有萌猫图片的微博提醒大家今天是星期五。
 
 最后再给大家三个网址充分满足你想知道今天是不是星期五的愿望：
 
-[Is it Friday?](https://link.zhihu.com/?target=http%3A//isitfriday.org/)
+[Is it Friday?](http://isitfriday.org/)
 
 ![](/2015/04/22/cha-bo-shou-ba-shou-jiao/16.jpg)
 
-[Is Today Friday?](https://link.zhihu.com/?target=http%3A//www.istodayfriday.com/)
+[Is Today Friday?](http://www.istodayfriday.com/)
 
 ![](/2015/04/22/cha-bo-shou-ba-shou-jiao/17.jpg)
 
-[Is It Friday Yet?](https://link.zhihu.com/?target=http%3A//isitfridayyet.org/)
+[Is It Friday Yet?](http://isitfridayyet.org/)
 
 ![](/2015/04/22/cha-bo-shou-ba-shou-jiao/18.jpg)
 

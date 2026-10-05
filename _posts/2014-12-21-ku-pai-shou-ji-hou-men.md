@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19919146"
 ---
 
-12 月 16 日 [奇虎 360 入股酷派，合作做大神手机](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-16/360-coolpad/) ；两天后的 12 月 18 日，有关酷派的一个坏消息就浮出水面。帕洛阿尔托网络（Palo Alto Networks）[披露了酷派设备当中的后门程序 CoolReaper](https://link.zhihu.com/?target=http%3A//www.prnasia.com/story/archive/1294240_ZH94240_1)，当天这个消息就在 [彭博](https://link.zhihu.com/?target=http%3A//www.bloomberg.com/news/2014-12-18/coolpad-declines-after-report-of-device-backdoor.html) 和 [华尔街日报](https://link.zhihu.com/?target=http%3A//www.wsj.com/articles/security-firm-faults-coolpad-software-1418834038) 等国际主流媒体当中蔓延开来。
+12 月 16 日 [奇虎 360 入股酷派，合作做大神手机](http://cn.technode.com/post/2014-12-16/360-coolpad/) ；两天后的 12 月 18 日，有关酷派的一个坏消息就浮出水面。帕洛阿尔托网络（Palo Alto Networks）[披露了酷派设备当中的后门程序 CoolReaper](http://www.prnasia.com/story/archive/1294240_ZH94240_1)，当天这个消息就在 [彭博](http://www.bloomberg.com/news/2014-12-18/coolpad-declines-after-report-of-device-backdoor.html) 和 [华尔街日报](http://www.wsj.com/articles/security-firm-faults-coolpad-software-1418834038) 等国际主流媒体当中蔓延开来。
 
 CoolReaper 功能：
 
@@ -18,9 +18,9 @@ CoolReaper 功能：
 - 拨打任意电话号码
 - 上传设备信息、位置、应用程序的使用信息、通话和短信历史记录到酷派服务器
 
-19 日，国内的知名安全网站乌云网 [翻译了帕洛阿尔托网络的报告文本](https://link.zhihu.com/?target=http%3A//drops.wooyun.org/tips/4342) ，使得中国用户可以查看报告的中文版。这个报告本身也引用了之前乌云网的用户侦测到的结果，当时他们善意的将这一厂商故意而为的推送手段称为“漏洞”。当时酷派认领了这个“漏洞”，并表示正在排查，此后并无下文。
+19 日，国内的知名安全网站乌云网 [翻译了帕洛阿尔托网络的报告文本](http://drops.wooyun.org/tips/4342) ，使得中国用户可以查看报告的中文版。这个报告本身也引用了之前乌云网的用户侦测到的结果，当时他们善意的将这一厂商故意而为的推送手段称为“漏洞”。当时酷派认领了这个“漏洞”，并表示正在排查，此后并无下文。
 
-前后时间跨度长达一年的漏洞追踪报告选择这一时间点发布，是非常有杀伤力的。经历一天的发酵之后，酷派在香港的股价连跌，帕洛阿尔托网络在纽交所上市的股票则有上涨，[《巴伦周刊》预计其未来一段时间内将上涨最高 15%](https://link.zhihu.com/?target=http%3A//online.barrons.com/articles/palo-alto-networks-shares-may-have-15-upside-1416977161)。奇虎 360 仍在消化对酷派的融资消息，股价微涨。
+前后时间跨度长达一年的漏洞追踪报告选择这一时间点发布，是非常有杀伤力的。经历一天的发酵之后，酷派在香港的股价连跌，帕洛阿尔托网络在纽交所上市的股票则有上涨，[《巴伦周刊》预计其未来一段时间内将上涨最高 15%](http://online.barrons.com/articles/palo-alto-networks-shares-may-have-15-upside-1416977161)。奇虎 360 仍在消化对酷派的融资消息，股价微涨。
 
 ![](/2014/12/21/ku-pai-shou-ji-hou-men/02.jpg)
 
@@ -36,12 +36,12 @@ CoolReaper 功能：
 >
 > 由于我们管理的疏忽，这部分软件被不恰当的用于给用户推送软件升级通知和促销广告，在此，我们首先向所有用户表示诚挚的歉意。知悉此事后，我们第一时间在内部进行了相应的整顿和处罚，并以最快的速度通过 OTA 关闭相应权限，保证今后未经用户许可不再向用户推送类似通知和广告。
 
-帕洛阿尔托网络的英文名缩写为 PAN，所以获得了“平底锅”的绰号。PAN 的产品主要客户为 IDC 和大中型企业，其工程师团队实力强大，拥有状态检测、入侵检测等多项技术专利。通过向微软、Adobe 等厂商独立报告漏洞，[PAN 也提升了其在安全行业的声誉](https://link.zhihu.com/?target=http%3A//www.freebuf.com/news/11710.html) 。
+帕洛阿尔托网络的英文名缩写为 PAN，所以获得了“平底锅”的绰号。PAN 的产品主要客户为 IDC 和大中型企业，其工程师团队实力强大，拥有状态检测、入侵检测等多项技术专利。通过向微软、Adobe 等厂商独立报告漏洞，[PAN 也提升了其在安全行业的声誉](http://www.freebuf.com/news/11710.html) 。
 
-实际上，PAN 中不少黑客精英出自中国。中国安全技术人才长期以来大量流出国外，直到最近数年国内互联网公司愈发重视安全、大幅提高技术人才待遇之后才有所缓解。其中出乎很多人意料的是，短短五年时间， [奇虎 360 已经成为全世界报告微软漏洞数量最多的安全软件公司](https://link.zhihu.com/?target=http%3A//soft.yesky.com/security/499/37672499.shtml) ，超越了赛门铁克、McAfee、卡巴斯基等一些老牌巨头。
+实际上，PAN 中不少黑客精英出自中国。中国安全技术人才长期以来大量流出国外，直到最近数年国内互联网公司愈发重视安全、大幅提高技术人才待遇之后才有所缓解。其中出乎很多人意料的是，短短五年时间， [奇虎 360 已经成为全世界报告微软漏洞数量最多的安全软件公司](http://soft.yesky.com/security/499/37672499.shtml) ，超越了赛门铁克、McAfee、卡巴斯基等一些老牌巨头。
 
-选择关键的时间点披露信息比较容易带来轰动性的效应，也能够给握有关键信息的对手公司带来最大利益。现在国内有一些公司已经开始学习这种招数，像是我们之前所报道过的，网易选择陌陌上市缄默期披露关键事件。顺带一提， [陌陌的股价自从开市之后涨了一点](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-12/wall-st-positive-about-momo-ipo/) ， [现在这几天下跌的很厉害](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20141220/006994.htm) 。
+选择关键的时间点披露信息比较容易带来轰动性的效应，也能够给握有关键信息的对手公司带来最大利益。现在国内有一些公司已经开始学习这种招数，像是我们之前所报道过的，网易选择陌陌上市缄默期披露关键事件。顺带一提， [陌陌的股价自从开市之后涨了一点](http://cn.technode.com/post/2014-12-12/wall-st-positive-about-momo-ipo/) ， [现在这几天下跌的很厉害](http://tech.qq.com/a/20141220/006994.htm) 。
 
 上市首日，陌陌收报 17.02 美元，较发行价 13.50 美元上涨 26.07%。全天股价最低为 13.80 美元，最高上触 17.48 美元。但全天成交量为 1797.10 万股，意味着新发行的股票全部换了一遍手。上市至今，该股一路阴跌，接盘的散户全部被套。上市第六日，陌陌股价继续下探，当天收报 8.72%，收报 12.56 美元，已远低于其发行价 13.50 美元，意味着没跑掉的初级市场的投资者已全部被套牢。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-21/coolreaper/)
+[动点科技](http://cn.technode.com/post/2014-12-21/coolreaper/)

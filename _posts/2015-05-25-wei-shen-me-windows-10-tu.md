@@ -73,4 +73,4 @@ Windows 10 PC图标最大的问题是有些图标是单色线框，一看就不�
 
 我不是专家，这样调整后的效果还需要读者做出评判。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/396515%3Fforce%3D1)
+[cnBeta](http://www.cnbeta.com/articles/396515?force=1)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20068095"
 ---
 
-百度一直引以为豪，和作为未来发展方向的深度学习领域，昨天遭受了一个重大打击。据报道，[百度深度学习小组在ImageNet测试中作弊](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/399081.htm)，[并已就此致歉](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/399583.htm)；有消息表示，[领袖科学家吴韧因此被解除劳动合同，即刻生效](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/401927.htm)。
+百度一直引以为豪，和作为未来发展方向的深度学习领域，昨天遭受了一个重大打击。据报道，[百度深度学习小组在ImageNet测试中作弊](http://www.cnbeta.com/articles/399081.htm)，[并已就此致歉](http://www.cnbeta.com/articles/399583.htm)；有消息表示，[领袖科学家吴韧因此被解除劳动合同，即刻生效](http://www.cnbeta.com/articles/401927.htm)。
 
 说起这次出问题的ImageNet测试，我作为参与过几乎所有BIG活动的一员百家作者，应该说非常熟悉。在硅谷的美国研究院，百度在介绍自己图像识别成果的时候，作为背景，把ImageNet的权威性和重要地位也详细讲述了一遍。可想而知，当时他们的脸上有多自豪，现在遭受的冲击就有多大。
 
@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/20068095"
 
 昨天，百度已经开除了涉事团队的负责人。**所谓危机公关的最好办法就是公布所有真相，坦白承认错误，保证以后改正。所以，这也许是百度在整个事件过程中做出的最正确的选择。它还需要未来持续不断的努力，来修补自己在学术界和普通大众当中留下的印象。**
 
-*[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/78840)*
+*[百度百家](http://lishuhang.baijia.baidu.com/article/78840)*
 
 *# 这篇是约稿。话说，百家在百度自家丑闻后还主动找人揭丑，真是少见的真诚啊。*
 

@@ -50,7 +50,7 @@ source: "https://zhuanlan.zhihu.com/p/20705388"
 
 刚刚走入社会的求职者，可能会面对重新选择一个适合的邮箱的问题。有不少我接触过的公司都会拒绝使用 QQ 邮箱，或者把自己的邮件签名设置成火星文或奇怪名字的人。至少对于互联网公司而言，一个人不会修改默认设置，只能随波逐流，给什么用什么，似乎不是一个好兆头。即使并非互联网公司这么挑剔，对其他公司最好也遵循同样的规矩。
 
-选用不存在网站旗下的 Gmail 是一个不错的主意。国内大多数邮箱都可以收到来自 Gmail 的邮件，所以不用担心。用 Outlook 或者苹果的@[http://me.com](https://link.zhihu.com/?target=http%3A//me.com) 邮箱都可以。确实要选择国内邮箱的话，网易系列邮箱，或者 QQ 邮箱的别名——@[http://foxmail.com](https://link.zhihu.com/?target=http%3A//foxmail.com) 邮箱都可以选择。尽可能的选用姓名拼音全拼作为邮箱地址的前缀。
+选用不存在网站旗下的 Gmail 是一个不错的主意。国内大多数邮箱都可以收到来自 Gmail 的邮件，所以不用担心。用 Outlook 或者苹果的@[http://me.com](http://me.com) 邮箱都可以。确实要选择国内邮箱的话，网易系列邮箱，或者 QQ 邮箱的别名——@[http://foxmail.com](http://foxmail.com) 邮箱都可以选择。尽可能的选用姓名拼音全拼作为邮箱地址的前缀。
 
 你可以把新申请的求职邮箱的邮件，以及未来单位给你的邮箱的邮件都自动转发到你常用的邮箱，但请务必注意接下来的设置：
 
@@ -103,6 +103,6 @@ ZIP 格式压缩包是绝大多数电脑都可以打开的格式。如果你安�
 
 那么，祝各位求职和工作顺利！
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-04/how-to-use-email/)
+[动点科技](http://cn.technode.com/post/2016-04-04/how-to-use-email/)
 
 ![](/2016/04/03/xie-gei-zhi-chang-xin-ren/01.jpg)

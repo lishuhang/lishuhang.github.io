@@ -87,6 +87,6 @@ Planck 在游戏开发者大会的这段演讲表达了一个简单的事实：�
 
 这让我联想起动画片《机器人总动员》当中的场景。即使几百年后，那个时候的机器人最喜欢的影像，依然是20世纪60年代的歌剧《俏红娘》。历史曾经带给人类的感动一定不会因为新技术的出现而消亡，它将会跨越时空，让不同年代的人找到共鸣。
 
-首发于公众号 **百度德尔塔俱乐部**[原文地址](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NzAzNDUwNA%3D%3D%26mid%3D2650018782%26idx%3D1%26sn%3D804fddd2baa247aab018cc219d6490fb%26scene%3D0%23rd)
+首发于公众号 **百度德尔塔俱乐部**[原文地址](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650018782&idx=1&sn=804fddd2baa247aab018cc219d6490fb&scene=0#rd)
 
 ![](/2016/04/22/vr-yao-lai-le-dian-ying/05.jpg)

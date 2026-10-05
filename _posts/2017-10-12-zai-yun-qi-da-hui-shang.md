@@ -9,11 +9,11 @@ source: "https://zhuanlan.zhihu.com/p/30072806"
 
 8 月 24 日，阿里 yunos 的官方微博放出了与锤子合作搭建，基于 yunos 的 Smartisan OS 的一条消息，而锤子科技官博也予以转发。不过在回复网友提问的时候，罗永浩却否认未来的锤子手机将会改用 yunos 内核。
 
-随后， [有媒体曝光了一张使用基于 yunos 的 Smartisan OS 的手机截图](https://link.zhihu.com/?target=https%3A//www.ithome.com/html/android/322376.htm) ，而这个截图并非来自锤子自己的手机硬件。在工信部备案的锤子历任手机型号页面，都配有其搭载的操作系统的说明。如果是使用 yunos 内核的话，那么操作系统应该写成 yunos， [但锤子的各款手机的操作系统都写成了 Android](https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/5107566899)。
+随后， [有媒体曝光了一张使用基于 yunos 的 Smartisan OS 的手机截图](https://www.ithome.com/html/android/322376.htm) ，而这个截图并非来自锤子自己的手机硬件。在工信部备案的锤子历任手机型号页面，都配有其搭载的操作系统的说明。如果是使用 yunos 内核的话，那么操作系统应该写成 yunos， [但锤子的各款手机的操作系统都写成了 Android](http://tieba.baidu.com/p/5107566899)。
 
-在杭州云栖大会上，我就在阿里的 AliOS 展台，看到了真正采用基于 yunos 的 Smartisan OS 的机器。在现场展出的是两台手机，分别由康佳和诺亚信制造。这两台手机都没有虚拟按键，同时额头和下巴保持同宽，也就是 [所谓“全面屏”概念](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-09-06/hts-170906/) 。
+在杭州云栖大会上，我就在阿里的 AliOS 展台，看到了真正采用基于 yunos 的 Smartisan OS 的机器。在现场展出的是两台手机，分别由康佳和诺亚信制造。这两台手机都没有虚拟按键，同时额头和下巴保持同宽，也就是 [所谓“全面屏”概念](http://cn.technode.com/post/2017-09-06/hts-170906/) 。
 
-现场不能拍照，不过 IT 之家有拿到其中一台康佳 S5， [他们拍的真机图片请看这里](https://link.zhihu.com/?target=https%3A//www.ithome.com/html/android/329364.htm) 。
+现场不能拍照，不过 IT 之家有拿到其中一台康佳 S5， [他们拍的真机图片请看这里](https://www.ithome.com/html/android/329364.htm) 。
 
 两款手机采用的 Smartisan OS，完整的保留了大爆炸、一步等专属功能，但在另外一方面却又不那么锤子。锤子自己的与科大讯飞合作的语音助手，包括离线语音助手功能，在 yunos 版本当中被替代成通用的“小云”语音助手，采用阿里自研的语音识别和云知声的语义分析技术相结合。
 

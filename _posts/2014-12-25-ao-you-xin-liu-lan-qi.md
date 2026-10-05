@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19922134"
 ---
 
-傲游 17 号在美国加州发布了一个号称是“目前市面上最快的 Windows 浏览器”。傲游表示， [名为 Nitro 的新版浏览器](https://link.zhihu.com/?target=http%3A//usa.maxthon.com/nitro/) 启动速度比以往快 3 倍，而且加载和抓取网页的速度要比任何已经存在的 Windows 浏览器都要快。傲游 CEO 陈明杰表示：“我们用户当中的 80%都认为，速度是他们对于浏览器的第一追求，而 Nitro 会很好的满足这个需求。”
+傲游 17 号在美国加州发布了一个号称是“目前市面上最快的 Windows 浏览器”。傲游表示， [名为 Nitro 的新版浏览器](http://usa.maxthon.com/nitro/) 启动速度比以往快 3 倍，而且加载和抓取网页的速度要比任何已经存在的 Windows 浏览器都要快。傲游 CEO 陈明杰表示：“我们用户当中的 80%都认为，速度是他们对于浏览器的第一追求，而 Nitro 会很好的满足这个需求。”
 
 那么 Nitro 到底是怎样满足速度需求的呢？根据一些媒体的下载评测，它采用了最新的 Chrome 35 版内核，同时界面基本上不可定制，没有加载项，甚至设置面板都不完整。除了最基本的地址栏，标签页，后退前进这些功能之外，别的什么都没有。
 
@@ -23,4 +23,4 @@ source: "https://zhuanlan.zhihu.com/p/19922134"
 
 可以想见，以后傲游 Nitro 还是得把加载项，设置面板，换肤等功能陆续加进来的。那么谁来接替 Nitro 的位置，继续“简洁”下去呢？
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-22/maxthon-nitro/)
+[动点科技](http://cn.technode.com/post/2014-12-22/maxthon-nitro/)

@@ -57,6 +57,6 @@ source: "https://zhuanlan.zhihu.com/p/20643729"
 
 从坏处来讲，这意味着我们可能会拥有长达数十年甚至上百年的陈年bug；从好处来讲，我们根本不用担心人工智能能够很快取代人类。还是先把闰年虫都捉完再说吧。
 
-[新浪（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-03-15/pid_8504514.htm)
+[新浪（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-03-15/pid_8504514.htm)
 
 ![](/2016/03/15/ni-yu-dao-run-nian-chong/01.jpg)

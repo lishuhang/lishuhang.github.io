@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/53260669"
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@lishuhang](https://link.zhihu.com/?target=https%3A//weibo.com/lishuhang/)**
+本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@lishuhang](https://weibo.com/lishuhang/)**
 
 航通社作者 书航 12月25日发于广州
 
@@ -103,7 +103,7 @@ AntD 的主要维护人员 afc163（微博 @高端工程师 ）早在今年9月�
 
 他直到今天下午才发布官方声明，道歉并撤销了这个引起巨大震荡的”彩蛋“，同时，项目组负责人也保证不会在代码库中再加入与功能无关的代码。
 
-（ [https://github.com/ant-design/ant-design/issues/13848](https://link.zhihu.com/?target=https%3A//github.com/ant-design/ant-design/issues/13848) ）
+（ [https://github.com/ant-design/ant-design/issues/13848](https://github.com/ant-design/ant-design/issues/13848) ）
 
 只不过，由这个自作主张的”彩蛋“引发的对AntD整个项目的信任危机，也许才刚刚开始。典型的留言是：”今天你庆祝圣诞节下雪了，明天清明节，按钮上是不是还要加一个墓碑？“
 
@@ -161,6 +161,6 @@ AntD开发者并不需要为受到损失的使用者承担任何责任，因为�
 
 （文中所有未注明的图片来源，请参考图片的水印）
 
-[https://u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE](https://link.zhihu.com/?target=https%3A//u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE) (二维码自动识别)
+[https://u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE](https://u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE) (二维码自动识别)
 
 欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy) **，并在后台留言输入关键字**转载**。转载时请保留版权信息。

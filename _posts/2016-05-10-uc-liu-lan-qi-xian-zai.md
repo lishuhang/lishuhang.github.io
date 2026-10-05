@@ -19,6 +19,6 @@ UC还计划像扶植淘宝中小原创品牌一样，扶植一些自媒体作者
 
 官方发布的最新数据表示，UC浏览器全球月活超过4亿，是全球第二大的浏览器，用户量已经超过Safari，仅次于Chrome。UC掌门人俞永福负责的阿里移动事业群以UC、高德为核心，配合神马搜索、阿里文学、PP助手、阿里游戏等，已经成为中国最大的移动互联网入口之一。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/500045.htm)
+[cnBeta](http://www.cnbeta.com/articles/500045.htm)
 
 ![](/2016/05/10/uc-liu-lan-qi-xian-zai/01.jpg)

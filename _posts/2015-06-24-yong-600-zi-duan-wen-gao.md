@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/20084555"
 
 真正想要做空这家公司的人，只需要提出那些最枯燥乏味的东西，包装的过程完全可以交给媒体，自媒体和普通的你和我。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-06-24/liushuwei-letv/)
+[动点科技](http://cn.technode.com/post/2015-06-24/liushuwei-letv/)
 
 *//今天家里停电，专栏是在手机上写的。。。*
 

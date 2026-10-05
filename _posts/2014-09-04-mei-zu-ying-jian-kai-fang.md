@@ -66,4 +66,4 @@ source: "https://zhuanlan.zhihu.com/p/19842395"
 - 亿航Ghost无人机：在操作飞机的过程当中发短信告知好友，并且实行双人共同操作；
 - Bong手环：手机解锁，来电提醒，跟Flyme数据互通；触摸电容按键“Yes”键可以控制其他连接到魅族手机的智能家电。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-03/connect-to-meizu-qa/)
+[动点科技](http://cn.technode.com/post/2014-09-03/connect-to-meizu-qa/)

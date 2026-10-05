@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20122936"
 ---
 
-Gizmodo 上面有一篇文章说《[请不要再卖给我一个智能水杯了](https://link.zhihu.com/?target=http%3A//gizmodo.com/stop-trying-to-sell-me-a-smart-water-bottle-1710270984)》，上面说到：
+Gizmodo 上面有一篇文章说《[请不要再卖给我一个智能水杯了](http://gizmodo.com/stop-trying-to-sell-me-a-smart-water-bottle-1710270984)》，上面说到：
 
 > 尽管你可以告诉我一天到底该喝多少杯水才不至于被渴死，我们人的身体经过上千万年的进化，似乎已经有了一个完美的，能够实现同等功能，而且还不费电，不需要手机配对的能力：那叫做“口渴”。
 

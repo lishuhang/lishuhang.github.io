@@ -179,6 +179,6 @@ PeoPo曾经是“素素”活跃的大本营，上面有很多没有记者证，
 
 这也让我们站在对岸，思考者他们以及我们自己的共同未来——新闻业会消失吗？广告会投放给谁？钱都去了哪里？新闻人承担的职责该传递给谁？或者，那些职责在这个时代还重要吗？
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0612/07/BPBHBFVG00097U7R.html%23post_comment_area)
+[网易科技](http://tech.163.com/16/0612/07/BPBHBFVG00097U7R.html#post_comment_area)
 
 ![](/2016/06/12/cong-gong-min-ji-zhe-hong/06.png)

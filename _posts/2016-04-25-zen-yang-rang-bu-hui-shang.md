@@ -51,6 +51,6 @@ source: "https://zhuanlan.zhihu.com/p/20798927"
 
 所以，在这些行业，特别是向网络化过渡的初期，更多的与传统模式寻求合作而不是对抗，也许更有可能取得成功。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-25/fuyou/)
+[动点科技](http://cn.technode.com/post/2016-04-25/fuyou/)
 
 ![](/2016/04/25/zen-yang-rang-bu-hui-shang/01.jpg)

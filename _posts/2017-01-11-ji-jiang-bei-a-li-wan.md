@@ -13,4 +13,4 @@ source: "https://zhuanlan.zhihu.com/p/24837564"
 
 阿里在银泰之外的零售布局就是自有“素型生活馆”品牌，相当于阿里自营的淘宝屋，提出”设计师精品百货，线上线下同品同价“的品牌定位。但是，不管在别人屋檐下开店，还是收购或入股的电器卖场和大超市，都不足以撑起整个业态改进的重任，看来今后我们大可以树立起“银泰=阿里”的认知。
 
-全文：[http://cn.technode.com/post/2017-01-11/alibaba-privatize-yintai/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-01-11/alibaba-privatize-yintai/)
+全文：[http://cn.technode.com/post/2017-01-11/alibaba-privatize-yintai/](http://cn.technode.com/post/2017-01-11/alibaba-privatize-yintai/)

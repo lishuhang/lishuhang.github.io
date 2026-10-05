@@ -49,4 +49,4 @@ line也要面临海外扩张的压力。尽管在日本市场已经称霸，但�
 
 而且，不能总是依靠偶像剧来推广。为此，line在中国先后找了360和豌豆荚负责不同方面的运营，推出中文名“连我”，以及中文公众账号和专属表情贴纸。但中国的这两个合作伙伴都并非把line放在优先级较高的位置上，导致line在中国发展一直不温不火。淘宝具备优先发展社交的诚意，是line接下来谈合作的一个合理的人选。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-02-27/line-alibaba-rumor/)
+[动点科技](http://cn.technode.com/post/2014-02-27/line-alibaba-rumor/)

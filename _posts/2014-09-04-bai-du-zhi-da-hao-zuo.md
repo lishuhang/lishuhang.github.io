@@ -7,9 +7,9 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19842426"
 ---
 
-昨天百度世界大会发布了[直达号](https://link.zhihu.com/?target=http%3A//zhida.baidu.com/)。除了噱头大于实际的筷搜之外，直达号是本次百度世界大会上面最重要的一次发布。
+昨天百度世界大会发布了[直达号](http://zhida.baidu.com/)。除了噱头大于实际的筷搜之外，直达号是本次百度世界大会上面最重要的一次发布。
 
-回想2012年的重要发布是百度云，2013年则是轻应用，这两个年度的重磅产品，所获得的效果是不尽相同的。百度云是一系列云服务的统称，由于其中包含一个网络硬盘，又接替了115，[新浪爱问等](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-06/ishare-ebboks-doomed/)各种盗版和色情下载媒介，所以百度云还是挺成功的。但是[轻应用的推出，却雷声大雨点小](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2013-12-12/webapps-china-dream/)。
+回想2012年的重要发布是百度云，2013年则是轻应用，这两个年度的重磅产品，所获得的效果是不尽相同的。百度云是一系列云服务的统称，由于其中包含一个网络硬盘，又接替了115，[新浪爱问等](http://cn.technode.com/post/2014-06-06/ishare-ebboks-doomed/)各种盗版和色情下载媒介，所以百度云还是挺成功的。但是[轻应用的推出，却雷声大雨点小](http://cn.technode.com/post/2013-12-12/webapps-china-dream/)。
 
 本次直达号被媒体称为百度版公众号，但比起已有的公众号，直达号的到达入口非常复杂。有些媒体只是理解为在百度移动搜索的界面当中输入关键字，还要在前面加一个@符号；但是还没完！**这个直达号还只能在“手机百度”客户端内部打开才可以，通过浏览器访问百度的页面，都无法使用。**
 
@@ -33,6 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/19842426"
 
 ——这种类比并不意味着我觉得直达号战略一定会取得成功，毕竟事在人为嘛。
 
-题图：[新浪微博](https://link.zhihu.com/?target=http%3A//weibo.com/1791541511/BlksuoMVP)
+题图：[新浪微博](http://weibo.com/1791541511/BlksuoMVP)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-09-04/baidu-zhida/)
+[动点科技](http://cn.technode.com/post/2014-09-04/baidu-zhida/)

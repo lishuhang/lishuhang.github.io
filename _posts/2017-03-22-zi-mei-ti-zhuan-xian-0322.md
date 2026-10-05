@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/25918825"
 
 
 
-[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9309401.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9309401.shtml)
+[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9309401.shtml](http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9309401.shtml)
 
 
 
@@ -57,7 +57,7 @@ SuperData最新发布的消费端VR报告预测，全球VR硬件收入在2017年
 
 
 
-[http://tech.sina.com.cn/it/2017-03-22/doc-ifycnpiu9365063.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/it/2017-03-22/doc-ifycnpiu9365063.shtml)
+[http://tech.sina.com.cn/it/2017-03-22/doc-ifycnpiu9365063.shtml](http://tech.sina.com.cn/it/2017-03-22/doc-ifycnpiu9365063.shtml)
 
 
 
@@ -69,7 +69,7 @@ TechCrunch：针对非Windows系统平板电脑的生态圈和用户需求和手
 
 
 
-[https://techcrunch.com/2017/03/21/what-happened-to-tablet-sales/](https://link.zhihu.com/?target=https%3A//techcrunch.com/2017/03/21/what-happened-to-tablet-sales/)
+[https://techcrunch.com/2017/03/21/what-happened-to-tablet-sales/](https://techcrunch.com/2017/03/21/what-happened-to-tablet-sales/)
 
 
 
@@ -81,7 +81,7 @@ TechCrunch：针对非Windows系统平板电脑的生态圈和用户需求和手
 
 
 
-[http://tech.sina.com.cn/it/2017-03-20/doc-ifycnpiu9192786.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/it/2017-03-20/doc-ifycnpiu9192786.shtml)
+[http://tech.sina.com.cn/it/2017-03-20/doc-ifycnpiu9192786.shtml](http://tech.sina.com.cn/it/2017-03-20/doc-ifycnpiu9192786.shtml)
 
 
 
@@ -109,4 +109,4 @@ TechCrunch：针对非Windows系统平板电脑的生态圈和用户需求和手
 
 
 
-[http://tech.sina.com.cn/i/2017-03-20/doc-ifycnpiu9201137.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2017-03-20/doc-ifycnpiu9201137.shtml)
+[http://tech.sina.com.cn/i/2017-03-20/doc-ifycnpiu9201137.shtml](http://tech.sina.com.cn/i/2017-03-20/doc-ifycnpiu9201137.shtml)

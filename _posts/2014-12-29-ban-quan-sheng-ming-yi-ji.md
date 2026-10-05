@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/19923967"
 
 我的全职工作经历：
 
-- **[http://cnBeta.COM](https://link.zhihu.com/?target=http%3A//cnBeta.COM)**——2005年12月~现在
+- **[http://cnBeta.COM](http://cnBeta.COM)**——2005年12月~现在
 - **网易科技**——2010.7 ~ 2012.7
 - **Tech2IPO创见网**——2013.1 ~ 2013.6
 - **动点科技 / TechCrunch 中国**——2013.7 ~ 2015.1

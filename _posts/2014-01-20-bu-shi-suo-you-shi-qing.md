@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/19660002"
 
 我来给那些夸奖Chromebook和云计算，觉得自带硬盘总有一天会被扔到垃圾堆的同学们泼一盆冷水。
 
-去年年底，[台湾雅虎部落格和无名小站进入了关闭的最后倒计时阶段](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2013-08-31/yahoo-shuts-down-taiwan-wretch-blog-service/)。十二月份，所有的博客文章变成只读模式。而再过非常短暂的时间，这些文章就会被连根拔除，没有任何地方会收留。
+去年年底，[台湾雅虎部落格和无名小站进入了关闭的最后倒计时阶段](http://cn.technode.com/post/2013-08-31/yahoo-shuts-down-taiwan-wretch-blog-service/)。十二月份，所有的博客文章变成只读模式。而再过非常短暂的时间，这些文章就会被连根拔除，没有任何地方会收留。
 
 随手一搜，我看到当中包括一个六十岁老头子的家庭收藏，一个已经工作的职业中年的棒球梦想，一个闲着没事儿想写写自己看过的肥皂剧的女士，还有初为人父记录孩子成长的爸爸。如果他们不会在历时半年的搬家期限当中来回转移自己的文章，那么这些内容将会永远被淹没在互联网的尘埃中，而无法被人发现。
 
@@ -17,13 +17,13 @@ source: "https://zhuanlan.zhihu.com/p/19660002"
 
 在中国大陆，短命的内容托管服务更多。尽管他们都会提供那些一键搬家什么的功能，尽管你可以争辩说，在死期将至的时候并不活跃的用户其实也已经放弃这个服务了。然而那些内容的孤本毕竟还躺在那里。除了作者本身，没有足够多的人手来替他们搬运。
 
-这还是之前的情况。在视频和图片托管服务出现之后，惨剧发生的就更加频繁了。我记得我在[vlog](https://link.zhihu.com/?target=http%3A//www.im.tv/)上面储存了通过电视卡录制的大约十个小时左右的视频文件，都是零几年的电视节目。几乎是一夜之间，我发现我再也找不回它们。连一个给我下载回本地的缓冲期都没有。[六间房（6.cn）](https://link.zhihu.com/?target=http%3A//www.6.cn/)曾经是网络红人胡戈的一系列视频的首发地。然而现在首发时候的那个页面已经无法找到，六间房网站虽然还在，但已经转型为一个美女视频直播网站。
+这还是之前的情况。在视频和图片托管服务出现之后，惨剧发生的就更加频繁了。我记得我在[vlog](http://www.im.tv/)上面储存了通过电视卡录制的大约十个小时左右的视频文件，都是零几年的电视节目。几乎是一夜之间，我发现我再也找不回它们。连一个给我下载回本地的缓冲期都没有。[六间房（6.cn）](http://www.6.cn/)曾经是网络红人胡戈的一系列视频的首发地。然而现在首发时候的那个页面已经无法找到，六间房网站虽然还在，但已经转型为一个美女视频直播网站。
 
 我们似乎有一个错觉：互联网上的东西永远无法删除。一旦在网上发表了某些公开的内容，这些内容就将会被存储下来，并且绝对不会再丢失。可能会在原本的网站上被删除，但却会被很多次的转载并在不同的角落被保存。所以，似乎删除某篇文章以禁止其流传是徒劳的。
 
 我们有的时候也可以在一篇文章来源网站是付费才能浏览的时候，只要以其中的某些字句作为关键字搜索，总能找到一些网站会免费的全文张贴剩下的内容。
 
-但那只是针对大家都感兴趣的一部分信息而已。大多数人写在[BlogCN](https://link.zhihu.com/?target=http%3A//it.sohu.com/20121213/n360336790.shtml)，[MSN Spaces](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2010-10-18/10194757769.shtml)，[yo2](https://link.zhihu.com/?target=http%3A//baike.baidu.com/link%3Furl%3Dn6o_09NyfqeM-DxW5ansKmUT0MAxyGF6JrjVqjjgtGuB7BzICG3mwaEW57EgIDQFKjktUEorXhjjYo4F8nTQBq)，[donews博客](https://link.zhihu.com/?target=http%3A//blog.donews.com/)，无名小站上的东西，如果不是在固定期限内保存，就已经找不到了。
+但那只是针对大家都感兴趣的一部分信息而已。大多数人写在[BlogCN](http://it.sohu.com/20121213/n360336790.shtml)，[MSN Spaces](http://tech.sina.com.cn/i/2010-10-18/10194757769.shtml)，[yo2](http://baike.baidu.com/link?url=n6o_09NyfqeM-DxW5ansKmUT0MAxyGF6JrjVqjjgtGuB7BzICG3mwaEW57EgIDQFKjktUEorXhjjYo4F8nTQBq)，[donews博客](http://blog.donews.com/)，无名小站上的东西，如果不是在固定期限内保存，就已经找不到了。
 
 总有一些东西，最终会丢得很干净。特别是当那些东西对我们自己很重要，但是对这个社会上的其他人却不那么重要的时候。
 
@@ -39,4 +39,4 @@ source: "https://zhuanlan.zhihu.com/p/19660002"
 
 与此相反，我觉得随着个人数据安全被重视起来，有第三方为个人数据提供价格合理的长期备份服务，并签订协议来做“数据保险”，也许是一条不错的生财之道呢。
 
-*[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/14/0120/08/9J14DPRN00094N0U.html)*
+*[网易科技](http://tech.163.com/14/0120/08/9J14DPRN00094N0U.html)*

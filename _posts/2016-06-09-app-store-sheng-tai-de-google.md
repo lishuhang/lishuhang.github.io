@@ -7,11 +7,11 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/21329316"
 ---
 
-2016-06-10 更详细一点的消息来了：[苹果细解App Store竞价广告：向谷歌学习 可设置不出现_Apple iTunes / App Store_cnBeta.COM](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/509183.htm)
+2016-06-10 更详细一点的消息来了：[苹果细解App Store竞价广告：向谷歌学习 可设置不出现_Apple iTunes / App Store_cnBeta.COM](http://www.cnbeta.com/articles/509183.htm)
 
 ——————————
 
-App Store今天爆出了大新闻：[苹果应用商店引入竞价排名推荐位 开发者表示买买买_Apple iTunes / App Store_cnBeta.COM](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/509023.htm)
+App Store今天爆出了大新闻：[苹果应用商店引入竞价排名推荐位 开发者表示买买买_Apple iTunes / App Store_cnBeta.COM](http://www.cnbeta.com/articles/509023.htm)
 
 App Store的应用推荐和发现随着App越来越多，各种App的流量获取也越来越难，而Apple的推荐政策一直又封的很死。进而造就了数以百亿的广告网络公司，帮助不同的App在App Store上进行曝光。
 

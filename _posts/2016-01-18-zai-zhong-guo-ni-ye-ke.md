@@ -61,6 +61,6 @@ source: "https://zhuanlan.zhihu.com/p/20508921"
 
 希望在受法律保护的前提之下，百家可以继续坚持编辑自主，并且在一些涉及自己企业的问题上体现出更多宽容。所谓“言者无罪，闻者足戒”，拥有一批不因自己立足的土地而选择性闭嘴的批评者，在我看来是百度的福气。他们以更大勇气做出的批评，往往反映的是这家公司更急迫，更有意义的问题。
 
-首发于[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/299352)
+首发于[百度百家](http://lishuhang.baijia.baidu.com/article/299352)
 
 ![](/2016/01/18/zai-zhong-guo-ni-ye-ke/01.jpg)

@@ -99,6 +99,6 @@ source: "https://zhuanlan.zhihu.com/p/21375389"
 
 很可惜，“找记者”就类似提供医药推广的百度一样。只要明确的标注信息，并且控制一些软文出现的比例，它就能够实现合法合规。**然而它也是像百度一样，非常缺乏这么做的动机。**
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0618/10/BPRB0KUA00097UF6.html)
+[网易科技](http://tech.163.com/16/0618/10/BPRB0KUA00097UF6.html)
 
 ![](/2016/06/18/zhao-ji-zhe-qi-shi-bu/01.png)

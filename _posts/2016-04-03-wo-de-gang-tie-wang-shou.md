@@ -21,6 +21,6 @@ source: "https://zhuanlan.zhihu.com/p/20705091"
 
 电商的兴起在搞垮了中关村实体店的同时，也让中关村在线原有的一些广告生意受到一定影响。但是仅仅凭借着现在依然保持的庞大流量，就不会说它已经处于穷途末路。正相反，如果真的有一天业界失去了中关村在线，很快就可以意识到这个空白给行业造成的损失。现在的科技媒体所做的种种内容，并不能抵消这些垂直门户一旦消失所带来的真空。所以，最终能让中关村在线获得新生的是另外一个行业的垂直网站，看来只有垂直才更懂垂直的价值。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-04-03/zol-latest-deal/)
+[动点科技](http://cn.technode.com/post/2016-04-03/zol-latest-deal/)
 
 ![](/2016/04/03/wo-de-gang-tie-wang-shou/01.jpg)

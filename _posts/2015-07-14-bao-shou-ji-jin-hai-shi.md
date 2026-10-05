@@ -25,6 +25,6 @@ source: "https://zhuanlan.zhihu.com/p/20111053"
 
 但现在，我们并没有半点用处。企业到了今天的任天堂这样的节骨眼上，就算是最伟大的企业家，也很难笃定自己的招数就是非常明确的回天之术。而未来的一切进展，可能都要仰赖运气女神再次降临。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-07-14/satoru-iwata/)
+[动点科技](http://cn.technode.com/post/2015-07-14/satoru-iwata/)
 
 ![](/2015/07/14/bao-shou-ji-jin-hai-shi/01.jpg)

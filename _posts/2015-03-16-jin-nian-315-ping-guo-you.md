@@ -9,7 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 恭喜苹果继续在 3·15 这一传统佳节被“花样吊打”。尽管没有出现在央视舞台上，苹果还是被其他各媒体揪住不放，看着都让人心疼：
 
-**1. 现代金报：[苹果授权维修只换不修 消费者质疑是强制消费](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/377441.htm)**
+**1. 现代金报：[苹果授权维修只换不修 消费者质疑是强制消费](http://www.cnbeta.com/articles/377441.htm)**
 
 
 
@@ -17,7 +17,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 ——点评：315 对降低苹果的服务水平有持续的杰出贡献。话说保修期内也是 (免费) 只换不修，没看见有谁投诉？啊不对，有人投诉为什么换了之后不重算保修期……
 
-**2. 河南电视台：[郑州小伙买 iPad 太烫手 无奈到国外维权](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/377023.htm)**
+**2. 河南电视台：[郑州小伙买 iPad 太烫手 无奈到国外维权](http://www.cnbeta.com/articles/377023.htm)**
 
 
 
@@ -25,7 +25,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 ——点评：请结合上一条观看。
 
-**3. 东方早报：[苹果售后预约维修再被指存“霸王条款” ](https://link.zhihu.com/?target=http%3A//www.dfdaily.com/html/3/2015/3/15/1248768.shtml)**
+**3. 东方早报：[苹果售后预约维修再被指存“霸王条款” ](http://www.dfdaily.com/html/3/2015/3/15/1248768.shtml)**
 
 
 
@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 ——点评：在苹果官网预约这事真的没那么困难吧？亲自体验过的人应该都可以感受到，唯一需要注意的是不能出问题马上约，要提前一周左右查看有没有空余位置。
 
-**4. [南昌晚报：苹果授权专卖店出售翻新机？](https://link.zhihu.com/?target=http%3A//www.ncwbw.cn/html/2015-03/09/content_216482.htm%3Fdiv%3D-1)**
+**4. [南昌晚报：苹果授权专卖店出售翻新机？](http://www.ncwbw.cn/html/2015-03/09/content_216482.htm?div=-1)**
 
 
 
@@ -53,7 +53,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 ——点评：苹果地方专卖店是很多与苹果相关问题产生的根源。苹果在上次被央视曝光后，毫无影响地扩大中国业绩，这些铺设在三四线城市的小店——通常挂着纯黑底加白色苹果标的招牌——起了很大作用。苹果一定很希望在条件允许的情况下，在中国尽可能多的开直营店吧，这样每次新品发布会都可以放中国开店画面作为开头：）
 
-**5. 人民网：[苹果数据线被指容易脱皮 直营店称售后检测后方可换](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/377395.htm)**
+**5. 人民网：[苹果数据线被指容易脱皮 直营店称售后检测后方可换](http://www.cnbeta.com/articles/377395.htm)**
 
 
 
@@ -63,4 +63,4 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 
 本期的“伐开心打苹果”时间到此结束。明年见！
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-03-16/zaobao0316/)
+[动点科技](http://cn.technode.com/post/2015-03-16/zaobao0316/)

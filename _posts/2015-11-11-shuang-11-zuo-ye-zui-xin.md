@@ -39,6 +39,6 @@ source: "https://zhuanlan.zhihu.com/p/20333160"
 
 答：村淘我们有另外的同事介绍。目前了解的情况是全国有8000多个村点（农村淘宝销售点），有100多万村民参与到村淘的活动当中。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/447073.htm)
+[cnBeta](http://www.cnbeta.com/articles/447073.htm)
 
 ![](/2015/11/11/shuang-11-zuo-ye-zui-xin/01.jpg)

@@ -47,7 +47,7 @@ source: "https://zhuanlan.zhihu.com/p/20355344"
 
 ![](/2015/11/20/ban-quan-vs-qing-huai-min/03.jpg)
 
-*图/[http://kankanews.com](https://link.zhihu.com/?target=http%3A//kankanews.com)*
+*图/[http://kankanews.com](http://kankanews.com)*
 
 正如在阅兵式转播当中，电视台可以在官方音轨之外，在网上专门增加一个针对军迷的评论音轨一样——在不危害原有版权和广告收益的情况下，这些民间爱好者组织是可以使用这种方式，跟官方和原作者们寻求一定程度上的谅解的。
 
@@ -55,6 +55,6 @@ source: "https://zhuanlan.zhihu.com/p/20355344"
 
 当日本新闻报道中，把盗版作品用日语称为“海贼版”的时候，不知有没有人想到过，中国人是用《海贼王》这个名词，而不是商业化使用的《航海王》来称呼他们最心爱的故事？**即使商业化的力量可以摧枯拉朽，但是那些忠实的翻译和留在人们心中的感动，都属于我提到所谓无法量化的财产。**不管是字幕组贡献的精彩翻译，汉化组嵌入的那些传神的文字，还是在弹幕网站上留下的评论都是如此。哪怕是在网易云音乐下面留下的评论，也可以成为这家音乐网站同其他友商之间的最大的一个差异化竞争因素。这些东西因为无法产生利润而可以被人随意抛弃，但未来总有一天，人们会感受到这些东西不再保留时，所带来的那种落寞和空虚。
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-11-20/pid_8496717.htm)（独家稿件 请勿转载）
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2015-11-20/pid_8496717.htm)（独家稿件 请勿转载）
 
 ![](/2015/11/20/ban-quan-vs-qing-huai-min/04.jpg)

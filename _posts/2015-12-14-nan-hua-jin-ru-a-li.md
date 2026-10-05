@@ -49,6 +49,6 @@ source: "https://zhuanlan.zhihu.com/p/20415541"
 
 当今世界的媒体生态，跟我几年前学习新闻和传播专业课程的时候已经大不相同。课本上所讲的事情，很多已经跟这个时代相脱节。我想，在媒体行业发生的一系列深刻变革，会促使每一位媒体的读者在对新闻感兴趣之后，都能够花更多的努力来提高自己的媒介素养，跟这个时代一同进步。
 
-[虎嗅](https://link.zhihu.com/?target=http%3A//www.huxiu.com/article/134147/1.html)
+[虎嗅](http://www.huxiu.com/article/134147/1.html)
 
 ![](/2015/12/14/nan-hua-jin-ru-a-li/01.jpg)

@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19895888"
 ---
 
-应 [澳洲 IDS Club](https://link.zhihu.com/?target=http%3A//www.idsclub.org/) 邀请，本周我代表动点科技前往澳大利亚的墨尔本，开始为期一周的采访行程。接下来的一个星期，我将会给大家陆续播报在路上的所见所闻。
+应 [澳洲 IDS Club](http://www.idsclub.org/) 邀请，本周我代表动点科技前往澳大利亚的墨尔本，开始为期一周的采访行程。接下来的一个星期，我将会给大家陆续播报在路上的所见所闻。
 
 作为科技博客的动点，为什么要去澳洲？很多中国人去澳洲的目的是为了旅游度假，另一些人的目的是留学。但是要说到做生意，就没有那么多，尤其是做跟互联网相关的工作，就更是少之又少。我这次去也是希望能够带大家从头开始认识这个国家，给自己，以及我们的创业者、投资人读者朋友们，找到一个去澳洲的理由。
 
@@ -65,7 +65,7 @@ source: "https://zhuanlan.zhihu.com/p/19895888"
 
 ![](/2014/11/18/ao-zhou-xing-ji-shu-xi/05.jpg)
 
-[Wix 上市的时候](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-06-02/wixs-revenues-increase-over-q114-but-its-stock-price-cant-say-the-same/) 我其实非常不理解：建造没有任何附加功能的静态宣传网页的需求真的这么大吗？一个 Facebook 页面不够用？结果我在这儿发现了答案。这种服务明显就是一个小餐厅啥的，想要在网上给自己弄个招牌这么简单，完全不需要其他的互动功能，更不需要什么电商接口之类的。你说去 Facebook，哪有那么多人排队跟你社交？这些都不需要，**就只是一个建网站的功能而已——就能够撑起一个上市公司** 。
+[Wix 上市的时候](http://cn.technode.com/post/2014-06-02/wixs-revenues-increase-over-q114-but-its-stock-price-cant-say-the-same/) 我其实非常不理解：建造没有任何附加功能的静态宣传网页的需求真的这么大吗？一个 Facebook 页面不够用？结果我在这儿发现了答案。这种服务明显就是一个小餐厅啥的，想要在网上给自己弄个招牌这么简单，完全不需要其他的互动功能，更不需要什么电商接口之类的。你说去 Facebook，哪有那么多人排队跟你社交？这些都不需要，**就只是一个建网站的功能而已——就能够撑起一个上市公司** 。
 
 作为澳大利亚第二大城市（说是第一大也行）的墨尔本，2012 年统计的人口只有区区 425 万。2010 年，我的家乡内蒙古赤峰市的人口已经达到 460 万。你只有在市中心即 City 可以看到像这样的高楼大厦，而 City 区域即使用脚丈量，走半个小时也完全可以横穿。
 
@@ -111,4 +111,4 @@ source: "https://zhuanlan.zhihu.com/p/19895888"
 
 **#澳洲行纪#系列将在本周连载，敬请持续关注。**
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-11-18/trip-to-aus/)
+[动点科技](http://cn.technode.com/post/2014-11-18/trip-to-aus/)

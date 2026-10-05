@@ -11,7 +11,7 @@ source: "https://zhuanlan.zhihu.com/p/20452064"
 
 早在今年 1 月的 CES 华硕就发布了 Zenfone Zoom 智能手机，但是一直未上市。华硕曾暗示是因为生产问题导致该机延迟推出，定价等方面的信息也迟迟没有提供。直到 11 月 17 日，该机终于通过了工信部的认证，华硕也信守了年底上市的预期。
 
-今年 9 月， [动点作者笔格的报道](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-03/zenfone-zoom-will-11/) 称 Zenfone Zoom 为“世界上最薄的光学变焦智能手机”，预计其拍照能力成为市场又一个标杆。
+今年 9 月， [动点作者笔格的报道](http://cn.technode.com/post/2015-09-03/zenfone-zoom-will-11/) 称 Zenfone Zoom 为“世界上最薄的光学变焦智能手机”，预计其拍照能力成为市场又一个标杆。
 
 **Zenfone Zoom 将光变镜头融入超薄机身**
 
@@ -31,9 +31,9 @@ Zenfone Zoom 的相机可实现 3 倍光学变焦和 12 倍总变焦，采用松
 
 纵观 2015 年，华硕手机方面主要有以下动作：
 
-四月发布的华硕 [ZenFone 2](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-04-19/asus-zenphone-2-china/) 成为华硕首款搭载 4GB 内存的产品。该机除了在当时是主打 4GB 内存牌之外，还有一个很大的要点是搭载了英特尔 Atom 3580 四核处理器，它是英特尔首批 X86 架构 64 位处理器。华硕从早期“Wintel”阵营确立开始就和英特尔坚定结盟，此番也是凭借手机合作进一步巩固和英特尔之间的友好关系。
+四月发布的华硕 [ZenFone 2](http://cn.technode.com/post/2015-04-19/asus-zenphone-2-china/) 成为华硕首款搭载 4GB 内存的产品。该机除了在当时是主打 4GB 内存牌之外，还有一个很大的要点是搭载了英特尔 Atom 3580 四核处理器，它是英特尔首批 X86 架构 64 位处理器。华硕从早期“Wintel”阵营确立开始就和英特尔坚定结盟，此番也是凭借手机合作进一步巩固和英特尔之间的友好关系。
 
-随后在 10 月，[ZenFone 手机连发 3 款新品](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-27/asus-china-zenfone/) ，包括主打自拍功能的 ZenFone Selfie、6 英寸大屏 ZenFone 2 Laser 与配备大容量电池的 ZenFone Max。ZenFone Max 的售价为 1299 元，而 ZenFone Selfie 与 ZenFone 2 Laser 的价格同为 1699 元。
+随后在 10 月，[ZenFone 手机连发 3 款新品](http://cn.technode.com/post/2015-10-27/asus-china-zenfone/) ，包括主打自拍功能的 ZenFone Selfie、6 英寸大屏 ZenFone 2 Laser 与配备大容量电池的 ZenFone Max。ZenFone Max 的售价为 1299 元，而 ZenFone Selfie 与 ZenFone 2 Laser 的价格同为 1699 元。
 
 ZenFone Selfie 前置镜头也高达 1300 万像素，同时配备双色温闪光灯，定位为爱自拍的人士；ZenFone 2 Laser 具备 6 英寸大屏，以轻薄为卖点；ZenFone Max 最大特点是 5000mAh 大电池，支持快充（39 分钟达 60%），待机续航 37 天，正常 3 天，甚至可以作为移动电源，定位是要求长待机的商务人士。
 
@@ -43,6 +43,6 @@ ZenFone Selfie 前置镜头也高达 1300 万像素，同时配备双色温闪�
 
 不过，华硕在 PC 销售时在中国大陆就没有多少自己掌握的经销商，这些代理商顺便摆放一下手机，其销售情况可想而知；而没有自己的电商渠道则更是大问题，华硕现在采取了和京东紧密绑在一起的策略，多少是有所依赖的。考虑到国内主要品牌建立渠道都没有走“快餐式”道路，而是慢慢铺了两三年甚至更久，华硕再心急也吃不了热豆腐。他们只能用在产品本身表现出来的诚意，来慢慢打动中国的消费者。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-12-28/zenfone-zoom-release/)
+[动点科技](http://cn.technode.com/post/2015-12-28/zenfone-zoom-release/)
 
 ![](/2015/12/28/yi-zenfone-zoom-shou-guan-hui/01.jpg)

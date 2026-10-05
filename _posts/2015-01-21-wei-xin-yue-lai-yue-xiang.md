@@ -37,4 +37,4 @@ source: "https://zhuanlan.zhihu.com/p/19939472"
 
 俗话说“人之将死，其言也善”，用在产品上也不为过。在迅雷整体业务受到百度云等新的网盘服务强力冲击的时候，迅雷总算从善如流，推出了精简版，也意味着之前要花钱买的会员去广告功能成为了历史。这都是之前的摇钱树风光不再才做出的让步，当这些产品去掉肩上沉重的盈利担子的时候，离死恐怕也不远了。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-01-19/wechat-for-windows)
+[动点科技](http://cn.technode.com/post/2015-01-19/wechat-for-windows)

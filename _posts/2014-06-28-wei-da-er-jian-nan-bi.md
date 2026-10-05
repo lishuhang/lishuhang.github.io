@@ -73,4 +73,4 @@ source: "https://zhuanlan.zhihu.com/p/19788640"
 
 所以，它应该和祈求世界和平的努力一样极端困难。网络本应是一座通天塔，而我们人类若无法齐心向前，则将依旧是建不成这座塔的巴别城的子民。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/20429)
+[百度百家](http://lishuhang.baijia.baidu.com/article/20429)

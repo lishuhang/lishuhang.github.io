@@ -77,4 +77,4 @@ source: "https://zhuanlan.zhihu.com/p/19765073"
 
 可是我还是愿意留在现在，展望未来——因为我们也许不再崇拜科技，但整体人类的基础知识和智商都提高了。我们不再花那么多时间仰望星空，是因为自己早已身处当年的星云之间。
 
-[财经网](https://link.zhihu.com/?target=http%3A//column.caijing.com.cn/2014-05-29/114222642.html)
+[财经网](http://column.caijing.com.cn/2014-05-29/114222642.html)

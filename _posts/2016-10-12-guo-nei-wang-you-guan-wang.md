@@ -23,7 +23,7 @@ source: "https://zhuanlan.zhihu.com/p/22892844"
 
 她表示，并没有想的比较复杂，没有担心苹果可能不认账等等，只是希望吐槽糟糕的“开箱体验”，以及随后与客服的沟通“效率低到爆炸”。她依然认可苹果产品，希望其继续改善。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/547309)
+[cnBeta](http://www.cnbeta.com/articles/547309)
 
 
 

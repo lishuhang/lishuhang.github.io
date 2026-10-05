@@ -19,7 +19,7 @@ Pencil有两个版本，笔杆分别是木制的和金属制作。我总觉得�
 
 ![](/2014/05/25/pencil-ba-pu-tong-ren-dai/15.jpg)
 
-[http://cn.technode.com/files/2014/05/IMG_4688.jpg](https://link.zhihu.com/?target=http%3A//cn.technode.com/files/2014/05/IMG_4688.jpg)
+[http://cn.technode.com/files/2014/05/IMG_4688.jpg](http://cn.technode.com/files/2014/05/IMG_4688.jpg)
 
 ![](/2014/05/25/pencil-ba-pu-tong-ren-dai/16.jpg)
 
@@ -61,4 +61,4 @@ Pencil有两个版本，笔杆分别是木制的和金属制作。我总觉得�
 
 创作可能在之前真的需要专业训练，但今后有了顺手的工具，可能会越来越不依赖技巧，只要求人们的创意。这样也能让更多的普通人去进行他们的创作，爆发出更多的可能性。我想，这种真实的涂画感觉，能够让人诞生对创作的热情，这比技能本身可能重要得多。这也是一款可以强烈推荐给小孩家长的玩具，用来开发孩子艺术创作的灵感。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-25/pencil-by-fiftythree/)
+[动点科技](http://cn.technode.com/post/2014-05-25/pencil-by-fiftythree/)

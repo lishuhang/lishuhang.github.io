@@ -17,4 +17,4 @@ source: "https://zhuanlan.zhihu.com/p/24340136"
 >
 > 苹果在美国直接把 iOS 的“视频”应用和 iTunes 视频商店替换成了“电视”应用，之所以要进行如此之大的改动的意义就非常明显了。
 
-全文：[http://cn.technode.com/post/2016-12-13/introducing-the-ios-tv-app/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-12-13/introducing-the-ios-tv-app/)
+全文：[http://cn.technode.com/post/2016-12-13/introducing-the-ios-tv-app/](http://cn.technode.com/post/2016-12-13/introducing-the-ios-tv-app/)

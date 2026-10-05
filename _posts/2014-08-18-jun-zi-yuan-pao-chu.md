@@ -31,6 +31,6 @@ source: "https://zhuanlan.zhihu.com/p/19827867"
 
 我们看到电视上播出的网络相关的普法节目，总会觉得受害者是交了一种“智商税”。但是我爸妈的反应时刻摆在那里，提醒我这种事情始终是不对的，是不合理的，是我们应该一起努力来消除的。我们看起来似乎对这些现象幕后的操盘者心知肚明，那么难道不是能力越大，责任越大吗？如果我们想让这样的新闻在电视上少一点的话，比较好的办法就是真的降低这些事情发生的数量，而不是坐在电视后面看它到底有多荒诞。
 
-[网易科技](https://link.zhihu.com/?target=http%3A//tech.163.com/14/0710/08/A0PE7EBL00094N0U.html)
+[网易科技](http://tech.163.com/14/0710/08/A0PE7EBL00094N0U.html)
 
-题图：[央视搜索_安卓](https://link.zhihu.com/?target=http%3A//search.cctv.com/search.php%3Fqtext%3D%25E5%25AE%2589%25E5%258D%2593%26sid%3D0021%26pid%3D0000)
+题图：[央视搜索_安卓](http://search.cctv.com/search.php?qtext=%E5%AE%89%E5%8D%93&sid=0021&pid=0000)

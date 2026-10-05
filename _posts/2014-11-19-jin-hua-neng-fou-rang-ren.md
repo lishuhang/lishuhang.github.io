@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/19897655"
 
 这周一我就结束在澳洲的行程回北京，希望能够参加由百度举办的奇点大学的全天活动。这也是一个非常概念化的，启发我们对未来思考和想像的活动。我希望能有更多的机会如这次一样，不仅是看着眼前的工作，而是仰望星空，思考我们未来可能会变成的样子。所以我非常期待这个活动的来临。
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/36947)
+[百度百家](http://lishuhang.baijia.baidu.com/article/36947)

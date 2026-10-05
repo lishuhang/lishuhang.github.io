@@ -33,7 +33,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 在画外音的笑声中，冯巩念道：“双汇：省优、部优、葛优。”
 
-( [https://v.qq.com/x/page/q03851y1qs1.html](https://link.zhihu.com/?target=https%3A//v.qq.com/x/page/q03851y1qs1.html) )
+( [https://v.qq.com/x/page/q03851y1qs1.html](https://v.qq.com/x/page/q03851y1qs1.html) )
 
 90年代初，河南省漯河市肉联厂凭借“双汇”牌火腿肠享誉神州，这个在中央电视台滚动播出的广告恐怕有很大的功劳。就连当时可能只有四五岁的我，都牢牢记住了它的最后一句广告词：省优，部优，葛优。
 
@@ -41,7 +41,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 > 一次在这里，我把在《中华工商时报》写的专栏给葛优看，其中有一句——省优部优国优葛优。葛优沉吟片刻：立意不错，下‍次‍要‍把“‍国‍优‍”去‍掉‍，跟“‍国‍”扯‍上‍边‍儿‍，事‍儿‍有‍点‍儿‍大‍。我‍说‍：那‍以‍后‍就——省优部优葛优？葛优说：看，节奏感极强。不过记住了，千万别放女优。
 
-（[http://c.blog.sina.com.cn/profile.php?blogid=bac48339890014ru](https://link.zhihu.com/?target=http%3A//c.blog.sina.com.cn/profile.php%3Fblogid%3Dbac48339890014ru) ）
+（[http://c.blog.sina.com.cn/profile.php?blogid=bac48339890014ru](http://c.blog.sina.com.cn/profile.php?blogid=bac48339890014ru) ）
 
 “省/部/国优”分别是“由各省/轻工业部、农业部等国家部委/国务院评选的优质产品”的简称。这种官方评定的荣誉，伴随着中国企业走过了改革开放最初的十几年，并且成为了日后“中国驰名商标”、“中国名牌”、“国家免检产品”，以至于现在的“国家品牌计划”、“民族品牌工程”等等的滥觞。
 
@@ -73,7 +73,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 1990 年糖酒会期间，四川电视台的广告都会被白酒主宰。在一段老录像带里，密密麻麻都是各种酒广告，偶尔才出来一个啤酒和饮料的广告。
 
-（ [https://www.bilibili.com/video/av39087199/](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av39087199/) ）
+（ [https://www.bilibili.com/video/av39087199/](https://www.bilibili.com/video/av39087199/) ）
 
 所以，你也能在广告词里听到最多的强调自己获得“省优”、“部优”称号的说法，因为各地赶场子的商人都审美疲劳了，不这么说，还哪里有什么区分度？
 
@@ -131,7 +131,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 > 2003年5月14日，深圳市政府对10个获得“中国名牌”的企业各发放了100万元奖金。2004年9月21日，广东省召开全省实施名牌带动战略工作暨名牌产品表彰电视电话会议，获得中国名牌产品、中国驰名商标的企业可获百万元重奖。再加上各市区的“追赏”，获得一个“中国名牌”，企业就能拿到二三百万元的奖励。此外，福州、天津、南京、烟台等城市都有类似奖励。
 
-（ [http://china.huanqiu.com/roll/2008-10/241743_3.html](https://link.zhihu.com/?target=http%3A//china.huanqiu.com/roll/2008-10/241743_3.html) ）
+（ [http://china.huanqiu.com/roll/2008-10/241743_3.html](http://china.huanqiu.com/roll/2008-10/241743_3.html) ）
 
 但是这样的好日子到 2008 年就戛然而止了。原因嘛，在于发生了这个事：
 
@@ -171,17 +171,17 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 统计显示，2017 年中国广播电视广告收入下降 1.84%，首次出现负增长。而在此之前，央视广告收入已经呈现出疲态。
 
-（ [https://mp.weixin.qq.com/s/LSO3PvO9U0KgOItfO9vC5A](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/LSO3PvO9U0KgOItfO9vC5A) ）
+（ [https://mp.weixin.qq.com/s/LSO3PvO9U0KgOItfO9vC5A](https://mp.weixin.qq.com/s/LSO3PvO9U0KgOItfO9vC5A) ）
 
 《21世纪经济报道》根据央视市场研究股份有限公司(CTR)数据报道称，2013 年电视媒体广告刊例增长 11.3%，其中央视增长14.7%，省级卫视增长 28%；2012 年央视广告收入为 269.76 亿元，同比增长低于 15%，而百度广告收入为 222.46 亿元，同比增长 53.5%。
 
-（ [http://money.163.com/14/0604/11/9TT2MCFE002526O3.html](https://link.zhihu.com/?target=http%3A//money.163.com/14/0604/11/9TT2MCFE002526O3.html) ）
+（ [http://money.163.com/14/0604/11/9TT2MCFE002526O3.html](http://money.163.com/14/0604/11/9TT2MCFE002526O3.html) ）
 
 正是基于央视的广告市场份额被互联网广告蚕食，从增量市场转为存量市场的现实，新的打包营销套餐“CCTV 国家品牌计划”就诞生了。
 
 国家品牌计划是央视对过去的广告招标模式实现的一次创新。除了配置《新闻联播》《焦点访谈》等王牌新闻节目广告资源外，为入选企业定制“中央电视台国家品牌计划TOP合作伙伴或行业领跑者宣传片。国家品牌计划同时定制企业品牌故事，在央视各频道高频次播出。
 
-（ [http://cbp.cctv.com/](https://link.zhihu.com/?target=http%3A//cbp.cctv.com/) ）
+（ [http://cbp.cctv.com/](http://cbp.cctv.com/) ）
 
 可以看到，这个计划杂糅了之前的”榜上有名“、”著名企业音乐电视展播“等多种打包方案，而且更进一步地让《新闻30分》、《新闻联播天气预报》、《晚间新闻》等几乎所有一套、二套节目含金量高的成块时段，都只允许贴有”CCTV 国家品牌计划“角标的广告播映。
 
@@ -196,7 +196,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 央视又接连推出”大国品牌“、”国茶经典“等等，每个能想到的品类，总有一款适合你。
 
-（ [https://www.cctvdgpp.cn/](https://link.zhihu.com/?target=https%3A//www.cctvdgpp.cn/) ）
+（ [https://www.cctvdgpp.cn/](https://www.cctvdgpp.cn/) ）
 
 2018 年，”CCTV 国家品牌计划“在原有的付费广告之外也做了一系列新的调整，例如在二套部分时段免费替贫困县农产品做广告，所谓”CCTV国家品牌计划-广告精准扶贫“；替袁隆平、屠呦呦、大飞机、航天工程等大国工程做形象宣传片等。
 
@@ -206,11 +206,11 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 新华社出了个”民族品牌工程“；
 
-（ [http://www.xinhuanet.com/tech/zt/index/mzppcbgc.htm](https://link.zhihu.com/?target=http%3A//www.xinhuanet.com/tech/zt/index/mzppcbgc.htm) ）
+（ [http://www.xinhuanet.com/tech/zt/index/mzppcbgc.htm](http://www.xinhuanet.com/tech/zt/index/mzppcbgc.htm) ）
 
 《人民日报》出了个”新时代品牌强国计划“；还有什么“中国质量品牌计划”……
 
-（ [http://plan.brandforum.cn/](https://link.zhihu.com/?target=http%3A//plan.brandforum.cn/) ）
+（ [http://plan.brandforum.cn/](http://plan.brandforum.cn/) ）
 
 想要在这些主流媒体投放广告，就必须入选以上所有”计划“，一次性打包购买所有时段，其中肯定也包括一些原本不那么受欢迎的时间段，这当然会让参与其中的企业苦不堪言。
 
@@ -218,7 +218,7 @@ source: "https://zhuanlan.zhihu.com/p/55142728"
 
 > 在国家级品牌工程项目上，从不缺少格力的身影。2016年，入驻央视“国家品牌计划”，2017年，入驻新华社“民族品牌传播工程”，前不久在中国企业家博鳌论坛上，首批入驻“新华信用”平台。
 
-（ [http://www.aircon.com.cn/news/htmfiles/66543.shtml](https://link.zhihu.com/?target=http%3A//www.aircon.com.cn/news/htmfiles/66543.shtml) ）
+（ [http://www.aircon.com.cn/news/htmfiles/66543.shtml](http://www.aircon.com.cn/news/htmfiles/66543.shtml) ）
 
 在国家市场监管总局通报里的那句”群众反映强烈“，此时尤显意味深长。
 

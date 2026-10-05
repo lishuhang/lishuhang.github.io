@@ -27,7 +27,7 @@ source: "https://zhuanlan.zhihu.com/p/22182971"
 
 该节目表示，就交税等问题来说，香港对于公司的创业和经营是比较宽容的，但是对于新的资讯科技类产品在香港的流通——例如香港目前还不能批准无人机和平衡车民用——则显得不太友好，尤其是相对于对岸的深圳而言，更缺乏前进的动力。长此以往，将会使得更多的香港人不得不选择到深圳进行创业。众所周知，著名的无人机品牌制造商大疆，创始人就是在香港完成了自己的大学学业，但是他的公司却是留在深圳。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-08-26/hk-alipay-wechat-pay/)＋[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/533111.htm)
+[动点科技](http://cn.technode.com/post/2016-08-26/hk-alipay-wechat-pay/)＋[cnBeta](http://www.cnbeta.com/articles/533111.htm)
 
 > 微信公众号 lifeissohappy
 >

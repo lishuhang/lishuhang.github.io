@@ -6,13 +6,14 @@ categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/451862144"
 ---
+image: /2021/12/30/duan-ping-wei-shen-me-jian/01.jpg
 
-*问题其实糟糕得多，因为我们在讨论的并不是社会最底层。*
 
-> 航通社首发原创文章，未经授权禁止转载
-> 微博：@航通社 | 微信搜一搜：航通社
+航通社 · 短评beta
 
-*文 / 书航 2021.12.24*
+*问题其实糟糕得多，因为我们在讨论的并不是**社会最底层。*
+
+*文**/ 书航 2021.12.24*
 
 近日，经济学家管清友在一档网络节目中表示，自己不建议年轻人把时间浪费在路上，年轻时的时间很宝贵，把节省下来的时间用来提升和完善自己，去思考去感受，去投资自己才是回报率最高的选择。
 
@@ -62,14 +63,6 @@ source: "https://zhuanlan.zhihu.com/p/451862144"
 
 其实更多写书法、学英语、看哲学的人，存在于每天挤得像沙丁鱼罐头的地铁车厢里。你我和他们擦肩而过，他们每个人都戴着有线或无线的耳机，用边走边听或者边看这种效率很低的方式试图自我提升，化解用不掉，又睡不着的通勤路上的苦闷。但他们实在是太平常了，学习也学不出个名堂，横竖都是平庸，连上热搜的资格都没有。
 
-**  延伸阅读**
+👉 延伸阅读
 
-- [不要“一眼望到头”的人生，去做互联网，所以我们错了吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/ymTE5wTcbiFBW-w75V43Wg)
-- [人口总有变少的一天，我们怎么才能不那么“卷”？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/pUC037x2X8-3v3uXXJoStA)
-- [别骂外卖平台了](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/hDDDQ51WK8KgXTyJ3nWmMw)
-
-ℹ️ [点此查看航通社简介 >>](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5Mjg1ODIxMQ%3D%3D%26mid%3D2650661681%26idx%3D2%26sn%3D2276662e561d5bc0ad0d63bc135a75f2%26chksm%3Dbe96aa3d89e1232b88aec755670a6f72eb71c420070b6e35ecb7be808d2444afbd3738bd2d97%26scene%3D21%23wechat_redirect)
-
-转载本文 / 商务合作请咨询航通社助理微信号：hangtongshe 或邮箱：[coop#lishuhang.me](mailto:coop@lishuhang.me)
-
-[更多详情请戳→合作须知](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5Mjg1ODIxMQ%3D%3D%26mid%3D2650661681%26idx%3D3%26sn%3D480a773c893e52437854222c1c1dbecd%26scene%3D21%23wechat_redirect)
+**⏩****分享**|**📦收藏****|****👍****点赞****|****❄在看**

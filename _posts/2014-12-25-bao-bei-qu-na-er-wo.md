@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19922114"
 ---
 
-12 月 23 日，[杭州的地铁报《Metro 城报》头版刊登了一份整版广告](https://link.zhihu.com/?target=http%3A//www.zjol.com.cn/05zjol/system/2014/12/23/020427023.shtml) ，署名“乐乐爸爸”的刊登者称自己在 12 月 26 日包场，邀请 500 个同在 12 月出生的小朋友一起参加一场免费的生日派对。这是由一款 [母婴 App“宝贝去哪儿”](https://link.zhihu.com/?target=http%3A//www.baobei762.com/) 策划的活动，他们联系了杭州本地的报刊和电视台报道此事。
+12 月 23 日，[杭州的地铁报《Metro 城报》头版刊登了一份整版广告](http://www.zjol.com.cn/05zjol/system/2014/12/23/020427023.shtml) ，署名“乐乐爸爸”的刊登者称自己在 12 月 26 日包场，邀请 500 个同在 12 月出生的小朋友一起参加一场免费的生日派对。这是由一款 [母婴 App“宝贝去哪儿”](http://www.baobei762.com/) 策划的活动，他们联系了杭州本地的报刊和电视台报道此事。
 
 这是上线几个月的“宝贝去哪儿”组织的多个推广活动的其中之一。诞生之初的“宝贝去哪儿”，可以看成是一款专门提供亲子活动场地门票团购的应用，它可以在各种团购软件中立即崭露头角，靠的是巨大的折扣。
 
@@ -49,4 +49,4 @@ source: "https://zhuanlan.zhihu.com/p/19922114"
 
 这一转型目前刚刚开始。尽管之前短时间内获得了 10 万用户，但他们冲着便宜而来这一点是不言而喻的，公司希望采用真正有价值和独家的线路，把这些孩子家长留在应用当中。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-12-25/baobei762/)
+[动点科技](http://cn.technode.com/post/2014-12-25/baobei762/)

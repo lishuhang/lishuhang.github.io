@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19654869"
 ---
 
-10日，租车服务Uber宣布他们的廉价租车服务Uber X将[进一步调低在美国多个城市的租价](https://link.zhihu.com/?target=http%3A//techcrunch.com/2014/01/09/big-uberx-price-cuts/)，最终目标是使得他们的服务成为市面上最便宜的出租车服务。
+10日，租车服务Uber宣布他们的廉价租车服务Uber X将[进一步调低在美国多个城市的租价](http://techcrunch.com/2014/01/09/big-uberx-price-cuts/)，最终目标是使得他们的服务成为市面上最便宜的出租车服务。
 
 
 
@@ -19,7 +19,7 @@ source: "https://zhuanlan.zhihu.com/p/19654869"
 
 
 
-8日，Uber也宣布在上海的租车服务定价下调了30%，7日还宣布[新用户推荐获得的折扣券金额从10美元增加到20美元](https://link.zhihu.com/?target=http%3A//techcrunch.cn/2014/01/07/uber-hikes-new-user-referral-from-10-to-20-amid-increased-competition-from-lyft-other-services/)。Uber希望打价格战让整体服务向平民普及的趋势已经显而易见。
+8日，Uber也宣布在上海的租车服务定价下调了30%，7日还宣布[新用户推荐获得的折扣券金额从10美元增加到20美元](http://techcrunch.cn/2014/01/07/uber-hikes-new-user-referral-from-10-to-20-amid-increased-competition-from-lyft-other-services/)。Uber希望打价格战让整体服务向平民普及的趋势已经显而易见。
 
 
 
@@ -31,7 +31,7 @@ source: "https://zhuanlan.zhihu.com/p/19654869"
 
 
 
-（这还可能引发人身安全的担心。Lyft本身是个“黑车”服务就不说了，[Uber也有一个司机在载客时发生事故造成一个6岁小女孩死亡](https://link.zhihu.com/?target=http%3A//abclocal.go.com/kgo/story%3Fsection%3Dnews/local/san_francisco%26id%3D9379471)——尽管事发时并非通过Uber叫车。）
+（这还可能引发人身安全的担心。Lyft本身是个“黑车”服务就不说了，[Uber也有一个司机在载客时发生事故造成一个6岁小女孩死亡](http://abclocal.go.com/kgo/story?section=news/local/san_francisco&id=9379471)——尽管事发时并非通过Uber叫车。）
 
 
 
@@ -43,7 +43,7 @@ source: "https://zhuanlan.zhihu.com/p/19654869"
 
 
 
-[中国的打车软件也在拼命的烧钱](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-01-06/why-chinese-investors-are-willing-to-take-bold-bet-on-the-money-burning-taxi-app-business/)，但是他们和Uber烧的方向是不一样的。打车软件目前已经处在免费运营的商业模式下，它们最终将会适应免费生存，靠别的手段（不管是什么）赚钱，烧钱主要的目的还是为了推广。然而Uber的商业模式是依靠乘客支付租价的，在这种情况下，压低价格就是跟他们已经成型的商业模式直接冲突的。
+[中国的打车软件也在拼命的烧钱](http://cn.technode.com/post/2014-01-06/why-chinese-investors-are-willing-to-take-bold-bet-on-the-money-burning-taxi-app-business/)，但是他们和Uber烧的方向是不一样的。打车软件目前已经处在免费运营的商业模式下，它们最终将会适应免费生存，靠别的手段（不管是什么）赚钱，烧钱主要的目的还是为了推广。然而Uber的商业模式是依靠乘客支付租价的，在这种情况下，压低价格就是跟他们已经成型的商业模式直接冲突的。
 
 
 
@@ -59,14 +59,14 @@ source: "https://zhuanlan.zhihu.com/p/19654869"
 
 
 
-相信很多人和我一样都能看出，这样的情景一旦发生在中国会是什么样子。似乎有[不少](https://link.zhihu.com/?target=http%3A//news.163.com/photoview/00AP0001/41812.html%23p%3D9HVNL51P00AP0001)[新闻](https://link.zhihu.com/?target=http%3A//news.qq.com/a/20140102/000493.htm)可以作为中国人喜欢贪小便宜的证据，类似于半价出租车这样的廉价方案，到底会引发什么样的占便宜风潮，那就更加不得而知。政府的监管将毫无疑问的执行精确打击。此外，对于高速公路动不动就变成停车场的国家来说，选用公共交通可能是普通消费者更喜欢的出行方案。
+相信很多人和我一样都能看出，这样的情景一旦发生在中国会是什么样子。似乎有[不少](http://news.163.com/photoview/00AP0001/41812.html#p=9HVNL51P00AP0001)[新闻](http://news.qq.com/a/20140102/000493.htm)可以作为中国人喜欢贪小便宜的证据，类似于半价出租车这样的廉价方案，到底会引发什么样的占便宜风潮，那就更加不得而知。政府的监管将毫无疑问的执行精确打击。此外，对于高速公路动不动就变成停车场的国家来说，选用公共交通可能是普通消费者更喜欢的出行方案。
 
 
 
-目前Uber在中国还是疯狂的缺少车辆和司机，尽管他们已经将服务扩展到广州和深圳。和国内竞争对手比起来，他们推出Uber X的中国版，想要创造价格优势的难度是非常大的。例如在广州从市中心的体育中心到白云机场，[打车97元](https://link.zhihu.com/?target=http%3A//j.map.baidu.com/8KtRp)，[易道用车](https://link.zhihu.com/?target=http%3A//www.yongche.com/order/select_car.php)和[神州租车](https://link.zhihu.com/?target=http%3A//cd.zuche.com/yongche/selectModel.do)最低148元，[Uber Black](https://link.zhihu.com/?target=https%3A//www.uber.com/cities/guangzhou)为600元（如果也和上海一样下调30%后就是420元）。
+目前Uber在中国还是疯狂的缺少车辆和司机，尽管他们已经将服务扩展到广州和深圳。和国内竞争对手比起来，他们推出Uber X的中国版，想要创造价格优势的难度是非常大的。例如在广州从市中心的体育中心到白云机场，[打车97元](http://j.map.baidu.com/8KtRp)，[易道用车](http://www.yongche.com/order/select_car.php)和[神州租车](http://cd.zuche.com/yongche/selectModel.do)最低148元，[Uber Black](https://www.uber.com/cities/guangzhou)为600元（如果也和上海一样下调30%后就是420元）。
 
 
 
-Uber的创始人之前曾经透露过，希望将这项服务发展成一个[通用的人流和物流的运输服务](https://link.zhihu.com/?target=http%3A//techcrunch.cn/2013/07/24/uber-ceo-talks-crazy-regulation-and-doing-on-demand-service-for-everything/)。有了谷歌的资金注入，他们似乎离这个梦想更近。然而理想和现实的差距始终是存在的。[亚马逊的无人机网络同样怀有颠覆物流行业的野心](https://link.zhihu.com/?target=http%3A//techcrunch.cn/2013/12/15/amazon-swarm/)，我们不如看看哪一方能最先成功？
+Uber的创始人之前曾经透露过，希望将这项服务发展成一个[通用的人流和物流的运输服务](http://techcrunch.cn/2013/07/24/uber-ceo-talks-crazy-regulation-and-doing-on-demand-service-for-everything/)。有了谷歌的资金注入，他们似乎离这个梦想更近。然而理想和现实的差距始终是存在的。[亚马逊的无人机网络同样怀有颠覆物流行业的野心](http://techcrunch.cn/2013/12/15/amazon-swarm/)，我们不如看看哪一方能最先成功？
 
-*[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-01-11/half-price-cab-by-uber-x/)*
+*[动点科技](http://cn.technode.com/post/2014-01-11/half-price-cab-by-uber-x/)*

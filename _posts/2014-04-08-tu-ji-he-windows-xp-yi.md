@@ -171,4 +171,4 @@ Windows XP操作系统到今天就正式地停止技术支持了。但是随着�
 
 2014年4月6日，内蒙古赤峰一家修车店的四轮定位仪
 
-图集首发于[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-04-08/days-with-windows-xp/)。商业使用/转载请与原作者 @lishuhang 联系。
+图集首发于[动点科技](http://cn.technode.com/post/2014-04-08/days-with-windows-xp/)。商业使用/转载请与原作者 @lishuhang 联系。

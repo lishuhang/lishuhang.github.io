@@ -15,17 +15,17 @@ source: "https://zhuanlan.zhihu.com/p/19918934"
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/20.jpg)
 
-[The Most Powerful Colors in the World by COLOURlovers](https://link.zhihu.com/?target=http%3A//www.colourlovers.com/business/blog/2010/09/15/the-most-powerful-colors-in-the-world)
+[The Most Powerful Colors in the World by COLOURlovers](http://www.colourlovers.com/business/blog/2010/09/15/the-most-powerful-colors-in-the-world)
 
 红色代表热情和对生命本能的追求。像可口可乐这样的公司用红色是非常合适的。在IT领域，红色也活跃在佳能和YouTube这样的公司。使用红色还有一种原因就是喷涂简单，用早期的计算机绘图工具也能做出，因此历史较为悠久的品牌更可能在一开始使用红色，并沿用至今。在这方面，国外的沃达丰，CNET，Adobe和国内的新浪都是最佳范例。新浪大眼睛的第一版充满了九十年代万物复苏，显现出市场经济活力的风格，让你回忆起“太阳神”的电视广告。
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/21.jpg)
 
-[利方掀起新浪，全球最大华人网站横空出世](https://link.zhihu.com/?target=http%3A//www.sina.com.cn/corp/intr-intro.html)
+[利方掀起新浪，全球最大华人网站横空出世](http://www.sina.com.cn/corp/intr-intro.html)
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/22.jpg)
 
-[那年流行红与黑](https://link.zhihu.com/?target=http%3A//www.rologo.com/the-red-black-logos.html)
+[那年流行红与黑](http://www.rologo.com/the-red-black-logos.html)
 
 橙色非常容易给人一种阳光的印象，也就是我们常说的暖男。这也可以引申出一种值得信赖的感觉。土豆网的橙色和黑色配套，生造出属于年轻人的气息；当阿里巴巴选择橙色系的时候，则是和白色搭配以显出专业性。这一方面可能是马云的个人喜好，但另外一方面也是因为这是来源于金钱的金色，又不会特别锋芒毕露，同时包含了信托交易的稳重感。在国外，则有法国电信的Orange图标作为参照。
 
@@ -47,7 +47,7 @@ source: "https://zhuanlan.zhihu.com/p/19918934"
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/27.jpg)
 
-虽然在光谱当中离蓝色稍微偏了一点，但是扎克伯格更愿意把Facebook的这种颜色定义为蓝色。[《纽约客》杂志的解释很简单](https://link.zhihu.com/?target=https%3A//blog.bufferapp.com/the-science-of-colors-in-marketing-why-is-facebook-blue)——其实扎克伯格本人就是红绿色盲患者，所以大家也只好跟着他管这叫做“Facebook蓝”了。小扎说，“我能够辨认完整的蓝色。”借此他可以确认，在自己眼中网站的最终效果和在别人眼中的效果不会差太远。
+虽然在光谱当中离蓝色稍微偏了一点，但是扎克伯格更愿意把Facebook的这种颜色定义为蓝色。[《纽约客》杂志的解释很简单](https://blog.bufferapp.com/the-science-of-colors-in-marketing-why-is-facebook-blue)——其实扎克伯格本人就是红绿色盲患者，所以大家也只好跟着他管这叫做“Facebook蓝”了。小扎说，“我能够辨认完整的蓝色。”借此他可以确认，在自己眼中网站的最终效果和在别人眼中的效果不会差太远。
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/28.jpg)
 
@@ -83,10 +83,10 @@ source: "https://zhuanlan.zhihu.com/p/19918934"
 
 比较以上提到的科技公司图标，我们都会发现一种从繁复的元素堆叠，炫目的效果设计，变化到无比简单的回归过程。正所谓“大道至简”，使用越来越简单的图标，尽快地占据人们思维当中的本能位置，让信息过载的现代人能够看到这些简单图形就想起这家公司，这就是标识的意义所在。而颜色的作用，就是在图形都追求尽可能简约的时候，又可以保持企业标识的高度识别性。
 
-↓你可以根据下面的按钮猜出是哪些网站采用这样的风格吗？答案在 [The Button Test](https://link.zhihu.com/?target=https%3A//medium.com/%40hemeon/the-button-test-77eb4f9a439d)
+↓你可以根据下面的按钮猜出是哪些网站采用这样的风格吗？答案在 [The Button Test](https://medium.com/@hemeon/the-button-test-77eb4f9a439d)
 
 ![](/2014/12/21/shui-chi-cai-lian-dang-kong/36.jpg)
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20141221/002989.htm)
+[腾讯科技](http://tech.qq.com/a/20141221/002989.htm)
 
-题图：[Why Facebook Is Blue: The Science of Colors in Marketing](https://link.zhihu.com/?target=https%3A//blog.bufferapp.com/the-science-of-colors-in-marketing-why-is-facebook-blue)
+题图：[Why Facebook Is Blue: The Science of Colors in Marketing](https://blog.bufferapp.com/the-science-of-colors-in-marketing-why-is-facebook-blue)

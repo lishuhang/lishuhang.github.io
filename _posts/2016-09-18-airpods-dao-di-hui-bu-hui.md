@@ -13,7 +13,7 @@ source: "https://zhuanlan.zhihu.com/p/22488651"
 >
 > 但是店员告诉我们，现在新品就只有 iPhone7 和 7 Plus 提供试用，**AirPods 大概 11 月中旬会到达苹果店，但因为实在太小了，所以到时候不会提供试戴体验。“即使是我们拿着让你看也不可以。”**的确，这么小还没有线的耳机，没办法预防被听众突然抢走的意外。
 
-完整原文请看：[http://cn.technode.com/post/2016-09-18/will-airpods-slide/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-09-18/will-airpods-slide/)
+完整原文请看：[http://cn.technode.com/post/2016-09-18/will-airpods-slide/](http://cn.technode.com/post/2016-09-18/will-airpods-slide/)
 
 
 

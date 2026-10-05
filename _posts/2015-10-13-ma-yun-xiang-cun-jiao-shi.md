@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20258760"
 ---
 
-9 月 16 日，马云在北京师范大学宣布以他的名字命名的“乡村教师计划”和“乡村教师奖”的启动。会上，教师代表和学生代表提出了 5 个问题，马云分别对这 5 个问题作了解答。当时的语音记录分 5 篇发布给大家（[第一篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-18/mayun-rural-teacher-speech-1/) 、 [第二篇](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-09-25/mayun-rural-teacher-speech-2/)），每一篇对应一个提问以及马云的回答。这是第三篇。
+9 月 16 日，马云在北京师范大学宣布以他的名字命名的“乡村教师计划”和“乡村教师奖”的启动。会上，教师代表和学生代表提出了 5 个问题，马云分别对这 5 个问题作了解答。当时的语音记录分 5 篇发布给大家（[第一篇](http://cn.technode.com/post/2015-09-18/mayun-rural-teacher-speech-1/) 、 [第二篇](http://cn.technode.com/post/2015-09-25/mayun-rural-teacher-speech-2/)），每一篇对应一个提问以及马云的回答。这是第三篇。
 
 **问题三**
 
@@ -33,6 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/20258760"
 
 “所以我讲，慈善在于给予，公益在于参与。有的时候哪怕给乡村教师鼓一声掌，网上传一篇乡村教师的微博，这都是巨大的福报。所以我希望社会参与到这上去，我们会一步步的推进。如果有新的计划，我们一定会公布给大家。”
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-10-09/mayun-rural-teacher-speech-3/)
+[动点科技](http://cn.technode.com/post/2015-10-09/mayun-rural-teacher-speech-3/)
 
 ![](/2015/10/13/ma-yun-xiang-cun-jiao-shi/01.jpg)

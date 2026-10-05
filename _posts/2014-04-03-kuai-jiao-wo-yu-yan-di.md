@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19718901"
 ---
 
-2013年4月25日：[Windows 8.1 的“开始”应该怎么改](https://link.zhihu.com/?target=http%3A//www.geekpark.net/read/view/177714)
+2013年4月25日：[Windows 8.1 的“开始”应该怎么改](http://www.geekpark.net/read/view/177714)
 
 > 方案：借用 Windows Phone 8 的界面改造新版”开始菜单”
 >
@@ -21,6 +21,6 @@ source: "https://zhuanlan.zhihu.com/p/19718901"
 
 ![](/2014/04/03/kuai-jiao-wo-yu-yan-di/01.jpg)
 
-2014年4月3日：[微软Build 2014首日发布会 开始菜单回归](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/279721.htm)
+2014年4月3日：[微软Build 2014首日发布会 开始菜单回归](http://www.cnbeta.com/articles/279721.htm)
 
 快叫我预言帝 哼哼哈兮……=w=

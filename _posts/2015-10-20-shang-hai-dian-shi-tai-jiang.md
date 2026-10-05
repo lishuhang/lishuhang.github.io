@@ -15,7 +15,7 @@ Ucloud目前已得知此事，正联系有关方面希望澄清和消除影响�
 
 节目视频：
 
-[![](/2015/10/20/shang-hai-dian-shi-tai-jiang/01.jpg)网易邮箱被曝过亿数据泄露  绑定支付宝等或不安全 新闻夜线 151019—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XMTM2NDEwMTg0NA==.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTM2NDEwMTg0NA%3D%3D.html)
+[![](/2015/10/20/shang-hai-dian-shi-tai-jiang/01.jpg)网易邮箱被曝过亿数据泄露  绑定支付宝等或不安全 新闻夜线 151019—在线播放—优酷网，视频高清在线观看http://v.youku.com/v_show/id_XMTM2NDEwMTg0NA==.html](http://v.youku.com/v_show/id_XMTM2NDEwMTg0NA==.html)
 
 更新：目前为止，我们认为已经找到了STV会用到UCloud字样组合的原因，这还是UCloud自己发的一篇公关稿……
 
@@ -23,8 +23,8 @@ Ucloud目前已得知此事，正联系有关方面希望澄清和消除影响�
 
 作为编辑我表示还没见过比这更惨的企业PR活动。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/440225.htm)
+[cnBeta](http://www.cnbeta.com/articles/440225.htm)
 
-更新： [STV《新闻夜线》就弄混乌云和Ucloud一事致歉](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/440393.htm)
+更新： [STV《新闻夜线》就弄混乌云和Ucloud一事致歉](http://www.cnbeta.com/articles/440393.htm)
 
 ![](/2015/10/20/shang-hai-dian-shi-tai-jiang/03.jpg)

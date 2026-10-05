@@ -29,6 +29,6 @@ source: "https://zhuanlan.zhihu.com/p/19684509"
 
 未来微软值得在移动浏览器领域发力吗？它做出的一系列独立的原生应用已经给出了答案。移动浏览器在移动操作系统上的位置已经大大的被削弱了，因为人们使用移动设备时，更多打开的是各个服务自有的客户端。在PC上，几乎任何操作都要打开浏览器完成的现象，已经一去不复返了。
 
-*[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20140221/005181.htm)*
+*[腾讯科技](http://tech.qq.com/a/20140221/005181.htm)*
 
-题图：[Market share for mobile, browsers, operating systems and search engines](https://link.zhihu.com/?target=http%3A//www.netmarketshare.com/)
+题图：[Market share for mobile, browsers, operating systems and search engines](http://www.netmarketshare.com/)

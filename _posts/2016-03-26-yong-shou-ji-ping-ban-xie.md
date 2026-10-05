@@ -127,7 +127,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 
 
-另外让我印象深刻的，是不久前vaio一款非常逆天的Win10平板Canvas Z，高配售价2万多，手写精度直逼Wacom，其实就是一个针对漫画画师的移动工作站。[CNET一位美工测试了该设备](https://link.zhihu.com/?target=http%3A//www.cnet.com/products/vaio-z-canvas/)——需要指出的是她平时的主力计算环境是Mac Pro。即使是操作系统上不习惯，她也承认这款电脑可以让她**在下班途中就完成对一小段动画的渲染**。这充分说明了，只要应用跟得上，操作系统不是不可逾越的天堑。
+另外让我印象深刻的，是不久前vaio一款非常逆天的Win10平板Canvas Z，高配售价2万多，手写精度直逼Wacom，其实就是一个针对漫画画师的移动工作站。[CNET一位美工测试了该设备](http://www.cnet.com/products/vaio-z-canvas/)——需要指出的是她平时的主力计算环境是Mac Pro。即使是操作系统上不习惯，她也承认这款电脑可以让她**在下班途中就完成对一小段动画的渲染**。这充分说明了，只要应用跟得上，操作系统不是不可逾越的天堑。
 
 ![](/2016/03/26/yong-shou-ji-ping-ban-xie/05.jpg)
 
@@ -175,7 +175,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 
 **——在你的工作被机器替代之前。**
 
-[网易](https://link.zhihu.com/?target=http%3A//tech.163.com/16/0326/10/BJ2VS77I000915BF.html)
+[网易](http://tech.163.com/16/0326/10/BJ2VS77I000915BF.html)
 
 题图／微软
 

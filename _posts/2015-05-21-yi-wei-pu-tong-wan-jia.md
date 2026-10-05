@@ -61,4 +61,4 @@ XBOX 360也有2K15，然而和One上的完全不同，只是2K13加了最新名�
 
 总体来说，One平台的2K15在画面和操作上都是加分项，而主要减分项是本地化和游戏之外的体验（比如注册）。仅仅凭它一款，目前还不至于让我专门去买一台One回家。
 
-[cnBeta](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/395641%3Fforce%3D1)
+[cnBeta](http://www.cnbeta.com/articles/395641?force=1)

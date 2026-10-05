@@ -43,6 +43,6 @@ source: "https://zhuanlan.zhihu.com/p/20335917"
 
 我比较初步的看法是，阿里对于消费者的吸引力和对于商家的控制力并没有减弱。阿里平台依然是最具有竞争力的，就算是阿里叫他们2选1或者n选一的话，他们也没有其他的选择，说的夸张点，根本不会想到其他选择。
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-11-16/pid_8496130.htm)（独家供稿请勿转载）
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2015-11-16/pid_8496130.htm)（独家供稿请勿转载）
 
 ![](/2015/11/16/a-li-dui-shuang-11-de/01.jpg)

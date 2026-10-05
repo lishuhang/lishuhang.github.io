@@ -43,4 +43,4 @@ source: "https://zhuanlan.zhihu.com/p/19985406"
 
 因此，让“足记”不至于“昙花一现”的唯一办法，就是尽量不依赖“大片模式”这个功能，在吸引来的新用户中挖掘喜欢其原有功能（电影取景地）的用户加以培养，并有意识地开发新的“爆款”类功能点。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20150325/024419.htm)
+[腾讯科技](http://tech.qq.com/a/20150325/024419.htm)

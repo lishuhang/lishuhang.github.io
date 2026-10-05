@@ -65,6 +65,6 @@ source: "https://zhuanlan.zhihu.com/p/19771547"
 >
 > 2014.6.6
 
-如果你也想提供你的意见，可以发邮件给 consultation-hktv@ofca.gov.hk 。详细情况可以看[这个页面的说明。](https://link.zhihu.com/?target=http%3A//coms-auth.hk/sc/media_focus/press_releases/index_id_718.html)
+如果你也想提供你的意见，可以发邮件给 consultation-hktv@ofca.gov.hk 。详细情况可以看[这个页面的说明。](http://coms-auth.hk/sc/media_focus/press_releases/index_id_718.html)
 
-[百度百家](https://link.zhihu.com/?target=http%3A//lishuhang.baijia.baidu.com/article/18104)
+[百度百家](http://lishuhang.baijia.baidu.com/article/18104)

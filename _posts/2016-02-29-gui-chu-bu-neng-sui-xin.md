@@ -43,8 +43,8 @@ source: "https://zhuanlan.zhihu.com/p/20605208"
 
 最后，即使当年面对诉讼风险，《馒头血案》的作者胡戈现在依然活得好好的；在道歉并删除原作后，“女孩为何穿短裙”目前也暂时安好。我由衷的希望，在该补偿的得到补偿，该惩罚的得到教训之后，一切风波都能够到此为止。
 
-[新浪专栏（独家）](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2016-02-29/pid_8503618.htm)
+[新浪专栏（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-02-29/pid_8503618.htm)
 
-题图：[小米商店](https://link.zhihu.com/?target=http%3A//item.mi.com/1152500013.html)
+题图：[小米商店](http://item.mi.com/1152500013.html)
 
 ![](/2016/02/29/gui-chu-bu-neng-sui-xin/01.jpg)

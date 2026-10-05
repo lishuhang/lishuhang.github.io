@@ -47,7 +47,7 @@ Twitter 是新浪微博在大洋彼岸的老师。微博与 Twitter 在很多属
 
 回想Twitter和微博的历史不难发现，它们试图满足人们的自由表达欲望，让每个人都有机会被其他人倾听。这一初衷让它们成为互联网彻底平民化之前最后一丝“回光返照”。当所有尚有原创能力的作者被挖掘完毕后，Twitter和微博就都变成了少数人的传声筒，让大多数人坐回听众席。这时候，不论它们是否被收购或者财报好坏，它们都已经“死了”。
 
-[“媒记”（微信公众号：xdnmtzj）](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3MTY0ODAxNw%3D%3D%26mid%3D2652983682%26idx%3D1%26sn%3D880a8df6d29ff402503303d5bf1d4b71)
+[“媒记”（微信公众号：xdnmtzj）](http://mp.weixin.qq.com/s?__biz=MzA3MTY0ODAxNw==&mid=2652983682&idx=1&sn=880a8df6d29ff402503303d5bf1d4b71)
 
 
 

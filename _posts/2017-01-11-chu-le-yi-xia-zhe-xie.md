@@ -7,7 +7,7 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/24837164"
 ---
 
-国家工商行政管理总局发布《[网络购买商品七日无理由退货暂行办法](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/2017-01-11/doc-ifxzkfuk3741433.shtml)》，自 2017 年 3 月 15 日起施行。个人解读如下：
+国家工商行政管理总局发布《[网络购买商品七日无理由退货暂行办法](http://tech.sina.com.cn/2017-01-11/doc-ifxzkfuk3741433.shtml)》，自 2017 年 3 月 15 日起施行。个人解读如下：
 
 1. 你不能看过报纸杂志，或者下载游戏以后马上退货；其余还有例如在 Apple Store 按照定制配置或者刻字的机器都不能退货。
 
@@ -19,4 +19,4 @@ source: "https://zhuanlan.zhihu.com/p/24837164"
 
 5. 如果不能征得消费者同意，平台不能强迫消费者为退货运费买单。但消费者自己购买退货运费险或者卖家条款免责，而买家同意条款而购买，都属于“与消费者约定”。
 
-全文：[http://cn.technode.com/post/2017-01-11/online-shopping-refund-rules/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2017-01-11/online-shopping-refund-rules/)
+全文：[http://cn.technode.com/post/2017-01-11/online-shopping-refund-rules/](http://cn.technode.com/post/2017-01-11/online-shopping-refund-rules/)

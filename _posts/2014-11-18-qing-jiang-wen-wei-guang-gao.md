@@ -35,4 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/19895941"
 
 你可以说苹果的一切本地化努力都是商业利益驱动，但单纯因为商业需要，对中国市场做出的快速反应和充分放权，还是能给人留下深刻的印象。
 
-[腾讯科技](https://link.zhihu.com/?target=http%3A//tech.qq.com/a/20141118/007816.htm)
+[腾讯科技](http://tech.qq.com/a/20141118/007816.htm)

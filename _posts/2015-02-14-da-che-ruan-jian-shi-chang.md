@@ -27,4 +27,4 @@ source: "https://zhuanlan.zhihu.com/p/19957109"
 
 问题在于，中国并不只有北上广深这几个大城市而已。在北京，已经有好多特斯拉作为专车上路；但在更远的地方，他们唯一有可能用“互联网思维”优化出行的办法只有使用出租车调度软件。在专车的触角还没来得及碰触的小地方，当地居民的打车美梦似乎也提前结束了。损害，也许只是会在我们看不到或者注意不到的地方发生。
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2015-02-14/pid_8472001.htm)
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/i/2015-02-14/pid_8472001.htm)

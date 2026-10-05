@@ -31,7 +31,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 灾难来临，大多数人都不会有什么心理准备，也只可能把它当做一个或惊险或有趣的自拍素材，很多人拿着手机拍就是为了接下来能够传到朋友圈里。他们始终不会感觉到自己是这起悲剧的主角。相比起来，更重要的没准是手机本身。
 
-2015 年 6 月 29 日-7 月 13 日，[摩托罗拉委托 KRC Research 进行了一次在线调查](https://link.zhihu.com/?target=http%3A//motorola-blog.blogspot.hk/2015/07/2015-motorola-global-smartphone.html) ，针对印度、中国、西班牙、美国、巴西、英国、墨西哥七国民众调查智能手机使用习惯，结果显示， **如果家中起火，人们首先抢救出来的物品其中一件就会是手机。这一比例全球为 54%，中国更高达 65%，仅次于印度的 68%。![](/2015/08/14/zai-ni-mian-dui-zai-nan/02.jpg)**
+2015 年 6 月 29 日-7 月 13 日，[摩托罗拉委托 KRC Research 进行了一次在线调查](http://motorola-blog.blogspot.hk/2015/07/2015-motorola-global-smartphone.html) ，针对印度、中国、西班牙、美国、巴西、英国、墨西哥七国民众调查智能手机使用习惯，结果显示， **如果家中起火，人们首先抢救出来的物品其中一件就会是手机。这一比例全球为 54%，中国更高达 65%，仅次于印度的 68%。![](/2015/08/14/zai-ni-mian-dui-zai-nan/02.jpg)**
 
 *来源：摩托罗拉官方博客*
 
@@ -63,7 +63,7 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 ![](/2015/08/14/zai-ni-mian-dui-zai-nan/05.jpg)
 
-文字来源： [网易新闻](https://link.zhihu.com/?target=http%3A//news.163.com/photoview/00AP0001/96051.html%23)
+文字来源： [网易新闻](http://news.163.com/photoview/00AP0001/96051.html#)
 
 长久下来，我们只看到了应对灾难的皮毛，我们并不擅长于应对灾难，我们会很容易忘记灾难，而且我们还很擅长点蜡烛，把灾难异化为一场全民狂欢。中华民族似乎非常缺乏应急性，但这恰好说明我们生活在和平的环境当中，真的已经是太长时间了。 **与其说我们是一个爱好和平的民族，还不如说我们是一个已经习惯了和平的民族。**
 
@@ -73,8 +73,8 @@ source: "https://zhuanlan.zhihu.com/p/20162051"
 
 我明白这些要求比点蜡烛拍手要严格得多，不过，这也许是我们唯一能告慰死难者灵魂的办法。
 
-题图/新京报 via [新浪图片](https://link.zhihu.com/?target=http%3A//slide.news.sina.com.cn/c/slide_1_70237_87609.html%23p%3D1)
+题图/新京报 via [新浪图片](http://slide.news.sina.com.cn/c/slide_1_70237_87609.html#p=1)
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-08-14/when-disaster-arrives/)
+[动点科技](http://cn.technode.com/post/2015-08-14/when-disaster-arrives/)
 
 ![](/2015/08/14/zai-ni-mian-dui-zai-nan/06.jpg)

@@ -61,4 +61,4 @@ source: "https://zhuanlan.zhihu.com/p/19724438"
 
 也许在目前的中国，我们只能用这种方式来判断人们使用的到底是不是正版Windows了。
 
-[财经网](https://link.zhihu.com/?target=http%3A//column.caijing.com.cn/2014-04-10/114087118.html)
+[财经网](http://column.caijing.com.cn/2014-04-10/114087118.html)

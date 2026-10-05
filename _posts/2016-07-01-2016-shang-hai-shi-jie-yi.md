@@ -154,7 +154,7 @@ N3场馆的“创新城市”部分有GSMA本身和很多不同的公司来做�
 
 ![](https://pic4.zhimg.com/80/197b10da1c6d66e6ceec76075eeb9fc2_hd.jpg)
 
-最佳手机／平板的获奖者是三星Galaxy S7 Edge，而最佳经济型智能手机奖由红米Note 3摘得。我觉得说一下它们分别打败了哪些机型才是有意义的：Galaxy S7 Edge击败了同时入围的iPad Pro (9.7寸)，HTC 10，华为P9，LG G5，[Surface](https://link.zhihu.com/?target=http%3A//clkde.tradedoubler.com/click%3Fp%3D235167%26a%3D2355305%26g%3D21862034) Pro 4，小米5；红米Note 3击败了同时入围的华硕 ZenFone Go，华为荣耀5X，魅族m3和魅蓝Metal，还有锤子家的坚果。
+最佳手机／平板的获奖者是三星Galaxy S7 Edge，而最佳经济型智能手机奖由红米Note 3摘得。我觉得说一下它们分别打败了哪些机型才是有意义的：Galaxy S7 Edge击败了同时入围的iPad Pro (9.7寸)，HTC 10，华为P9，LG G5，[Surface](http://clkde.tradedoubler.com/click?p=235167&a=2355305&g=21862034) Pro 4，小米5；红米Note 3击败了同时入围的华硕 ZenFone Go，华为荣耀5X，魅族m3和魅蓝Metal，还有锤子家的坚果。
 
 ![](https://pic1.zhimg.com/80/3fae3654645d35f4f593eac03408c3ac_hd.jpg)
 

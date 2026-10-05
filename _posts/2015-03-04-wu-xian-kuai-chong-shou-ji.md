@@ -21,4 +21,4 @@ source: "https://zhuanlan.zhihu.com/p/19967228"
 
 ……这简直是难以想象的美好未来。
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2015-03-04/zaobao0304/)
+[动点科技](http://cn.technode.com/post/2015-03-04/zaobao0304/)

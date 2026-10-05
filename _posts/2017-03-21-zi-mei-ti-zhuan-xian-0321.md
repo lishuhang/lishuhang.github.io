@@ -25,7 +25,7 @@ Uber 总裁 Jeff Jones 上周日突然离职，并对 Uber 的领导能力表达
 
 
 
-[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9236292.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9236292.shtml)
+[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9236292.shtml](http://tech.sina.com.cn/i/2017-03-21/doc-ifycnpiu9236292.shtml)
 
 
 
@@ -41,7 +41,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://tech.sina.com.cn/zl/post/detail/i/2017-03-21/pid_8510186.htm](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/i/2017-03-21/pid_8510186.htm)
+[http://tech.sina.com.cn/zl/post/detail/i/2017-03-21/pid_8510186.htm](http://tech.sina.com.cn/zl/post/detail/i/2017-03-21/pid_8510186.htm)
 
 
 
@@ -61,7 +61,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnikk1336770.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/i/2017-03-21/doc-ifycnikk1336770.shtml)
+[http://tech.sina.com.cn/i/2017-03-21/doc-ifycnikk1336770.shtml](http://tech.sina.com.cn/i/2017-03-21/doc-ifycnikk1336770.shtml)
 
 
 
@@ -77,7 +77,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://www.cnbeta.com/articles/tech/594617](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/tech/594617)
+[http://www.cnbeta.com/articles/tech/594617](http://www.cnbeta.com/articles/tech/594617)
 
 
 
@@ -93,7 +93,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://www.cnbeta.com/articles/tech/594607](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/tech/594607)
+[http://www.cnbeta.com/articles/tech/594607](http://www.cnbeta.com/articles/tech/594607)
 
 
 
@@ -113,7 +113,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://www.cnbeta.com/articles/tech/594653](https://link.zhihu.com/?target=http%3A//www.cnbeta.com/articles/tech/594653)
+[http://www.cnbeta.com/articles/tech/594653](http://www.cnbeta.com/articles/tech/594653)
 
 
 
@@ -125,7 +125,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://tech.sina.com.cn/n/k/2017-03-21/doc-ifycnpiu9235029.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/n/k/2017-03-21/doc-ifycnpiu9235029.shtml)
+[http://tech.sina.com.cn/n/k/2017-03-21/doc-ifycnpiu9235029.shtml](http://tech.sina.com.cn/n/k/2017-03-21/doc-ifycnpiu9235029.shtml)
 
 
 
@@ -141,7 +141,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://tech.sina.com.cn/d/s/2017-03-21/doc-ifycnpiu9234512.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/d/s/2017-03-21/doc-ifycnpiu9234512.shtml)
+[http://tech.sina.com.cn/d/s/2017-03-21/doc-ifycnpiu9234512.shtml](http://tech.sina.com.cn/d/s/2017-03-21/doc-ifycnpiu9234512.shtml)
 
 
 
@@ -153,7 +153,7 @@ papi酱遇到到现在的困境，一方面是因为自身变现难，而另一�
 
 
 
-[http://tech.sina.com.cn/it/2017-03-21/doc-ifycnpiu9238913.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/it/2017-03-21/doc-ifycnpiu9238913.shtml)
+[http://tech.sina.com.cn/it/2017-03-21/doc-ifycnpiu9238913.shtml](http://tech.sina.com.cn/it/2017-03-21/doc-ifycnpiu9238913.shtml)
 
 
 
@@ -173,4 +173,4 @@ The Verge：如今的人工智能以机器学习技术为基础，导致人类�
 
 
 
-[http://tech.sina.com.cn/d/i/2017-03-21/doc-ifycnpit2461580.shtml](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/d/i/2017-03-21/doc-ifycnpit2461580.shtml)
+[http://tech.sina.com.cn/d/i/2017-03-21/doc-ifycnpit2461580.shtml](http://tech.sina.com.cn/d/i/2017-03-21/doc-ifycnpit2461580.shtml)

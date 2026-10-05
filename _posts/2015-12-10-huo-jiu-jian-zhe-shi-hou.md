@@ -29,6 +29,6 @@ source: "https://zhuanlan.zhihu.com/p/20406153"
 
 可能电视厂商下一步要思考的是，万一广电以后真的管到了本来应该归工信部管的地盘后怎么办；不过现在距离那时候还早着呢。
 
-[新浪科技](https://link.zhihu.com/?target=http%3A//tech.sina.com.cn/zl/post/detail/it/2015-12-10/pid_8498154.htm)（独家）
+[新浪科技](http://tech.sina.com.cn/zl/post/detail/it/2015-12-10/pid_8498154.htm)（独家）
 
 ![](/2015/12/10/huo-jiu-jian-zhe-shi-hou/01.jpg)

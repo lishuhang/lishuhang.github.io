@@ -12,7 +12,7 @@ source: "https://zhuanlan.zhihu.com/p/22970536"
 >
 > 高德指出，当用户在手机上使用百度搜索“高德”时，百度会用搜索词推荐提示用户点击“高徳地图“和“高得地图”，一旦误点了推荐的山寨词条，百度会向用户推荐“高德地图-intel 定制版”，这是一个在大多数机器无法运行的版本。
 
-原文：[http://cn.technode.com/post/2016-10-15/amap-vs-baidu-map/](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2016-10-15/amap-vs-baidu-map/)
+原文：[http://cn.technode.com/post/2016-10-15/amap-vs-baidu-map/](http://cn.technode.com/post/2016-10-15/amap-vs-baidu-map/)
 
 
 

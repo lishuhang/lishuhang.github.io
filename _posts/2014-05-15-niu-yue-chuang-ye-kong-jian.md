@@ -53,4 +53,4 @@ Jason说，他非常期待和中国同类社区的合作，也希望能找个机
 
 挥别
 
-[动点科技](https://link.zhihu.com/?target=http%3A//cn.technode.com/post/2014-05-14/alleynyc/)
+[动点科技](http://cn.technode.com/post/2014-05-14/alleynyc/)
