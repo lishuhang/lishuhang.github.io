@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "_女性劳动更容易被 AI 替代？才不是！"
+title: "女性劳动更容易被 AI 替代？才不是！"
 date: 2019-07-24
 categories: 文章
 tags: [科技]
-image: /2019/07/24/_-nv-xing-lao-dong-geng/01.jpg
+image: /2019/07/24/nv-xing-lao-dong-geng/01.jpg
 ---
 
 本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
 
 全文约 3300 字
 
-![](/2019/07/24/_-nv-xing-lao-dong-geng/01.jpg)
+![](/2019/07/24/nv-xing-lao-dong-geng/01.jpg)
 
 书航 7 月 24 日发于北京
 
@@ -119,10 +119,10 @@ FT 的文章同样建议企业和社会推出举措，鼓励女孩学习 STEM �
 
 [2] http://www.ftchinese.com/story/001083609?full=y
 
-![](/2019/07/24/_-nv-xing-lao-dong-geng/02.png)
+![](/2019/07/24/nv-xing-lao-dong-geng/02.jpg)
 
 寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
-![](/2019/07/24/_-nv-xing-lao-dong-geng/03.png)
+![](/2019/07/24/nv-xing-lao-dong-geng/03.png)
 
 本文经「原本」原创认证，作者lishuhang，点击“阅读原文”或访问yuanben.io查询【5PCKZUV6】获取授权
