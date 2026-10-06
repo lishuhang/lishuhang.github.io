@@ -8,6 +8,7 @@ image: /2019/09/30/lao-gan-ma-shi-zhen-de/01.png
 ---
 
 ![](/2019/09/30/lao-gan-ma-shi-zhen-de/01.png)
+文 / 书航 2019.9.30
 
 书航 9 月 30 日发于北京
 

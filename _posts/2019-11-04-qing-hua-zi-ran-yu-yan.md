@@ -8,6 +8,7 @@ image: /2019/11/04/qing-hua-zi-ran-yu-yan/01.png
 ---
 
 ![](/2019/11/04/qing-hua-zi-ran-yu-yan/01.png)
+文 / 书航 2019.11.4
 
 书航 11 月 4 日发于北京
 

@@ -8,6 +8,7 @@ image: /2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg
 ---
 
 ![](/2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg)
+文 / 书航 2019.9.19
 
 书航 9 月 19 日发于北京
 

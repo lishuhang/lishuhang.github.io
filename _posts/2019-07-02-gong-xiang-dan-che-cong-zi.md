@@ -10,6 +10,7 @@ image: /2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
 全文约 2100 字
 
 ![](/2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg)
+文 / 书航 2019.7.2
 
 书航 7 月 2 日发于北京
 
@@ -96,3 +97,4 @@ image: /2019/07/02/gong-xiang-dan-che-cong-zi/01.jpg
 [6] https://mp.weixin.qq.com/s/ORQC560ZLX59cMMXSAdklw
 
 ![](/2019/07/02/gong-xiang-dan-che-cong-zi/03.png)
+

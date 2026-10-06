@@ -10,6 +10,7 @@ image: /2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 全文约 2600 字
 
 ![](/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg)
+文 / 书航 2019.6.25
 
 书航 6 月 25 日发于北京
 
@@ -116,3 +117,4 @@ image: /2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 [5] https://techcrunch.com/2019/05/17/credder-offers-rotten-tomatoes-style-ratings-for-the-news/
 
 ![](/2019/06/25/zhai-chu-bai-jia-hao-bai/09.png)
+

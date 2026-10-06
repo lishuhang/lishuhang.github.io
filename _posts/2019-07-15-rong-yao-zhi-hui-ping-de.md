@@ -10,6 +10,7 @@ image: /2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 全文约 3800 字
 
 ![](/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg)
+文 / 书航 2019.7.15
 
 书航 7 月 15 日发于北京
 

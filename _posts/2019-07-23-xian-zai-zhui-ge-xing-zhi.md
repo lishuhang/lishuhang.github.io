@@ -10,6 +10,7 @@ image: /2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
 全文约 4500 字
 
 ![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg)
+文 / 书航 2019.7.23
 
 书航 7 月 23 日发于北京
 

@@ -8,6 +8,7 @@ image: /2019/09/18/uber-ban-jia-chu-zu-che/01.jpg
 ---
 
 ![](/2019/09/18/uber-ban-jia-chu-zu-che/01.jpg)
+文 / 书航 2019.9.18
 
 本文于 2014 年 1 月 11 日首发于动点科技
 

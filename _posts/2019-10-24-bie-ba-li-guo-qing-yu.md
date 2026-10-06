@@ -12,3 +12,5 @@ image: /2019/10/24/bie-ba-li-guo-qing-yu/01.jpg
 请点击【阅读原文】查看详情
 
 ![配图2](/2019/10/24/bie-ba-li-guo-qing-yu/02.jpg)
+文 / 书航 2019.10.24
+

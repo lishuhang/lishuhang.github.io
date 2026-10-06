@@ -126,5 +126,6 @@ image: /2019/08/01/sou-bu-chu-pu-tian-xi/01.png
 [1] https://finance.sina.com.cn/roll/2019-07-24/doc-ihytcitm4348896.shtml
 
 ![](/2019/08/01/sou-bu-chu-pu-tian-xi/02.png)
+文 / 书航 2019.8.1
 
 ![](/2019/08/01/sou-bu-chu-pu-tian-xi/03.png)

@@ -10,6 +10,7 @@ image: /2019/06/21/shei-de-qian-men-shei-de/01.jpg
 全文约 4200 字
 
 ![](/2019/06/21/shei-de-qian-men-shei-de/01.jpg)
+文 / 书航 2019.6.21
 
 书航 6 月 21 日发于北京
 
@@ -156,3 +157,4 @@ image: /2019/06/21/shei-de-qian-men-shei-de/01.jpg
 [8] https://www.nytimes.com/2019/03/03/technology/amazon-new-york-politics-jobs.html
 
 ![](/2019/06/21/shei-de-qian-men-shei-de/07.png)
+

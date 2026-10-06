@@ -8,6 +8,7 @@ image: /2019/12/05/ji-bai-yi-liang-ji-de/01.png
 ---
 
 ![](/2019/12/05/ji-bai-yi-liang-ji-de/01.png)
+文 / 书航 2019.12.5
 
 书航 12 月 5 日发于杭州
 
@@ -174,3 +175,4 @@ http://www.caixin.com/2019-08-12/101450033.html
 ![](/2019/12/05/ji-bai-yi-liang-ji-de/06.png)
 
 👇真实的记者和公关界人士一般会做些什么？点击阅读原文
+

@@ -8,6 +8,7 @@ image: /2019/08/12/ofo-xiao-huang-che-fu-wo/01.jpg
 ---
 
 ![](/2019/08/12/ofo-xiao-huang-che-fu-wo/01.jpg)
+文 / 书航 2019.8.12
 
 书航 8 月 12 日发于北京
 

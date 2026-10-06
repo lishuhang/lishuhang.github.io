@@ -10,6 +10,7 @@ image: /2019/07/03/hei-luo-bin-ni-you-shen/01.jpg
 全文约 2800 字
 
 ![](/2019/07/03/hei-luo-bin-ni-you-shen/01.jpg)
+文 / 书航 2019.7.3
 
 书航 7 月 3 日发于北京
 
@@ -144,3 +145,4 @@ S1 上甚至有人把这类内容总结成了一个句式，十分百搭：
 [10] https://www.cnbeta.com/articles/soft/862207
 
 ![](/2019/07/03/hei-luo-bin-ni-you-shen/10.png)
+

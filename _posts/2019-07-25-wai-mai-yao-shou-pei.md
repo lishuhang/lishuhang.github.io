@@ -10,6 +10,7 @@ image: /2019/07/25/wai-mai-yao-shou-pei/01.jpg
 全文约 2200 字
 
 ![](/2019/07/25/wai-mai-yao-shou-pei/01.jpg)
+文 / 书航 2019.7.25
 
 书航 7 月 25 日发于北京
 

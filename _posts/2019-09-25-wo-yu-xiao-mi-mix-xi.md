@@ -8,6 +8,7 @@ image: /2019/09/25/wo-yu-xiao-mi-mix-xi/01.png
 ---
 
 ![](/2019/09/25/wo-yu-xiao-mi-mix-xi/01.png)
+文 / 书航 2019.9.25
 
 书航 9 月 25 日发于北京
 

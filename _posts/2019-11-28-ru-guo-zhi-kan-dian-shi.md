@@ -8,6 +8,7 @@ image: /2019/11/28/ru-guo-zhi-kan-dian-shi/01.png
 ---
 
 ![](/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png)
+文 / 书航 2019.11.28
 
 书航 11 月 28 日发于北京
 
@@ -162,3 +163,4 @@ https://www.zhihu.com/question/332553130/answer/733407517
 ![](/2019/11/28/ru-guo-zhi-kan-dian-shi/15.png)
 
 👇航通社正在参加钛媒体 2019 年度十大作者投票，点击阅读原文为我助力！🌹
+

@@ -8,6 +8,7 @@ image: /2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
 ---
 
 ![](/2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif)
+文 / 书航 2019.11.19
 
 这是一份给航通社读者的专属福利，在北京的小伙伴快来申请吧！
 
@@ -48,3 +49,4 @@ image: /2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
 ![](/2019/11/19/ben-zhou-mo-zhe-ge-jie/03.png)
 
 👇点击阅读原文查看活动日程（但记得回来这里按小程序码注册）。
+

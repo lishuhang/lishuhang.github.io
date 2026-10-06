@@ -10,6 +10,7 @@ image: /2019/07/01/bei-da-lian-huo-fu-du/01.jpg
 全文约 3000 字
 
 ![](/2019/07/01/bei-da-lian-huo-fu-du/01.jpg)
+文 / 书航 2019.7.1
 
 书航 7 月 1 日发于北京
 
@@ -96,3 +97,4 @@ image: /2019/07/01/bei-da-lian-huo-fu-du/01.jpg
 [2] https://mp.weixin.qq.com/s/JQEBG3AIDjB3xeg_3JZ8EA
 
 ![](/2019/07/01/bei-da-lian-huo-fu-du/02.png)
+

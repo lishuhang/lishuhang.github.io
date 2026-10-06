@@ -8,6 +8,7 @@ image: /2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 ---
 
 ![](/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png)
+文 / 书航 2019.11.27
 
 书航 11 月 26 日发于北京
 
@@ -74,3 +75,4 @@ image: /2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 ![](/2019/11/27/zhe-ge-app-neng-jiu-ming/07.png)
 
 👇点击阅读原文下载红十字会急救 App。
+

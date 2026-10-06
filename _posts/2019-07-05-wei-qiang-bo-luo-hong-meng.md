@@ -10,6 +10,7 @@ image: /2019/07/05/wei-qiang-bo-luo-hong-meng/01.jpg
 全文约 5600 字
 
 ![](/2019/07/05/wei-qiang-bo-luo-hong-meng/01.jpg)
+文 / 书航 2019.7.5
 
 书航 7 月 5 日发于北京
 

@@ -8,6 +8,7 @@ image: /2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg
 ---
 
 ![](/2020/02/05/bei-yi-qing-dong-yuan-qi/01.jpg)
+文 / 书航 2020.2.5
 
 书航 2 月 5 日发于北京
 
@@ -56,3 +57,4 @@ https://www.bilibili.com/video/av86423566
 ![](/2020/02/05/bei-yi-qing-dong-yuan-qi/05.jpg)
 
 👇 辨认假消息和辟谣越来越难了，难在哪里？点击阅读原文
+

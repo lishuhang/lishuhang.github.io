@@ -8,6 +8,7 @@ image: /2019/09/23/shou-zhong-tong-hen-de-shi/01.png
 ---
 
 ![](/2019/09/23/shou-zhong-tong-hen-de-shi/01.png)
+文 / 书航 2019.9.23
 
 本文基于 2013 年 12 月 30 日首发于网易科技的稿件修改和增补。
 

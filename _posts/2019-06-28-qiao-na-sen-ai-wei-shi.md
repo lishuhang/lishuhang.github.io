@@ -10,6 +10,7 @@ image: /2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 全文约 2200 字
 
 ![](/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg)
+文 / 书航 2019.6.28
 
 书航 6 月 28 日发于北京
 
@@ -82,3 +83,4 @@ image: /2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 [4] https://www.theverge.com/2015/9/17/9345299/jony-ive-apple-store-belgium
 
 ![](/2019/06/28/qiao-na-sen-ai-wei-shi/03.png)
+

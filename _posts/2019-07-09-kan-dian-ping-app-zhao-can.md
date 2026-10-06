@@ -10,6 +10,7 @@ image: /2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 全文约 2400 字
 
 ![](/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg)
+文 / 书航 2019.7.9
 
 书航 7 月 9 日发于北京
 

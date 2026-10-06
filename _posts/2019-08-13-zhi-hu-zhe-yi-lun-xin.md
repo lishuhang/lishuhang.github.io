@@ -8,6 +8,7 @@ image: /2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg
 ---
 
 ![](/2019/08/13/zhi-hu-zhe-yi-lun-xin/01.jpg)
+文 / 书航 2019.8.13
 
 书航 8 月 13 日发于北京
 
