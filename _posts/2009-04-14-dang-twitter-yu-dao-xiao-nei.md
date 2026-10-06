@@ -7,6 +7,7 @@ tags: [社交网络]
 ---
 
 ![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlublk0i8j20r70abwjq.jpg)
+文 / 书航 2009.4.14
 
 [**嘀咕**](http://digu.com/)是最近异军突起的一个微博客平台, 因为其突出的API应用开发而受到大家的关注. [很多有活力的功能被嘀咕开发出来](http://www.mcgeek.cn/will-digu-be-the-chinese-ver-twitter/), 有的我们盼望已久, 就比如**把自己的twitter消息同步到校内, 开心网等SNS网站**. 因此嘀咕尽管是被大多数twitter活跃用户当成转发器来用的, 却也因此吸引大批好奇的目光聚集, 也经过twitter等社区特有的[虚拟的”口耳相传”](http://search.twitter.com/search?q=%E5%98%80%E5%92%95)迅速获得了口碑.
 
@@ -63,3 +64,4 @@ tags: [社交网络]
 **LonelyJames首发cnBeta, 转载请注明出处**
 
 **4月14日**
+

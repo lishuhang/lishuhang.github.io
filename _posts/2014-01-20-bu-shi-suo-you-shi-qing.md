@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19660002"
 ---
 
+文 / 书航 2014.1.20
+
 我来给那些夸奖Chromebook和云计算，觉得自带硬盘总有一天会被扔到垃圾堆的同学们泼一盆冷水。
 
 去年年底，[台湾雅虎部落格和无名小站进入了关闭的最后倒计时阶段](http://cn.technode.com/post/2013-08-31/yahoo-shuts-down-taiwan-wretch-blog-service/)。十二月份，所有的博客文章变成只读模式。而再过非常短暂的时间，这些文章就会被连根拔除，没有任何地方会收留。

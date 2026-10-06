@@ -7,6 +7,7 @@ tags: [科技]
 ---
 
 ![13-09-10 17-21-33](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum3653anhj20kw0fy49y.jpg)
+文 / 书航 2013.9.10
 
 韩国即时聊天工具 LINE（中文名为连我）和 360 停止合作的猜测，今日再掀波澜。一家媒体在几天前发出报道称，LINE [对与 360 在中国内地的合作关系并不满意](http://www.pingwest.com/line-plans-to-choose-another-partner-in-china-when-their-contract-with-qihoo-expires/) ，希望在期满后不再续约，转而寻找一家新的合作伙伴。今天上午，当豌豆荚在 LINE 平台合作发表特色表情之后，另一家媒体立马跟进，指出 [LINE 的新合作伙伴可能就是豌豆荚](http://www.36kr.com/p/206084.html) 。LINE 和 360 双方今天下午 [紧急澄清](http://e.weibo.com/3163248277/A8OtVdcwE) ，称双方的合作良好，并将持续下去。
 
@@ -25,3 +26,4 @@ tags: [科技]
 但是可不要小看 [公众账号](https://partner.line.me/proposal/zh_CN/proposalGuide.nhn) ，这是 LINE 在日韩台湾等主要市场能够 [火起来](http://3c.tw.msn.com/news/mobile/line%E5%AE%98%E6%96%B9%E5%B8%B3%E8%99%9F%E8%B6%A3%E5%91%B3%E6%8E%A8%E5%87%BA%EF%BC%81%E6%88%90%E7%82%BA%E8%97%9D%E4%BA%BA%E5%A5%BD%E5%8F%8B%E5%B0%B1%E5%9C%A8%E4%BD%A0%E6%8E%8C%E6%8F%A1%E4%B9%8B%E4%B8%AD) 的一个重要原因。在一些明星的百度贴吧中，可以很轻易的看到，歌迷们为了能够跟踪自己喜爱的明星在 Twitter 和 Facebook 的动态，而互相传授翻墙技巧。因为可以和众多日韩明星零距离接触，如果用好这些资源，LINE 可能也会成为中国追星族的一款专用聊天工具。
 
 [动点科技](https://cn.technode.com/post/2013-09-10/line360/)
+

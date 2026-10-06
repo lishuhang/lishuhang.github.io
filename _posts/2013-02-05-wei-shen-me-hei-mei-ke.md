@@ -7,6 +7,7 @@ tags: [科技]
 ---
 
 ![blackberry-android.jpg](http://ww1.sinaimg.cn/large/4b91f9d5gy1fulu5z1g2pj20i20a6n21.jpg)
+文 / 书航 2013.2.5
 
 黑莓公司日前在开发者大会上宣布，黑莓10内置的Android应用兼容功能已经开始[支持Android 4.1系统上的应用](https://web.archive.org/web/20130207020447/http://crackberry.com/blackberry-android-runtime-be-upgraded-android-41-jelly-bean)。而在开发者大会上也有消息爆出，现在黑莓应用商店近10万个程序中，[40%都来自Android应用的“一键移植”](https://web.archive.org/web/20130207020447/http://www.intomobile.com/2013/02/03/40-blackberry-10-apps-repackaged-android-apks/)。
 
@@ -31,3 +32,4 @@ Android早期版本也包含一个Java模拟器，并且在屏幕下方留下了
 如果还有后来者想“借用”Android应用商店的东西，应该也要遵循和上述举措类似的规则。这些规则导致的结果就是安卓生态圈外的系统兼容性必然赶不上圈内的系统，也验证了“天下没有免费的午餐”这句话。
 
 [Tech2IPO](http://tech2ipo.com/57932)
+

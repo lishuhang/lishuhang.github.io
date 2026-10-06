@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19648320"
 ---
 
+文 / 书航 2014.1.2
+
 谷歌董事长[施密特2013年底接受采访](http://www.bloomberg.com/video/ask-a-billionaire-eric-schmidt-s-2014-predictions-pmV~qd7qTeipbjKx6_wW1Q.html)时说，他没有预料到社交网络将会崛起，而他们不会再次与社交网络业务擦肩而过。谷歌事实上也是这么做的。2013年以来，谷歌已经倾尽全公司的力量和资源，强行推广其社交网络服务Google+，甚至不顾用户的反感。
 
 有三处与Google+的整合证明，这是一场动用全公司资源的深刻战役。

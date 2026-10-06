@@ -7,6 +7,7 @@ tags: [科技]
 ---
 
 ![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum37tqvgej20c8096jue.jpg)
+文 / 书航 2013.9.11
 
 说苹果重视中国市场的都被坑了。
 
@@ -35,3 +36,4 @@ tags: [科技]
 ![http://ww1.sinaimg.cn/large/4b91f9d5gy1fum3arzjzyj20c80gawnp.jpg](https://static.technode.com/files/2013/09/H_7sfHfzVMSBVMDIhDBPukEGnpKghnZr0CK2CVLipHBeVenHRJT6aH98ZLdq3ZZIcEmN0.jpg)
 
 [动点科技](https://cn.technode.com/post/2013-09-11/apple-china-cheat/)
+

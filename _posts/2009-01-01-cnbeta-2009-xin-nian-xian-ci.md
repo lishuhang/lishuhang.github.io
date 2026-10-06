@@ -7,6 +7,7 @@ tags: [随笔]
 ---
 
 ![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlvahh7g6j20zk0oeb29.jpg)
+文 / 书航 2009.1.1
 
 **各位亲爱的署名的CB访客和匿名人士:**
 
@@ -39,3 +40,4 @@ tags: [随笔]
 
 **cnBeta全体同仁** 
 2009年1月1日
+

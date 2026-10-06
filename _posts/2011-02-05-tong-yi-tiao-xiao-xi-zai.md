@@ -7,6 +7,7 @@ tags: [传媒]
 ---
 
 ![](http://img3.cache.netease.com/tech/2011/2/5/20110205205202890c4.jpg "QQ Weibo.")  
+文 / 书航 2011.2.5
 
 腾讯微博
 
@@ -27,3 +28,4 @@ tags: [传媒]
 国内门户的竞争，因为微博的比拼而变得无比痛苦。只能祝愿各大微博新年都自求多福了。
 
 各大微博我的id都是@lishuhang。包括[twitter](http://lishuhang.com/blog/2011/02/03/twitter-wishes-2011/)。
+

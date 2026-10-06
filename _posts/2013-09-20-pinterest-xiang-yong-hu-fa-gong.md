@@ -7,6 +7,7 @@ tags: [传媒]
 ---
 
 ![13-09-20 08-33-25](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum3mfciwdj20q00c04bs.jpg)
+文 / 书航 2013.9.20
 
 今天早上Pinterest用户的收件箱收到了来自其CEO本·希尔伯曼（Ben Silbermann）的一封邮件，向用户解释了他们即将在消息流中插入广告的做法，以及大致的实施方案和准则。
 
@@ -38,3 +39,4 @@ Pinterest的模式介于图片分享和网络导购之间。在图片分享领�
 > Ben
 
 [动点科技](https://cn.technode.com/post/2013-09-20/pinterest-ads/)
+

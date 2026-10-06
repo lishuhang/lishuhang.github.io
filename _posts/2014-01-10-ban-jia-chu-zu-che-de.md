@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19654869"
 ---
 
+文 / 书航 2014.1.10
+
 10日，租车服务Uber宣布他们的廉价租车服务Uber X将[进一步调低在美国多个城市的租价](http://techcrunch.com/2014/01/09/big-uberx-price-cuts/)，最终目标是使得他们的服务成为市面上最便宜的出租车服务。
 
 
