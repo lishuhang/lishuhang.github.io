@@ -8,6 +8,7 @@ image: /2019/03/20/ai-sai-kong-nan-gao-su/01.png
 ---
 
 ![](/2019/03/20/ai-sai-kong-nan-gao-su/01.png)
+文 / 书航 2019.3.20
 
 > 航通社作者 书航 3 月 20 日发于北京
 
@@ -158,4 +159,5 @@ NTSB 在事故调查报告 [8] 中总结道：“在事故期间，飞行机组�
 [13] https://news.163.com/19/0110/11/E55IVTFV0001875P.html
 
 ![](/2019/03/20/ai-sai-kong-nan-gao-su/02.jpg)
+
 

@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/06/12/dui-ma-qun-shi-ge-hao/01.jpg
 ---
 
+文 / 书航 2018.6.12
+
 然后开启**置顶公众号**
 
 起初，人们都混在一起，众声喧哗。后来，人与人之间分开，组成小圈子，互不来往。因为对骂群的出现，有那么一瞬间，他们又久违地见到了对方。
@@ -108,3 +110,4 @@ image: /2018/06/12/dui-ma-qun-shi-ge-hao/01.jpg
 - [针对日本年轻人的调查显示，超过 1/3 在社交媒体有秘密的“小号”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659633&idx=1&sn=4bb906cf98c8f9a49f21f98f8ba0b4b7&chksm=be96923d89e11b2bdcf8069667650e0f5670d2ce869b070c39d4cc9ebbbaf0f051794c7665ff&scene=21#wechat_redirect)
 
 - [内涵段子的死因不只有低俗](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659629&idx=1&sn=b7ec3531b70a13cc0bef48c7d15994e2&chksm=be96922189e11b37067775295f8e87b66b5f96388baffb930a7f17ff4b62cda63735bfe89945&scene=21#wechat_redirect)
+

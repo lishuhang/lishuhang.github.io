@@ -7,6 +7,8 @@ tags: [传媒]
 image: /2018/07/24/da-v-gong-cheng-ji-zhe/01.jpg
 ---
 
+文 / 书航 2018.7.24
+
 时至今日，由兽爷《疫苗之王》引爆的疫苗话题，已经进入了舆论意义上的“安全区”，成功地走出了之前险象环生的“深水区”。
 
 所有在事情火了之前写过报道的人，如今再不用担心文章胎死腹中；所有为话题扩散而努力寻找爆点，创造爆款的人，如今也不用担心自己被带走被消失，开始享受“始作俑者”的荣光，“分封”一篇篇阅读在1万到10万+不等的文章。
@@ -122,3 +124,4 @@ image: /2018/07/24/da-v-gong-cheng-ji-zhe/01.jpg
 - [谁都可以投“差评”，腾讯不可以](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659747&idx=1&sn=0b6cd7ba6a09199099603c3c2fefcc1b&chksm=be9692af89e11bb9779ae070d08b3363ed044be20dd97a46d50c3548cfc232906cef7313d56c&scene=21#wechat_redirect)
 
 - [祖传区块链，专治假新闻？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659792&idx=1&sn=0cd48860b4020698400f4ed47977bde5&chksm=be9692dc89e11bcaaa13cd14c573b899772bac9183ef43ca5a5a8e2904784a1825de52e71fa3&scene=21#wechat_redirect)
+

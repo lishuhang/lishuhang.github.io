@@ -10,6 +10,7 @@ image: /2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 传媒 | 新闻传播学观察
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKWrfibB0iaShy6RF8Db86oIrYhvuPbpV7c3g1bbC6uRvicbibeISJvQDocIAicQt26hzwlBq6CyJ38hYw/640?wx_fmt=jpeg)
+文 / 书航 2018.7.13
 
 在经纬创投张颖忍无可忍，痛批中国最大的版权图片库视觉中国的“捞钱模式”之后，视觉中国负责人接受了采访，基本上可以算是官方回应。
 
@@ -262,3 +263,4 @@ image: /2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 - 在IP改编中，抄袭作品的风头为何往往盖过了原著
 
 ![](/2018/07/13/gong-zhong-hao-da-zhan-shi/19.png)
+

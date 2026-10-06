@@ -8,6 +8,7 @@ image: /2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg
 ---
 
 ![](/2019/06/18/yi-jing-shi-fu-fei-hui/01.jpg)
+文 / 书航 2019.6.18
 
 书航 6 月 18 日发于北京
 

@@ -8,6 +8,7 @@ image: /2018/07/06/ren-ren-dou-neng-xiao-du/01.png
 ---
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHISMcfsIQCCWwL3ouq7zDVrWp9HbZqsdRaCJgSeMqu35ssSPS0Chwyr0tMJdJpUJiaRrPzakicBFb0g/640?wx_fmt=jpeg)
+文 / 书航 2018.7.6
 
 在第二届百度 AI 开发者大会上，一切似乎都在传达这样的印象：陆奇走后，百度在AI方面的进展一切如常。
 
@@ -220,3 +221,4 @@ Alexa给亚马逊股价带来的提升，正是在于人们认为语音会是下
 - 2017年夏季智能音箱产品选购指南
 
 ![](/2018/07/06/ren-ren-dou-neng-xiao-du/10.png)
+

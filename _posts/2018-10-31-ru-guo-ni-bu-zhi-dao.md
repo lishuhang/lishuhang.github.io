@@ -8,6 +8,7 @@ image: /2018/10/31/ru-guo-ni-bu-zhi-dao/01.png
 ---
 
 ![](/2018/10/31/ru-guo-ni-bu-zhi-dao/01.png)
+文 / 书航 2018.10.31
 
 本文于2015年1月31日首发于动点科技
 
@@ -128,3 +129,4 @@ image: /2018/10/31/ru-guo-ni-bu-zhi-dao/01.png
 真希望你也来一趟硅谷看看。
 
 ![](/2018/10/31/ru-guo-ni-bu-zhi-dao/09.gif)
+

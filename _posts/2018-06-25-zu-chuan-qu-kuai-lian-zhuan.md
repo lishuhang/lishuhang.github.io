@@ -7,6 +7,8 @@ tags: [传媒]
 image: /2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.jpg
 ---
 
+文 / 书航 2018.6.25
+
 自从英国脱欧和特朗普上台以来，关于新闻业前途，特别是“假新闻”相关的事情，就越来越成为各界关注的焦点，从仅有专业人士关注，过渡到了普通人也在谈论。
 
 打击所谓“假新闻”、“另类事实”，或者对抗算法对人的潜移默化的影响，人们想到了各种各样的办法。
@@ -163,3 +165,4 @@ image: /2018/06/25/zu-chuan-qu-kuai-lian-zhuan/01.jpg
 - [没电头，没作者，低级错误：“新华网批腾讯”为何如此奇怪？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659759&idx=1&sn=4cfa3d77ca8776d8b8d5938ef346d9cb&chksm=be9692a389e11bb5125e06c228ed03c8f9d26c1183e295f3c3edd71f50b8b1aa4063cbbad215&scene=21#wechat_redirect)
 - [从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659725&idx=1&sn=dacd4729c0458eff5bb9f8c9d0ebbf08&chksm=be96928189e11b970e1f8197eedfa500b74366ed94458cce42cda21a10139460a538d7c953c7&scene=21#wechat_redirect)
 - [区块链应用要落地？这三个问题必须先解决](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=2&sn=ab03ccbf55d8f26b59aaba8f6ab55f71&chksm=be96923789e11b212b0b18206526e40bcef1300e3bc910dfd59e9f8753b6367435d36ba5759e&scene=21#wechat_redirect)
+

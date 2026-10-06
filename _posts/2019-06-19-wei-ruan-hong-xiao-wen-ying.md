@@ -10,6 +10,7 @@ image: /2019/06/19/wei-ruan-hong-xiao-wen-ying/01.jpg
 全文约 7200 字
 
 ![](/2019/06/19/wei-ruan-hong-xiao-wen-ying/01.jpg)
+文 / 书航 2019.6.19
 
 书航 6 月 19 日发于北京
 

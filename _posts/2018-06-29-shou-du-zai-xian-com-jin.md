@@ -7,6 +7,8 @@ tags: [历史]
 image: /2018/06/29/shou-du-zai-xian-com-jin/01.jpg
 ---
 
+文 / 书航 2018.6.29
+
 北京时间今天早晨，在美国马里兰州发生了一起针对媒体的枪击案件。当地一家报社遭歹徒闯入，五名员工被杀。
 
 目前，犯罪嫌疑人已被警方控制，最新的消息显示他在2012年曾起诉该报侵犯其名誉权，可能是报复犯罪。
@@ -186,3 +188,4 @@ image: /2018/06/29/shou-du-zai-xian-com-jin/01.jpg
 - [三星手机在华节节败退，这一切都始于一个冬天](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659673&idx=1&sn=077847a5a0b42b51b08700ac1c27175c&chksm=be96925589e11b4304676b1bf2fbab1c795831d7c93796f50b8d79ca923ef024acada768a79d&scene=21#wechat_redirect)
 
 - [尸骨已寒的天天动听，串起一部爱恨情仇的历史](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658726&idx=1&sn=6e719428dd21c827206c004ceb18fea5&chksm=be969eaa89e117bc33fa140f0460fdfd5debe616ab0b853e535ec872314b0b1bcf5cf90c829b&scene=21#wechat_redirect)
+

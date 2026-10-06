@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/07/25/jiao-yu-jie-ke-neng-zui/01.jpg
 ---
 
+文 / 书航 2018.7.25
+
 被视为“新零售”代表的小米，最近刚刚成功在港股上市。小米为手机行业引入“互联网思维”，在产品设计制造过程中吸收用户意见，并靠网上销售和口碑营销化解线下网点不足的弊端。这被有些人称为“小米模式”。
 
 人们试图寻找每个细分行业中的“小米”，探索这种用户反馈、线上销售和口碑营销相结合的模式，怎样变革各个传统行业。
@@ -116,3 +118,4 @@ image: /2018/07/25/jiao-yu-jie-ke-neng-zui/01.jpg
 - [映客是 toVC 创业模式的教科书式案例](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658929&idx=1&sn=880f4ebdc63e2799b8d287069d78ef78&chksm=be96917d89e1186b592a22e614e4d68e149a8042dc96194f70340f0cab7da2bff44f93b513b7&scene=21#wechat_redirect)
 
 - [论“不食周粟”式创业者的倒掉](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658845&idx=1&sn=bc5642a0c04f50a542e413a85b219746&chksm=be96911189e11807155da188bd2bc34967a7114090dac6de0069db3482106c9c31986f6deae5&scene=21#wechat_redirect)
+

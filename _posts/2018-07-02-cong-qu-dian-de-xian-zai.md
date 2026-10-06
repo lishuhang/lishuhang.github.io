@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/07/02/cong-qu-dian-de-xian-zai/01.jpg
 ---
 
+文 / 书航 2018.7.2
+
 从很多角度看，趣店和拼多多都存在很多有意思的共同点。最主要的是两条。
 
 第一，他们针对的都是当前购买力不足，但是有消费改善生活意愿的人群，并提出了两种解决问题的不同思路。一是通过金融产品降低购买门槛，一是直接降低售价，以即时满足需求。
@@ -80,3 +82,4 @@ App Annie 的数据显示，差不多自拼多多上线那首洗脑广告歌以�
 - [无人货架下半场：是跑马圈地抢点位，还是精耕细作小生意](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659391&idx=1&sn=44e959baf4d5a05ad327046b65e79420&chksm=be96933389e11a25a67b6749fbe4d16f12a9cd29eda461653e972b4eb5420ed27f22a32dabd1&scene=21#wechat_redirect)
 
 - [在线抓娃娃：繁荣过后会怎样？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659386&idx=1&sn=17ccb7bc452629cec0bdf1b95b048c07&chksm=be96933689e11a20422421e3ad5028f95543b68fcbbc1b64aa3cb74072c546c20f4473aaa0be&scene=21#wechat_redirect)
+

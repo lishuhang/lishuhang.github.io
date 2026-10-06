@@ -7,6 +7,8 @@ tags: [传媒]
 image: /2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 ---
 
+文 / 书航 2018.8.7
+
 昨天，因为《人民日报》的官方Twitter帐号发布了一篇名为《稳定是中国互联网开放的重要前提》的文章，业界似乎更加确定了谷歌入华获得“首肯”的信号；而李彦宏也在今天中午通过微信朋友圈回应此事。
 
 不过，并不是所有跟《人民日报》四个字沾边的消息，都足以从中分析出微言大义来。
@@ -102,3 +104,4 @@ image: /2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 - [都说传统媒体凉了，可我们还是在意“上报纸头版”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659444&idx=1&sn=fce485a52fdc14d98362a6eaf423a0f8&chksm=be96937889e11a6eadd9be92d122b639ff3d02c9437a6fbdee446b50d45695024880befb9c50&scene=21#wechat_redirect)
 
 - [摘编微信公众号的《青年文摘》们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530&scene=21#wechat_redirect)
+

@@ -8,6 +8,7 @@ image: /2019/03/06/xing-fu-sheng-huo-na-li/01.jpg
 ---
 
 ![](/2019/03/06/xing-fu-sheng-huo-na-li/01.jpg)
+文 / 书航 2019.3.6
 
 > 航通社作者 书航 3 月 6 日发于北京
 
@@ -230,4 +231,5 @@ image: /2019/03/06/xing-fu-sheng-huo-na-li/01.jpg
 [15] 好巧，你家也长这样！（家芝太太） https://mp.weixin.qq.com/s/SPsjyycFl5d1RjCgz–VCA
 
 ![](/2019/03/06/xing-fu-sheng-huo-na-li/07.jpg)
+
 

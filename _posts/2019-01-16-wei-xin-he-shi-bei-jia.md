@@ -8,6 +8,7 @@ image: /2019/01/16/wei-xin-he-shi-bei-jia/01.jpg
 ---
 
 ![](/2019/01/16/wei-xin-he-shi-bei-jia/01.jpg)
+文 / 书航 2019.1.16
 
 > 航通社作者 书航 1 月 16 日发于广州
 
@@ -162,4 +163,5 @@ image: /2019/01/16/wei-xin-he-shi-bei-jia/01.jpg
 用“不那么社交”的方式，方能挑战“社交”。要出奇，方有希望制胜。
 
 ![](/2019/01/16/wei-xin-he-shi-bei-jia/03.jpg)
+
 

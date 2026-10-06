@@ -7,6 +7,8 @@ tags: [传媒]
 image: /2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
 ---
 
+文 / 书航 2018.7.9
+
 追偶像是每个人的权利，每个人也有各自不同的追星方式。但大致来说，你总能把所有的粉丝分为两类人。
 
 **一类人容易当偶像是除了自己之外的其他人**，例如自己的父母、情侣、孩子；**另一类人愿意认为偶像是自己的化身**。
@@ -118,3 +120,4 @@ image: /2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
 - [对骂群是个好产品](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659775&idx=1&sn=2c961d374fc2cac044f379398ea4ea19&chksm=be9692b389e11ba51f9a5f9a94c4e970b23a2926cdb4eed97ab85460518d78b7bceb7b81fa60&scene=21#wechat_redirect)
 
 - [你相信了那张假的马化腾微信截图，还有什么资格嘲笑长辈和微商？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659700&idx=1&sn=cf09760a5acf44178e580b94cfb40f2d&chksm=be96927889e11b6eea27ef48b0edbaceb5576873035972f94bc22e117275a3d339e2e2a6cf48&scene=21#wechat_redirect)
+

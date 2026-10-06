@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/06/06/shou-min-zhi-wu-he-yi/01.jpg
 ---
 
+文 / 书航 2018.6.6
+
 然后开启**置顶公众号**
 
 题图 / PingWest
@@ -142,3 +144,4 @@ AI除了之前报道的自动写文章，更重要的是对人类的文字自动
 - [你好，我是榨汁机](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658690&idx=1&sn=0975bc41676924ff6351064a03650a24&chksm=be969e8e89e11798112b7b13b2306af1ddadaec3501f444627ec5141fa3a80151f7c1c6e8a06&scene=21#wechat_redirect)
 
 - [人工智能如何赶走公交售票员](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659337&idx=1&sn=d56ca3bfc5489c08a764b5a06a71eefe&chksm=be96930589e11a137a7c6a261a8a8a735a272ab4b9947643b192f31b02dd2cbca523a21e4138&scene=21#wechat_redirect)
+

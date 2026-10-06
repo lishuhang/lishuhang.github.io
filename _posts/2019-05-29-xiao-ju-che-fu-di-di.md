@@ -8,6 +8,7 @@ image: /2019/05/29/xiao-ju-che-fu-di-di/01.png
 ---
 
 ![](/2019/05/29/xiao-ju-che-fu-di-di/01.png)
+文 / 书航 2019.5.29
 
 书航 5 月 29 日发于北京
 

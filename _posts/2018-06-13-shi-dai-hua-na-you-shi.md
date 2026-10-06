@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/06/13/shi-dai-hua-na-you-shi/01.jpg
 ---
 
+文 / 书航 2018.6.13
+
 然后开启**置顶公众号**
 
 从 AOL 和时代华纳，到 AT&T 和时代华纳，对于英语不是母语的中国读者而言，这两个A打头的名字实在是非常容易弄混。
@@ -104,3 +106,4 @@ AT&T和时代华纳的并购一旦完成，新公司市值将达到约2750亿美
 - [没有价值观的算法下岗了，但我希望算法能快快长大](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659605&idx=1&sn=71f651d5f6caf0a6b37328abbba821ac&chksm=be96921989e11b0f6662e35323320a2f1575fac705a32915d83d9c92caf6177332c02a9e6f74&scene=21#wechat_redirect)
 
 - [再谈新媒体和记者的前途](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659665&idx=1&sn=03c56bfe4847a027578a5f69c8da3759&chksm=be96925d89e11b4bf2e1745c5f399f8b4777da7a6f44d61d91618f1283d07bae81d9db760352&scene=21#wechat_redirect)
+

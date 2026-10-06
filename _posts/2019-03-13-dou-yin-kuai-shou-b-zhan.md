@@ -8,6 +8,7 @@ image: /2019/03/13/dou-yin-kuai-shou-b-zhan/01.jpg
 ---
 
 ![](/2019/03/13/dou-yin-kuai-shou-b-zhan/01.jpg)
+文 / 书航 2019.3.13
 
 > 航通社作者 书航 3 月13 日发于北京
 

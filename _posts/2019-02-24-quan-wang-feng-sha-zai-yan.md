@@ -8,6 +8,7 @@ image: /2019/02/24/quan-wang-feng-sha-zai-yan/01.jpg
 ---
 
 ![](/2019/02/24/quan-wang-feng-sha-zai-yan/01.jpg)
+文 / 书航 2019.2.24
 
 2014 年 2 月 28 日，亚历克斯·琼斯在德州达拉斯参与抗议活动。题图 / Wikipedia
 
@@ -348,4 +349,5 @@ Aamer Rahman 补充道：[17]
 [22] 自由不是免费的！ (五花八门通识课) https://58generalclass.com/2017/10/02/%e8%87%aa%e7%94%b1%e4%b8%8d%e6%98%af%e5%85%8d%e8%b2%bb%e7%9a%84%ef%bc%81/
 
 ![](/2019/02/24/quan-wang-feng-sha-zai-yan/08.jpg)
+
 

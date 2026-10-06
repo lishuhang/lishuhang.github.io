@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
 ---
 
+文 / 书航 2018.7.4
+
 走入IPO进程的美团，目前最大的压力来源，非阿里莫属。
 
 美团现在多点开花的业务线，跟阿里系的饿了么、口碑、淘票票、飞猪、盒马生鲜、哈罗单车等，都形成了对应的竞争关系。
@@ -98,3 +100,4 @@ image: /2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
 - [锤子和 YunOS 是怎么合体的？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659193&idx=1&sn=6564dadc134db4cfe3a740eed076bc11&chksm=be96907589e11963b46fb440c69e70b409ece8721c2902abe2d5f4475db4b79fbd6ab50a74a3&scene=21#wechat_redirect)
 
 - [淘宝的互联网入口野心：从“刷脚购物”说起](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658997&idx=1&sn=7f102f149225a703581d85b42b7aa6e0&chksm=be9691b989e118af25758ee9559e61e0aebcf849e68d7da748ac01b6d76ee96092bd13400d09&scene=21#wechat_redirect)
+

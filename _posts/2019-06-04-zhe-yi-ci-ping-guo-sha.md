@@ -8,6 +8,7 @@ image: /2019/06/04/zhe-yi-ci-ping-guo-sha/01.jpg
 ---
 
 ![](/2019/06/04/zhe-yi-ci-ping-guo-sha/01.jpg)
+文 / 书航 2019.6.4
 
 书航 6 月 4 日发于北京
 
