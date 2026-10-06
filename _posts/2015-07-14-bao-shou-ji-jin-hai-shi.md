@@ -28,3 +28,4 @@ source: "https://zhuanlan.zhihu.com/p/20111053"
 [动点科技](http://cn.technode.com/post/2015-07-14/satoru-iwata/)
 
 ![](/2015/07/14/bao-shou-ji-jin-hai-shi/01.jpg)
+文 / 书航 2015.7.14

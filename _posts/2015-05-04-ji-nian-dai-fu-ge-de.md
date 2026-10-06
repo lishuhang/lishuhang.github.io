@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20020239"
 ---
 
+文 / 书航 2015.5.4
+
 小长假之后我们进入了夏半年，很多场所开始调整营业时间，早上 6 点不到阳光也已经洒在你我身上。然而有一位硅谷人却无法继续见到冉冉初升的太阳。前天，戴夫·戈德伯格（Dave Goldberg）意外身故，他是 SurveyMonkey 的 CEO，是硅谷资格最老的创业者之一，他更为人所知的身份是 Facebook 现任 COO 谢丽尔·桑德伯格（Sheryl Sandburg）的丈夫。
 
 诚如 [《财富》杂志刊文所言](http://fortune.com/2015/05/02/remembering-dave-goldberg/) ：

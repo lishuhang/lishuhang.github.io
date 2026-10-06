@@ -26,3 +26,4 @@ source: "https://zhuanlan.zhihu.com/p/20158706"
 [动点科技](http://cn.technode.com/post/2015-08-10/auto-transit/)
 
 ![](/2015/08/12/zai-wu-ren-jia-shi-qi/01.jpg)
+文 / 书航 2015.8.12

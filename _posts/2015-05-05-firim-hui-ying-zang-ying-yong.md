@@ -18,6 +18,7 @@ source: "https://zhuanlan.zhihu.com/p/20021332"
 [正如动点之前所介绍的](http://cn.technode.com/post/2014-08-01/fir-im/) ，Fir.im 解决的问题是，在一款 iOS／Android 应用上架应用商店之前进行反复测试的过程中，如何更便捷地将测试应用发送给测试者。只要将应用上传到 FIR.im，网站会自动为这个应用生成一个短链接。任何得到这一短链接的人，只要用 iPhone 打开这一短链接，就能将应用下载到手机上。从上传到下载，整个过程最短只用两分钟。
 
 ![](/2015/05/05/firim-hui-ying-zang-ying-yong/01.jpg)
+文 / 书航 2015.5.5
 
 面对本次对服务的滥用行为，[Fir.im 创始人王猛表示](http://weibo.com/1642587442/CgioGvx7I?from=page_1005051642587442_profile&wvr=6&mod=weibotime) ：
 

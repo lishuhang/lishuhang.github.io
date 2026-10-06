@@ -34,3 +34,4 @@ Reddit 使用的是英文，而英文是世界上用途最广泛的语言，所�
 [动点科技](http://cn.technode.com/post/2015-07-06/zaobao0706/)
 
 ![](/2015/07/06/mei-guo-de-tie-ba-he/01.jpg)
+文 / 书航 2015.7.6

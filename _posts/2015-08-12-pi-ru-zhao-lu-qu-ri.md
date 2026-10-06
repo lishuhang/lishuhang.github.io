@@ -28,3 +28,4 @@ Hitchbot 拥有太阳能电池板，能够给自己充电，同时也拥有一�
 [动点科技](http://cn.technode.com/post/2015-08-07/eternal-spirit-of-the-hitchbot/)
 
 ![](/2015/08/12/pi-ru-zhao-lu-qu-ri/01.jpg)
+文 / 书航 2015.8.12

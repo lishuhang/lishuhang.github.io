@@ -39,6 +39,7 @@ iOS / Android Apps 不能直接被转化为 Universal Apps，感觉上就像是�
 非常有趣的是，Ubuntu Edge 这个在 Indiegogo 众筹的产品，一个主打功能恰好是我们上面谈到的第一点：把手机接到显示器上，当电脑来运行！只不过因为系统是 Ubuntu，应用面太窄，所以一直不温不火而已。
 
 ![](/2015/04/30/yi-miao-zhong-rang-shou-ji/01.jpg)
+文 / 书航 2015.4.30
 
 Edge 的 logo 是跟 ie 标志长得差不多的，并获得了如此评价：
 

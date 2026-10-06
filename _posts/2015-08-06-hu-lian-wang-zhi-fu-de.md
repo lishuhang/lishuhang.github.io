@@ -38,3 +38,4 @@ source: "https://zhuanlan.zhihu.com/p/20147784"
 [动点科技](http://cn.technode.com/post/2015-08-05/prove-yourself/)
 
 ![](/2015/08/06/hu-lian-wang-zhi-fu-de/01.jpg)
+文 / 书航 2015.8.6

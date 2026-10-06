@@ -38,3 +38,4 @@ iOS 只有苹果一家就不说了。谷歌这几年一直在强化 Android 生�
 [动点科技](http://cn.technode.com/post/2015-06-30/zaobao0630/)
 
 ![](/2015/06/30/shou-ji-gan-bu-yong-iosandroid/01.jpg)
+文 / 书航 2015.6.30

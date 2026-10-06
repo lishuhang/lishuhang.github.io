@@ -36,5 +36,6 @@ source: "https://zhuanlan.zhihu.com/p/20126092"
 [动点科技](http://cn.technode.com/post/2015-07-23/airplane/)
 
 ![](/2015/07/23/quan-shi-jie-dou-zai-wei/01.jpg)
+文 / 书航 2015.7.23
 
 //应该还算是在“今天”发布的……早上发完忘记贴过来了

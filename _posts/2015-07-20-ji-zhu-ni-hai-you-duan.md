@@ -42,3 +42,4 @@ iOS、Windows Phone 和部分国产 ROM 提供各自的所谓“网络短信”�
 [动点科技](http://cn.technode.com/post/2015-07-20/long-live-sms/)
 
 ![](/2015/07/20/ji-zhu-ni-hai-you-duan/01.jpg)
+文 / 书航 2015.7.20

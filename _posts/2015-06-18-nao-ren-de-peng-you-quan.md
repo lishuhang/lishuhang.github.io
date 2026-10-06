@@ -35,3 +35,4 @@ source: "https://zhuanlan.zhihu.com/p/20076879"
 [动点科技](http://cn.technode.com/post/2015-06-18/zaobao0618/)
 
 ![](/2015/06/18/nao-ren-de-peng-you-quan/01.jpg)
+文 / 书航 2015.6.18

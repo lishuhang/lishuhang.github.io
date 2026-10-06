@@ -16,6 +16,7 @@ source: "https://zhuanlan.zhihu.com/p/20132382"
 Dot的建议零售价是99美元。公司还承诺会在今年年底推出该扬声器的立体声版本，建议零售价是149美元。然而好梦到此为止——人们在另外一个网站发现了一款名叫Enjoyou的耳机，**跟Dot的设计都不能说是相似了——而是一模一样。**销售者是**中国“深圳市谱华高科电子有限公司”**，[他们在类似阿里巴巴的海外批发网站globalsources展开该耳机批发](http://enjoyou.manufacturer.globalsources.com/si/6008849353407/pdtl/Bluetooth-headset/1105713585/Bluetooth-Headset.htm)，最低进货1000套起，**而批发价只有——你猜是多少？——16美元。**
 
 ![](/2015/07/28/zhong-guo-chuang-zao-dao-di/01.jpg)
+文 / 书航 2015.7.28
 
 在Dot放上Kickstarter前两天，评论里面基本上还都是正常问题，比如针对国外用户怎么安排发货等等。然而当深圳的同款产品曝光后，不管是理性还是不理性，支持者们的怒火早已被点燃。一大堆人跑到Kickstarter站方那里去指责这个众筹违规，最终站方判定该众筹项目在上线4天之后下线。
 

@@ -38,3 +38,4 @@ Windows 10 还史无前例地推出老用户第一年免费的政策。当 3 月
 [动点科技](http://cn.technode.com/post/2015-07-21/win-do-win-do-win/)
 
 ![](/2015/07/20/cheng-wei-ou-xiang-ba-windows/01.jpg)
+文 / 书航 2015.7.20

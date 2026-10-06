@@ -30,6 +30,7 @@ source: "https://zhuanlan.zhihu.com/p/20156449"
 在退房之前的那一上午做什么呢？吃+玩。
 
 ![](/2015/08/11/ni-men-a-li-ren-zhen/01.jpg)
+文 / 书航 2015.8.11
 
 **周一上午**
 
