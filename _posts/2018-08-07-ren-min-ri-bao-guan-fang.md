@@ -13,7 +13,7 @@ image: /2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 
 不过，并不是所有跟《人民日报》四个字沾边的消息，都足以从中分析出微言大义来。
 
-1 | 原文来自《环球时报》英文版
+## 原文来自《环球时报》英文版
 
 该《稳定是中国互联网开放的重要前提》（Stability prerequisite for China’s internet opening up）是以摘要形式出现在《人民日报》Twitter帐号（@PDChina）上，全文则指向《人民日报》官方Facebook页面。（https://twitter.com/PDChina/status/1026389892316651522）
 
@@ -49,7 +49,7 @@ image: /2018/08/07/ren-min-ri-bao-guan-fang/01.jpg
 
 因此，一条在《人民日报》官方Twitter上发布的消息，有时可能只相当于国内的“人民日报”微信号，转了一篇“10万+”的爆文而已。
 
-2 | 关注者多来自“一带一路”
+## 关注者多来自“一带一路”
 
 观察近几天的《人民日报》官方海外社交媒体帐号，可以发现该账号的文章由几个部分组成，包括：
 
