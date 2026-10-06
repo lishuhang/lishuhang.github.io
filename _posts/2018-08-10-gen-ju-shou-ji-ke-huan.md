@@ -7,15 +7,7 @@ tags: [科技]
 image: /2018/08/10/gen-ju-shou-ji-ke-huan/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **数码** | 身边的科技创新
-
-2600 字 / 7 分钟
-
-本文由**航通社**首发于**cnBeta.com**，原创文章未经授权请勿转载
-
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 一块小小的手机壳，不仅起到保护机身的作用，也承载了机主的个性，寄托了多种多样的情感。
 
@@ -155,7 +147,5 @@ Oppo最近解禁的一项专利，准备将后屏“复活”，将自拍和视�
 - [锤子的“电脑”，也没你们说的那么一无是处吧](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659738&idx=1&sn=5b66b66a0403103d1e591234f3818f94&chksm=be96929689e11b80b6f86f209d22004f2c1b84fe187ffb3c9f7702c65b2aa94bdc1fe2590938&scene=21#wechat_redirect)
 
 - [吉利汽车在京推介新中控系统 盘点各厂商智能车机方案](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659703&idx=1&sn=328c54f5c7b7398b070eb7f1a6104911&chksm=be96927b89e11b6dbdceff1b73d919630e778cc593bc8e1a66e1e5c5e62093ceefd62d648c44&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659854&idx=1&sn=7da1ed122983cb233170c6febb2871cc&chksm=be96950289e11c143a2a24f0e175f78869c32d3e895cd145e800cb61a7e9e2b388cf3669ed6a#wechat_redirect)

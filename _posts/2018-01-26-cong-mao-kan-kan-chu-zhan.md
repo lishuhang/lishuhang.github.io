@@ -107,6 +107,3 @@ image: /2018/01/27/cong-mao-kan-kan-chu-zhan/01.jpg
 
 本文首发于
 
-微信公众号：航通社（ID:lifeissohappy)
-
-微博：@lishuhang

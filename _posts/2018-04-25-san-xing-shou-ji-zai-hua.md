@@ -9,9 +9,6 @@ image: /2018/04/25/san-xing-shou-ji-zai-hua/01.jpg
 
 题图制作：航通社/Pixabay
 
-本文首发于百家号，原创文章未经授权请勿转载
-航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
-
 过去一段时间，小米、华为、OV争相报告自己在国内手机市场的份额又进一步增加了，并且为此多次打起了口水仗。
 
 但是在这种争论的背后，却很少有人有时间去思考一个问题：在中国手机市场去年第一次出现停滞以至于负增长的局面当中，这些手机厂商的份额，都是从哪个厂商的身上夺来的？
@@ -163,7 +160,5 @@ S9众多新改进当中，相对可能最吸引人的还是摄像头的硬件配
 [你根本不懂中国：三星应该召回每一台中国区Note 7](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658636&idx=1&sn=15455dbe5591dacfcfa840d2ced2a29e&scene=21#wechat_redirect)
 
 [三星新旗舰主打 AR 表情，为啥我认为这个功能会失败](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=3&sn=dbcdfe5e4a9002a0be35d9905e4e90bc&chksm=be96923789e11b213b84e9e3d45a820622988c0108868531d0b6ee6cf825e8fddc3b787680a6&scene=21#wechat_redirect)
-
-*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659648&idx=2&sn=ae06c3bc3fa336554ce8c91b00161011&chksm=be96924c89e11b5a60a9bba188b35e2a38165056db3e82b91a3487ebe6ca3312981b7792c970#wechat_redirect)

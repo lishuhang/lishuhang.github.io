@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/08/12/ofo-xiao-huang-che-fu-wo/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/08/12/ofo-xiao-huang-che-fu-wo/01.jpg)
 
 书航 8 月 12 日发于北京

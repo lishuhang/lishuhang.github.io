@@ -97,6 +97,4 @@ YouTube删除超过15万个视频，封禁相关频道，但并未让Elsagate绝
 
 原创文章未经授权请勿转载
 
-本文首发于微信公众号：航通社（ID:lifeissohappy)| 微博：@lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658948&idx=1&sn=5364bff319dd5e2be6e9c6c07a07aaa3&chksm=be96918889e1189ea9336a358cd74c088aaefc9d933fa9e5183e81154656882663abe4d2b2f7#wechat_redirect)

@@ -29,8 +29,3 @@ image: /2016/07/29/ye-tan-ni-ming-de-bu/01.jpg
 
 题图：Flickr
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

@@ -27,8 +27,3 @@ image: /2016/07/05/dui-cheng-shi-min-zu-gong/01.jpg
 
 作为中华人民共和国公民，希望大家也积极行使政治权利，为社会主义法制建设做一点微小的贡献。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

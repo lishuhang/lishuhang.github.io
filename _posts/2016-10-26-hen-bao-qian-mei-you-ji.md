@@ -17,8 +17,6 @@ image: /2016/10/26/hen-bao-qian-mei-you-ji/01.jpg
 
 当您直接回复本文章或者公众号的时候，也会收到跟上面一样的回复，建议您发邮件给我。以前我不能及时看公众号后台，但今后希望尽可能正规化运作，会更及时的在后台回复您。
 
-同时一如既往的希望您订阅本公众号（id：**lifeissohappy**）和我女票的旅游向公众号“走着走着就到了”（id：**zouzhezouzhejiudaole**）。
-
 点击“**[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=403008102&idx=1&sn=3bb5d701ca1085c4dd4b8406a306ea2d#rd)**”可以查看关于我的简单个人介绍。
 
 谢谢！

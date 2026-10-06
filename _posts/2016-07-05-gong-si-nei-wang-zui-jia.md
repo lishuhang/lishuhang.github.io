@@ -63,8 +63,3 @@ image: /2016/07/05/gong-si-nei-wang-zui-jia/01.jpg
 
 新浪（独家）
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

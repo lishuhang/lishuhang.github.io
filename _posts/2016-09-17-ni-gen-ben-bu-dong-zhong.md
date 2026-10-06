@@ -59,10 +59,3 @@ image: /2016/09/17/ni-gen-ben-bu-dong-zhong/01.jpg
 
 我认为，如果中国人真有这个要求，你不能说它不合理。毕竟卖机器就是卖给这样的人，为了召回要多花多少成本，在这个时候已经不重要了。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
-**［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

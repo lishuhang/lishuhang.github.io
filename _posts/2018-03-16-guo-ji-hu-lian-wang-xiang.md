@@ -7,12 +7,8 @@ tags: [科技]
 image: /2018/03/16/guo-ji-hu-lian-wang-xiang/01.jpg
 ---
 
-**👆点击名字订阅【航通社】公众号**
-
 *本文首发于*
 
-*微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
 2016年2月，“唐茶”、“字节社”和“IT公论”的创始人李如一在博客上写了一篇文章，叫《告别微信》[1] 。如果你没听说过这个人是谁，这不重要。先看看他说了什么：
@@ -89,6 +85,5 @@ image: /2018/03/16/guo-ji-hu-lian-wang-xiang/01.jpg
 
 *商业转载和引用
 请在公众号对话框
-输入关键字【**转载**】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659505&idx=1&sn=cb269b0a1040dfaa9f3fb7cf5c8e1637&chksm=be9693bd89e11aab8f5721b60d3470ea5357d3975939f83879d3d5729a2f71dc3d925199e6d9#wechat_redirect)

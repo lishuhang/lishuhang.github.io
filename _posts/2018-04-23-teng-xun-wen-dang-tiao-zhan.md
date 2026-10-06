@@ -7,9 +7,6 @@ tags: [科技]
 image: /2018/04/23/teng-xun-wen-dang-tiao-zhan/01.jpg
 ---
 
-本文首发于百家号，原创文章未经授权请勿转载
-航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
-
 4月18日，腾讯高调推出“腾讯文档”，这是一款可以多人协作的在线文档产品，可打通QQ、微信等平台在电脑网页版和手机客户端、小程序等多个平台，并加入了翻译、股票函数、浏览权限控制等功能。
 
 早在去年 8 月，航通社（ID：lifeissohappy）就曾预测，当时还是TIM（即办公版QQ）一项附属功能的腾讯文档，不仅会直接PK石墨、一起写等同类产品，甚至会抢夺以微软Office为代表的，整个广义的办公软件市场份额。
@@ -160,8 +157,6 @@ Office 已经接触到大量的用户，而且培养了用户的习惯，Office 
 
 [4]https://zhuanlan.zhihu.com/p/29869840
 
-*～欢迎转发到朋友圈～
 商业转载和引用
-请在公众号对话框输入关键字【转载】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659606&idx=1&sn=c65d567ea1f37dde1da4a4962b2d9b11&chksm=be96921a89e11b0ce696d7dfeb29cab79ca726e71a6173b2d70d2ad22e0fe56c2c52d19b40bc#wechat_redirect)

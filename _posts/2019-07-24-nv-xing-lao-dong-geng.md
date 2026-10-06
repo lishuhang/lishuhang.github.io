@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/24/nv-xing-lao-dong-geng/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 3300 字
 
 ![](/2019/07/24/nv-xing-lao-dong-geng/01.jpg)
@@ -120,8 +118,6 @@ FT 的文章同样建议企业和社会推出举措，鼓励女孩学习 STEM �
 [2] http://www.ftchinese.com/story/001083609?full=y
 
 ![](/2019/07/24/nv-xing-lao-dong-geng/02.jpg)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/24/nv-xing-lao-dong-geng/03.png)
 

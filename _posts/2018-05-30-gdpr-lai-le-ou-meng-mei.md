@@ -7,12 +7,6 @@ tags: [科技]
 image: /2018/05/30/gdpr-lai-le-ou-meng-mei/01.jpg
 ---
 
-👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载
-
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 简称为 GDPR 的欧盟《通用数据保护法案》，5月下旬正式生效了。
 
 人们一般把中国和美国当做是唯二的最大科技创新策源地和消费市场，在网络创新浪潮当中，整个欧洲的位置显得没有过去几十年工业化历史上那么重要了。
@@ -204,7 +198,5 @@ Schrems 选择在爱尔兰提起诉讼，因为此地是Facebook在美国以外�
 - [苹果谷歌要给表情符号“禁枪”，这是毁灭它的危险一步](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659689&idx=1&sn=c9bdaa3d463e202fbe8c6f4d6bacb6b8&chksm=be96926589e11b73cccdf3aae93c3659903295b2ed75911bd59ea709f7ea477a57b23a46504d&scene=21#wechat_redirect)
 
 - [为什么说扎克伯格的听证会“首秀合格”？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=1&sn=feb1226d58075e74a4809b2d2daeb19f&chksm=be96923789e11b21628991695036dd596b2888b0539a1cac5307dca0b1a7c971498e4f935ba4&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“转载”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659744&idx=1&sn=063d1143ac2860e34a6a408959609142&chksm=be9692ac89e11bba39f9e879fb1211122d116f601e7368e51af98c76208de74f5dfe9f9686c8#wechat_redirect)

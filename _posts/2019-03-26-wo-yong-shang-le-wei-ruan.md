@@ -7,10 +7,6 @@ tags: [科技]
 image: /2019/03/26/wo-yong-shang-le-wei-ruan/01.png
 ---
 
-👆点第二个航通社，先关注，再加星⭐
-
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@航通社
-
 ![](/2019/03/26/wo-yong-shang-le-wei-ruan/01.png)
 
 航通社作者 书航 3月26日发于北京
@@ -123,6 +119,3 @@ https://www.theverge.com/2018/12/19/18148736/google-youtube-microsoft-edge-inter
 
 ![](/2019/03/26/wo-yong-shang-le-wei-ruan/18.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-和 3000+ 个小伙伴一起点 在看 👇

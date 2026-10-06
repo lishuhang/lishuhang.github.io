@@ -9,8 +9,6 @@ image: /2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg
 
 不要期待“这次真的不一样了”。
 
-航通社首发原创文章，未经授权禁止转载
-
 微博：@航通社 | 微信搜一搜：航通社
 
 ![](/2021/11/23/lian-xiang-wu-xu-jing-huang/01.jpg)
@@ -162,5 +160,3 @@ http://www.ccg.org.cn/archives/38356
 请联系航通社助理微信号：hangtongshe
 
 附言填口令【航通社读者进群】
-
-⏩分享 | 📦收藏 | 👍点赞 | ❄在看

@@ -33,7 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/22205847"
 
 [动点科技](http://cn.technode.com/post/2016-08-27/hubing-live-delivery/)
 
-> 微信公众号 lifeissohappy
 >
 >
 >
@@ -41,4 +40,3 @@ source: "https://zhuanlan.zhihu.com/p/22205847"
 >
 >
 >
-> 新浪微博 @lishuhang

@@ -47,8 +47,3 @@ image: /2016/09/03/ken-de-ji-xing-ma-gong/01.jpg
 
 文章首发于 网易科技 ，点击 **阅读原文** 可了解详情
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

@@ -115,6 +115,4 @@ image: /2018/03/11/bu-di-su-wu-ning-si/01.jpg
 
 [4] http://36kr.com/p/5090570.html
 
-*本文首发于**微信公众号：航通社 (ID:lifeissohappy)**微博：@lishuhang**原创文章，未经授权，请勿转载**欢迎转发到朋友圈*
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659453&idx=1&sn=6229eb218ee60f9bf6ea5abe41ed2d23&chksm=be96937189e11a67b12d154dd38f18d4abf88b9669e9bd931ebbc8648b0012fe4910803ebb46#wechat_redirect)

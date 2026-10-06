@@ -7,13 +7,7 @@ tags: [科技]
 image: /2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **传媒** | 新闻传播学观察
-
-3200 字 / 9 分钟
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 追偶像是每个人的权利，每个人也有各自不同的追星方式。但大致来说，你总能把所有的粉丝分为两类人。
 
@@ -126,5 +120,3 @@ image: /2018/07/09/ba-ou-xiang-dang-zuo-zi/01.jpg
 - [对骂群是个好产品](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659775&idx=1&sn=2c961d374fc2cac044f379398ea4ea19&chksm=be9692b389e11ba51f9a5f9a94c4e970b23a2926cdb4eed97ab85460518d78b7bceb7b81fa60&scene=21#wechat_redirect)
 
 - [你相信了那张假的马化腾微信截图，还有什么资格嘲笑长辈和微商？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659700&idx=1&sn=cf09760a5acf44178e580b94cfb40f2d&chksm=be96927889e11b6eea27ef48b0edbaceb5576873035972f94bc22e117275a3d339e2e2a6cf48&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。

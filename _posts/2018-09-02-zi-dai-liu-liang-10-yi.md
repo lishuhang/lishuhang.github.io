@@ -9,8 +9,6 @@ image: /2018/09/02/zi-dai-liu-liang-10-yi/01.jpg
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHJupWrfkDQdZ1f4OAzVQ9Yu0SLbP1UZbUPD1whWD2GibxlicvqXNibYAuI2oyN6FvsVX0HzIVYHD73Qw/640?wx_fmt=jpeg)
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
-
 “被腾讯借鉴了怎么办”已经不是这届创业者最担心的生死之问了，他们现在关心的是张一鸣会不会做个同类出来。
 
 字节跳动不是看一行就做一行，但一出手就身手不凡。通过抖音的凶猛攻势，它甚至开始抢占微信的“国民总时间”，对腾讯形成了巨大压力，这是以往让人想都不敢想的。
@@ -216,5 +214,3 @@ QuestMobile 去年 10 月数据显示，知乎 App 和悟空问答 App 重合�
 2018.9.2
 
 ![](/2018/09/02/zi-dai-liu-liang-10-yi/05.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

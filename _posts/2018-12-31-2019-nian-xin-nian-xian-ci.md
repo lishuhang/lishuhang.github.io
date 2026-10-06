@@ -10,8 +10,6 @@ image: /2018/12/31/2019-nian-xin-nian-xian-ci/01.jpg
 
 ![图片](/2018/12/31/2019-nian-xin-nian-xian-ci/01.jpg)
 
-本文为 **航通社 **原创文章，未经授权，禁止转载。航通社微信：**lifeissohappy **微博：**@航通社**
-
 > 本文于 2018 年 12 月 31 日首发于 [http://cnBeta.com](http://cnBeta.com)
 
 各位亲爱的访客朋友：新年好！
@@ -157,5 +155,3 @@ LJ 执笔
 [http://cnBeta.COM](http://cnBeta.COM) 全体成员
 
 2018.12.31
-
-欢迎随手**转发到朋友圈**。寻求**转载授权**，请关注微信公众号**航通社 (ID:lifeissohappy)** ，并在后台留言输入关键字**转载**。转载时请保留版权信息。

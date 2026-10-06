@@ -37,8 +37,3 @@ Verizon并不是全美最大的运营商，只是几大运营商之一。在此�
 
 网易科技
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

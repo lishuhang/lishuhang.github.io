@@ -7,8 +7,6 @@ tags: [科技]
 image: /2018/05/31/mei-dian-tou-mei-zuo-zhe/01.jpg
 ---
 
-👆点上面**航通社**订阅
-
 然后开启**置顶公众号**
 
 5月30日下午，新华网出现一篇名为《多少道文件才能管住网游对少年儿童的戕害》的稿件，通过百度新闻、今日头条等客户端的大举推送，到了晚间，已经在科技从业者中传开。
@@ -200,7 +198,5 @@ image: /2018/05/31/mei-dian-tou-mei-zuo-zhe/01.jpg
 - [从暖心鸡汤到“股股殷红”，鬼知道“二更食堂”经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659725&idx=1&sn=dacd4729c0458eff5bb9f8c9d0ebbf08&chksm=be96928189e11b970e1f8197eedfa500b74366ed94458cce42cda21a10139460a538d7c953c7&scene=21#wechat_redirect)
 
 - [你相信了那张假的马化腾微信截图，还有什么资格嘲笑长辈和微商？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659700&idx=1&sn=cf09760a5acf44178e580b94cfb40f2d&chksm=be96927889e11b6eea27ef48b0edbaceb5576873035972f94bc22e117275a3d339e2e2a6cf48&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“转载”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659747&idx=1&sn=0b6cd7ba6a09199099603c3c2fefcc1b&chksm=be9692af89e11bb9779ae070d08b3363ed044be20dd97a46d50c3548cfc232906cef7313d56c#wechat_redirect)

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/10/07/mei-you-ren-neng-pi-ping/01.jpg
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/10/07/mei-you-ren-neng-pi-ping/01.jpg)
 
 书航 10 月 7 日发于北京

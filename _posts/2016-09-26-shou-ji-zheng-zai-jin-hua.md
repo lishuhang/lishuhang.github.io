@@ -99,9 +99,4 @@ Pay（支付）成为手机行业炙手可热的关键字。Apple Pay、Samsung 
 
 [百度德尔塔俱乐部(公众号：delta-2013)](http://mp.weixin.qq.com/s?__biz=MzA3NzAzNDUwNA==&mid=2650019554&idx=1&sn=d7b05480e005cec089b78ce1d4c11bb7&chksm=87589385b02f1a935bb84e3d46c8d03d566fd52edec5f25b077be75c87632d01f96cc40c0ab9&mpshare=1&scene=1&srcid=0926SnPHVCjoYfoPgO1VeLFX#rd)
 
-
-
-> 微信公众号 lifeissohappy
 > 知乎专栏 [航通社 - 知乎专栏](https://zhuanlan.zhihu.com/lishuhang)
-> 新浪微博 @lishuhang
-> **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

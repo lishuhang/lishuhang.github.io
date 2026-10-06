@@ -56,5 +56,3 @@ https://www.bilibili.com/video/av86423566
 ![](/2020/02/05/bei-yi-qing-dong-yuan-qi/05.jpg)
 
 👇 辨认假消息和辟谣越来越难了，难在哪里？点击阅读原文
-
-点击在看……给社长点个赞！👍

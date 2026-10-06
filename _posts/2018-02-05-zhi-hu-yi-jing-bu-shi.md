@@ -59,8 +59,6 @@ image: /2018/02/06/zhi-hu-yi-jing-bu-shi/01.jpg
 
 **文章首发于动点科技
 原创文章 未经授权 请勿转载 
-微信公众号：航通社（ID:lifeissohappy) 
-微博：@lishuhang**
 
 [1] https://zhuanlan.zhihu.com/p/21349196
 [2] http://www.geekpark.net/news/187221

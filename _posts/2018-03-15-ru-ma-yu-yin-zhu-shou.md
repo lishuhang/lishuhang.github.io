@@ -8,8 +8,6 @@ image: /2018/03/15/ru-ma-yu-yin-zhu-shou/01.jpg
 ---
 
 *本文首发于动点科技
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
 当你第一次开始玩一个语音助手的时候，你会对 ta 做的最多的一件事情是什么？
@@ -63,8 +61,6 @@ B 站用户“科里斯”的选择是对这样的一个小女孩远程性侵犯
 [3] https://work.qz.com/1180607/amazons-alexa-is-now-a-feminist-and-shes-sorry-if-that-upsets-you/
 [4] https://hotair.com/archives/2018/01/24/guys-alexa-victim-patriarchy/
 
-*～欢迎转发到朋友圈～**商业转载和引用
 请在公众号对话框
-输入关键字【**转载**】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659517&idx=1&sn=e9d34c0f13cdd513cf8e34123152ea18&chksm=be9693b189e11aa7db34c14cc699c3e21f0d6a350f845b7230bcc9dd6d705d88f5484aaeaaed#wechat_redirect)

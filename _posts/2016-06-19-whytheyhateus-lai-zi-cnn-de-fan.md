@@ -69,8 +69,3 @@ http://edition.cnn.com/2016/04/08/opinions/why-they-hate-us-zakaria/
 
 以下是一些评论：
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

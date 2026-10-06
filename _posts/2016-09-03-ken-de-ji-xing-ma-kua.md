@@ -49,10 +49,4 @@ image: /2016/09/03/ken-de-ji-xing-ma-kua/01.jpg
 
 新浪（独家）
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658545&idx=1&sn=6326ff8d8fed42d075466b5d2b6cfb8c&chksm=be969ffd89e116ebaa5a2950e09ab88fb5764dc782d0932fee55ddf1b9e5fc5261c89abb5767#wechat_redirect)

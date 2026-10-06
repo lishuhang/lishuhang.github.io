@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **热点** | 最近什么在流行
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 走入IPO进程的美团，目前最大的压力来源，非阿里莫属。
 
@@ -104,5 +100,3 @@ image: /2018/07/04/duo-xian-zuo-zhan-de-mei/01.jpg
 - [锤子和 YunOS 是怎么合体的？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659193&idx=1&sn=6564dadc134db4cfe3a740eed076bc11&chksm=be96907589e11963b46fb440c69e70b409ece8721c2902abe2d5f4475db4b79fbd6ab50a74a3&scene=21#wechat_redirect)
 
 - [淘宝的互联网入口野心：从“刷脚购物”说起](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658997&idx=1&sn=7f102f149225a703581d85b42b7aa6e0&chksm=be9691b989e118af25758ee9559e61e0aebcf849e68d7da748ac01b6d76ee96092bd13400d09&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**

@@ -97,8 +97,3 @@ image: /2016/08/07/lv-xing-ji-lu-chi-huo/01.jpg
 
 嗯，就酱。祝大家看（chan）得开心哦~~
 
-> 微信公众号 lifeissohappy
-
-> 知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-> 新浪微博 @lishuhang

@@ -66,5 +66,3 @@ image: /2016/03/29/zhen-gui-de-chun-guang/01.jpg
 以上文章，点击 **阅读原文** ，进入专栏即可看到。知乎专栏改版了，而且好像已经开放注册了。最近会就此写一篇文章。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

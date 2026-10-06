@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/17/deng-yue-xian-qu-de-ming/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 4500 字
 
 ![](/2019/07/17/deng-yue-xian-qu-de-ming/01.jpg)
@@ -162,8 +160,6 @@ Stuhlinger 博士在题为《为什么要探索宇宙》的回信中说，通过
 [8] https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 
 ![](/2019/07/17/deng-yue-xian-qu-de-ming/03.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/17/deng-yue-xian-qu-de-ming/04.png)
 

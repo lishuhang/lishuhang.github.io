@@ -21,6 +21,4 @@ image: /2016/04/03/ifttt-zhen-shi-ge-hao-dong/01.jpg
 
 **航通社**http://lishuhang.me
 
-**新浪微博** @lishuhang
-
 **微信公众号****L**I F E **I**S **S**O **H**A P P Y

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/06/06/wen-gu-zhi-xin-shi-shen/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社网站：lishuhang.me 微信号：lifeissohappy 微博：@航通社
-
 ![](/2019/06/06/wen-gu-zhi-xin-shi-shen/01.jpg)
 
 书航 6 月 6 日发于北京

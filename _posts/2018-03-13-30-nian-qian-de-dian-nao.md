@@ -54,6 +54,4 @@ X86 应用并不作为微软建立应用商店之后的重点，而是在近一�
 [1] https://cn.technode.com/?p=162220
 [2] http://www.thurrott.com/windows/windows-10/151582/exclusive-windows-10-s-dead-long-live-s-mode
 
-*本文首发于动点科技**微信公众号：航通社 (ID:lifeissohappy)**微博：@lishuhang**原创文章，未经授权，请勿转载**欢迎转发到朋友圈*
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659500&idx=1&sn=5b1908f16039bb87d99616a397e98b87&chksm=be9693a089e11ab659cdce6dd8c06a51dee0b273cdfb62b6a5724690562e2309cdd2795bb448#wechat_redirect)

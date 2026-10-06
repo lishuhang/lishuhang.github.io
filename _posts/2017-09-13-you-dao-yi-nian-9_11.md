@@ -7,8 +7,6 @@ tags: [科技]
 image: /2017/09/13/you-dao-yi-nian-9_11/01.jpg
 ---
 
-新媒体管家
-
 ![](/2017/09/13/you-dao-yi-nian-9_11/01.jpg)
 
 文|书航

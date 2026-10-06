@@ -74,11 +74,6 @@ Bang 两个操作方式。我认为Big Bang精确模拟了鼠标操作，One Ste
 
 [新浪（独家，禁止转载）](http://tech.sina.com.cn/zl/post/detail/it/2016-10-19/pid_8508749.htm)
 
-
-
-> 微信公众号 lifeissohappy
 > 知乎专栏 [https://zhuanlan.zhihu.com/lishuhang](https://zhuanlan.zhihu.com/lishuhang)
-> 新浪微博 @lishuhang
 > **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！**
 > 知乎专栏 [https://zhuanlan.zhihu.com/c_45860409](https://zhuanlan.zhihu.com/c_45860409)
-> 微信公众号 zouzhezouzhejiudaole

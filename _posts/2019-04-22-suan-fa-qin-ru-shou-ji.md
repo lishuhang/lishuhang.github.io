@@ -9,8 +9,6 @@ image: /2019/04/22/suan-fa-qin-ru-shou-ji/01.jpg
 
 ![](/2019/04/22/suan-fa-qin-ru-shou-ji/01.jpg)
 
-本文首发于航通社，原创文章未经授权禁止转载航通社 微信：lifeissohappy 微博：@航通社
-
 ![](/2019/04/22/suan-fa-qin-ru-shou-ji/02.jpg)
 
 书航 4 月 22 日发于北京
@@ -101,6 +99,3 @@ image: /2019/04/22/suan-fa-qin-ru-shou-ji/01.jpg
 
 ![](/2019/04/22/suan-fa-qin-ru-shou-ji/07.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-和 3500+ 个小伙伴一起点 在看 👇

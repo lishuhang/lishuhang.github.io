@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/10/16/wei-shen-me-wo-men-bei/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。
-
 ![](/2019/10/16/wei-shen-me-wo-men-bei/01.png)
 
 书航 10月16日发于北京
@@ -100,5 +98,3 @@ WeWork 现在的情况很糟糕，它已经失去了当初勉力维持的神圣�
 航通社增值会员服务“航通社的朋友们”火热开启订阅！请点击【阅读原文】查看详情
 
 ![](/2019/10/16/wei-shen-me-wo-men-bei/03.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/06/19/wei-ruan-hong-xiao-wen-ying/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 lishuhang.me 微信号：lifeissohappy 微博：@航通社
-
 全文约 7200 字
 
 ![](/2019/06/19/wei-ruan-hong-xiao-wen-ying/01.jpg)

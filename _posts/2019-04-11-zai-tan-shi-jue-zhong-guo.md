@@ -7,13 +7,7 @@ tags: [科技]
 image: /2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 ---
 
-👆点第二个航通社，先关注，再加星⭐
-
 ![](/2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg)
-
-本文首发于航通社，原创文章未经授权禁止转载
-
-航通社 微信：lifeissohappy 微博：@航通社
 
 ![](/2019/04/11/zai-tan-shi-jue-zhong-guo/02.jpg)
 
@@ -146,5 +140,3 @@ image: /2019/04/11/zai-tan-shi-jue-zhong-guo/01.jpg
 [10] http://guoqing.china.com.cn/2011-10/10/content_23588690.htm
 
 ![](/2019/04/11/zai-tan-shi-jue-zhong-guo/05.jpg)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

@@ -9,9 +9,6 @@ image: /2018/05/02/xiao-du-zai-jia-shi-ai/01.jpg
 
 题图/航通社
 
-本文首发于**百家号**，原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 在人工智能和信息流概念驱动下，百度2018年第一季度营收同比增长31%，净利润同比增长277%。而DuerOS作为百度AI战略的重要支撑之一，与TCL、海尔、美的、创维、极米等160家企业达成合作关系，共发布超过90款搭载DuerOS的硬件产品。
 
 在这之中，与小鱼在家合作推出的“小度在家”堪称DuerOS的官方示范产品，可以说像Surface之于微软，Pixel之于谷歌，HomePod之于苹果一样，具有标杆意义。
@@ -198,8 +195,6 @@ DuerOS现在已经是一个非常宽泛的概念，*航通社（ID：lifeissohap
 
 [新房装修要搞“智能家居”？不妨看看这些建议](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658705&idx=1&sn=77e0355c4671398444c243b41e871aed&chksm=be969e9d89e1178bdf1d738dbfb3b4f70cc1d075451c2b769344a2c9f54e381403f83b947653&scene=21#wechat_redirect)
 
-*～欢迎转发到朋友圈～
 商业转载和引用
-请在公众号对话框输入关键字【转载】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658817&idx=1&sn=41a9f9a79d6cd27182f6ddf9ca5f43f5&chksm=be96910d89e1181bef8908a4a77feadf3c44b46d54977aa823fd4facf73e4409df7e3eb6d753#wechat_redirect)

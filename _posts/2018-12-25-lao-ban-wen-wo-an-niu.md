@@ -8,8 +8,6 @@ source: "https://zhuanlan.zhihu.com/p/53260669"
 image: /2018/12/25/lao-ban-wen-wo-an-niu/01.jpg
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@lishuhang](https://weibo.com/lishuhang/)**
-
 ![图片](/2018/12/25/lao-ban-wen-wo-an-niu/01.jpg)
 
 航通社作者 书航 12月25日发于广州
@@ -188,4 +186,3 @@ AntD开发者并不需要为受到损失的使用者承担任何责任，因为�
 
 [https://u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE](https://u.wechat.com/MHjYuiX3CjCKfjv5UwAsGwE) (二维码自动识别)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy) **，并在后台留言输入关键字**转载**。转载时请保留版权信息。

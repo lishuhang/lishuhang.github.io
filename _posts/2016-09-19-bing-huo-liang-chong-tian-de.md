@@ -101,9 +101,6 @@ DT财经分析认为，和知乎知识社区调性最相配的中科院，在登
 
 [媒记（微信：zxdnmtzj）](http://mp.weixin.qq.com/s?__biz=MzA3MTY0ODAxNw==&mid=2652983487&idx=1&sn=4e98dd42e634307c6fe551eca8a501cf)
 
-
-
-> 微信公众号 lifeissohappy
 >
 >
 >
@@ -111,8 +108,6 @@ DT财经分析认为，和知乎知识社区调性最相配的中科院，在登
 >
 >
 >
-> 新浪微博 @lishuhang
 >
 >
 >
-> **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2018/08/29/di-di-bu-an-quan-wei/01.jpg
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。**航通社** 微信：**lifeissohappy** 微博：**@lishuhang**
-
 上次航通社写完[一篇滴滴顺风车的文章](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659953&idx=1&sn=63089e5826375e05c8d755f443ed9ef7&scene=21#wechat_redirect)，有读者在评论区说：“**滴滴不安全，为啥还要坐？**”
 
 这是个省略了主语的问题，所以我不知道他指的是谁。但不管指谁，这都是个好问题。
@@ -158,5 +156,3 @@ image: /2018/08/29/di-di-bu-an-quan-wei/01.jpg
 2018.8.29
 
 ![](/2018/08/29/di-di-bu-an-quan-wei/03.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

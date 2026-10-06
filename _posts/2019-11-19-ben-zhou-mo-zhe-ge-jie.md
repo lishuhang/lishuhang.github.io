@@ -47,8 +47,4 @@ image: /2019/11/19/ben-zhou-mo-zhe-ge-jie/01.gif
 
 ![](/2019/11/19/ben-zhou-mo-zhe-ge-jie/03.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 👇点击阅读原文查看活动日程（但记得回来这里按小程序码注册）。
-
-点击在看……为社长点个赞！👍

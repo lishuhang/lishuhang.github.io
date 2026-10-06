@@ -37,9 +37,7 @@ source: "https://zhuanlan.zhihu.com/p/19923967"
 
 如果不知道或拿不准该怎么办，请直接联系我：
 
-> 微信公众号 lifeissohappy
 > ​知乎专栏 [https://zhuanlan.zhihu.com/lishuhang](https://zhuanlan.zhihu.com/lishuhang)
-> 新浪微博 @lishuhang
 
 所有说明和描述，如有变动，则以最新一次修改为准。
 

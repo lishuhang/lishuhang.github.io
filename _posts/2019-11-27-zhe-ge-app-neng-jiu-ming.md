@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/11/27/zhe-ge-app-neng-jiu-ming/01.png)
 
 书航 11 月 26 日发于北京
@@ -75,8 +73,4 @@ image: /2019/11/27/zhe-ge-app-neng-jiu-ming/01.png
 
 ![](/2019/11/27/zhe-ge-app-neng-jiu-ming/07.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 👇点击阅读原文下载红十字会急救 App。
-
-点击在看让更多人看到这篇文章！👍

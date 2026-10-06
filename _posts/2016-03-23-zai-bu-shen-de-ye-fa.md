@@ -30,5 +30,3 @@ image: /2016/03/23/zai-bu-shen-de-ye-fa/01.jpg
 好的我不是本来要发chī的么？这就来啦！
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

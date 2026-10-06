@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/11/04/qing-hua-zi-ran-yu-yan/01.png
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/11/04/qing-hua-zi-ran-yu-yan/01.png)
 
 书航 11 月 4 日发于北京

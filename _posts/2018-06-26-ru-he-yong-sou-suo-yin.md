@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/06/26/ru-he-yong-sou-suo-yin/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **热点** | 最近什么在流行
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 有媒体报道，通过搜索引擎，可以找到一些“相约自杀”的QQ群、微信群等，成为有些年轻人自杀的诱因。
 
@@ -184,7 +180,5 @@ image: /2018/06/26/ru-he-yong-sou-suo-yin/01.jpg
 - [流量转社交这条路，百度没走通，那今日头条呢？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658965&idx=2&sn=bf3715cea00d8dc59086873bf2de89f8&chksm=be96919989e1188fd645ce87395f063e168cb77dba150dd0eed05630b72962ab7e1bad782dd6&scene=21#wechat_redirect)
 
 - [一个知乎重度用户眼中的“百度派”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658702&idx=1&sn=4dc12dc75ef360f72023e1341fcefec9&chksm=be969e8289e117949c81b77ecb16e3a89fde605df8948cd9d103da4d2c81e9cdb63a0cc3d92c&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659693&idx=1&sn=43bddf2ba29e9768100602af0729ccc6&chksm=be96926189e11b77e7afc464158acd3a37258537b3c68730f0c88e233c7def7482b1b0b0a51a#wechat_redirect)

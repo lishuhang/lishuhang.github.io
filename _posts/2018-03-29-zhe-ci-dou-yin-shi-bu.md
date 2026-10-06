@@ -7,10 +7,6 @@ tags: [科技]
 image: /2018/03/29/zhe-ci-dou-yin-shi-bu/01.jpg
 ---
 
-点上面的蓝字 **👆****航通社**订阅我们
-
-*本文首发于动点科技**航通社 (ID:lifeissohappy) 微博：@lishuhang**原创文章，未经授权，请勿转载*
-
 针对 3 月 25 日有抖音视频链接在微信朋友圈中疑似被屏蔽一事，腾讯表示朋友圈有防刷屏策略，某个链接或域名单日分享超过一定阈值就会不可见，过了次日凌晨便恢复正常。“ 这次抖音就属于这种情况，不存在屏蔽一说。” [1]
 
 与此同时，抖音在新浪微博同样被屏蔽 [2] ，但事情相对就简单得多。微博这边就大大方方的承认说，今日头条底下的所有产品现在都在停掉接口当中。
@@ -58,7 +54,5 @@ image: /2018/03/29/zhe-ci-dou-yin-shi-bu/01.jpg
 [3] https://www.ifanr.com/1001159
 [4] https://mp.weixin.qq.com/s/g6CNKrtZZxsDzxjq1LqLMA
 [5] https://www.leiphone.com/news/201507/rF8H9Acit211hYau.html
-
-*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530#wechat_redirect)

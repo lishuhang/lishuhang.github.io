@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/09/19/guo-chan-pc-cao-zuo-xi/01.jpg)
 
 书航 9 月 19 日发于北京

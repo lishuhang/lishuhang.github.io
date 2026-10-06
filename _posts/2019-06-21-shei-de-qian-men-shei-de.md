@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/06/21/shei-de-qian-men-shei-de/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 4200 字
 
 ![](/2019/06/21/shei-de-qian-men-shei-de/01.jpg)
@@ -158,5 +156,3 @@ image: /2019/06/21/shei-de-qian-men-shei-de/01.jpg
 [8] https://www.nytimes.com/2019/03/03/technology/amazon-new-york-politics-jobs.html
 
 ![](/2019/06/21/shei-de-qian-men-shei-de/07.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

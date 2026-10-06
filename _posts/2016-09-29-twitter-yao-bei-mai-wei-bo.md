@@ -49,11 +49,6 @@ Twitter 是新浪微博在大洋彼岸的老师。微博与 Twitter 在很多属
 
 [“媒记”（微信公众号：xdnmtzj）](http://mp.weixin.qq.com/s?__biz=MzA3MTY0ODAxNw==&mid=2652983682&idx=1&sn=880a8df6d29ff402503303d5bf1d4b71)
 
-
-
-> 微信公众号 lifeissohappy
 > 知乎专栏 [https://zhuanlan.zhihu.com/lishuhang](https://zhuanlan.zhihu.com/lishuhang)
-> 新浪微博 @lishuhang
 > **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！**
 > 知乎专栏 [https://zhuanlan.zhihu.com/c_45860409](https://zhuanlan.zhihu.com/c_45860409)
-> 微信公众号 zouzhezouzhejiudaole

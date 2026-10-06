@@ -77,8 +77,3 @@ GIF已经成为一门独特的，不可替代的网络语言。虽然本次央�
 
 首发于新榜“媒记”公众号
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

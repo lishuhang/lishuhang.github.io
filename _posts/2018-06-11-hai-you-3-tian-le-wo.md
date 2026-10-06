@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/06/11/hai-you-3-tian-le-wo/01.jpg
 ---
 
-👆点上面**航通社**订阅
-
 然后开启**置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 2018俄罗斯世界杯还有3天就要开幕了。已经广泛退订有线电视，成为“拔线族”的中国大陆观众，到底能通过什么方式在大屏幕上看世界杯，似乎一直没有一个准确的说法。
 
@@ -168,7 +164,5 @@ CNTV平台的建设不能完全符合网民使用的需要，用户体验方面�
 - [社交网络替代视频网站，而视频网站更像电视台了](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658831&idx=1&sn=57b0b1c71380efcbaabfc9c05be9e4af&chksm=be96910389e11815ccddf1f69901de4e1b358a041c6a3338613148c3147720964705e33a6a31&scene=21#wechat_redirect)
 
 - [当电视台也变成PGC：手机直播带来的电视业剧变](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658584&idx=3&sn=e9427cfe4d1a9f7502aa861cc7cf429a&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659738&idx=1&sn=5b66b66a0403103d1e591234f3818f94&chksm=be96929689e11b80b6f86f209d22004f2c1b84fe187ffb3c9f7702c65b2aa94bdc1fe2590938#wechat_redirect)

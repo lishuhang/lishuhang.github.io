@@ -55,10 +55,4 @@ https://zhuanlan.zhihu.com/p/21391688
 
 https://zhuanlan.zhihu.com/p/21394950
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=402683988&idx=1&sn=6bfd923632199dc1787830b1fa777473&chksm=3b6b31580c1cb84ea5f02596d8a0a26a1ae5bd64dd699582781a2506ec4ddc2005813506f2cf#wechat_redirect)

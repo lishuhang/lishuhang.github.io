@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/25/wai-mai-yao-shou-pei/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 2200 字
 
 ![](/2019/07/25/wai-mai-yao-shou-pei/01.jpg)
@@ -86,8 +84,6 @@ image: /2019/07/25/wai-mai-yao-shou-pei/01.jpg
 [2] https://www.cnbeta.com/articles/tech/871287.htm
 
 ![](/2019/07/25/wai-mai-yao-shou-pei/02.jpg)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/25/wai-mai-yao-shou-pei/03.png)
 

@@ -7,12 +7,8 @@ tags: [科技]
 image: /2018/05/10/gu-ge-zhu-shou-dian-can/01.jpg
 ---
 
-👆 点上面的 **航通社** 订阅我们
-
 本文首发于**百家号**
 原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 
-微博 **@lishuhang**
 
 国内用户基本上已经熟悉了在手机上下单订餐。不过很多美国人依然习惯直接给餐厅打电话订位或订餐。
 
@@ -127,8 +123,5 @@ image: /2018/05/10/gu-ge-zhu-shou-dian-can/01.jpg
 - [颤抖吧人类！AI 正占领中日播音主持人行业](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659058&idx=1&sn=d3c2e0f824a31e89f11147ab934d98d6&chksm=be9691fe89e118e87f90cf03a4aa08a1cf71c535bd9bb12bd2f1f1343955e21b182cd36bf3f4&scene=21#wechat_redirect)
 
 - [在机器出事的时刻，人类要像机器一样操作](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659643&idx=4&sn=3c59cc38619b4858c30ff6334075a0a7&chksm=be96923789e11b21c4a34c0e91609b1fe73e42e3ce9f9e1451e46e135fdaca92b2ca2e57aa6a&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 **转载**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658817&idx=1&sn=41a9f9a79d6cd27182f6ddf9ca5f43f5&chksm=be96910d89e1181bef8908a4a77feadf3c44b46d54977aa823fd4facf73e4409df7e3eb6d753#wechat_redirect)

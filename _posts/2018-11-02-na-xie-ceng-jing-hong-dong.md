@@ -134,5 +134,3 @@ image: /2018/11/02/na-xie-ceng-jing-hong-dong/01.png
 2018.11.2
 
 ![](/2018/11/02/na-xie-ceng-jing-hong-dong/04.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

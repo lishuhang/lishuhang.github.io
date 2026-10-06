@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/10/23/chu-men-wen-wen-fa-bu/01.png
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/10/23/chu-men-wen-wen-fa-bu/01.png)
 
 书航 10 月 22 日发于北京

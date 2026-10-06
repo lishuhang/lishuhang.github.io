@@ -43,8 +43,3 @@ image: /2016/06/14/lun-zhi-hu-de-suo-wei/01.jpg
 
 请点击 **阅读原文** 去看这些文章，并且也可以通过知乎再给我打赏一次。谢谢。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

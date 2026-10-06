@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 2400 字
 
 ![](/2019/07/09/kan-dian-ping-app-zhao-can/01.jpg)
@@ -96,8 +94,6 @@ image: /2019/07/09/kan-dian-ping-app-zhao-can/01.jpg
 [3] https://mp.weixin.qq.com/s/Z4e7hh_lJASyKB2izVB4_w
 
 ![](/2019/07/09/kan-dian-ping-app-zhao-can/03.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/09/kan-dian-ping-app-zhao-can/04.png)
 

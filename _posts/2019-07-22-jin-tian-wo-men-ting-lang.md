@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/22/jin-tian-wo-men-ting-lang/01.png
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/07/22/jin-tian-wo-men-ting-lang/01.png)
 
 书航 7 月 22 日发于北京
@@ -62,8 +60,6 @@ https://www.zhihu.com/remix/albums/1133035857896112128
 总而言之……加油吧！
 
 ![](/2019/07/22/jin-tian-wo-men-ting-lang/09.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/22/jin-tian-wo-men-ting-lang/10.png)
 

@@ -45,8 +45,4 @@ image: /2018/01/29/zhe-shi-wei-xin-de-wei/01.jpg
 
 本文首发于
 
-微信公众号：航通社（ID:lifeissohappy)
-
-微博：@lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659397&idx=1&sn=c3b6bee461e31b50d92775cd5cfd7157&chksm=be96934989e11a5fb864ec9cdf10b48d4656f038befde1855fc4b937c5d070fedfcdd37e884e#wechat_redirect)

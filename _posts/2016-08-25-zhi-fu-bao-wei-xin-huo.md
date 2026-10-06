@@ -29,7 +29,6 @@ source: "https://zhuanlan.zhihu.com/p/22182971"
 
 [动点科技](http://cn.technode.com/post/2016-08-26/hk-alipay-wechat-pay/)＋[cnBeta](http://www.cnbeta.com/articles/533111.htm)
 
-> 微信公众号 lifeissohappy
 >
 >
 >
@@ -37,4 +36,3 @@ source: "https://zhuanlan.zhihu.com/p/22182971"
 >
 >
 >
-> 新浪微博 @lishuhang

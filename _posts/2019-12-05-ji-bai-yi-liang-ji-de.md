@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/12/05/ji-bai-yi-liang-ji-de/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/12/05/ji-bai-yi-liang-ji-de/01.png)
 
 书航 12 月 5 日发于杭州
@@ -175,8 +173,4 @@ http://www.caixin.com/2019-08-12/101450033.html
 
 ![](/2019/12/05/ji-bai-yi-liang-ji-de/06.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 👇真实的记者和公关界人士一般会做些什么？点击阅读原文
-
-点击在看……给社长点个赞！👍

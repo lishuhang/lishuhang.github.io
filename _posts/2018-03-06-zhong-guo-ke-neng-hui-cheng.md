@@ -46,10 +46,7 @@ image: /2018/03/06/zhong-guo-ke-neng-hui-cheng/01.jpg
 这将进一步激发中国成为新的互联网产品形态的试验场。中国的网速及资费优势，将和人多、地广、劳动力便宜、部分地方监管宽松等诸多因素加在一起，吸引更多全球范围内的前沿创新项目，在中国率先落地生根。
 
 *本文首发于动点科技
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载
-欢迎转发到朋友圈*
 
 [1] http://www.xinhuanet.com/politics/2018lh/2018-03/05/c_137016973.htm
 [2] https://cn.technode.com/post/2015-05-18/zaobao0518/

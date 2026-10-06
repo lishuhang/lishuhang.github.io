@@ -7,15 +7,9 @@ tags: [科技]
 image: /2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 ---
 
-👆点航通社订阅 然后置顶公众号
-
 传媒 | 新闻传播学观察
 
-7100 字 / 18 分钟
-
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKWrfibB0iaShy6RF8Db86oIrYhvuPbpV7c3g1bbC6uRvicbibeISJvQDocIAicQt26hzwlBq6CyJ38hYw/640?wx_fmt=jpeg)
-
-本文由航通社首发于【航通社】a.com，原创文章未经授权请勿转载。航通社 (ID:lifeissohappy) 微博 @lishuhang
 
 在经纬创投张颖忍无可忍，痛批中国最大的版权图片库视觉中国的“捞钱模式”之后，视觉中国负责人接受了采访，基本上可以算是官方回应。
 
@@ -268,5 +262,3 @@ image: /2018/07/13/gong-zhong-hao-da-zhan-shi/01.png
 - 在IP改编中，抄袭作品的风头为何往往盖过了原著
 
 ![](/2018/07/13/gong-zhong-hao-da-zhan-shi/19.png)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”。转载时请保留版权信息。

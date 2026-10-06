@@ -7,12 +7,6 @@ tags: [科技]
 image: /2018/05/25/shei-dou-ke-yi-tou-cha/01.jpg
 ---
 
-👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载
-
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 昨天深夜，腾讯兴趣内容基金（TOPIC）宣布要重新对他们的第一个投资对象——自媒体账号“差评”做尽职调查，甚至有可能会协商撤回投资。
 
 已经煮好的熟饭还能变回生米不成？腾讯爸爸微笑着说：抱歉，有钱的话，连撤资都可以为所欲为。
@@ -152,7 +146,5 @@ image: /2018/05/25/shei-dou-ke-yi-tou-cha/01.jpg
 - [再谈“微信互联网”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659606&idx=1&sn=c65d567ea1f37dde1da4a4962b2d9b11&chksm=be96921a89e11b0ce696d7dfeb29cab79ca726e71a6173b2d70d2ad22e0fe56c2c52d19b40bc&scene=21#wechat_redirect)
 
 - [你给小镇青年再多高雅文化，也不能把他们从喊麦手游里拽出来](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659453&idx=1&sn=6229eb218ee60f9bf6ea5abe41ed2d23&chksm=be96937189e11a67b12d154dd38f18d4abf88b9669e9bd931ebbc8648b0012fe4910803ebb46&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“转载”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659706&idx=1&sn=08941612c8384b522b04665866bf8678&chksm=be96927689e11b606e36e3c98e227f2f51262e4fad6baaa7da02bbcfff2621aca3d635c58d31#wechat_redirect)

@@ -9,8 +9,6 @@ image: /2021/09/13/9_11-yi-chang-bei-dian-shi/01.jpg
 
 你看到什么，你就是什么。
 
-航通社首发原创文章，未经授权禁止转载
-
 微博：@航通社 | 微信搜一搜：航通社
 
 ![](/2021/09/13/9_11-yi-chang-bei-dian-shi/01.jpg)
@@ -334,5 +332,3 @@ https://international.caixin.com/red/2021-08-20/101757770.html
 请联系航通社助理微信号：hangtongshe
 
 附言填口令【航通社读者进群】
-
-⏩分享 | 📦收藏 | 👍点赞 | ❄在看

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 4500 字
 
 ![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg)
@@ -188,8 +186,6 @@ image: /2019/07/23/xian-zai-zhui-ge-xing-zhi/01.jpg
 [13] https://mp.weixin.qq.com/s/xVqccYU5NRkU8GUlD11i0w
 
 ![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/02.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/23/xian-zai-zhui-ge-xing-zhi/03.png)
 

@@ -40,8 +40,4 @@ Raymond 讲的段子并非所有的都是通俗易懂，但下面这条发布于
 
 本文首发于
 
-微信公众号：航通社（ID:lifeissohappy)
-
-微博：@lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659351&idx=1&sn=69d43a28e25538ced4bb742dde1ac042&chksm=be96931b89e11a0da12269b5e47546ed8601845a638d1beca3ecf23d084ddebc4da084ad03c8#wechat_redirect)

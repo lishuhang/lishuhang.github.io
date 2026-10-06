@@ -8,8 +8,6 @@ source: "https://zhuanlan.zhihu.com/p/52315724"
 image: /2018/12/13/zi-mei-ti-ren-dou-zai/01.jpg
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**[@航通社](https://weibo.com/lishuhang/)**
-
 ![图片](/2018/12/13/zi-mei-ti-ren-dou-zai/01.jpg)
 
 艺名“六小龄童”的章老师金莱先生，最近火了。他被网民尊称一句“六老师”，他的语录金句被结合起来，诞生了一门“新学科”——“六学”。
@@ -132,4 +130,3 @@ image: /2018/12/13/zi-mei-ti-ren-dou-zai/01.jpg
 
 2018.12.13
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy) **，并在后台留言输入关键字**转载**。转载时请保留版权信息。

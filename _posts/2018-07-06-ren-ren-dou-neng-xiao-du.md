@@ -7,15 +7,7 @@ tags: [科技]
 image: /2018/07/06/ren-ren-dou-neng-xiao-du/01.png
 ---
 
-👆点航通社订阅 然后置顶公众号
-
-未来 | 展望前沿新技术
-
-5700 字 / 15 分钟
-
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHISMcfsIQCCWwL3ouq7zDVrWp9HbZqsdRaCJgSeMqu35ssSPS0Chwyr0tMJdJpUJiaRrPzakicBFb0g/640?wx_fmt=jpeg)
-
-本文首发于航通社，原创文章未经授权请勿转载。航通社 (ID:lifeissohappy) 微博 @lishuhang
 
 在第二届百度 AI 开发者大会上，一切似乎都在传达这样的印象：陆奇走后，百度在AI方面的进展一切如常。
 
@@ -228,5 +220,3 @@ Alexa给亚马逊股价带来的提升，正是在于人们认为语音会是下
 - 2017年夏季智能音箱产品选购指南
 
 ![](/2018/07/06/ren-ren-dou-neng-xiao-du/10.png)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字“转载”

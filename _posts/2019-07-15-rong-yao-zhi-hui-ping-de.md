@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 3800 字
 
 ![](/2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg)
@@ -124,8 +122,6 @@ image: /2019/07/15/rong-yao-zhi-hui-ping-de/01.jpg
 [4] https://mp.weixin.qq.com/s/zsO0AgbjfgYJa0ffLBNS4g
 
 ![](/2019/07/15/rong-yao-zhi-hui-ping-de/05.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/15/rong-yao-zhi-hui-ping-de/06.png)
 

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 ---
 
-**👆点击名字订阅【航通社】公众号**
-
 文 / 书航
 
 这几天，微博用户 @美国往事 1999 [1] 曝光说自己与苹果客服口角后遭遇数据泄露，引发众多苹果用户的关注。他说，该苹果电话技术支持人员对他绑定 iCloud 账号的 3 个邮箱做了破解，插入了威胁信息；关键情节对话有录音为证。
@@ -53,5 +51,3 @@ image: /2018/03/10/ping-guo-ke-fu-zhen-de/01.jpg
 [4] https://finance.qq.com/a/20160422/044012.htm
 [5] http://www.xdkb.net/index/article/2018-03/05/content_1086087.htm
 [6] https://cn.technode.com/post/2018-02-25/apple-icloud-security-keys-guizhou/
-
-*本文首发于动点科技**微信公众号：航通社 (ID:lifeissohappy)**微博：@lishuhang**原创文章，未经授权，请勿转载**欢迎转发到朋友圈*

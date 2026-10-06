@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/11/28/ru-guo-zhi-kan-dian-shi/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/11/28/ru-guo-zhi-kan-dian-shi/01.png)
 
 书航 11 月 28 日发于北京
@@ -163,8 +161,4 @@ https://www.zhihu.com/question/332553130/answer/733407517
 
 ![](/2019/11/28/ru-guo-zhi-kan-dian-shi/15.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 👇航通社正在参加钛媒体 2019 年度十大作者投票，点击阅读原文为我助力！🌹
-
-点击在看让更多人看到这篇文章！👍

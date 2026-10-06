@@ -67,8 +67,4 @@ image: /2018/02/01/chang-qi-mei-dui-shou-de/01.jpg
 
 本文首发于
 
-微信公众号：航通社（ID:lifeissohappy)
-
-微博：@lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659414&idx=1&sn=f36967eab5cdb0e9daa2a28941e16fdb&chksm=be96935a89e11a4c0fb01a46f011155a98469ed26b8877fe34e1fe9ed01ee43b9c5d23ddff54#wechat_redirect)

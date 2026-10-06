@@ -7,12 +7,7 @@ tags: [科技]
 image: /2018/05/13/cong-nuan-xin-ji-tang-dao/01.jpg
 ---
 
-👆 点上面 **航通社** 订阅，然后开启“**置顶公众号**”
-
 题图 / 二更食堂
-
-本文首发于**百家号**，原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 好事不出门，坏事传千里。
 
@@ -173,6 +168,3 @@ image: /2018/05/13/cong-nuan-xin-ji-tang-dao/01.jpg
 - [没有价值观的算法下岗了，但我希望算法能快快长大](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659605&idx=1&sn=71f651d5f6caf0a6b37328abbba821ac&chksm=be96921989e11b0f6662e35323320a2f1575fac705a32915d83d9c92caf6177332c02a9e6f74&scene=21#wechat_redirect)
 
 - [摘编微信公众号的《青年文摘》们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 **转载**

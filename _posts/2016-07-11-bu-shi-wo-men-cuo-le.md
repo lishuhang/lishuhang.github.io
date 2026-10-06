@@ -15,8 +15,3 @@ image: /2016/07/11/bu-shi-wo-men-cuo-le/01.jpg
 
 我觉得并不是我们这些接触整个变化过程，知道一开始是怎样的人错了，而是这个世界确实正在改变。这个世界跟4年前，跟8年前，都已经完全不一样。以后可能还会更不一样。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

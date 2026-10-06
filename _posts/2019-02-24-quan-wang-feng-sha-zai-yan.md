@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/02/24/quan-wang-feng-sha-zai-yan/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
-
 ![](/2019/02/24/quan-wang-feng-sha-zai-yan/01.jpg)
 
 2014 年 2 月 28 日，亚历克斯·琼斯在德州达拉斯参与抗议活动。题图 / Wikipedia
@@ -351,6 +349,3 @@ Aamer Rahman 补充道：[17]
 
 ![](/2019/02/24/quan-wang-feng-sha-zai-yan/08.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-记得点下面的 好看 ！

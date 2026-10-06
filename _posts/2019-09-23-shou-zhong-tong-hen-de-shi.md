@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/09/23/shou-zhong-tong-hen-de-shi/01.png
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/09/23/shou-zhong-tong-hen-de-shi/01.png)
 
 本文基于 2013 年 12 月 30 日首发于网易科技的稿件修改和增补。

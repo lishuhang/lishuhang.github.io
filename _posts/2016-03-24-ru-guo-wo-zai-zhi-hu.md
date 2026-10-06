@@ -50,5 +50,3 @@ image: /2016/03/24/ru-guo-wo-zai-zhi-hu/01.jpg
 这两天精疲力尽的，写稿方面又生疏了。我要睡一觉明早起来再战。大家晚安。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

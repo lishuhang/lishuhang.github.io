@@ -7,11 +7,6 @@ tags: [科技]
 image: /2018/05/16/chui-zi-de-dian-nao-ye/01.jpg
 ---
 
-👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**
-
-本文首发于**百家号**，原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 “锤子完了。”
 
 在2018年5月15日的晚上，很多人一边走出鸟巢一边这么想。
@@ -194,8 +189,5 @@ S8通过一个DeX扩展坞，连接通用的HDMI接口输出到外接显示器�
 
 - 为什么我们没有获邀参加锤子的发布会
 https://cn.technode.com/post/2015-12-29/a-smartisan-brief-without-technode/
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 转载
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650660352&idx=1&sn=1dd26895291cd8a16140e9558b062134&chksm=be96970c89e11e1a394ed9fcd83dd552862519a5ee28e52a5515213be46cd15c3c5dd56092b6#wechat_redirect)

@@ -7,8 +7,6 @@ tags: [科技]
 image: /2018/08/20/san-hu-men-shang-shi-gong/01.jpg
 ---
 
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 马斯克几天前发出的要将特斯拉私有化的推文余波未了，美国总统特朗普又在Twitter上表示，希望将美国证监会（SEC）要求上市公司按季度发布报告，改为发布半年报，引发了市场相对正面的多的反应。
 
 ![](/2018/08/20/san-hu-men-shang-shi-gong/02.jpg)
@@ -94,5 +92,3 @@ image: /2018/08/20/san-hu-men-shang-shi-gong/01.jpg
 2018.8.20
 
 ![](/2018/08/20/san-hu-men-shang-shi-gong/03.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

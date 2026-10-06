@@ -9,8 +9,6 @@ image: /2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png
 
 ![](/2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png)
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
-
 题图：苹果 iTunes 播放音乐时的视觉效果，有些和嗑药之后看到的迷幻世界很相似。
 
 1
@@ -204,5 +202,3 @@ image: /2018/11/22/cheng-gong-jiu-shi-yi-zhong/01.png
 2018.11.22
 
 ![](/2018/11/22/cheng-gong-jiu-shi-yi-zhong/02.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

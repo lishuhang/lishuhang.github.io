@@ -7,13 +7,7 @@ tags: [科技]
 image: /2018/07/10/tian-xia-ku-qin-jiu-yi/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **数码** | 身边的科技创新
-
-2650 字 / 7 分钟
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 今天中午，微软公布了他们最新的10英寸低价Surface系列，并命名为Surface Go。
 
@@ -120,7 +114,5 @@ Surface Go 将提供4G内存/64G硬盘、8G/128G、8G/256G三种选择，后两�
 - [Windows Phone 要起死回生？那得先弄死所有的“手机”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658889&idx=1&sn=96e98bafcffcddc1c5b5cd5551be50f7&chksm=be96914589e11853e5924fee982c8f876e8e1ede8317a7e3ea487ad674a4cd65e7c1fe96677a&scene=21#wechat_redirect)
 
 - [不可能的任务：Windows 10 走向 10 亿装机量之路](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658602&idx=1&sn=e84beb2138d9c98065de7b9a1ac91faa&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659835&idx=1&sn=dd6199f5cfe5289e5fd0c4e38a1a5ef0&chksm=be9692f789e11be1318004a328b6a704deb9902f343a90e4b8889aa18608fae895ba3d32a643#wechat_redirect)

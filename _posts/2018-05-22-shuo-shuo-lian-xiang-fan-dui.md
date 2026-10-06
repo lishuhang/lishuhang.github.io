@@ -7,12 +7,6 @@ tags: [科技]
 image: /2018/05/22/shuo-shuo-lian-xiang-fan-dui/01.jpg
 ---
 
-👆 点上面 **航通社** 订阅，然后开启 **置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载
-
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 在联想陷入“不爱国”的舆论漩涡，以及自己发动了一场名誉保卫战的混乱时刻，又有一条爱国相关的新闻，让联想的处境雪上加霜。
 
 有报道称，在中央国家机关政府采购中心近日举办的一次会议上，要制定电脑集中采购标准和评分规则。其中涉及到是否预装国产操作系统的问题。联想在这个问题上投了反对票。
@@ -174,8 +168,5 @@ image: /2018/05/22/shuo-shuo-lian-xiang-fan-dui/01.jpg
 - [中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659657&idx=1&sn=81657e62d4817e759a99fd8e1083427c&chksm=be96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5&scene=21#wechat_redirect)
 
 - [Windows部门被裁撤，然后一个时代终结了？瞎扯](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659648&idx=2&sn=ae06c3bc3fa336554ce8c91b00161011&chksm=be96924c89e11b5a60a9bba188b35e2a38165056db3e82b91a3487ebe6ca3312981b7792c970&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 转载
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659648&idx=2&sn=ae06c3bc3fa336554ce8c91b00161011&chksm=be96924c89e11b5a60a9bba188b35e2a38165056db3e82b91a3487ebe6ca3312981b7792c970#wechat_redirect)

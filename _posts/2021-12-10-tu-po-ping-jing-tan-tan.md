@@ -9,8 +9,6 @@ image: /2021/12/10/tu-po-ping-jing-tan-tan/01.jpg
 
 讲个鬼故事：手机“全面屏”已经五年了。
 
-航通社首发原创文章，未经授权禁止转载
-
 微博：@航通社 | 微信搜一搜：航通社
 
 ![](/2021/12/10/tu-po-ping-jing-tan-tan/01.jpg)
@@ -174,5 +172,3 @@ https://www.youtube.com/watch?v=4ZWjPZiU5vE
 我们拿什么献给下一个 10 年
 
 “小屏旗舰”的文艺复兴
-
-⏩分享 | 📦收藏 | 👍点赞 | ❄在看

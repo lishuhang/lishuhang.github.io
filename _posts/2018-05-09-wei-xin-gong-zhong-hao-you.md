@@ -7,12 +7,8 @@ tags: [科技]
 image: /2018/05/09/wei-xin-gong-zhong-hao-you/01.jpg
 ---
 
-👆 点上面的 **航通社** 订阅我们
-
 本文首发于**百家号**
 原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 
-微博 **@lishuhang**
 
 5月8日上午，*航通社（ID:lifeissohappy）*的读者群中有读者报告说，微信公众号的文章阅读页面有小幅度的改版。
 
@@ -75,8 +71,5 @@ image: /2018/05/09/wei-xin-gong-zhong-hao-you/01.jpg
 - [摘编微信公众号的《青年文摘》们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530&scene=21#wechat_redirect)
 
 - [再谈“微信互联网”](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659606&idx=1&sn=c65d567ea1f37dde1da4a4962b2d9b11&chksm=be96921a89e11b0ce696d7dfeb29cab79ca726e71a6173b2d70d2ad22e0fe56c2c52d19b40bc&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 **转载**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659700&idx=1&sn=cf09760a5acf44178e580b94cfb40f2d&chksm=be96927889e11b6eea27ef48b0edbaceb5576873035972f94bc22e117275a3d339e2e2a6cf48#wechat_redirect)

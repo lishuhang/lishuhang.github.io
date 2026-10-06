@@ -28,5 +28,3 @@ image: /2016/03/22/bie-pao-ya-sui-ran-feng/01.jpg
 你知道，我这么努力，还不是为了赚钱给苹果交税嘛……
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

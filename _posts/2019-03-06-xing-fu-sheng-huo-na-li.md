@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/03/06/xing-fu-sheng-huo-na-li/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@航通社
-
 ![](/2019/03/06/xing-fu-sheng-huo-na-li/01.jpg)
 
 > 航通社作者 书航 3 月 6 日发于北京
@@ -233,6 +231,3 @@ image: /2019/03/06/xing-fu-sheng-huo-na-li/01.jpg
 
 ![](/2019/03/06/xing-fu-sheng-huo-na-li/07.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-记得点下面的 好看 ！

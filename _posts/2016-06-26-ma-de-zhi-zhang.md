@@ -27,8 +27,3 @@ Evernote Web Clipper for Microsoft Edge: Clip the web pages you want to keep. Sa
 
 （手动再见）
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

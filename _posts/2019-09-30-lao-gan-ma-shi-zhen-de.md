@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/09/30/lao-gan-ma-shi-zhen-de/01.png
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/09/30/lao-gan-ma-shi-zhen-de/01.png)
 
 书航 9 月 30 日发于北京

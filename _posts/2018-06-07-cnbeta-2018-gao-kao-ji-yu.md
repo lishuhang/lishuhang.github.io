@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/06/07/cnbeta-2018-gao-kao-ji-yu/01.jpg
 ---
 
-👆点上面**航通社**订阅
-
 然后开启**置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 各位同学：大家好！
 
@@ -114,5 +110,3 @@ cnBeta.COM 编辑团队
 - [cnBeta 2016 新年献词：世界只有一个互联网](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=401381097&idx=1&sn=8fbc2a99b11e95565ed9881acd339f5a&scene=21#wechat_redirect)
 
 更多新年献词和高考寄语，请点击 **阅读原文**
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**

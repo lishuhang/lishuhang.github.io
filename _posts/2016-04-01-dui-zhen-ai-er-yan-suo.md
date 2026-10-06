@@ -38,5 +38,3 @@ image: /2016/04/01/dui-zhen-ai-er-yan-suo/01.jpg
 点击“**阅读原文**”，花1块钱拆开我的一个小秘密。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

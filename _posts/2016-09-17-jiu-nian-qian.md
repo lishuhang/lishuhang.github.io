@@ -51,7 +51,6 @@ source: "https://zhuanlan.zhihu.com/p/22482316"
 
 [动点科技](http://cn.technode.com/post/2016-09-17/9-years-ago/)
 
-> 微信公众号 lifeissohappy
 >
 >
 >
@@ -59,8 +58,6 @@ source: "https://zhuanlan.zhihu.com/p/22482316"
 >
 >
 >
-> 新浪微博 @lishuhang
 >
 >
 >
-> **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

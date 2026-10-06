@@ -33,7 +33,6 @@ source: "https://zhuanlan.zhihu.com/p/22179130"
 
 *题图：与徐玉玉使用的诺基亚手机类似的功能机型。资料图片／Wikipedia*
 
-> 微信公众号 lifeissohappy
 >
 >
 >
@@ -41,4 +40,3 @@ source: "https://zhuanlan.zhihu.com/p/22179130"
 >
 >
 >
-> 新浪微博 @lishuhang

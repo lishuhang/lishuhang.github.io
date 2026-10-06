@@ -7,9 +7,6 @@ tags: [科技]
 image: /2018/04/27/ping-guo-gu-ge-yao-gei/01.jpg
 ---
 
-本文首发于**百家号**，原创文章未经授权请勿转载
-**航通社** (ID:**lifeissohappy**) 微博 **@lishuhang**
-
 2016年，苹果将人们在输入“枪”（gun）这个词时弹出的表情符号，由一只写实主义的手枪，换成了一只靓丽的绿色塑料玩具水枪。而那时，其他几家手机厂商和社交网络的手枪符号还没有更改过来。
 
 因此，当时人们输入“枪”这个词所产生的符号，在苹果手机上看到的是水枪，在其他人的手机上看到的则是冰冷的手枪。
@@ -108,7 +105,5 @@ Emoji 已经成为塑造现代文化的一部分。而在快速而大量的应�
 
 **推荐阅读**[短网址：只有前世，没有今生](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659578&idx=1&sn=ea784a70ff850a71b74ee16287064644&chksm=be9693f689e11ae07124941e2d49af92ad1cd7542c87a46737043e8afd662495a8de105a03f5&scene=21#wechat_redirect)
 [国际互联网，享年29岁？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659517&idx=1&sn=e9d34c0f13cdd513cf8e34123152ea18&chksm=be9693b189e11aa7db34c14cc699c3e21f0d6a350f845b7230bcc9dd6d705d88f5484aaeaaed&scene=21#wechat_redirect)
-
-*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659920&idx=1&sn=85b61efca3c2fe99960eed8ce8c59fa3&chksm=be96955c89e11c4af8f622f24a064bba2923b2079850422215b3dd508b806c7fb8f0ff145cec#wechat_redirect)

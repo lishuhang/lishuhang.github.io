@@ -7,12 +7,6 @@ tags: [科技]
 image: /2019/05/25/lian-xiang-dao-di-suan-na/01.png
 ---
 
-——你应该知道的历史、现在和未来——
-
-航通社 lishuhang.me 微信 lifeissohappy 微博 @航通社
-
-原创文章未经授权禁止转载
-
 ![](/2019/05/25/lian-xiang-dao-di-suan-na/01.png)
 
 书航 5 月 24 日发于北京
@@ -256,5 +250,3 @@ image: /2019/05/25/lian-xiang-dao-di-suan-na/01.png
 ![](/2019/05/25/lian-xiang-dao-di-suan-na/04.jpg)
 
 寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-和 3600+ 个小伙伴一起点 在看 👇

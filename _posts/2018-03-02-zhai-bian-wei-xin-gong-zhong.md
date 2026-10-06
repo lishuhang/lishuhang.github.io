@@ -40,8 +40,6 @@ image: /2018/03/02/zhai-bian-wei-xin-gong-zhong/01.jpg
 它变成了对我自己的质问——我的文章，又是写给什么读者群体看的呢？
 
 *本文首发于动点科技
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659447&idx=1&sn=f010dd03edabc1fd5052892fa4a3b30f&chksm=be96937b89e11a6daf73d70515761f74f773ecc21db5abbcd00157208af1d82024c21d7ddc50#wechat_redirect)

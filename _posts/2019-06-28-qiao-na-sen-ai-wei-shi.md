@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 2200 字
 
 ![](/2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg)
@@ -84,5 +82,3 @@ image: /2019/06/28/qiao-na-sen-ai-wei-shi/01.jpg
 [4] https://www.theverge.com/2015/9/17/9345299/jony-ive-apple-store-belgium
 
 ![](/2019/06/28/qiao-na-sen-ai-wei-shi/03.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

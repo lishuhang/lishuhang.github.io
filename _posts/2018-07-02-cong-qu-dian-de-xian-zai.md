@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/07/02/cong-qu-dian-de-xian-zai/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **热点** | 最近什么在流行
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 从很多角度看，趣店和拼多多都存在很多有意思的共同点。最主要的是两条。
 
@@ -86,5 +82,3 @@ App Annie 的数据显示，差不多自拼多多上线那首洗脑广告歌以�
 - [无人货架下半场：是跑马圈地抢点位，还是精耕细作小生意](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659391&idx=1&sn=44e959baf4d5a05ad327046b65e79420&chksm=be96933389e11a25a67b6749fbe4d16f12a9cd29eda461653e972b4eb5420ed27f22a32dabd1&scene=21#wechat_redirect)
 
 - [在线抓娃娃：繁荣过后会怎样？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659386&idx=1&sn=17ccb7bc452629cec0bdf1b95b048c07&chksm=be96933689e11a20422421e3ad5028f95543b68fcbbc1b64aa3cb74072c546c20f4473aaa0be&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**

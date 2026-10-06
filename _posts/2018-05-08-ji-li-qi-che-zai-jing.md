@@ -7,12 +7,8 @@ tags: [科技]
 image: /2018/05/08/ji-li-qi-che-zai-jing/01.jpg
 ---
 
-👆 点上面的 **航通社** 订阅我们
-
 本文首发于**动点科技**
 原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 
-微博 **@lishuhang**
 
 5 月 7 日，在香港上市的吉利汽车 (00175) 发布了 2018 年 4 月的销量数据。4 月吉利汽车共销售超过 12 万辆新车，同比增长 49%。2018 年前四个月累计总销量超过 50 万辆，同比增长 41%，已完成全年 158 万辆销量目标的 33%。
 
@@ -91,8 +87,5 @@ image: /2018/05/08/ji-li-qi-che-zai-jing/01.jpg
 [中国可能会成为全球上网最便宜的地方](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659485&idx=1&sn=6d67063204a730e6a7f0195d743db329&chksm=be96939189e11a8772b2d9a8ac0b4aecd101905a495813842cc5089cd8cb2d28d6a8d08c7592&scene=21#wechat_redirect)
 
 [不换手机和掏不起钱的人，怎样才能用上新支付技术？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659282&idx=1&sn=76cfc7d253ba130a5e695e573e99e1a5&chksm=be9690de89e119c874a0c35003430884af9c03f4e398217ee223bcdfda3b72abad018106e395&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 **转载**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659696&idx=1&sn=a23abdda9342272e24710cdcbe6c9141&chksm=be96927c89e11b6a9277cf5482d7628a8c3728b020ca9e162aa1efa8c33e754cd362b786a853#wechat_redirect)

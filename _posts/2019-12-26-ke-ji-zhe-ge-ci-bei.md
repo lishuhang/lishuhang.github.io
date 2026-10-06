@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/12/26/ke-ji-zhe-ge-ci-bei/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/12/26/ke-ji-zhe-ge-ci-bei/01.png)
 
 社长按 / 书航 12 月 26 日发于北京

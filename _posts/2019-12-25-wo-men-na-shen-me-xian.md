@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/12/25/wo-men-na-shen-me-xian/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/12/25/wo-men-na-shen-me-xian/01.png)
 
 书航 12 月 25 日发于北京
@@ -143,10 +141,6 @@ image: /2019/12/25/wo-men-na-shen-me-xian/01.png
 
 ![](/2019/12/25/wo-men-na-shen-me-xian/15.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 社长每年有写新年献词的习惯，今年因故会暂停。以这篇暂时代替一下吧。今后还有没有，也不好说。
 
 👇点击阅读原文，看 19 年的新年献词。
-
-点击在看……给社长点个赞！👍

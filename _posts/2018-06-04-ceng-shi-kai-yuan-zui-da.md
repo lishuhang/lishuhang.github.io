@@ -7,11 +7,7 @@ tags: [科技]
 image: /2018/06/04/ceng-shi-kai-yuan-zui-da/01.jpg
 ---
 
-👆点上面**航通社**订阅
-
 然后开启**置顶公众号**
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 GitHub是科技业界最流行的代码托管平台，是世界各地程序员们的乐园，也被中国程序员们戏称为“全球最大同性交友网站”。
 
@@ -120,7 +116,5 @@ CNBC的报道显示，有消息来源说，微软和GitHub实际上也是在讨�
 - [腾讯文档挑战 Office 365，微软将如何作答？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659669&idx=1&sn=68a7eb25f9e77b15cfb4ec31bd1bbb93&chksm=be96925989e11b4f3bb63986058c5f0a971b9532b2d53abe076f0e73379620d812ab898e624e&scene=21#wechat_redirect)
 
 - [微软历史上最成功和最失败的产品是怎样走到一起的？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659417&idx=1&sn=48bc834214b702b1930484f866cda265&chksm=be96935589e11a43afe5cb7d1beee5bd1e2b49943b7a9dfd8f2588f81360f0d7c2d671a9de1b&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“转载”**
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659753&idx=1&sn=dba9fbcf254946edf16873479076037b&chksm=be9692a589e11bb345c4621e2731ec9199ad9d09c7dc0c0415b582699cff24b0cb93d2ae90f2#wechat_redirect)

@@ -7,9 +7,6 @@ tags: [科技]
 image: /2018/04/28/ri-huo-3000-wan-de-zhi/01.jpg
 ---
 
-本文首发于**百家号**，原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 4月底，知乎宣布对内容进行进一步的保护，除“信任的搜索引擎”之外，限制第三方抓取内容，具体策略主要针对即刻、今日头条、门户等内容平台。
 
 然而，让*航通社（ID: lifeissohappy）*在意的是知乎提到的一个例外：**“信任的搜索引擎”**们。
@@ -108,8 +105,6 @@ image: /2018/04/28/ri-huo-3000-wan-de-zhi/01.jpg
 [知乎如何帮助品牌商了解站内热点的变化趋势？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658836&idx=1&sn=bd391e5b088316c828bc4eb9547fa707&chksm=be96911889e1180ec80f49dd03c3fefdec054335d24b3a598ed1b5d5cae470277d6456480940&scene=21#wechat_redirect)
 [知乎和分答的挑战者们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658746&idx=1&sn=e2518e5d364305305e3d5ebf48f35028&chksm=be969eb689e117a0c999aecef71868dd0a550947337530438d6eb64b6a4e7016875864c484f5&scene=21#wechat_redirect)
 
-*～欢迎转发到朋友圈～
 商业转载和引用
-请在公众号对话框输入关键字【转载】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659261&idx=1&sn=41e06c49b51a47c2b2c23a1e472d8be6&chksm=be9690b189e119a73b858c92d0264c2129e61a98ee02ce3e5ecd04c76195d020a6b49bdb816d#wechat_redirect)

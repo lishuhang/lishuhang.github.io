@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 2600 字
 
 ![](/2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg)
@@ -118,5 +116,3 @@ image: /2019/06/25/zhai-chu-bai-jia-hao-bai/01.jpg
 [5] https://techcrunch.com/2019/05/17/credder-offers-rotten-tomatoes-style-ratings-for-the-news/
 
 ![](/2019/06/25/zhai-chu-bai-jia-hao-bai/09.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

@@ -14,5 +14,3 @@ image: /2016/03/18/zai-wo-de-xin-shang-sheng/01.jpg
 点击“**阅读原文**”看看……我也不知道该看啥。这两天太累了，要休息，不写新东西了。点击以后还是去我的专栏。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

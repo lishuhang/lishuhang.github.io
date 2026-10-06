@@ -7,9 +7,6 @@ tags: [科技]
 image: /2018/05/07/ni-xiang-xin-le-na-zhang/01.jpg
 ---
 
-本文首发于**百家号**，原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 你一定因为自己父母长辈的朋友圈传播带有“央视”视频片段的谣言痛心疾首过，也一定由于自己朋友圈不知哪里冒出的微商X小姐喜提和谐号的消息愤而拉黑之。
 
 但是，这几天你没有看到过，提到过，以至转发过那张据说是“Pony 马化腾”发的，以“看了，有批评蛮好”开头的微信截图吗？
@@ -124,8 +121,6 @@ image: /2018/05/07/ni-xiang-xin-le-na-zhang/01.jpg
 
 [非新闻专业实习记者，如何能够在最快时间内提高自己的能力？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658937&idx=1&sn=84a2e8d605d68db3ae77271da3470098&chksm=be96917589e118636169d9cb63734d889f1f338f7e6c794cdaaddeb19a4193ce9b917612366f&scene=21#wechat_redirect)
 
-*～欢迎转发到朋友圈～
 商业转载和引用
-请在公众号对话框输入关键字【转载】*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659379&idx=1&sn=49425a30b84b4bc8937481cd5a9d2c18&chksm=be96933f89e11a29d23d950bd818329e8f37c5ee4566a1d836c9250d3f49e82b73410f38f5ef#wechat_redirect)

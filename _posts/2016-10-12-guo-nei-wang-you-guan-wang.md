@@ -25,11 +25,6 @@ source: "https://zhuanlan.zhihu.com/p/22892844"
 
 [cnBeta](http://www.cnbeta.com/articles/547309)
 
-
-
-> 微信公众号 lifeissohappy
 > 知乎专栏 [https://zhuanlan.zhihu.com/lishuhang](https://zhuanlan.zhihu.com/lishuhang)
-> 新浪微博 @lishuhang
 > **［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！**
 > 知乎专栏 [https://zhuanlan.zhihu.com/c_45860409](https://zhuanlan.zhihu.com/c_45860409)
-> 微信公众号 zouzhezouzhejiudaole

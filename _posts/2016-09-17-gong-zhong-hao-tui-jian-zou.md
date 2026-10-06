@@ -15,8 +15,6 @@ image: /2016/09/17/gong-zhong-hao-tui-jian-zou/01.jpg
 
 欢迎扫描二维码订阅或者搜索以下公众号：
 
-**zou**zhe**zou**zhe**jiu**dao**le**
-
 **走**  着  **走**  着  **就** 到  **了**
 
 我们也在新浪微博和知乎有同名专栏：
@@ -27,10 +25,3 @@ image: /2016/09/17/gong-zhong-hao-tui-jian-zou/01.jpg
 
 可以看这个头像*（悄悄的告诉你：头像就是本人）*。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
-**［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

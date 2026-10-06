@@ -92,8 +92,6 @@ image: /2018/02/24/ni-gei-xiao-zhen-qing-nian/01.jpg
 [1] http://tech.sina.com.cn/i/2018-02-11/doc-ifyrmfmc1702318.shtml
 
 *本文首发于
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang*
 
 *原创文章，未经授权，请勿转载*
 

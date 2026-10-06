@@ -19,8 +19,3 @@ image: /2016/07/19/slowquitapps-jie-jue-mac-cheng-xu/01.jpg
 
 虽然这个功能非常赞，但是为了单一的特定功能非得要用一个小插件来解决问题，这也是水果家风格啦。想想iOS吸收了那么多越狱插件的精华，希望在下一版系统更新当中，也可以把这个小功能加进去。
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

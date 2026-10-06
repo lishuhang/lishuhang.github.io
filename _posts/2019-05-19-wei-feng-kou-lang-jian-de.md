@@ -7,12 +7,6 @@ tags: [科技]
 image: /2019/05/19/wei-feng-kou-lang-jian-de/01.png
 ---
 
-——你应该知道的历史、现在和未来——
-
-航通社 lishuhang.me 微信 lifeissohappy 微博 @航通社
-
-原创文章未经授权禁止转载
-
 ![](/2019/05/19/wei-feng-kou-lang-jian-de/01.png)
 
 书航 5 月 19 日发于北京
@@ -193,8 +187,4 @@ image: /2019/05/19/wei-feng-kou-lang-jian-de/01.png
 
 ![](/2019/05/19/wei-feng-kou-lang-jian-de/02.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
 文中广告位是由系统自动匹配和提供的，航通社事先并不知晓可能会投放怎样的广告，以及广告可能出现在何处。请点进去以后仔细辨别。
-
-和 3600+ 个小伙伴一起点 在看 👇

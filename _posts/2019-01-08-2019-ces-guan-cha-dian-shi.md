@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/01/08/2019-ces-guan-cha-dian-shi/01.jpg
 ---
 
-本文为 航通社 原创文章，未经授权，禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/01/08/2019-ces-guan-cha-dian-shi/01.jpg)
 
 > 航通社作者 书航 1 月 8 日发于广州
@@ -151,6 +149,3 @@ LG 在 CES 展出的 OLED 柔性屏产品 Signature OLED TV R，可以“像海�
 
 ![](/2019/01/08/2019-ces-guan-cha-dian-shi/05.jpg)
 
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。
-
-记得点下面的 好看 ！

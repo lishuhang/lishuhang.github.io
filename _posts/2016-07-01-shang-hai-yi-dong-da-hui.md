@@ -21,10 +21,4 @@ image: /2016/07/01/shang-hai-yi-dong-da-hui/01.jpg
 
 （4/4）cnBeta
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658577&idx=3&sn=6ef3008646e03ff98629276f1ee96f72&chksm=be969e1d89e1170b3843a862752c1c94d529c75ea15864598d90d240d85ccfda568a6999b64a#wechat_redirect)

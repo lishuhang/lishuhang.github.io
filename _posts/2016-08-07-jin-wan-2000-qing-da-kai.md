@@ -25,8 +25,3 @@ image: /2016/08/07/jin-wan-2000-qing-da-kai/01.jpg
 
 点击 **阅读原文** 拉到底，看官方介绍：专业播音对转行主持，中美新闻主播谁家强？
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

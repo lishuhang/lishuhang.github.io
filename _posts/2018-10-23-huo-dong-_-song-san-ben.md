@@ -29,8 +29,6 @@ image: /2018/10/23/huo-dong-_-song-san-ben/01.jpg
 
 ![](/2018/10/23/huo-dong-_-song-san-ben/02.jpg)
 
-② 然后，邀请尽可能多的你的亲朋好友关注航通社 👆
-
 ③ 然后，拿个小本本 📕 记录下他们的微信昵称（不是微信 ID）
 
 ![](/2018/10/23/huo-dong-_-song-san-ben/03.png)

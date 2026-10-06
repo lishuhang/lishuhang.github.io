@@ -56,8 +56,6 @@ image: /2018/02/28/quan-mian-ping-de-xia-yi/01.jpg
 要实现这样的突破，从而让手机的轻薄程度进一步提升，手机厂商也需要自我观念上的更新，放弃对性能的执念，而更倾向于外观设计方面的研发创新。
 
 *本文首发于动点科技
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659468&idx=1&sn=0c8e2fa5b7868066f682443d9e1a5c46&chksm=be96938089e11a96c4f8d76379aac189249a888bacca707edfa5798d208df2725d02a33a4530#wechat_redirect)

@@ -148,5 +148,3 @@ image: /2018/08/30/guan-yu-zi-dan-duan-xin/01.jpg
 ![](/2018/08/30/guan-yu-zi-dan-duan-xin/06.gif)
 
 2018.8.30
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**转载**。转载时请保留版权信息。

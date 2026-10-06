@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/09/25/wo-yu-xiao-mi-mix-xi/01.png
 ---
 
-航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/09/25/wo-yu-xiao-mi-mix-xi/01.png)
 
 书航 9 月 25 日发于北京

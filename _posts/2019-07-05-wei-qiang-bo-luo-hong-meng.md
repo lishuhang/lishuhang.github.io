@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/05/wei-qiang-bo-luo-hong-meng/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 5600 字
 
 ![](/2019/07/05/wei-qiang-bo-luo-hong-meng/01.jpg)
@@ -202,8 +200,6 @@ PWA 已经获得了谷歌和微软应用商店的官方支持，可以获得跟�
 [12] http://www.geekpark.net/news/187221
 
 ![](/2019/07/05/wei-qiang-bo-luo-hong-meng/02.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
 
 ![](/2019/07/05/wei-qiang-bo-luo-hong-meng/03.png)
 

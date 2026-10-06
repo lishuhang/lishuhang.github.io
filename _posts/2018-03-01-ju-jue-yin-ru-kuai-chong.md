@@ -50,8 +50,6 @@ image: /2018/03/01/ju-jue-yin-ru-kuai-chong/01.jpg
 依靠目前使用人数尚多的硬件生态闭环盈利的苹果，在 FAANG 当中出现了市盈率低于纳指均值的情况 [6] （对比亚马逊的市盈率高得惊人），一定程度也代表了分析师眼中的未来潜力预期。
 
 *本文首发于动点科技
-微信公众号：航通社 (ID:lifeissohappy)
-微博：@lishuhang
 原创文章，未经授权，请勿转载*
 
 [1] http://www.patentlyapple.com/patently-apple/2018/02/apple-granted-a-patent-for-a-new-wireless-charging-apple-watch-carrying-case.html

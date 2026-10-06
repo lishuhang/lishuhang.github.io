@@ -7,14 +7,6 @@ tags: [科技]
 image: /2018/07/16/yong-sql-ti-dai-ji-qi/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
-**未来** | 展望前沿新技术
-
-3750 字 / 10 分钟
-
-本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
-
 7月1日，在Hacker News上面有一篇文章火起来了。作者是尼日利亚的软件工程师Celestine Omin，至于题目嘛……足够惊悚：《要啥机器学习/人工智能，用SQL就够了》（No, you don't need ML/AI. You need SQL）。
 
 （ https://cyberomin.github.io/startup/2018/07/01/sql ml ai.html ）
@@ -127,5 +119,3 @@ AI虽不算万能，但做的事情还是越来越多：
 - [谷歌助手点餐，微软小娜下单：AI 横行的未来世界里，没有人类什么事](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659709&idx=1&sn=2d3ff9f4b4d8e3a19fdc361d464cb817&chksm=be96927189e11b672b353382942f1c380128642dbab8292306f64d12e4a3119b9ee62ace1a6d&scene=21#wechat_redirect)
 - [颤抖吧人类！AI 正占领中日播音主持人行业](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659058&idx=1&sn=d3c2e0f824a31e89f11147ab934d98d6&chksm=be9691fe89e118e87f90cf03a4aa08a1cf71c535bd9bb12bd2f1f1343955e21b182cd36bf3f4&scene=21#wechat_redirect)
 - [Facebook 错把越战老照片当“儿童色情”，AI 编辑笑话百出难担重任](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658636&idx=4&sn=8a3f066df56b11248657836fdc7c872f&scene=21#wechat_redirect)
-
-欢迎转发到朋友圈。受权转载航通社稿件时，请保留版权信息。寻求授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**

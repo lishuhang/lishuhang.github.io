@@ -17,6 +17,4 @@ image: /2017/01/24/tui-guang-duo-li-de-bei/01.jpg
 
 微博：@-走着走着就到了（前面有一条短短的横线 - ）
 
-微信公众号：走着走着就到了（ zouzhezouzhejiudaole ）
-
 知乎专栏：走着走着就到了（ http://dwz.cn/godolly ）

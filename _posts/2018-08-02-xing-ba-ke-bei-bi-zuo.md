@@ -7,17 +7,7 @@ tags: [科技]
 image: /2018/08/02/xing-ba-ke-bei-bi-zuo/01.jpg
 ---
 
-点第一个**航通社**可以👍**喜欢作者**
-
-点第二个**航通社**可以⭐**设为星标**
-
 **热点** | 最近什么在流行
-
-4800 字 / 13 分钟
-
-*本文首发于航通社，原创文章未经授权请勿转载*
-
-*航通社 (ID:lifeissohappy) 微博 @lishuhang*
 
 8月2日，星巴克和阿里巴巴达成战略合作，以“将移动商务融入核心业务”。合作内容涉及阿里多个部门，除了之前就有的天猫旗舰店星享卡售卖，支持支付宝买单之外，还加入了饿了么外卖配送咖啡，以及与盒马鲜生打造“外送星厨”等。
 
@@ -178,7 +168,5 @@ image: /2018/08/02/xing-ba-ke-bei-bi-zuo/01.jpg
 - [谷歌助手点餐，微软小娜下单：AI 横行的未来世界里，没有人类什么事](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659709&idx=1&sn=2d3ff9f4b4d8e3a19fdc361d464cb817&chksm=be96927189e11b672b353382942f1c380128642dbab8292306f64d12e4a3119b9ee62ace1a6d&scene=21#wechat_redirect)
 
 - [淘宝的互联网入口野心：从“刷脚购物”说起](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658997&idx=1&sn=7f102f149225a703581d85b42b7aa6e0&chksm=be9691b989e118af25758ee9559e61e0aebcf849e68d7da748ac01b6d76ee96092bd13400d09&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658707&idx=1&sn=184d017d248c0797329d58567073ee82&chksm=be969e9f89e11789631147f1b24edc4da5b9fe71569e506bf1a6484d17869335be3f529be195#wechat_redirect)

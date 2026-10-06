@@ -8,8 +8,6 @@ image: /2019/03/31/shui-xiang-rang-mi-meng-fu/01.jpg
 source: "https://zhuanlan.zhihu.com/p/61322467"
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
-
 *航通社作者 书航 3 月 31 日发于北京*
 
 ![图片](/2019/03/31/shui-xiang-rang-mi-meng-fu/01.jpg)
@@ -90,5 +88,3 @@ source: "https://zhuanlan.zhihu.com/p/61322467"
 是的，“谁不为咪蒙解散而惋惜，谁就没有良心；**谁想让咪蒙复活，谁就没有头脑**。”
 
 *本文首发于 3 月 24 日，略作增补*
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy) **，并在后台留言输入关键字**转载**。转载时请保留版权信息。

@@ -34,5 +34,3 @@ image: /2016/03/30/jin-tian-de-xin-wen-lian/01.jpg
 今天节目的最后我们就来欣赏一下全国电视台转播“东药集团”的美景（注意左上角台标的不同即可）。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
-
-欢迎大家**翻到页面顶部点击蓝色的名字**，或者查找微信公众号 **lifeissohappy** 来订阅我的更新。

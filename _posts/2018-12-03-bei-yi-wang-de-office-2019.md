@@ -9,8 +9,6 @@ image: /2018/12/03/bei-yi-wang-de-office-2019/01.jpg
 
 ![](/2018/12/03/bei-yi-wang-de-office-2019/01.jpg)
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社 微信：lifeissohappy 微博：@lishuhang
-
 11 月的最后一天，微软公布了一个“令人眼前一亮”的新变化：我们熟悉的 Word、Excel、PowerPoint 等所有 Office 组件，都将拥有重新设计的图标。
 
 新的设计沿用了 Windows 10 近两年开始推广的 Fluent Design（流畅设计）风格，可以看到亚克力、硬塑料等材质的凸显，图标也从平面变得立体，富有层次感。
@@ -174,5 +172,3 @@ Azure 目前在全球云计算市场份额为 13%，仅次于亚马逊 AWS。想
 2018.12.3
 
 ![](/2018/12/03/bei-yi-wang-de-office-2019/08.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

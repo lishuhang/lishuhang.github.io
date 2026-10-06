@@ -7,13 +7,7 @@ tags: [科技]
 image: /2018/07/11/shi-tou-sao-di-ji-qi/01.jpg
 ---
 
-👆点**航通社**订阅 然后**置顶公众号**
-
 **数码** | 身边的科技创新
-
-2600 字 / 7 分钟
-
-本文由**航通社**首发于**cnBeta.com**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
 一款成功产品的后续升级版，有时很难称得上是脱胎换骨型的改造，但是作为米家扫地机器人的后续版本，石头扫地机器人则可能是一个例外。
 
@@ -104,7 +98,5 @@ image: /2018/07/11/shi-tou-sao-di-ji-qi/01.jpg
 - [锤子和 YunOS 是怎么合体的？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659193&idx=1&sn=6564dadc134db4cfe3a740eed076bc11&chksm=be96907589e11963b46fb440c69e70b409ece8721c2902abe2d5f4475db4b79fbd6ab50a74a3&scene=21#wechat_redirect)
 
 - [10张图带你快速评测天猫精灵X1](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658981&idx=1&sn=26b6a8888e8fd8527dee60359e29d550&chksm=be9691a989e118bf66a167b5b2cea2dc4afe0917458a62098e562f565049ce88af60b73f9e28&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659850&idx=1&sn=e71bba37fb0b79e21e43082b7d3044a1&chksm=be96950689e11c10fa927469280eee367721b07c862571fceb54d3ed57602879213daa74b2d1#wechat_redirect)

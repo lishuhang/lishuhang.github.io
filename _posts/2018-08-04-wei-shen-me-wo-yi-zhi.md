@@ -7,17 +7,7 @@ tags: [科技]
 image: /2018/08/04/wei-shen-me-wo-yi-zhi/01.jpg
 ---
 
-点第一个**航通社**可以👍**喜欢作者**
-
-点第二个**航通社**可以⭐**设为星标**
-
 **热点** | 最近什么在流行
-
-4700 字 / 12 分钟
-
-*本文首发于航通社，原创文章未经授权请勿转载*
-
-*航通社 (ID:lifeissohappy) 微博 @lishuhang*
 
 因为中国大陆用户阔别 Google（谷歌）的搜索、Gmail、Play商店、YouTube等业务实在太久，**有些人干脆放弃了这个念想，不想再继续等下去了**。
 
@@ -178,7 +168,5 @@ B站坚持无广告的做法能一定程度缓解问题，但它品牌上自带�
 - [谷歌助手点餐，微软小娜下单：AI 横行的未来世界里，没有人类什么事](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659709&idx=1&sn=2d3ff9f4b4d8e3a19fdc361d464cb817&chksm=be96927189e11b672b353382942f1c380128642dbab8292306f64d12e4a3119b9ee62ace1a6d&scene=21#wechat_redirect)
 
 - [苹果谷歌要给表情符号“禁枪”，这是毁灭它的危险一步](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659689&idx=1&sn=c9bdaa3d463e202fbe8c6f4d6bacb6b8&chksm=be96926589e11b73cccdf3aae93c3659903295b2ed75911bd59ea709f7ea477a57b23a46504d&scene=21#wechat_redirect)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy)**，并在后台留言输入关键字**“****转载****”**。转载时请保留版权信息。
 
 详情请参考：[阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659858&idx=1&sn=fd7f3ad785c3d54e24d389e966defdab&chksm=be96951e89e11c08a329d1f14c8e97b5fbd6fdce9c6daf0688bcaeacfde2f5b6884dfb5fad2b#wechat_redirect)

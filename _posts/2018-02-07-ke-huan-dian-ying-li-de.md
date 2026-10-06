@@ -43,8 +43,6 @@ image: /2018/02/07/ke-huan-dian-ying-li-de/01.jpg
 
 *文章首发于动点科技
 原创文章 未经授权 请勿转载 
-微信公众号：航通社（ID:lifeissohappy) 
-微博：@lishuhang*
 
 [1] http://new.qq.com/omn/20180205/20180205A0MBQ8.html
 [2] http://news.sina.com.cn/o/2017-12-13/doc-ifypsvkp2621453.shtml

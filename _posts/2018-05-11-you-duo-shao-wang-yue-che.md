@@ -7,12 +7,8 @@ tags: [科技]
 image: /2018/05/11/you-duo-shao-wang-yue-che/01.jpg
 ---
 
-👆 点上面的 **航通社** 订阅我们
-
 本文首发于**百家号**
 原创文章未经授权请勿转载
-航通社 **(ID:lifeissohappy)** 
-微博 **@lishuhang**
 
 2018年5月5日晚，祥鹏航空乘务员李某从驻勤酒店搭乘网约车前往市区途中遇害，司机刘振华在逃。李某曾在上车后给同事发微信说“遇到一个变态”，司机有奸杀李某的重大嫌疑。
 
@@ -146,6 +142,3 @@ https://cn.technode.com/post/2015-06-26/uber-shenzhou/
 https://cn.technode.com/post/2015-01-14/chinese-taxi-drivers-strike/
 - 政府应该如何监管Uber们
 http://tech.qq.com/a/20150104/011016.htm
-
-欢迎转发到朋友圈。如需商业转载/引用
-请在公众号对话框，输入关键字 **转载**

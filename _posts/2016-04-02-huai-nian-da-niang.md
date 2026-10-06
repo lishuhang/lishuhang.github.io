@@ -45,6 +45,4 @@ image: /2016/04/02/huai-nian-da-niang/01.png
 
 航通社 http://lishuhang.me
 
-新浪微博 @lishuhang
-
 微信公众号 L I F E I S S O H A P P Y

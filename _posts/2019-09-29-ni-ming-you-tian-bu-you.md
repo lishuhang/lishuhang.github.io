@@ -11,8 +11,6 @@ image: /2019/09/29/ni-ming-you-tian-bu-you/01.jpg
 
 同时也欢迎推荐你的亲朋好友、同学、同事，一起来订阅【航通社的朋友们】。
 
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me
-
 ![配图2](/2019/09/29/ni-ming-you-tian-bu-you/02.jpg)
 
 ![配图3](/2019/09/29/ni-ming-you-tian-bu-you/03.jpg)

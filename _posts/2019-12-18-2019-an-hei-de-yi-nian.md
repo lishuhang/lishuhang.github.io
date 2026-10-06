@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/12/18/2019-an-hei-de-yi-nian/01.png
 ---
 
-航通社首发原创文章，未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 ![](/2019/12/18/2019-an-hei-de-yi-nian/01.png)
 
 书航 12 月 18 日发于北京
@@ -153,8 +151,4 @@ https://habr.com/en/company/yandex/blog/450032/
 
 ![](/2019/12/18/2019-an-hei-de-yi-nian/16.png)
 
-微信搜索：航通社 (ID: lifeissohappy)
-
 👇点击阅读原文下载安卓微信7.0.10测试版。
-
-点击在看……给社长点个赞！👍

@@ -35,8 +35,3 @@ image: /2016/08/17/lv-xing-ji-lu-guan-yu/01.jpg
 
 （没有照片，照片都在女票的文章里呢－。－）
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

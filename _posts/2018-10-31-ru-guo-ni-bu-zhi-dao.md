@@ -11,8 +11,6 @@ image: /2018/10/31/ru-guo-ni-bu-zhi-dao/01.png
 
 本文于2015年1月31日首发于动点科技
 
-原创文章未经授权禁止转载
-
 航通社微信：lifeissohappy 微博：@lishuhang
 
 为什么是硅谷？
@@ -130,5 +128,3 @@ image: /2018/10/31/ru-guo-ni-bu-zhi-dao/01.png
 真希望你也来一趟硅谷看看。
 
 ![](/2018/10/31/ru-guo-ni-bu-zhi-dao/09.gif)
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号航通社 (ID:lifeissohappy) ，并在后台留言输入关键字转载。转载时请保留版权信息。

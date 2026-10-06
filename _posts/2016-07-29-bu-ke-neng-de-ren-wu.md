@@ -125,8 +125,3 @@ HP Workspace 使用者需要按月订阅模式，可能需要公司内网获得�
 
 题图／YouTube
 
-> 微信公众号 lifeissohappy
-
-> 知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-> 新浪微博 @lishuhang

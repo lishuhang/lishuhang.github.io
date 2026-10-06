@@ -8,8 +8,6 @@ source: "https://zhuanlan.zhihu.com/p/61321063"
 image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.png
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy**微博：**[@lishuhang](https://weibo.com/lishuhang/)**
-
 ![](/2019/01/22/6-zhong-ban-fa-rang-ni/01.png)
 
 *（这是用很短时间赶出来的文章，所以排版可能不太讲究，见谅。）*
@@ -115,5 +113,3 @@ image: /2019/01/22/6-zhong-ban-fa-rang-ni/01.png
 除了上述网站内自带的搜索框，当然也可以在百度等地使用 site 语法，例如“如何写毕业论文 site:zhihu.com”。
 
 请选择你能看懂，能操作的方法都试试看，希望大家都能又快又准地找到想要的结果，提升上网搜索的效率。
-
-欢迎随手转发到朋友圈。寻求转载授权，请关注微信公众号**航通社 (ID:lifeissohappy) **，并在后台留言输入关键字**转载**。转载时请保留版权信息。

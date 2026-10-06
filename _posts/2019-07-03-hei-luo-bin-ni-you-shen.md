@@ -7,8 +7,6 @@ tags: [科技]
 image: /2019/07/03/hei-luo-bin-ni-you-shen/01.jpg
 ---
 
-本文首发于航通社，原创文章未经授权禁止转载。航通社微信：lifeissohappy 微博：@航通社
-
 全文约 2800 字
 
 ![](/2019/07/03/hei-luo-bin-ni-you-shen/01.jpg)
@@ -146,5 +144,3 @@ S1 上甚至有人把这类内容总结成了一个句式，十分百搭：
 [10] https://www.cnbeta.com/articles/soft/862207
 
 ![](/2019/07/03/hei-luo-bin-ni-you-shen/10.png)
-
-寻求转载授权，请联系航通社助理（ID：hangtongshe）或发邮件给 coop@lishuhang.me

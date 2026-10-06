@@ -23,8 +23,3 @@ https://www.duedil.com/company/03521817/24auction-europe-limited
 
 http://www.bilibili.com/video/av5067266/
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang

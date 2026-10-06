@@ -8,9 +8,6 @@ image: /2018/04/30/ke-ji-leng-zhan-sheng-ji/01.jpg
 source: "https://zhuanlan.zhihu.com/p/36282729"
 ---
 
-> 本文首发于百家号，原创文章未经授权请勿转载
-> 航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
-
 ![](/2018/04/30/ke-ji-leng-zhan-sheng-ji/01.jpg)
 
 *题图/Tom Cotton个人网站*
@@ -199,6 +196,4 @@ Cotton 绝非孤军奋战，他代表了美国保守势力的想法，而这种�
 
 [中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650659657&idx=1&sn=81657e62d4817e759a99fd8e1083427c&chksm=be96924589e11b53b0fdf8190729905f4c5cd829392ed0e7b4c2e8dd24406602e5eb750f00f5&scene=21#wechat_redirect)
 
-*～欢迎转发到朋友圈～
 商业转载和引用
-请在公众号对话框输入关键字【转载】*

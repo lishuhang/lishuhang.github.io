@@ -55,10 +55,3 @@ image: /2016/09/17/ping-guo-ju-li-cheng-wei/01.jpg
 
 更不用说，加上防水功能以后，iPhone 不知不觉中也越来越“皮实”了。本来诺基亚坚不可摧的传说就有点儿夸张成分，所以现在可以轻松被后来者“超越”。我对苹果这场发布会的评论定格在这样一条微博上：“如今苹果接下两大神器：‘可以挡子弹’和‘科技以换壳为本’，距离成为诺基亚越来越近了。”
 
-微信公众号 lifeissohappy
-
-知乎专栏 https://zhuanlan.zhihu.com/lishuhang
-
-新浪微博 @lishuhang
-
-**［推荐］走着走着就到了：我和队nv友piao的欢乐旅行笔记！欢迎订阅微信公众号 zouzhezouzhejiudaole**

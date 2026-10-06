@@ -8,7 +8,6 @@ source: "https://zhuanlan.zhihu.com/p/451862144"
 image: /2021/12/30/duan-ping-wei-shen-me-jian/01.jpg
 ---
 
-
 航通社 · 短评beta
 
 ![](/2021/12/30/duan-ping-wei-shen-me-jian/01.jpg)
@@ -67,4 +66,3 @@ image: /2021/12/30/duan-ping-wei-shen-me-jian/01.jpg
 
 👉 延伸阅读
 
-**⏩****分享**|**📦收藏****|****👍****点赞****|****❄在看**

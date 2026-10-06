@@ -9,8 +9,6 @@ image: /2018/04/22/zai-tan-xin-mei-ti-he/01.jpg
 
 本文 2017.11.6 首发于动点科技，原创文章未经授权请勿转载
 
-航通社 (**ID:lifeissohappy**) 微博：**@lishuhang**
-
 一个新闻专业的大学生找到我做一个关于媒体和记者职业选择的访谈，这让我回忆起自己在本科采访学校门口卖煮玉米的老太太的时光。
 
 一转眼，我已经工作 7 年，算上高中开始入行已经 10 多年，对自己而言的一个变化就是不再拥有年轻的优势。在 2012 年前后我说自己是 90 前，很多人会惊讶于我跟 4-5 年前的前辈拥有一样的记忆。但对现在的我来说，10 岁的年龄差基本都可以算是同龄人。
@@ -58,5 +56,3 @@ image: /2018/04/22/zai-tan-xin-mei-ti-he/01.jpg
 [记者现在算是“好职业”吗？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658875&idx=1&sn=301d6e254402d66b24c30f070ff8ceb4&chksm=be96913789e11821d5b7d3cf6750fca7e2ced75586ba07ad289230937641ee1ea034e2ee95e7&scene=21#wechat_redirect)
 
 [非新闻专业实习记者，如何能够在最快时间内提高自己的能力？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658937&idx=1&sn=84a2e8d605d68db3ae77271da3470098&chksm=be96917589e118636169d9cb63734d889f1f338f7e6c794cdaaddeb19a4193ce9b917612366f&scene=21#wechat_redirect)
-
-*～欢迎转发到朋友圈～**商业转载和引用**请在公众号对话框输入关键字【**转载**】*
