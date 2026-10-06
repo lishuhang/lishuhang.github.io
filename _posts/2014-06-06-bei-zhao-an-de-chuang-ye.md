@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19771540"
 ---
 
+文 / 书航 2014.6.6
+
 动点科技“招安”系列报道今日继续（[阿里篇](http://cn.technode.com/post/2014-04-29/zhaoan-series-alibaba/)；[百度篇](http://cn.technode.com/post/2014-05-15/zhaoan-series-baidu/)）。本周我们关注的是围绕在腾讯身边的创业公司的故事，包括Foxmail，易迅和搜狗。
 
 在几年前，腾讯给人留下一种“铁蹄踏过，寸草不生”的印象。凡是被腾讯看上的公司，几乎没有一个有好下场。本文试图通过三个结论，说明这种印象其实很大程度上被夸大了。

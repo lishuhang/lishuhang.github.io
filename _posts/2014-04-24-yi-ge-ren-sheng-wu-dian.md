@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19737343"
 ---
 
+文 / 书航 2014.4.24
+
 对Pozible和Gyenno团队的致歉声明：
 
 [新浪微博](http://weibo.com/1267857877/B1fDqr9uG?ref=home)

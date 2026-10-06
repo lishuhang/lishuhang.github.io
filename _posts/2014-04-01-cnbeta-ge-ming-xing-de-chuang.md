@@ -14,6 +14,7 @@ source: "https://zhuanlan.zhihu.com/p/19715972"
 [据美国康奈尔大学费尼安教授的不完全统计](http://wiki.answers.com/Q/What_is_the_average_number_of_mouse_clicks_a_person_does_on_a_computer?#slide=2)，一个普通人平均每天会产生427.2次的点击鼠标的动作。而日本科学家在[《Convert Anything to Calories》](http://en.rocketnews24.com/2013/03/11/how-many-calories-are-burned-with-the-click-of-a-mouse/)一书中推算，每单击一次鼠标人体会消耗大约1.42卡路里。[全世界有大约24亿网民](http://www.internetworldstats.com/stats.htm)，他们做的一次点击就消耗了34.08亿卡的热量，而这反映在食物上，就等于我们每天要为点击1次鼠标多吃相当于2938吨煮熟的白米饭内含的热量。如果按照每200g一碗米饭，装在直径10厘米的碗中排起来，可以绕地球……1/10圈。
 
 ![](/2014/04/01/cnbeta-ge-ming-xing-de-chuang/01.jpg)
+文 / 书航 2014.4.1
 
 “天王盖地虎，某某双-5”，你们还记得这个耳熟能详的儿歌吗？这是我们的访客朋友们给于某家公司或某个人以他们平生最高的礼赞。我们深刻地理解访客朋友们对“为毛一定要点两下”这个问题的关切，并迫切地希望改善大家的手腕健康程度和减少鼠标的磨损，更重要的是，不要让大家浪费可以绕地球1/10圈的白米饭。
 

@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19864866"
 ---
 
+文 / 书航 2014.10.9
+
 Facebook的联合创始人马克·扎克伯格，[现在正在印度参加为期两天的Internet.org峰会](http://timesofindia.indiatimes.com/tech/tech-news/Facebooks-Mark-Zuckerberg-in-India-today/articleshow/44740431.cms)，这是由Facebook主导的一个组织，其目的是希望让全球范围内还没有连上互联网的人能够上网。而扎克伯格继续在兜售他之前创建此组织的说法，也就是[互联网是一项基本人权](http://timesofindia.indiatimes.com/tech/tech-news/Internet-connectivity-is-a-human-right-Facebook-CEO-Mark-Zuckerberg-says-in-India/articleshow/44748304.cms)。
 
 根据官方统计，印度是FB现在按照人数计算第二大的市场。Facebook在全印度的社交网络渗透率，按照注册数量计算拥有全境社交网络用户的91%，账号活跃度则超过50%。其他一些印度人使用的社交网站包括LinkedIn以及Orkut等（后者最近被关闭了）。在印度缺乏一个本土的社交网络品牌，Facebook在印度的发展已经是非常成功。
