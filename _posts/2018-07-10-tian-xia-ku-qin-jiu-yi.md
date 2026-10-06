@@ -7,8 +7,6 @@ tags: [科技]
 image: /2018/07/10/tian-xia-ku-qin-jiu-yi/01.jpg
 ---
 
-**数码** | 身边的科技创新
-
 今天中午，微软公布了他们最新的10英寸低价Surface系列，并命名为Surface Go。
 
 Surface Go（右）和 Surface Pro 并排比较。图/微软

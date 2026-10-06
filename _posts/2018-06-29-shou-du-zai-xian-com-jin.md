@@ -3,11 +3,9 @@ layout: post
 title: "“首都在线.com”今晨遭遇枪击案"
 date: 2018-06-29
 categories: 文章
-tags: [科技]
+tags: [历史]
 image: /2018/06/29/shou-du-zai-xian-com-jin/01.jpg
 ---
-
-**历史** | 回顾科技演化史
 
 北京时间今天早晨，在美国马里兰州发生了一起针对媒体的枪击案件。当地一家报社遭歹徒闯入，五名员工被杀。
 

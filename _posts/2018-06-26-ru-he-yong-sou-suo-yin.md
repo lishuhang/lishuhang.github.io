@@ -3,11 +3,9 @@ layout: post
 title: "如何用搜索引擎“相约自杀”"
 date: 2018-06-26
 categories: 文章
-tags: [科技]
+tags: [社交网络]
 image: /2018/06/26/ru-he-yong-sou-suo-yin/01.jpg
 ---
-
-**热点** | 最近什么在流行
 
 有媒体报道，通过搜索引擎，可以找到一些“相约自杀”的QQ群、微信群等，成为有些年轻人自杀的诱因。
 
