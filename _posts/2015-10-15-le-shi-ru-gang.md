@@ -70,3 +70,4 @@ image: /2015/10/15/le-shi-ru-gang/01.png
 动点科技
 
 ![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHLONVHN1GMqYOVgtPdMDfcicX9ZYnmEiagtic7Pib2JQY9mk2AcoyWQKQs2HuwdpLASusYupVG7dpIUJQ/0?wx_fmt=gif)
+文 / 书航 2015.10.15

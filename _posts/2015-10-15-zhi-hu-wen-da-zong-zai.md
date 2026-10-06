@@ -36,3 +36,4 @@ image: /2015/10/15/zhi-hu-wen-da-zong-zai/01.png
 来自：总在外面吃饭应该定期打乙肝疫苗和肺结核疫苗？现在卫生标准这么差，得病概率不算高，为什么？
 
 ![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHLONVHN1GMqYOVgtPdMDfcicX9ZYnmEiagtic7Pib2JQY9mk2AcoyWQKQs2HuwdpLASusYupVG7dpIUJQ/0?wx_fmt=gif)
+文 / 书航 2015.10.15

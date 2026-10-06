@@ -28,3 +28,4 @@ T1 发售至今，销量只有 25.6 万部。我记得小米 1 发售 1 年多�
 [动点科技](http://cn.technode.com/post/2015-08-26/smartisan-2015-fall-press-conf/)
 
 ![](/2015/08/26/chui-zi-shuo-ta-men-fa/01.jpg)
+文 / 书航 2015.8.26

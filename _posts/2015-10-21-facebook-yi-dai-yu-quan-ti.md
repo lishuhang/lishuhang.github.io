@@ -48,3 +48,4 @@ Instagram和Snapchat都曾经进入过Facebook的视野，最终Instagram是被F
 百度百家
 
 ![](/2015/10/21/facebook-yi-dai-yu-quan-ti/01.jpg)
+文 / 书航 2015.10.21

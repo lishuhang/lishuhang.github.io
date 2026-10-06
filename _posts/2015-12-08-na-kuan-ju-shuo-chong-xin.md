@@ -40,3 +40,4 @@ Dropbox 的独立云存储竞争对手 Box，采用类似的大规模并购小�
 [动点科技](http://cn.technode.com/post/2015-12-08/mailbox-dead/)
 
 ![](/2015/12/08/na-kuan-ju-shuo-chong-xin/01.jpg)
+文 / 书航 2015.12.8
