@@ -12,6 +12,7 @@ image: /2018/03/30/ai-qi-yi-ipo-chuan-tong/01.jpg
 爱奇艺是坚持到现在的传统视频网站中，唯一一个创始人依然在位的，且独立性相对更强，会员转化相对更多，亏损相对更少。但在它以IPO标志自己阶段性站稳脚跟的同时，紧接着就要面对手机直播、ACG、短视频等新形态视频产品的挑战。
 
 ![](/2018/03/30/ai-qi-yi-ipo-chuan-tong/02.png)
+文 / 书航 2018.3.30
 
 ## 传统视频网站的赢家
 
@@ -78,3 +79,4 @@ image: /2018/03/30/ai-qi-yi-ipo-chuan-tong/01.jpg
 [5] http://mp.weixin.qq.com/s/7yraT_O2qkGALrMZ8UiJBQ
 
 ![](/2018/03/30/ai-qi-yi-ipo-chuan-tong/05.jpg)
+

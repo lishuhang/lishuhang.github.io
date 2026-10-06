@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/04/21/flash-jiu-kuai-tui-yi-le/01.jpg
 ---
 
+文 / 书航 2018.4.21
+
 在距离 Flash Player （即 Flash 浏览器插件）彻底退役不到两年的时候，仍有需要单独安装 Flash Player 的中国用户发现了一个奇怪的现象：Windows 版官方安装程序，会默认捆绑安装名叫“2144 游戏中心”的软件 [1] 。
 
 **2144 和 Adobe 确实是官方合作**
@@ -106,3 +108,4 @@ Adobe 宣布将于 2020 年彻底让 Flash Player 退役。2020 年后，Flash P
 [8] https://www.zdnet.com/article/a-close-look-at-how-oracle-installs-deceptive-software-with-java-updates/
 
 [9] https://blogs.oracle.com/java-platform-group/moving-to-a-plugin-free-web
+

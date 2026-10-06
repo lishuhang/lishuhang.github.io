@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/05/11/you-duo-shao-wang-yue-che/01.jpg
 ---
 
+文 / 书航 2018.5.11
+
 本文首发于**百家号**
 原创文章未经授权请勿转载
 
@@ -142,3 +144,4 @@ https://cn.technode.com/post/2015-06-26/uber-shenzhou/
 https://cn.technode.com/post/2015-01-14/chinese-taxi-drivers-strike/
 - 政府应该如何监管Uber们
 http://tech.qq.com/a/20150104/011016.htm
+

@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/05/15/ding-yi-xin-zhi-qing-nian/01.jpg
 ---
 
+文 / 书航 2018.5.15
+
 从有来有往，到重视倾听；从众声喧哗，到专业服务；从问答社区，到“知识市场”。
 
 知乎2018年提出的新概念“新知青年”，就是想传达这样的信息。
@@ -210,3 +212,4 @@ image: /2018/05/15/ding-yi-xin-zhi-qing-nian/01.jpg
 - [知乎如何帮助品牌商了解站内热点的变化趋势？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658836&idx=1&sn=bd391e5b088316c828bc4eb9547fa707&chksm=be96911889e1180ec80f49dd03c3fefdec054335d24b3a598ed1b5d5cae470277d6456480940&scene=21#wechat_redirect)
 
 - [知乎和分答的挑战者们](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658746&idx=1&sn=e2518e5d364305305e3d5ebf48f35028&chksm=be969eb689e117a0c999aecef71868dd0a550947337530438d6eb64b6a4e7016875864c484f5&scene=21#wechat_redirect)
+

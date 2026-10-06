@@ -7,6 +7,8 @@ tags: [科技]
 image: /2018/03/13/30-nian-qian-de-dian-nao/01.jpg
 ---
 
+文 / 书航 2018.3.13
+
 文 / 书航
 
 作为 Windows 历史遗产的 .exe 后缀 Win32 应用程序（同时包括 64 位程序，但下面都简称为 “x86 应用”）是它能继续占领 PC 和生产力平台市场的最大原因，其实也没有之一。不能运行 x86 应用的 Windows 是什么样子，请参考已经阵亡的 Windows RT 和 Windows Phone。

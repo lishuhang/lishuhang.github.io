@@ -9,6 +9,7 @@ source: "https://zhuanlan.zhihu.com/p/36282729"
 ---
 
 ![](/2018/04/30/ke-ji-leng-zhan-sheng-ji/01.jpg)
+文 / 书航 2018.4.30
 
 *题图/Tom Cotton个人网站*
 

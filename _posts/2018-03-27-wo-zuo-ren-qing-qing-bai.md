@@ -8,6 +8,7 @@ image: /2018/03/27/wo-zuo-ren-qing-qing-bai/01.jpg
 ---
 
 ![](/2018/03/27/wo-zuo-ren-qing-qing-bai/01.jpg)
+文 / 书航 2018.3.27
 
 3月26日，李彦宏在中国高层发展论坛上表示 [1] ，“我想中国人可以更加开放，对隐私问题没有那么敏感，如果他们愿意用隐私交换便捷性，很多情况下他们是愿意的。”
 
@@ -84,3 +85,4 @@ Reddit等平台撤下Deepfakes的讨论也不是主动为之，但欧美国家�
 [1] http://finance.sina.com.cn/meeting/2018-03-26/doc-ifysqfnf8646820.shtml[2] https://motherboard.vice.com/en_us/article/59kzx3/targets-of-fake-porn-deepfakes-are-at-the-mercy-of-big-platforms[3] http://ent.sina.com.cn/y/ygangtai/2018-03-19/doc-ifyskeuc0391595.shtml
 
 ![](/2018/03/27/wo-zuo-ren-qing-qing-bai/02.jpg)
+

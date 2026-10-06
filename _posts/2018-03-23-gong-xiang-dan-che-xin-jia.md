@@ -8,6 +8,7 @@ image: /2018/03/23/gong-xiang-dan-che-xin-jia/01.jpg
 ---
 
 ![](/2018/03/23/gong-xiang-dan-che-xin-jia/01.jpg)
+文 / 书航 2018.3.23
 
 本文首发于动点科技
 
