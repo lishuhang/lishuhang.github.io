@@ -3,7 +3,7 @@ layout: post
 title: "出海！借TikTok出海！一个中国文娱人的美国奋斗史"
 date: 2023-12-15
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2023/12/15/chu-hai-jie-tiktok-chu-hai/01.jpg
 ---
 

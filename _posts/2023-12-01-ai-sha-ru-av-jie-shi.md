@@ -3,7 +3,7 @@ layout: post
 title: "AI杀入AV界？“史上首位AI女优”能否以假乱真"
 date: 2023-12-01
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/12/01/ai-sha-ru-av-jie-shi/01.jpg
 ---
 

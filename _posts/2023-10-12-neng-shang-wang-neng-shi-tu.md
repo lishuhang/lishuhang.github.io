@@ -3,7 +3,7 @@ layout: post
 title: "能上网，能识图，能做图，ChatGPT的完全体有多神奇"
 date: 2023-10-12
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/10/12/neng-shang-wang-neng-shi-tu/01.jpg
 ---
 

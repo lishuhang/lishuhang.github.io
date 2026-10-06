@@ -3,7 +3,7 @@ layout: post
 title: "让文心一言扮演成ChatWPS，效果如何？（2023年3月）"
 date: 2023-03-29
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/03/29/rang-wen-xin-yi-yan-ban/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "“AIGC概念股”发三季报了，它们的业绩真跟AI挂钩吗？"
 date: 2023-11-24
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/11/24/aigc-gai-nian-gu-fa-san/01.jpg
 ---
 

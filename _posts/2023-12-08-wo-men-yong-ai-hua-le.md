@@ -3,7 +3,7 @@ layout: post
 title: "我们用AI画了龙年春晚吉祥物“龙辰辰”"
 date: 2023-12-08
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/12/08/wo-men-yong-ai-hua-le/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "国产大模型，终于敢跟用户要钱了"
 date: 2023-12-05
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/12/05/guo-chan-da-mo-xing-zhong/01.jpg
 ---
 

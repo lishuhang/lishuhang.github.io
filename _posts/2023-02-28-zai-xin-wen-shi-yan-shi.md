@@ -3,7 +3,7 @@ layout: post
 title: "在「新闻实验室」Newsletter 发布的内容"
 date: 2023-02-28
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2023/02/28/zai-xin-wen-shi-yan-shi/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "“新科技春晚”OpenAI大会后，国产大模型们差距更大了吗？"
 date: 2023-11-07
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2023/11/07/xin-ke-ji-chun-wan-openai/01.jpg
 ---
 
