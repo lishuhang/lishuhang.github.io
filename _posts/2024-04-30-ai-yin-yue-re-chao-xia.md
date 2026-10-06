@@ -3,7 +3,7 @@ layout: post
 title: "AI音乐热潮下，“神曲工作室”率先失业"
 date: 2024-04-30
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/04/30/ai-yin-yue-re-chao-xia/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "近期动态（2024年1月上半月）"
 date: 2024-01-14
 categories: 文章
-tags: [科技]
+tags: [随笔]
 image: /2024/01/14/jin-qi-dong-tai-2024-nian/01.jpg
 ---
 

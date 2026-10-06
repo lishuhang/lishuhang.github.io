@@ -3,7 +3,7 @@ layout: post
 title: "首发 | 国内团队发布“视频生音频”通用工具Sora Opera，文生视频解除“静音模式”"
 date: 2024-03-19
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/03/19/shou-fa-_-guo-nei-tuan/01.jpg
 ---
 

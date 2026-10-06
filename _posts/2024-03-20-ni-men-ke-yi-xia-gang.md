@@ -3,7 +3,7 @@ layout: post
 title: "“你们可以下岗，我们上岗”"
 date: 2024-03-20
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/03/20/ni-men-ke-yi-xia-gang/01.jpg
 ---
 

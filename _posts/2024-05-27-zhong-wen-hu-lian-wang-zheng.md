@@ -3,7 +3,7 @@ layout: post
 title: "中文互联网正在加速搬运（导演剪辑版）"
 date: 2024-05-27
 categories: 文章
-tags: [科技]
+tags: [社交网络]
 image: /2024/05/27/zhong-wen-hu-lian-wang-zheng/01.jpg
 ---
 

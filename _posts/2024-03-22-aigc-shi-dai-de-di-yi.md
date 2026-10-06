@@ -3,7 +3,7 @@ layout: post
 title: "AIGC时代的第一个龙年，大厂们都是怎么过的"
 date: 2024-03-22
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/03/22/aigc-shi-dai-de-di-yi/01.jpg
 ---
 

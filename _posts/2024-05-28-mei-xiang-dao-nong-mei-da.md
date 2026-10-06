@@ -3,7 +3,7 @@ layout: post
 title: "没想到浓眉大眼的 OpenAI 也要“硬蹭”斯嘉丽·约翰逊"
 date: 2024-05-28
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/05/28/mei-xiang-dao-nong-mei-da/01.jpg
 ---
 

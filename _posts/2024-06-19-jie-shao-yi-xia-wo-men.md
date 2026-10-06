@@ -3,7 +3,7 @@ layout: post
 title: "介绍一下我们的读者群，和会员计划"
 date: 2024-06-19
 categories: 文章
-tags: [科技]
+tags: [公告]
 image: /2024/06/19/jie-shao-yi-xia-wo-men/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "平均两天一“官宣”，电视台们为了AIGC“杀疯了”"
 date: 2024-04-08
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/04/08/ping-jun-liang-tian-yi-guan/01.jpg
 ---
 

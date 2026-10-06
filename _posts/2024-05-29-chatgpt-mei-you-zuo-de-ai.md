@@ -3,7 +3,7 @@ layout: post
 title: "ChatGPT没有做的AI搜索，是不是下一个战场"
 date: 2024-05-29
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/05/29/chatgpt-mei-you-zuo-de-ai/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "阿里通义实验室回应关于“全民舞王”的一切"
 date: 2024-01-17
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/01/17/a-li-tong-yi-shi-yan/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "专访总台“AI王冠”团队：AI数字人有一颗做“通讯社”的野心"
 date: 2024-03-20
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/03/20/zhuan-fang-zong-tai-ai-wang/01.jpg
 ---
 

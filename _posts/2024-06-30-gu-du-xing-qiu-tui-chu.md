@@ -3,7 +3,7 @@ layout: post
 title: "孤独星球退出中国：小蓝书败给小红书的故事，没那么简单"
 date: 2024-06-30
 categories: 文章
-tags: [科技]
+tags: [社交网络]
 image: /2024/06/30/gu-du-xing-qiu-tui-chu/01.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "冲刺“AIGC第一股”的出门问问已经不是当年的模样"
 date: 2024-04-17
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/04/17/chong-ci-aigc-di-yi-gu/01.jpg
 ---
 

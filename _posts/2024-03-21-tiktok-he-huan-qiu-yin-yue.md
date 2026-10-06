@@ -3,7 +3,7 @@ layout: post
 title: "TikTok和环球音乐缠斗下，AI音乐会迎来大发展吗？"
 date: 2024-03-21
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/03/21/tiktok-he-huan-qiu-yin-yue/01.jpg
 ---
 
