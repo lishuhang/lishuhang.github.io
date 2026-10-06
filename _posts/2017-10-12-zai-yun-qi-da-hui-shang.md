@@ -31,5 +31,6 @@ Smartisan OS 曾经自己做过针对少数手机的适配，包括当时三星�
 不知道下列厂商有多少会采用基于 yunos 的 Smartisan OS：
 
 ![](/2017/10/12/zai-yun-qi-da-hui-shang/01.jpg)
+文 / 书航 2017.10.12
 
 ![](/2017/10/12/zai-yun-qi-da-hui-shang/02.jpg)

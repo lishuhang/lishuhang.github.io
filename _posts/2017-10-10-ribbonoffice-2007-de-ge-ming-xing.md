@@ -22,6 +22,7 @@ Office 2007 的革命意义远远不止于此。它奠定了我们今天看到�
 它的界面和上一代 Office 2003 形成了显著的区别，它带来的 Ribbon 界面设计，一直延续到后来的 Windows 资源管理器中。
 
 ![](/2017/10/10/ribbonoffice-2007-de-ge-ming-xing/02.jpg)
+文 / 书航 2017.10.10
 
 ![](/2017/10/10/ribbonoffice-2007-de-ge-ming-xing/03.png)
 

@@ -18,6 +18,7 @@ image: /2017/09/27/lai-zi-ren-min-de-sheng/01.png
 ## 花样解读
 
 ![](/2017/09/27/lai-zi-ren-min-de-sheng/02.png)
+文 / 书航 2017.9.27
 
 花样解读
 
