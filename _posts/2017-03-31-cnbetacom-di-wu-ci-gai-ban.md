@@ -58,3 +58,4 @@ cnBeta 能在漫长年代坚持至今，因为其报道和编译具有以下的�
 *[http://cnBeta.COM](http://cnBeta.COM) 全体成员*
 
 *2017.4.1![](/2017/03/31/cnbetacom-di-wu-ci-gai-ban/01.jpg)*
+文 / 书航 2017.3.31

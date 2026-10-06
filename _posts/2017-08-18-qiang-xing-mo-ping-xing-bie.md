@@ -128,5 +128,6 @@ image: /2017/08/18/qiang-xing-mo-ping-xing-bie/01.jpg
 ---END---
 
 ![](/2017/08/18/qiang-xing-mo-ping-xing-bie/02.jpg)
+文 / 书航 2017.8.18
 
 ![](/2017/08/18/qiang-xing-mo-ping-xing-bie/03.jpg)

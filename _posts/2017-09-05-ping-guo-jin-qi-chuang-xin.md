@@ -7,6 +7,8 @@ tags: [科技]
 image: /2017/09/05/ping-guo-jin-qi-chuang-xin/01.jpg
 ---
 
+文 / 书航 2017.9.5
+
 文|书航
 
 我认为 Touch Bar 是苹果近期创新中最大的败笔。

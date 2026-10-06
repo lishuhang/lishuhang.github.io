@@ -7,6 +7,8 @@ tags: [科技]
 image: /2017/08/24/nian-qing-ren-xi-huan-shu/01.jpg
 ---
 
+文 / 书航 2017.8.24
+
 文|书航
 
 美国全国广播公司 NBC 近日宣布[1]，他们在 Snapchat 推出的新闻节目《Stay Tuned》上线首月就获得了超过2900万次独立观看的喜人成绩。

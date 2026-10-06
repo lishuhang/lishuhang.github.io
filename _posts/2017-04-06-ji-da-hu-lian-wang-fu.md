@@ -7,6 +7,8 @@ tags: [科技]
 image: /2017/04/06/ji-da-hu-lian-wang-fu/01.jpg
 ---
 
+文 / 书航 2017.4.6
+
 除了都不能在中国大陆正常访问之外，三款全球最流行的互联网服务又多了一个新的共同点。
 
 Facebook 针对“新兴市场”制作的轻便版客户端 Facebook lite 今年 2 月宣布用户量已经突破了 2 亿。YouTube 宣布正在推出“新兴市场”专用的 YouTube Go，产品已经预先接受用户注册一段时间并且近日就会在 Google Play 上架。无独有偶，Twitter 宣布针对同样的“新兴市场”将会推出轻便版客户端 ，名字叫 Twitter Go。

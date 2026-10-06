@@ -8,6 +8,8 @@ image: /2017/04/12/guan-yu-tian-xie-he-rs2/01.jpg
 source: "https://zhuanlan.zhihu.com/p/26329479"
 ---
 
+文 / 书航 2017.4.12
+
 好久没有更新了，今天借着微软泄露天蝎硬件规格的东风，我们紧急的更新了一期节目。当然这期节目主要聚焦在关于微软的最大动态上，一个“天蝎”，一个Windows 10的Creator Update正式发布上。
 
 参考内容：
