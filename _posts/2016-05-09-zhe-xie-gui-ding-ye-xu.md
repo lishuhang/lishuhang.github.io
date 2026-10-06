@@ -7,6 +7,7 @@ tags: [科技]
 ---
 
 ![](http://sinastorage.com/storage.caitou.sina.com.cn/products/201605/14c934bf50149e58894b776a7b56f597.png) 
+文 / 书航 2016.5.9
 
 国家网信办、国家工商总局、国家卫生计生委和北京市有关部门成立联合调查组进驻百度公司，今天傍晚调查基本完毕，提出了一些整改要求。
 
@@ -101,3 +102,4 @@ tags: [科技]
 这比可能出现的其他结果——比如官商勾结什么的——还是好多了。
 
 [动点科技](https://cn.technode.com/post/2016-05-09/zhong-guo-te-se-google/)
+

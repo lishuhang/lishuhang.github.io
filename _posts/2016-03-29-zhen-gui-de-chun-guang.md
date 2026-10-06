@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/03/29/zhen-gui-de-chun-guang/01.jpg
 ---
 
+文 / 书航 2016.3.29
+
 **文多图少**
 
 **视频以后会补上**
@@ -66,3 +68,4 @@ image: /2016/03/29/zhen-gui-de-chun-guang/01.jpg
 以上文章，点击 **阅读原文** ，进入专栏即可看到。知乎专栏改版了，而且好像已经开放注册了。最近会就此写一篇文章。
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
+

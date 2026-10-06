@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/05/10/safari-you-nei-xie-zhi-de/01.jpg
 ---
 
+文 / 书航 2016.5.10
+
 **现在正使用的Safari扩展：**
 
 Savefrom：保存YouTube和Vimeo等网站视频Adblock Plus：过滤广告Stylish：自定义网站样式YOUKUhtml5player：转换国内多家视频网站播放器为HTML5，可以直接用Safari下载视频Disconnect Private Search：保护隐私的搜索，但因为最近不支持Google，现在不太常用Wikiwand：美化WikiPediaCustomReader：调整Safari的阅读模式

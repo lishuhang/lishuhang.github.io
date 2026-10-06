@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/06/19/whytheyhateus-lai-zi-cnn-de-fan/01.jpg
 ---
 
+文 / 书航 2016.6.19
+
 CNN 主持人扎卡利亚（Fareed Zakaria）可能是最适合主持和 ISIS 有关的栏目的人选了。他出生在印度的一个穆斯林家庭，他2015年10月也重申了自己是穆斯林，但是是“世俗的”和“消极被动的”（Zakaria is a self-described secular and non-practicing Muslim）。当时他说：
 
 今天早上（美国时间周六晚上黄金时间）CNN连续播出两集专题节目：《为什么他们恨我们》（#whytheyhateus）和《奇袭：伊斯兰国如何震撼世界》（ISIS: #blindsided）。第二集现在还在播，我没顾上看。
@@ -68,4 +70,5 @@ http://edition.cnn.com/2016/04/08/opinions/why-they-hate-us-zakaria/
 扎卡利亚每日主持一档名为《GPS》的节目，节目开始都是发布自己的简短评论，对时事和世界潮流的看法。去这里找：http://edition.cnn.com/shows/fareed-zakaria-gps
 
 以下是一些评论：
+
 

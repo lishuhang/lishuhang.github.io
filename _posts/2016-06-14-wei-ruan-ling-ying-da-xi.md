@@ -134,3 +134,4 @@ Weiner公开信说：“无论是工作被取代，技能出现差距，年轻�
 [新浪（独家）](http://cj.sina.com.cn/article/pc_detail/16303)
 
 ![](/2016/06/14/wei-ruan-ling-ying-da-xi/01.png)
+文 / 书航 2016.6.14

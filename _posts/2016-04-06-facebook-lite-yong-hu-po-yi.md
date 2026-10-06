@@ -26,3 +26,4 @@ Facebook Lite 在 150 个国家都可以使用，最流行的地区是巴西、�
 [动点科技](http://cn.technode.com/post/2016-04-06/facebook-lite/)
 
 ![](/2016/04/06/facebook-lite-yong-hu-po-yi/01.jpg)
+文 / 书航 2016.4.6

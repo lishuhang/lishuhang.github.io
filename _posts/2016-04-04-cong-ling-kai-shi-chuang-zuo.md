@@ -20,6 +20,7 @@ VR内容一方面需要从头开始制作，另一方面也可以从现有产品
 早在十多年前就诞生的拍摄360度全景照片的技术，现在已经普及，街景地图遍地都有。现在各种媒体制作的第一批虚拟现实内容，包括纽约时报探访特朗普选战现场和叙利亚危机，[日本广播协会（NHK）采访福岛灾后重建](http://www.nhk.or.jp/d-navi/vr/)，以及[国内的记者两会时拍摄人民大会堂](http://n.sinaimg.cn/mobileh5/greathallofthepeople-sinaphoto360/GreatHallOfThePeople/index_4.html)，全都是把360度全景图片转换成了VR资源。
 
 ![](/2016/04/04/cong-ling-kai-shi-chuang-zuo/01.jpg)
+文 / 书航 2016.4.4
 
 
 

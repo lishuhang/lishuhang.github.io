@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20702696"
 ---
 
+文 / 书航 2016.4.2
+
 我的朋友LJ写了这篇文章：[中国市场害了Evernote，而苹果可能是下一个受害者](http://zhuanlan.zhihu.com/p/20673215)。正是他的文章才刺激了我整理出下面的文字，要先感谢他。
 
 文章里有这样的一段论述：

@@ -84,3 +84,4 @@ source: "https://zhuanlan.zhihu.com/p/20706569"
 [动点科技](http://cn.technode.com/post/2016-04-05/indian-women-s-condition/)
 
 ![](/2016/04/05/zai-yi-ge-jin-zhi-wei/01.jpg)
+文 / 书航 2016.4.5

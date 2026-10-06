@@ -112,3 +112,4 @@ Tidal目前为止的所有遭遇只是再一次证明，打铁还需自身硬，
 [新浪（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-04-06/pid_8505720.htm)
 
 ![](/2016/04/06/zhe-nian-tou-zuo-yi-ge/01.jpg)
+文 / 书航 2016.4.6

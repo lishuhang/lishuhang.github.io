@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/21329316"
 ---
 
+文 / 书航 2016.6.9
+
 2016-06-10 更详细一点的消息来了：[苹果细解App Store竞价广告：向谷歌学习 可设置不出现_Apple iTunes / App Store_cnBeta.COM](http://www.cnbeta.com/articles/509183.htm)
 
 ——————————

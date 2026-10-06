@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/06/26/1998-nian-yang-shi-de-wang/01.jpg
 ---
 
+文 / 书航 2016.6.26
+
 解说词：
 
 在因特网上购物，对许多电脑爱好者来说已经不是什么新鲜事了。现如今，一家公司宣布他们在因特网上设立了一个专门拍卖的网址。喜欢拍卖的朋友，现在可以在电脑世界里一争高低了。
@@ -22,4 +24,5 @@ https://www.duedil.com/company/03521817/24auction-europe-limited
 欣赏视频请去：
 
 http://www.bilibili.com/video/av5067266/
+
 

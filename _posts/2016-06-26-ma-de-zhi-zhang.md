@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/06/26/ma-de-zhi-zhang/01.jpg
 ---
 
+文 / 书航 2016.6.26
+
 只相隔1天就发布一个新的Build是个什么精神病？
 
 我昨天刚花了4个小时（因为虚拟机执行慢）更新完 14371 ，然后第二天，**第二天，**14372 ………………
@@ -26,4 +28,5 @@ Evernote Web Clipper for Microsoft Edge: Clip the web pages you want to keep. Sa
 官方通知：https://blogs.windows.com/windowsexperience/2016/06/23/announcing-windows-10-insider-preview-build-14372-for-pc-and-mobile/
 
 （手动再见）
+
 
