@@ -38,3 +38,4 @@ Matebook公布的售价跟Surface Pro 4相比处于同一水平，高配还略�
 [新浪专栏（独家）](http://tech.sina.com.cn/zl/post/detail/it/2016-02-23/pid_8503232.htm)
 
 ![](/2016/02/23/wei-ruan-huo-oem-chang-shang/01.jpg)
+文 / 书航 2016.2.23

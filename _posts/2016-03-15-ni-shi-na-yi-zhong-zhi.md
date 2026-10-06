@@ -38,3 +38,4 @@ source: "https://zhuanlan.zhihu.com/p/20648238"
 *[动点科技](http://cn.technode.com/post/2016-03-15/zhihu-pyramid-of-needs/)*
 
 ![](/2016/03/15/ni-shi-na-yi-zhong-zhi/01.jpg)
+文 / 书航 2016.3.15

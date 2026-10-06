@@ -58,3 +58,4 @@ source: "https://zhuanlan.zhihu.com/p/20451381"
 [动点科技](http://cn.technode.com/post/2015-12-28/vr-competition/)
 
 ![](/2015/12/28/xu-ni-xian-shi-xing-ye/01.jpg)
+文 / 书航 2015.12.28

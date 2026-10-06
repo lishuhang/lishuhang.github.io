@@ -62,3 +62,4 @@ David Rhodes表明他任期内其中一个目标是让CBSN盈利。目前CBSN还
 [新浪科技（独家）](http://tech.sina.com.cn/zl/post/detail/i/2016-02-04/pid_8501620.htm)
 
 ![](/2016/02/04/zhe-nian-tou-zuo-yi-ge/01.jpg)
+文 / 书航 2016.2.4

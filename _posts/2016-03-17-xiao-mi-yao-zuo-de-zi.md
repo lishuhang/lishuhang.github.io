@@ -52,3 +52,4 @@ QiCycle 本质上是“骑记”网络社区的线下终端，云马则选择了
 [动点科技](http://cn.technode.com/post/2016-03-17/yunbike-mibike/)
 
 ![](/2016/03/17/xiao-mi-yao-zuo-de-zi/01.jpg)
+文 / 书航 2016.3.17

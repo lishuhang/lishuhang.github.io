@@ -40,3 +40,4 @@ Android系统的相对开放造成了大量的不安全因素，而为了贪图�
 题图 / WikiPedia
 
 ![](/2016/02/24/zhe-hui-wo-jiu-xiang-xin/01.jpg)
+文 / 书航 2016.2.24

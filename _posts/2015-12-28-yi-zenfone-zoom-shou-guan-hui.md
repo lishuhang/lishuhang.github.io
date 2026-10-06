@@ -46,3 +46,4 @@ ZenFone Selfie 前置镜头也高达 1300 万像素，同时配备双色温闪�
 [动点科技](http://cn.technode.com/post/2015-12-28/zenfone-zoom-release/)
 
 ![](/2015/12/28/yi-zenfone-zoom-shou-guan-hui/01.jpg)
+文 / 书航 2015.12.28

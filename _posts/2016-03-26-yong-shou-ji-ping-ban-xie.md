@@ -52,6 +52,7 @@ source: "https://zhuanlan.zhihu.com/p/20673042"
 如果你非要牌子的话我并不推荐自己用的这款——这是别人送我的，我觉得够用就好所以才用下去了。微软的两折蓝牙键盘，触感和Surface Pro 3的键盘盖完全一样，折叠起来是6.1x5.3英寸，一方手帕大小。
 
 ![](/2016/03/26/yong-shou-ji-ping-ban-xie/01.jpg)
+文 / 书航 2016.3.26
 
 图／PhoneArena
 

@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/03/23/zai-bu-shen-de-ye-fa/01.jpg
 ---
 
+文 / 书航 2016.3.23
+
 此处应有掌声
 
 哈哈哈我知道有个公众号是在深夜发chī的。不过我从来没订阅过它，只是通过**新榜**的推送间接地知道它有多火爆。
@@ -30,3 +32,4 @@ image: /2016/03/23/zai-bu-shen-de-ye-fa/01.jpg
 好的我不是本来要发chī的么？这就来啦！
 
 **“航通社” http://zhuanlan.zhihu.com/lishuhang/**
+

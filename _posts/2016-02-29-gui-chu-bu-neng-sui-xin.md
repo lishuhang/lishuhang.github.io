@@ -48,3 +48,4 @@ source: "https://zhuanlan.zhihu.com/p/20605208"
 题图：[小米商店](http://item.mi.com/1152500013.html)
 
 ![](/2016/02/29/gui-chu-bu-neng-sui-xin/01.jpg)
+文 / 书航 2016.2.29

@@ -34,3 +34,4 @@ source: "https://zhuanlan.zhihu.com/p/20454614"
 [动点科技](http://cn.technode.com/post/2015-12-29/a-smartisan-brief-without-technode/)
 
 ![](/2015/12/29/wei-shen-me-wo-men-mei/01.jpg)
+文 / 书航 2015.12.29

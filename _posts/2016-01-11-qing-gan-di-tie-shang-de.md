@@ -48,3 +48,4 @@ image: /2016/01/11/qing-gan-di-tie-shang-de/01.png
 比如说，能清楚的把结婚对象和灵魂伴侣区分开的人，睡一觉醒来觉得枕边人很陌生的人，“按你们意思结了再按我意思离了”的人，倒不如说他们都还一直站着呢。
 
 ![](http://mmbiz.qpic.cn/mmbiz/AdRKyBVLoHIqo1ReMLMEkukjwMqkfl61Nq4rgdJrMxtH4COc4jVHJI0JWf4sybHWjIiaUudrRK6zKJPfCWEkNicg/0?wx_fmt=jpeg)
+文 / 书航 2016.1.11

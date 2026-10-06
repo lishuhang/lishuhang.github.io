@@ -38,3 +38,4 @@ source: "https://zhuanlan.zhihu.com/p/20662840"
 [动点科技](http://cn.technode.com/post/2016-03-22/small-is-beautiful/)
 
 ![](/2016/03/21/xiao-de-shi-mei-hao-de/01.jpg)
+文 / 书航 2016.3.21
