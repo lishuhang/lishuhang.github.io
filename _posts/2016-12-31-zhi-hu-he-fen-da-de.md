@@ -8,6 +8,7 @@ image: /2016/12/31/zhi-hu-he-fen-da-de/01.jpg
 ---
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/AdRKyBVLoHKyaJKV19OjVhGDahSbzVrwnECILnE9gkvnic4CQDzbvgmD1WHeXE1hkUb2YO0ABh3XBK26flg4wKg/0?wx_fmt=jpeg)
+文 / 书航 2016.12.31
 
 2016年1月，UC浏览器小规模开放一个名为“问啊”的功能，嘉宾招募页面写着“给你一个与千万人分享见解的机会”。4月，今日头条上线了跟知乎形式接近的“头条问答”。同样采用类似知乎模式的，还有百度在12月6日上线，名为“百度派”的问答平台；这是上一次做“百度新知”失败后的再次出发。
 

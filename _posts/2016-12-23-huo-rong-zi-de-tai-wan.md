@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/12/23/huo-rong-zi-de-tai-wan/01.png
 ---
 
+文 / 书航 2016.12.23
+
 上周有一条初看起来比较奇怪的融资消息传出：台湾一家名为“Next Entertainment”的创业公司融资超过 2500 万美元，用于在台湾复制一个在中国大陆火爆的手机直播平台。该公司获得的融资主要来自中国移动游戏制造商趣加（FunPlus）以及在线直播网站映客等。
 
 不过，仔细看就会恍然大悟。在这家 Next Entertainment 当中，其 CEO 正是由趣加联合创始人和 CEO 钟英武担任。同时，我们也看到趣加为这家 Next Entertainment 在中国大陆开展招聘，例如在 V2EX 的招聘页面写到“产品主要面向港澳台、东南亚、中东和欧美地区”。
@@ -34,3 +36,4 @@ Next Entertainment 推出的“海外版映客”名字叫“Meme 直播”，�
 截止发稿时，App Annie 显示该应用在台湾 Google Play 社交榜排名第 6，iOS App Store 社交榜排名第 12，还是需要继续努力的。
 
 2017 年，Meme 直播就会进入台湾之外的其他市场，其中包括港澳、东南亚、中东和欧美等地。他们将很快面对百度在东南亚布局的 Cliponyu，越南本地 VNG 公司的 TalkTV，中东第一个阿语手机直播平台（还是中国人造的）7Nujoom 等对手，当然还包括 Facebook 和 YouTube。
+
