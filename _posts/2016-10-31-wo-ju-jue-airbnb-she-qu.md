@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/10/31/wo-ju-jue-airbnb-she-qu/01.jpg
 ---
 
+文 / 书航 2016.10.31
+
 动点科技 http://t.cn/RV3RPlo
 
 之所以 Airbnb 要这样做其实很容易想到原因。在过去一年当中 Airbnb“发起了关于平等权利的行动”，实际上是有房客入住时感觉被房东“歧视”，因此对 Airbnb 公司提起了诉讼。

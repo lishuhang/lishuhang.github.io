@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/22505808"
 ---
 
+文 / 书航 2016.9.19
+
 这次节目中，我们聊了聊和iPhone 7同一天发布的PlayStation 4 Pro/Slim，也说了说关于Pro的4K输出的迷之困扰。最重要的是我 [@阿柒](https://www.zhihu.com/people/7092582db2e5ca5523533ced8efd1dc0) 给Windows Phone洗地了（大家别吐槽我。。。。，当然打脸的可能性是很大的。。。
 
 在本期节目中另外一个重要的话题是第一个支持Xbox Play Anywhere的游戏 - ReCore正式在Windows 10应用商店中上架（包括Xbox应用商店），[@可可苏玛](https://www.zhihu.com/people/fa6c21004883afa4623e423155befabe) 花了几个小时玩了一下这个游戏，他在节目中做了一些初步的评价。

@@ -7,6 +7,8 @@ tags: [科技]
 image: /2016/09/17/facebook-cuo-ba-yue-zhan-lao/01.jpg
 ---
 
+文 / 书航 2016.9.17
+
 On June 8, 1972, AP photographer Nick Ut took this photo of 9-year-old Kim Phuc as she ran from an aeral napalm attack.
 
 挪威发行量最大的报纸《晚邮报》（Aftenposten）主编和 CEO 汉森（Espen Egil Hansen）在报纸头版发布公开信，对 Facebook 的 CEO 扎克伯格表达了强烈的不满，他意识到即使作为这家报纸的主编，自己依然有一个绕不过去的“顶头上司”，因为 Facebook 也要对他的报纸内容插手。

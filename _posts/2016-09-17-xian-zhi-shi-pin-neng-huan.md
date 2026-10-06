@@ -12,6 +12,7 @@ image: /2016/09/17/xian-zhi-shi-pin-neng-huan/01.png
 送完祝福，咱们言归正传......
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/nmVQQlxOIsKnUm8BfZtFW8ECsuJ467NXE0K38PmvUEDznfp8AwfUlog9ISDq4rKWpOFyX0NJLtCNZiaLoqvPEJA/0?wx_fmt=jpeg)
+文 / 书航 2016.9.17
 
 希拉里·克林顿在 911 周年纪念途中晕倒的录像火遍全球。当天录像就在推特上获得了超过 37000 次的观看，任何个人可以转发到自己的社交网络，这是免费的。然而，所有试图使用这段视频的新闻媒体，每一个都必须支付数千美元来获得使用权。这是因为，传媒大亨默多克的新闻集团下属的 Storyful 已经跟该视频的拍摄者 Zdenek Gazda 签约。
 
