@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航通社的朋友们 beta _ 2019 年第 11 周（3.11-3.17）"
+title: "航通社的朋友们 beta | 2019 年第 11 周（3.11-3.17）"
 date: 2019-03-17
 categories: 文章
 tags: [科技]

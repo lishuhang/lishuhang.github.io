@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“原谅宝”_“科技向善”的反面"
+title: "“原谅宝” | “科技向善”的反面"
 date: 2019-06-01
 categories: 文章
 tags: [科技]

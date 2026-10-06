@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图集 _ IBM大中华区（北京）客户中心探营"
+title: "图集 | IBM大中华区（北京）客户中心探营"
 date: 2018-11-21
 categories: 文章
 tags: [科技]

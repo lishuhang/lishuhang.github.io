@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "短评 _ 《完蛋！》抓住了玩家哪些痛点？"
+title: "短评 | 《完蛋！》抓住了玩家哪些痛点？"
 date: 2023-11-28
 categories: 文章
 tags: [科技]

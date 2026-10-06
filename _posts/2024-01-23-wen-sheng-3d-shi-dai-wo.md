@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文生3D时代，我们需要下一个抖音 _ 专访VAST宋亚宸"
+title: "文生3D时代，我们需要下一个抖音 | 专访VAST宋亚宸"
 date: 2024-01-23
 categories: 文章
 tags: [科技]

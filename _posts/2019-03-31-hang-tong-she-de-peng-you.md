@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航通社的朋友们 _ 教程：从零开始搭建 Discourse 论坛"
+title: "航通社的朋友们 | 教程：从零开始搭建 Discourse 论坛"
 date: 2019-03-31
 categories: 文章
 tags: [科技]

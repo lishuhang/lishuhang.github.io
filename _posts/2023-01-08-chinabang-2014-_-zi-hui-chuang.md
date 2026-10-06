@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChinaBang 2014 _ 紫辉创投郑刚：锤子一定能成功"
+title: "ChinaBang 2014 | 紫辉创投郑刚：锤子一定能成功"
 date: 2023-01-08
 categories: 文章
 tags: [科技]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "什么是数字药物，它如何帮助治疗ADHD和孤独症患儿？ _ 专访数药智能"
+title: "什么是数字药物，它如何帮助治疗ADHD和孤独症患儿？ | 专访数药智能"
 date: 2024-03-25
 categories: 文章
 tags: [科技]

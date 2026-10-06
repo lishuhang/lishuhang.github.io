@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摄像眼镜：7 年之后又 7 年 _ 航通社的朋友们"
+title: "摄像眼镜：7 年之后又 7 年 | 航通社的朋友们"
 date: 2019-09-17
 categories: 文章
 tags: [科技]

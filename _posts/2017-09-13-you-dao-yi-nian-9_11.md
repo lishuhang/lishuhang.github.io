@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "又到一年 9_11"
+title: "又到一年 9/11"
 date: 2017-09-13
 categories: 文章
 tags: [科技]

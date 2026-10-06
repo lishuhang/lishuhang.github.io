@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "活动 _ 送三本书"
+title: "活动 | 送三本书"
 date: 2018-10-23
 categories: 文章
 tags: [科技]

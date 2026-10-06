@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航通社的朋友们 beta _ 2019 年第 12 周（3.18-3.24）"
+title: "航通社的朋友们 beta | 2019 年第 12 周（3.18-3.24）"
 date: 2019-03-24
 categories: 文章
 tags: [科技]

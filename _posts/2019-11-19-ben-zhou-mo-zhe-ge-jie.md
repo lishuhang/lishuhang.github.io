@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本周末这个节，你一定要来！_ 粉丝福利·北京"
+title: "本周末这个节，你一定要来！ | 粉丝福利·北京"
 date: 2019-11-19
 categories: 文章
 tags: [科技]

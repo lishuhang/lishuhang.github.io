@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9_11：一场被电视直播定义的灾难"
+title: "9/11：一场被电视直播定义的灾难"
 date: 2021-09-13
 categories: 文章
 tags: [科技]

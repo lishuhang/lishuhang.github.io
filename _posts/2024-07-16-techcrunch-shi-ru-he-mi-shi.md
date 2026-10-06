@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TechCrunch 是如何迷失方向，走到今天这一步的 _ 编译"
+title: "TechCrunch 是如何迷失方向，走到今天这一步的 | 编译"
 date: 2024-07-16
 categories: 文章
 tags: [科技]

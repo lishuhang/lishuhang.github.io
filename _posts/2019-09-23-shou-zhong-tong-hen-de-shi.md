@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "受众痛恨的视频广告，还有投放的必要吗？_ 重温"
+title: "受众痛恨的视频广告，还有投放的必要吗？ | 重温"
 date: 2019-09-23
 categories: 文章
 tags: [科技]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "短评 _ 三种连锁经营"
+title: "短评 | 三种连锁经营"
 date: 2021-12-30
 categories: 文章
 tags: [科技]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图集 _ 走进 IBM 中国论坛，感受“智能+”魅力"
+title: "图集 | 走进 IBM 中国论坛，感受“智能+”魅力"
 date: 2019-05-28
 categories: 文章
 tags: [科技]

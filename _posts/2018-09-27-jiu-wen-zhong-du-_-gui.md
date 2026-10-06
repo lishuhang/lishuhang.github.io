@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "旧文重读 _ 硅谷的阶级斗争"
+title: "旧文重读 | 硅谷的阶级斗争"
 date: 2018-09-27
 categories: 文章
 tags: [科技]
