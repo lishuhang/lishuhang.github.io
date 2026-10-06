@@ -3,7 +3,7 @@ layout: post
 title: "康卡斯特剥离有线频道，马斯克买完推特又盯上电视台？"
 date: 2024-11-28
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/11/30/kang-ka-si-te-bo-li/01.jpg
 ---
 

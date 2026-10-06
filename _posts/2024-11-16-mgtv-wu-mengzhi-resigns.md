@@ -3,7 +3,7 @@ layout: post
 title: "热搜解码：芒果副总、文案女王吴梦知离职"
 date: 2024-11-16
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/11/16/re-sou-jie-ma-mang-guo/01.jpg
 ---
 

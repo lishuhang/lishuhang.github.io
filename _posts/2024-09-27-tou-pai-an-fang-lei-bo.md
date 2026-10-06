@@ -3,7 +3,7 @@ layout: post
 title: "偷拍暗访类博主的流派和江湖"
 date: 2024-09-27
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2025/01/09/tou-pai-an-fang-lei-bo/01.jpg
 ---
 

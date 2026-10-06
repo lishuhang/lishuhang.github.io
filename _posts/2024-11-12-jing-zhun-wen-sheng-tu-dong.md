@@ -3,7 +3,7 @@ layout: post
 title: "精准文生图，动嘴编程：百度世界2024发布重磅更新"
 date: 2024-11-12
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/11/12/jing-zhun-wen-sheng-tu-dong/01.jpg
 ---
 

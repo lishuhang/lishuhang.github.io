@@ -3,7 +3,7 @@ layout: post
 title: "国内4K不如海外1080p：我们还得再掏多少钱？"
 date: 2024-10-12
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2025/01/08/guo-nei-4k-bu-ru-hai/01.jpg
 ---
 

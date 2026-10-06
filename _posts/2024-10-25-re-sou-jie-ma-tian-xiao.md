@@ -3,7 +3,7 @@ layout: post
 title: "热搜解码：田小娟离开CUBE不续约"
 date: 2024-10-25
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/10/25/re-sou-jie-ma-tian-xiao/01.jpg
 ---
 

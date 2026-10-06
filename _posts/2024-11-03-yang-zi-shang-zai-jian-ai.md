@@ -3,7 +3,7 @@ layout: post
 title: "杨子上《再见爱人》，因为“天珠”要崩盘？"
 date: 2024-11-03
 categories: 文章
-tags: [科技]
+tags: [随笔]
 image: /2024/11/03/yang-zi-shang-zai-jian-ai/01.jpg
 ---
 

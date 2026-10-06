@@ -3,7 +3,7 @@ layout: post
 title: "姚海军落马：从林场子弟，到“科幻帝国掌门”的跌宕人生"
 date: 2024-10-24
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/10/24/yao-hai-jun-luo-ma-cong/01.jpg
 ---
 

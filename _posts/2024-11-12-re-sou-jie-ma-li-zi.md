@@ -3,7 +3,7 @@ layout: post
 title: "李子柒离开4年，流量市场变了哪些？"
 date: 2024-11-12
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/11/12/re-sou-jie-ma-li-zi/01.jpg
 ---
 

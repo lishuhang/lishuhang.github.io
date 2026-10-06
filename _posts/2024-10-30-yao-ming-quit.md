@@ -3,7 +3,7 @@ layout: post
 title: "热搜解码：姚明卸任篮协主席？"
 date: 2024-10-30
 categories: 文章
-tags: [科技]
+tags: [随笔]
 image: /2024/10/30/re-sou-jie-ma-yao-ming/01.jpg
 ---
 

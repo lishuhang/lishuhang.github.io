@@ -3,7 +3,7 @@ layout: post
 title: "京东＋杨笠，抵制不过两星期"
 date: 2024-10-21
 categories: 文章
-tags: [科技]
+tags: [随笔]
 image: /2024/10/21/jing-dong-yang-li-di-zhi/01.jpg
 ---
 

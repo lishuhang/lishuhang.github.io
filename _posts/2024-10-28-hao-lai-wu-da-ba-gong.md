@@ -3,7 +3,7 @@ layout: post
 title: "好莱坞大罢工一周年：工会胜利，工人失业"
 date: 2024-10-28
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/10/28/hao-lai-wu-da-ba-gong/01.jpg
 ---
 

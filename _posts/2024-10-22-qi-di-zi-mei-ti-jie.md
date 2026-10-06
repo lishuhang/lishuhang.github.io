@@ -3,7 +3,7 @@ layout: post
 title: "起底自媒体界的“江西帮”：批量起号，AI放量，甲方最爱"
 date: 2024-10-22
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/10/22/qi-di-zi-mei-ti-jie/01.jpg
 ---
 

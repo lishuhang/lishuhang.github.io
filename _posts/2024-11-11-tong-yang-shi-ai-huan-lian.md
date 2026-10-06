@@ -3,7 +3,7 @@ layout: post
 title: "同样是AI换脸，为何只骂成龙不骂汤姆·汉克斯？"
 date: 2024-11-11
 categories: 文章
-tags: [科技]
+tags: [AI]
 image: /2024/11/11/tong-yang-shi-ai-huan-lian/01.jpg
 ---
 

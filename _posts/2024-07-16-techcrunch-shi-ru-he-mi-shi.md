@@ -3,7 +3,7 @@ layout: post
 title: "TechCrunch 是如何迷失方向，走到今天这一步的 | 编译"
 date: 2024-07-16
 categories: 文章
-tags: [科技]
+tags: [传媒]
 image: /2024/07/16/techcrunch-shi-ru-he-mi-shi/01.jpg
 ---
 
