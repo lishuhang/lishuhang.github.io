@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20008334"
 ---
 
+文 / 书航 2015.4.20
+
 差不多可以说答案揭晓了。苹果在当地时间4月20日发布了[《2015环境责任报告》](http://images.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf)。与此同时，包括中国在内的全球官网头条也从Apple Watch换成了[环境责任专页](http://www.apple.com/cn/environment/)。放在标题位置的太阳能电池板照片的文字说明是：
 
 

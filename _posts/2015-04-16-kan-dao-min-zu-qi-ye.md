@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20004294"
 ---
 
+文 / 书航 2015.4.16
+
 [Ninebot 收购了所有电动平衡车的祖师爷 Segway](http://cn.technode.com/post/2015-04-15/%e5%b9%b3%e8%a1%a1%e8%bd%a6%e9%bc%bb%e7%a5%96segway%e8%a2%ab%e6%94%b6%e8%b4%ad%e4%ba%86/)。这让不少小米黑顿时傻了眼。
 
 Segway 现在的处境颇像是所谓 Web2.0 时代的开创者 Digg，最高的时候，它曾经是互联网巨头争抢的香饽饽，最后却被名不见经传的小公司收购，变成一个毫无影响力的阅读器。Digg 本来有可能是和 Twitter 或者 Facebook 一争高下的社交网络，再不济也能混到 Flipboard 这种程度。

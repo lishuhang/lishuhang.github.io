@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19923967"
 ---
 
+文 / 书航 2014.12.29
+
 ## 利益相关
 
 我的全职工作经历：

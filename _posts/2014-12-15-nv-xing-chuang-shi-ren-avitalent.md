@@ -7,6 +7,8 @@ tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19915386"
 ---
 
+文 / 书航 2014.12.15
+
 > @贺兰Michelle:采访内容有些浮夸 有些话不是我本意[委屈] 大家凑合看吧
 >
 >

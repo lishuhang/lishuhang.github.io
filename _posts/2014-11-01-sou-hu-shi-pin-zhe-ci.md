@@ -14,6 +14,7 @@ source: "https://zhuanlan.zhihu.com/p/19882580"
 在10月15日，我进行了履约的测试。
 
 [![](/2014/11/01/sou-hu-shi-pin-zhe-ci/01.jpg)视频网站下架电视APP事件跟进报道http://v.youku.com/v_show/id_XODE1NDMzMzUy.html](http://v.youku.com/v_show/id_XODE1NDMzMzUy.html)
+文 / 书航 2014.11.1
 
 我们的试验选择了优酷、土豆、爱奇艺、PPS、乐视、腾讯视频、搜狐视频、PPTV等几家视频服务。结果显示，PPS和PPTV两家用Android Pad版本而非电视版的话，的确依然可以在电视打开。但在软件商店当中，本来就同时存在电视版和平板两个版本，而真正的电视版也按规定停止了服务。严格的来讲，并不符合我们本次挑战的规定条件。
 
