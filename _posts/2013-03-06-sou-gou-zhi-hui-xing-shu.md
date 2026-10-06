@@ -5,14 +5,13 @@ date: 2013-03-06
 categories: 文章
 tags: [科技]
 ---
-
-![img](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum2p34pe9j20dw09o45d.jpg)
-
 搜狗推出智慧型输入法，[与搜索的强势结合](http://www.geekpark.net/read/view/160639)，劫持流量的明显意图，可谓图穷匕见。不过，整合搜索，流量变现，实际是搜狗持续的政策，并非一夜之间蹦出来的。搜狗之前的动作如Flash皮肤，网址直达等等，都是这一政策的体现。
 
 尤其是网址直达，在按0之前，快捷键是按6或者按分号：
 
 ![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum2o8xp9hj20di06gjua.jpg)
+
+文 / 书航 2013.3.6
 
 只是这次统一了用户体验为按0而已。因此首先，我想不能人为拔高搜狗这次所谓“变革”带来的影响，为其免费宣传。
 

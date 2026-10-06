@@ -8,6 +8,8 @@ tags: [科技]
 
 ![](http://sinastorage.com/storage.caitou.sina.com.cn/products/201607/eb9be63cb345d0afc69e9fa3bc251788.jpeg)
 
+文 / 书航 2016.7.1
+
 6月29日到7月1日，2016年世界移动大会（MWC）·上海在上海新国际博览中心举办。为期三天的展会有很多亮点，cnBeta录制了1小时的视频导览节目，让你足不出户跟随小编一起看展。视频的文字解说版本，将拆分为几篇文章发布。这是系列文章的第一篇。 
 
 [优酷](https://v.youku.com/v_show/id_XMTYyNzQ2MTc3Mg==.html)
