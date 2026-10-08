@@ -5,6 +5,7 @@ date: 2014-01-10
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19654869"
+image: "/2014/01/10/ban-jia-chu-zu-che-de/01.jpg"
 ---
 
 文 / 书航 2014.1.10

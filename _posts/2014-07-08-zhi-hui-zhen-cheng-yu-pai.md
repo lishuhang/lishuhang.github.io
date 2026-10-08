@@ -5,6 +5,7 @@ date: 2014-07-08
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19796078"
+image: "/2014/07/08/zhi-hui-zhen-cheng-yu-pai/01.jpg"
 ---
 
 文 / 书航 2014.7.8

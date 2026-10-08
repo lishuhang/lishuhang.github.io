@@ -5,6 +5,7 @@ date: 2014-03-03
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19692669"
+image: "/2014/03/03/ti-yan-shou-du-hang-kong/01.jpg"
 ---
 
 文 / 书航 2014.3.3

@@ -5,6 +5,7 @@ date: 2014-12-15
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19915386"
+image: "/2014/12/15/nv-xing-chuang-shi-ren-avitalent/01.jpg"
 ---
 
 文 / 书航 2014.12.15
