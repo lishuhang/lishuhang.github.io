@@ -3,7 +3,7 @@ layout: post
 title: "35岁了（文末有赠票）"
 date: 2023-11-13
 categories: 文章
-tags: [随笔]
+tags: [公告]
 image: /2023/11/13/35-sui-le-wen-mo-you/01.jpg
 ---
 
