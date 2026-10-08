@@ -5,6 +5,7 @@ date: 2015-04-16
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20004287"
+image: /2015/04/16/ti-wang-su-jiang-wang-fei/01.jpg
 ---
 
 文 / 书航 2015.4.16

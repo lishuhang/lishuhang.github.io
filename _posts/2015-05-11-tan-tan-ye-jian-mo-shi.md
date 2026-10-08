@@ -5,6 +5,7 @@ date: 2015-05-11
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20027464"
+image: /2015/05/11/tan-tan-ye-jian-mo-shi/01.jpg
 ---
 
 文 / 书航 2015.5.11

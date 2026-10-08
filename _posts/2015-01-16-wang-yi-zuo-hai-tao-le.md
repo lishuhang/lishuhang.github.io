@@ -5,6 +5,7 @@ date: 2015-01-16
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19936317"
+image: /2015/01/16/wang-yi-zuo-hai-tao-le/01.jpg
 ---
 
 文 / 书航 2015.1.16

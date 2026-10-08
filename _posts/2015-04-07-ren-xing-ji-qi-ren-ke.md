@@ -5,6 +5,7 @@ date: 2015-04-07
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19996000"
+image: /2015/04/07/ren-xing-ji-qi-ren-ke/01.jpg
 ---
 
 文 / 书航 2015.4.7
