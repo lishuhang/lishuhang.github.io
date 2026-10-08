@@ -5,6 +5,7 @@ date: 2015-05-12
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20028451"
+image: /2015/05/12/you-xi-rang-nan-hai-bian/01.jpg
 ---
 
 文 / 书航 2015.5.12

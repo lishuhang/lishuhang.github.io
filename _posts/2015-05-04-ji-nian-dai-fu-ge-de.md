@@ -5,6 +5,7 @@ date: 2015-05-04
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20020239"
+image: /2015/05/04/ji-nian-dai-fu-ge-de/01.jpg
 ---
 
 文 / 书航 2015.5.4

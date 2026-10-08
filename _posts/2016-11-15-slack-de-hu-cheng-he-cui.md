@@ -4,6 +4,7 @@ title: "Slack 的护城河脆弱得不堪一击"
 date: 2016-11-15
 categories: 文章
 tags: [科技]
+image: /2016/11/15/slack-de-hu-cheng-he-cui/01.jpg
 ---
 
 文 / 书航 2016.11.15

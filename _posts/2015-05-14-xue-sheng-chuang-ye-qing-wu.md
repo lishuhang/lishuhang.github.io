@@ -5,6 +5,7 @@ date: 2015-05-14
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20030364"
+image: /2015/05/14/xue-sheng-chuang-ye-qing-wu/01.jpg
 ---
 
 文 / 书航 2015.5.14

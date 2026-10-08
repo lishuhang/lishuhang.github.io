@@ -5,6 +5,7 @@ date: 2016-08-25
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/22182971"
+image: /2016/08/25/zhi-fu-bao-wei-xin-huo/01.jpg
 ---
 
 文 / 书航 2016.8.25
