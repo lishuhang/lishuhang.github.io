@@ -5,6 +5,7 @@ date: 2014-03-19
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19706500"
+image: "/2014/03/19/jie-du-teng-xun-cai-bao/01.jpg"
 ---
 
 文 / 书航 2014.3.19

@@ -5,6 +5,7 @@ date: 2014-02-25
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19688087"
+image: "/2014/02/25/pan-dian-na-xie-rang-ren/01.jpg"
 ---
 
 文 / 书航 2014.2.25

@@ -5,6 +5,7 @@ date: 2014-01-20
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19660002"
+image: "/2014/01/20/bu-shi-suo-you-shi-qing/01.jpg"
 ---
 
 文 / 书航 2014.1.20

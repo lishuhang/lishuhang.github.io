@@ -5,6 +5,7 @@ date: 2014-05-15
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19753034"
+image: "/2014/05/15/bei-zhao-an-de-chuang-ye/01.jpg"
 ---
 
 文 / 书航 2014.5.15

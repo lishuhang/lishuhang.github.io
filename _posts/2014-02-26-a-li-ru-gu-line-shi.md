@@ -5,6 +5,7 @@ date: 2014-02-26
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19689216"
+image: "/2014/02/26/a-li-ru-gu-line-shi/01.jpg"
 ---
 
 文 / 书航 2014.2.26

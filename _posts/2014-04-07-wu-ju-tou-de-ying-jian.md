@@ -5,6 +5,7 @@ date: 2014-04-07
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19721536"
+image: "/2014/04/07/wu-ju-tou-de-ying-jian/01.jpg"
 ---
 
 文 / 书航 2014.4.7

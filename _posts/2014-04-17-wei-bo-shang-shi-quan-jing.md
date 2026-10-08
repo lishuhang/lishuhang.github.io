@@ -5,6 +5,7 @@ date: 2014-04-17
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19730381"
+image: "/2014/04/17/wei-bo-shang-shi-quan-jing/01.jpg"
 ---
 
 文 / 书航 2014.4.17
