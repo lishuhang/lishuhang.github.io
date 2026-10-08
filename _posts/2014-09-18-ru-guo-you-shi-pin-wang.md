@@ -5,6 +5,7 @@ date: 2014-09-18
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19852049"
+image: "/2014/09/18/ru-guo-you-shi-pin-wang/01.jpg"
 ---
 
 文 / 书航 2014.9.18

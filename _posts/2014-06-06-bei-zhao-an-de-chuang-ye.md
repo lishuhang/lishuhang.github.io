@@ -5,6 +5,7 @@ date: 2014-06-06
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19771540"
+image: "/2014/06/06/bei-zhao-an-de-chuang-ye/01.jpg"
 ---
 
 文 / 书航 2014.6.6

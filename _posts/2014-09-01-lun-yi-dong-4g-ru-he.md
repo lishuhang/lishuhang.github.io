@@ -5,6 +5,7 @@ date: 2014-09-01
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19839686"
+image: "/2014/09/01/lun-yi-dong-4g-ru-he/01.jpg"
 ---
 
 文 / 书航 2014.9.1

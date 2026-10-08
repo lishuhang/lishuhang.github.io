@@ -5,6 +5,7 @@ date: 2014-05-21
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19757575"
+image: "/2014/05/21/surface-pro-3-fa-bu-hui/01.jpg"
 ---
 
 文 / 书航 2014.5.21

@@ -5,6 +5,7 @@ date: 2014-08-27
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19835809"
+image: "/2014/08/27/yin-xiang-bi-ji-zhong-guo/01.jpg"
 ---
 
 文 / 书航 2014.8.27

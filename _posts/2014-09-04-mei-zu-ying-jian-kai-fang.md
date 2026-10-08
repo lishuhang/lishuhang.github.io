@@ -5,6 +5,7 @@ date: 2014-09-04
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19842395"
+image: "/2014/09/04/mei-zu-ying-jian-kai-fang/01.jpg"
 ---
 
 文 / 书航 2014.9.4

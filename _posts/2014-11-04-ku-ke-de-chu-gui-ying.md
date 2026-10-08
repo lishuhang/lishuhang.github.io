@@ -5,6 +5,7 @@ date: 2014-11-04
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19884941"
+image: "/2014/11/04/ku-ke-de-chu-gui-ying/01.jpg"
 ---
 
 文 / 书航 2014.11.4

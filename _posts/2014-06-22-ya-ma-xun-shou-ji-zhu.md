@@ -5,6 +5,7 @@ date: 2014-06-22
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19784259"
+image: "/2014/06/22/ya-ma-xun-shou-ji-zhu/01.jpg"
 ---
 
 文 / 书航 2014.6.22
