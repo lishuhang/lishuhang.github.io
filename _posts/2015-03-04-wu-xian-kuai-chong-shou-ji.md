@@ -5,9 +5,12 @@ date: 2015-03-04
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19967228"
+image: /2015/03/04/wu-xian-kuai-chong-shou-ji/01.jpg
 ---
 
 文 / 书航 2015.3.4
+
+![](/2015/03/04/wu-xian-kuai-chong-shou-ji/02.jpg)
 
 自从去年十月 oppo 的发布会提出一个全球领先的“闪充”概念之后，快速充电技术已经成为兵家必争之地。领先也不能领先多久，但是不管怎么说，在当时能够听到少数几个真正说是中国自主知识产权的东西，能够稍微领先世界那么一阵子，也还是挺让人欣慰的事情。
 

@@ -5,6 +5,7 @@ date: 2015-04-08
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19997345"
+image: /2015/04/08/shou-gou-chuan-yan-liang-ze/01.jpg
 ---
 
 文 / 书航 2015.4.8

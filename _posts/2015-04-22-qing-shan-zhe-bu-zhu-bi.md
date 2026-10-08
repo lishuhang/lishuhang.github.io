@@ -5,6 +5,7 @@ date: 2015-04-22
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/20009431"
+image: /2015/04/22/qing-shan-zhe-bu-zhu-bi/01.jpg
 ---
 
 文 / 书航 2015.4.22
@@ -16,6 +17,8 @@ source: "https://zhuanlan.zhihu.com/p/20009431"
 我要说的重点是，**这故事中的几乎所有外国演员——BuzzFeed、Ellen Show、凯撒娱乐集团——全都借此事机会在新浪开设了官微！ **[BuzzFeed](http://www.weibo.com/u/5580968822?) 是炒作本次事件的功臣，是全球最大的八卦新闻网站之一；[Ellen Show](http://weibo.com/u/5590826977) 是美国最受欢迎的脱口秀节目之一；[凯撒娱乐集团](http://weibo.com/CaesarsEntertainment) 在赌城拉斯维加斯为小甜甜布兰妮和席琳·迪翁开设了专设演出场所，供明星们驻站献唱。而它们全都来到了微博。
 
 不仅如此，BuzzFeed 似乎有更进一步进入中国市场的意愿：他们把最近推出的评论宠物的应用 Cute or Not（[TechCrunch 之前有报道过](http://techcrunch.cn/2015/03/06/pugs-pugs-pugs/)）[起了个接地气的名字“萌萌哒”](http://get.buzzfeed.com/cuteornot/)。最终 BuzzFeed 将很有可能推出网站本身的官方中文版，甚至在中国落地。
+
+![](/2015/04/22/qing-shan-zhe-bu-zhu-bi/02.jpg)
 
 **它们并不存在一定要坚守 Twitter 和 Facebook 的理由。没有谁要求它们不向中国的监管制度低头，以此向中国人证明，墙外的好东西比墙内多。**
 

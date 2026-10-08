@@ -5,6 +5,7 @@ date: 2015-01-07
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19930108"
+image: /2015/01/07/tcl-xuan-bu-fu-huo-palm/01.jpg
 ---
 
 文 / 书航 2015.1.7

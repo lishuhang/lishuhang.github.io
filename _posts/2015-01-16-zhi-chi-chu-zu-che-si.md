@@ -5,6 +5,7 @@ date: 2015-01-16
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19936313"
+image: /2015/01/16/zhi-chi-chu-zu-che-si/01.jpg
 ---
 
 文 / 书航 2015.1.16

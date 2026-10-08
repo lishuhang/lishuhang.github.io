@@ -5,6 +5,7 @@ date: 2015-03-16
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19977785"
+image: /2015/03/16/jin-nian-315-ping-guo-you/01.jpg
 ---
 
 文 / 书航 2015.3.16
@@ -64,5 +65,7 @@ source: "https://zhuanlan.zhihu.com/p/19977785"
 ——点评：只有这条我觉得苹果不冤。有人留言说，“坏了三条了，不会被人说是央视水军吧？”
 
 本期的“伐开心打苹果”时间到此结束。明年见！
+
+![](/2015/03/16/jin-nian-315-ping-guo-you/02.jpg)
 
 [动点科技](http://cn.technode.com/post/2015-03-16/zaobao0316/)

@@ -5,6 +5,7 @@ date: 2015-03-19
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19980481"
+image: /2015/03/19/wei-ruan-zuo-tian-dou-gao/01.jpg
 ---
 
 文 / 书航 2015.3.19

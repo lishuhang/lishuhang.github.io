@@ -5,6 +5,7 @@ date: 2015-02-11
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19954496"
+image: /2015/02/11/radioshack-po-chan-mai-chang-de/01.jpg
 ---
 
 文 / 书航 2015.2.11
