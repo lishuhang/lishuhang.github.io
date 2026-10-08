@@ -5,6 +5,7 @@ date: 2014-12-25
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19922128"
+image: "/2014/12/25/shi-yong-the-open-bay-jian/01.jpg"
 ---
 
 文 / 书航 2014.12.25

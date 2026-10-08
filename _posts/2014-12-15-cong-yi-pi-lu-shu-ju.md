@@ -5,6 +5,7 @@ date: 2014-12-15
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19914937"
+image: "/2014/12/15/cong-yi-pi-lu-shu-ju/01.jpg"
 ---
 
 文 / 书航 2014.12.15

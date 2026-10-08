@@ -5,6 +5,7 @@ date: 2014-12-17
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19916252"
+image: "/2014/12/17/jiu-ni-ye-pei-shuo-zi/01.jpg"
 ---
 
 文 / 书航 2014.12.17

@@ -5,6 +5,7 @@ date: 2014-12-25
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19922134"
+image: "/2014/12/25/ao-you-xin-liu-lan-qi/01.jpg"
 ---
 
 文 / 书航 2014.12.25

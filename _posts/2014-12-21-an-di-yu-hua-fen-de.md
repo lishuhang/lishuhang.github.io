@@ -5,6 +5,7 @@ date: 2014-12-21
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19919278"
+image: "/2014/12/21/an-di-yu-hua-fen-de/01.jpg"
 ---
 
 文 / 书航 2014.12.21

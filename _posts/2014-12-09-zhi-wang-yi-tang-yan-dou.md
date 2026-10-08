@@ -5,6 +5,7 @@ date: 2014-12-09
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19911715"
+image: "/2014/12/09/zhi-wang-yi-tang-yan-dou/01.jpg"
 ---
 
 文 / 书航 2014.12.9

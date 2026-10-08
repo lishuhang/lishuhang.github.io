@@ -5,6 +5,7 @@ date: 2014-11-05
 categories: 文章
 tags: [科技]
 source: "https://zhuanlan.zhihu.com/p/19885777"
+image: "/2014/11/05/zai-xian-zhi-fu-ping-tai/01.jpg"
 ---
 
 文 / 书航 2014.11.5
